@@ -1,6 +1,9 @@
-dist/
+# dist/ is committed (pre-built single-file app so users needn't build it).
+# BUT the local `healing-app.html` symlink (> dist/healing-app.html) is a
+# machine-specific absolute path — never commit it.
+/healing-app.html
+
 cache/
-healing-app.html
 data/*.bak.*
 .pytest_cache/
 __pycache__/
