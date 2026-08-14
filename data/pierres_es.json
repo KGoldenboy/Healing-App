@@ -1,0 +1,34 @@
+{
+ "titre": "Mi piedra de toque",
+ "ouverture": "La voz que me dijo {voix} — todavía la escucho. Pero sé de dónde viene: se pronunció un día, sobre un niño, por alguien que se equivocó.",
+ "voix": {
+  "humilie": "que no valía nada",
+  "invisible": "que solo existía por lo que aportaba",
+  "abandonne": "que siempre terminarían dejándome",
+  "terrifie": "que el mundo no era seguro",
+  "coupable": "que todo era mi culpa",
+  "parentifie": "que tenía que cargar, arreglar y salvar todo"
+ },
+ "verites": {
+  "humilie": "No soy lo que me dijeron que era. La prueba de mi valor ya está aquí: sigo en pie.",
+  "invisible": "Existía antes de la primera ayuda, antes del primer favor — y sigo existiendo cuando no aporto nada.",
+  "abandonne": "He sobrevivido a cada partida. Pueden dejarme y sigo entero.",
+  "terrifie": "Mi cuerpo hizo exactamente lo que tenía que hacer para mantenerme vivo. La guerra terminó.",
+  "coupable": "Yo no era la culpa. Yo era el niño — y un niño nunca es culpable de cosas demasiado grandes para él.",
+  "parentifie": "Nunca tuve que salvar a nadie. Hoy devuelvo el papel: ya no tengo que salvar — tengo que recibir."
+ },
+ "cloture": "Hoy tomo estas tres voces una a una — les agradezco haber protegido al niño que fui, y ya no las dejo decidir mi vida. Estoy aquí. Me quedo. Vivo.",
+ "pourquoi": [
+  "Estas voces no son verdades: son palabras recibidas un día, y repetidas desde entonces. Nombrarlas es empezar a dejarlas.",
+  "Cada verdad responde a una voz precisa — no a una consolación general. El cuerpo la reconoce, y se calma.",
+  "Una sola frase para releer en los momentos de duda: «Estoy aquí. Me quedo. Vivo.»"
+ ],
+ "declencheur": {
+  "invisible": "No vales nada. Nadie te ve, nadie te ha visto nunca de verdad. Solo existes por lo que aportas — y no aportas nada. Terminarás solo, y nadie vendrá. Ni siquiera tú te quieres.",
+  "humilie": "No vales nada. Mírate: feo, ridículo, una vergüenza. Todo el mundo lo ve, todo el mundo se burla a tus espaldas. Nunca has logrado nada — nunca lograrás nada. No eres digno de ser amado.",
+  "abandonne": "Nadie se quedará. Todo el mundo termina yéndose — y es tu culpa. Eres demasiado pesado, demasiado molesto, demasiado exigente. Mira: ya se fueron, y los próximos también se irán. Estás hecho para que te dejen.",
+  "terrifie": "No estás a salvo. Nunca lo estuviste, y nunca lo estarás. El peligro está en todas partes, te acecha, te espera. El día que te relajes, será el final. Tu cuerpo tiene razón al temblar.",
+  "coupable": "Todo es tu culpa. Mira lo que rompiste, lo que hiciste pasar a otros, lo que no supiste evitar. Los demás sufren por tu culpa. Nunca lo arreglarás. No tienes derecho al descanso, ni al perdón.",
+  "parentifie": "Tienes que cargarlo todo. Nadie lo hará por ti — estás solo, siempre lo has estado. Si sueltas, todo se derrumba, y será tu culpa. No tienes derecho a la infancia, ni a la debilidad. Sálvalos, o todo está perdido."
+ }
+}

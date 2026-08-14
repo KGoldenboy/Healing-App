@@ -1,0 +1,14 @@
+dist/
+cache/
+healing-app.html
+data/*.bak.*
+.pytest_cache/
+__pycache__/
+*.pyc
+.env
+.env.*
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db

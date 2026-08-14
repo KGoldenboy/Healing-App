@@ -1,0 +1,34 @@
+{
+ "titre": "My touchstone",
+ "ouverture": "The voice that told me {voix} — I still hear it. But I know where it comes from: it was spoken one day, over a child, by someone who was wrong.",
+ "voix": {
+  "humilie": "that I was worthless",
+  "invisible": "that I only existed through what I brought",
+  "abandonne": "that I would always end up being left",
+  "terrifie": "that the world was not safe",
+  "coupable": "that everything was my fault",
+  "parentifie": "that I had to carry, fix and save everything"
+ },
+ "verites": {
+  "humilie": "I am not what I was told I was. The proof of my worth is already here: I am still standing.",
+  "invisible": "I existed before the first gift, before the first favor — and I still exist when I bring nothing.",
+  "abandonne": "I have survived every departure. I can be left and remain whole.",
+  "terrifie": "My body did exactly what it had to do to keep me alive. The war is over.",
+  "coupable": "I was not the fault. I was the child — and a child is never guilty of things too big for them.",
+  "parentifie": "I never had to save anyone. Today I hand the role back: I no longer have to save — I get to receive."
+ },
+ "cloture": "Today, I take these three voices one by one — I thank them for protecting the child I was, and I no longer let them decide my life. I am here. I stay. I live.",
+ "pourquoi": [
+  "These voices are not truths: they are words received one day, and repeated ever since. Naming them is how we start putting them down.",
+  "Each truth answers one precise voice — not a general consolation. The body recognizes it, and calms down.",
+  "One sentence to reread in moments of doubt: \"I am here. I stay. I live.\""
+ ],
+ "declencheur": {
+  "invisible": "You are worthless. Nobody sees you, nobody has ever really seen you. You only exist through what you bring — and you bring nothing. You will end up alone, and no one will come. Even you don't love yourself.",
+  "humilie": "You are worthless. Look at yourself: ugly, ridiculous, a shame. Everyone sees it, everyone mocks you behind your back. You have never achieved anything — you never will. You are unworthy of being loved.",
+  "abandonne": "No one will stay. Everyone ends up leaving — and it's your fault. You are too heavy, too burdensome, too demanding. Look: they have already left, and the next ones will leave too. You were made to be left.",
+  "terrifie": "You are not safe. You never were, and you never will be. Danger is everywhere, it is watching you, it is waiting for you. The day you let your guard down will be the end. Your body is right to tremble.",
+  "coupable": "Everything is your fault. Look at what you broke, what you put others through, what you failed to prevent. Others suffer because of you. You will never make it right. You have no right to rest, no right to forgiveness.",
+  "parentifie": "You must carry everything. No one will do it for you — you are alone, you always have been. If you let go, everything collapses, and it will be your fault. You have no right to childhood, no right to weakness. Save them, or all is lost."
+ }
+}

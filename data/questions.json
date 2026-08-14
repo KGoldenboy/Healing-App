@@ -1,0 +1,128 @@
+{
+  "onboarding": {
+    "champs": [
+      "nom",
+      "genre",
+      "age"
+    ],
+    "genres": [
+      {
+        "id": "femme",
+        "label": "Une femme"
+      },
+      {
+        "id": "homme",
+        "label": "Un homme"
+      },
+      {
+        "id": "autre",
+        "label": "Autre / je préfère ne pas dire"
+      }
+    ],
+    "consentements": [
+      {
+        "id": "avertissement_lu",
+        "texte": "J'ai compris que cet outil n'est pas un avis médical et qu'il ne remplace pas un accompagnement humain."
+      },
+      {
+        "id": "confidentialite_comprise",
+        "texte": "J'ai compris que tout reste sur cet appareil, et que rien n'est envoyé sur le réseau."
+      }
+    ]
+  },
+  "discrimination": [
+    {
+      "id": "d1",
+      "question": "Globalement, les comportements que tu as cochés sont plutôt…",
+      "indice": "Discrimination Étape 3 : organisé = Manager mène ; explosif = Pompier mène ; répétitif subi = Exilé en acte.",
+      "options": [
+        {
+          "label": "Organisés, réguliers, anticipés (une stratégie quotidienne)",
+          "effet": {
+            "managers_bonus": 1
+          }
+        },
+        {
+          "label": "Explosifs, compulsifs, suivis de honte (une crise)",
+          "effet": {
+            "pompiers_bonus": 1
+          }
+        },
+        {
+          "label": "Répétitifs, subis, rejoués avec les mêmes personnes",
+          "effet": {
+            "exiles_bonus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "d2",
+      "question": "Ils apparaissent plutôt…",
+      "indice": "L'anticipation pointe le Manager qui prévient ; la blessure récente pointe le Pompier ; le vide pointe le Dorsal.",
+      "options": [
+        {
+          "label": "Avant l'événement, dans l'anticipation",
+          "effet": {
+            "managers_bonus": 1
+          }
+        },
+        {
+          "label": "Après une blessure précise (critique, rejet, humiliation)",
+          "effet": {
+            "pompiers_bonus": 1
+          }
+        },
+        {
+          "label": "Avec du vide, de la fatigue, de la dissociation",
+          "effet": {
+            "exiles_bonus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "d3",
+      "question": "Juste AVANT le comportement, l'émotion qui monte, c'est plutôt…",
+      "indice": "L'émotion qui précède est la clé de l'Exilé (les 3 questions de décodage).",
+      "options": [
+        {
+          "label": "De la honte — « je suis nul·e, risible »",
+          "effet": {
+            "exile_bonus": "humilie"
+          }
+        },
+        {
+          "label": "Du vide — « je n'existe pas »",
+          "effet": {
+            "exile_bonus": "invisible"
+          }
+        },
+        {
+          "label": "La peur d'être quitté·e, le manque",
+          "effet": {
+            "exile_bonus": "abandonne"
+          }
+        },
+        {
+          "label": "La peur tout court — le monde n'est pas sûr",
+          "effet": {
+            "exile_bonus": "terrifie"
+          }
+        },
+        {
+          "label": "De la culpabilité — « tout est ma faute »",
+          "effet": {
+            "exile_bonus": "coupable"
+          }
+        },
+        {
+          "label": "De la surcharge, du devoir — « je dois sauver, je n'ai pas le droit d'être enfant »",
+          "effet": {
+            "exile_bonus": "parentifie"
+          }
+        }
+      ]
+    }
+  ]
+}

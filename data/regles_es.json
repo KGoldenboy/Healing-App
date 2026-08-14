@@ -1,0 +1,61 @@
+{
+ "regles_strictes": [
+  {
+   "n": 1,
+   "texte": "La conducta nunca es el problema. Es la solución que encontró un sistema de supervivencia. Aquí nada es una falta: todo es una pista.",
+   "source": "Comportamiento inverso: regla 1"
+  },
+  {
+   "n": 2,
+   "texte": "Siempre en coalición. Ninguna conducta la produce una sola parte: es un equipo completo — Exiliado (el motor) × Manager (la estrategia) × Bombero (la crisis) — con su creencia y su detonante.",
+   "source": "Comportamiento inverso: regla 2"
+  },
+  {
+   "n": 3,
+   "texte": "Máximo de combinaciones posibles, luego discriminación por los indicios. Si faltan indicios, se dice: no se inventa.",
+   "source": "Comportamiento inverso: regla 3"
+  },
+  {
+   "n": 4,
+   "texte": "Un sistema, mil síntomas. Las conductas se conectan por una firma de sistema: nunca se trata un síntoma aislado.",
+   "source": "Comportamiento inverso: regla 4"
+  },
+  {
+   "n": 5,
+   "texte": "Siempre el camino concreto. Cada combinación desemboca en la conducta ideal correspondiente Y un micro-paso factible en menos de 5 minutos, repetible, observable.",
+   "source": "Comportamiento inverso: regla 5"
+  },
+  {
+   "n": 6,
+   "texte": "Respetar la jerarquía de sanación: Ser (Polyvagal — asegurar) → Sentir (IFS — encontrar las partes) → Actuar (ACT — micro-pasos hacia los valores). Sin acción comprometida sin cuerpo asegurado. Sin acceso al Exiliado sin el permiso de los protectores.",
+   "source": "Comportamiento inverso - Regla 6 / Yo ideal - Jerarquía"
+  },
+  {
+   "n": 7,
+   "texte": "No confundir ideal y perfección. La conducta ideal es la versión Self de la misma necesidad — con recaídas acogidas sin vergüenza.",
+   "source": "Comportamiento inverso - Regla 7"
+  },
+  {
+   "n": 8,
+   "texte": "Devolver sin juicio, con humildad. Todo lo que se produce aquí es una hipótesis a verificar contigo — nunca una verdad impuesta. Puedes decir no, corregir, frenar.",
+   "source": "Comportamiento inverso - Regla 8"
+  },
+  {
+   "n": 9,
+   "texte": "Hablar a la necesidad, nunca a la defensa. Si atacas la defensa, se refuerza. Si hablas a la necesidad protegida, la defensa puede relajarse.",
+   "source": "IdealSelf - Regla 5 / Piedra de toque"
+  },
+  {
+   "n": 10,
+   "texte": "Terminar con la piedra de toque: una palabra dirigida a la necesidad protegida, nunca a la defensa. Ese es el punto de impacto.",
+   "source": "Comportamiento inverso: regla 10"
+  }
+ ],
+ "ethique": {
+  "avertissement_initial": "Esta aplicación es una herramienta de autoobservación. No es un dispositivo médico, no hace ningún diagnóstico y no sustituye ni a un médico, ni a un psicoterapeuta, ni a un acompañamiento humano.",
+  "crise": "Si atraviesas una crisis (pensamientos de muerte, violencia, abstinencia peligrosa): llama al 15 (SAMU) o al 112, o al 3114 (prevención del suicidio, 24h, gratuito, Francia).",
+  "avertissement_miroir": "El espejo nunca es una justificación para permanecer en una relación abusiva. Si la activación es solo de un lado, no es un espejo: es una hemorragia. Leer las propias proyecciones se hace preferiblemente a distancia, o con un tercero de confianza.",
+  "confidentialite": "Todo lo que escribes permanece en ESTE dispositivo, en ESTE navegador. Esta página no emite ningún dato por la red. Si compartes este ordenador, usa «Borrar todo» al irte.",
+  "hypotheses": "Lo que esta aplicación produce es un mapa de hipótesis a verificar contigo — nunca un veredicto."
+ }
+}

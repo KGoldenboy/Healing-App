@@ -1,0 +1,21 @@
+{
+  "regles_strictes": [
+    { "n": 1, "texte": "Le comportement n'est jamais le problème. Il est la solution qu'un système de survie a trouvée. Ici, rien n'est une faute : tout est un indice.", "source": "ReverseComportement — Règle 1" },
+    { "n": 2, "texte": "Toujours en coalition. Aucun comportement n'est produit par une seule part : c'est une équipe complète — Exilé (le moteur) × Manager (la stratégie) × Pompier (la crise) — avec sa croyance et son déclencheur.", "source": "ReverseComportement — Règle 2" },
+    { "n": 3, "texte": "Maximum de combinaisons possibles, puis discrimination par les indices. Si les indices manquent, on le dit : on n'invente pas.", "source": "ReverseComportement — Règle 3" },
+    { "n": 4, "texte": "Un système, mille symptômes. Les comportements se relient par une signature de système : on ne traite jamais un symptôme isolé.", "source": "ReverseComportement — Règle 4" },
+    { "n": 5, "texte": "Toujours le chemin concret. Chaque combinaison débouche sur le comportement idéal correspondant ET un micro-pas faisable en moins de 5 minutes, répétable, observable.", "source": "ReverseComportement — Règle 5" },
+    { "n": 6, "texte": "Respecter la hiérarchie de guérison : Être (Polyvagal — sécuriser) → Sentir (IFS — rencontrer les parts) → Agir (ACT — micro-pas vers les valeurs). Pas d'action engagée sans corps sécurisé. Pas d'accès à l'Exilé sans la permission des protecteurs.", "source": "ReverseComportement — Règle 6 / IdealSelf — Hiérarchie" },
+    { "n": 7, "texte": "Ne pas confondre idéal et perfection. Le comportement idéal est la version Self du même besoin — avec des rechutes accueillies sans honte.", "source": "ReverseComportement — Règle 7" },
+    { "n": 8, "texte": "Restituer sans jugement, humblement. Tout ce qui est produit ici est une hypothèse à vérifier avec toi — jamais une vérité imposée. Tu peux dire non, corriger, ralentir.", "source": "ReverseComportement — Règle 8" },
+    { "n": 9, "texte": "Parler au besoin, jamais à la défense. Si on attaque la défense, elle se renforce. Si on parle au besoin protégé, la défense peut se relâcher.", "source": "IdealSelf — Règle 5 / Pierre de touche" },
+    { "n": 10, "texte": "Terminer par la pierre de touche : une parole adressée au besoin protégé, jamais à la défense. C'est le point d'impact.", "source": "ReverseComportement — Règle 10" }
+  ],
+  "ethique": {
+    "avertissement_initial": "Cette application est un outil d'auto-observation. Elle n'est pas un dispositif médical, ne pose aucun diagnostic et ne remplace ni un médecin, ni un psychothérapeute, ni un accompagnement humain.",
+    "crise": "Si tu traverses une crise (pensées de mort, violence, sevrage dangereux) : appelle le 15 (SAMU) ou le 112, ou le 3114 (prévention du suicide, 24h/24, gratuit, France).",
+    "avertissement_miroir": "Le miroir n'est jamais une justification pour rester dans une relation abusive. Si l'activation n'est que d'un côté, ce n'est pas un miroir : c'est une hémorragie. Lire ses projections se fait de préférence à distance, ou avec un tiers de confiance.",
+    "confidentialite": "Tout ce que tu écris reste sur CET appareil, dans CE navigateur. Cette page n'émet aucune donnée sur le réseau. Si tu partages cet ordinateur, utilise « Tout effacer » en partant.",
+    "hypotheses": "Ce que cette application produit est une carte d'hypothèses à vérifier avec toi — jamais un verdict."
+  }
+}

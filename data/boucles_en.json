@@ -1,0 +1,338 @@
+{
+ "1": [
+  {
+   "domaine": "Screen / messaging",
+   "cycle": "A hoards in silence for days → he sends a too-intense message, suddenly → B, in shame, rereads their whole past as lies and predation → A, scared by the shame, flees the conflict, justifies himself, blames her (Abandoned Child, then Guilty Child) → B closes up in turn → loop.",
+   "sortie": "A names his need coldly, in one sentence, before it escalates; B says hers without accusing."
+  },
+  {
+   "domaine": "Meal / alcohol",
+   "cycle": "B throws out a direct remark that A experiences as humiliation → A's Angry part explodes all at once, delayed → B, surprised, strikes back → A's Humiliated Child takes over, he collapses or goes quiet → B feels guilty → loop.",
+   "sortie": "A hears the remark as a piece of data, not a verdict; B phrases the criticism without targeting the person."
+  }
+ ],
+ "2": [
+  {
+   "domaine": "Separation / conflict",
+   "cycle": "B feels ignored → he threatens to leave, tests (anxious-preoccupied) → A, panicked, goes into exile to process, \"I need 24 hours\" → B shouts that he's leaving → A's Abandoned Child takes the wheel, he returns with a gift instead of saying the need → B sees the gift as calculation → loop.",
+   "sortie": "A replaces \"it's over\" with \"I need 24 hours, I'll be back\"; B says \"I'm afraid of losing you\" instead of threatening to leave."
+  },
+  {
+   "domaine": "Evening / couple",
+   "cycle": "B clings, calls, demands proof → A feels invaded by the Critic (Controller), he freezes and goes blank → B reads the coldness as abandonment → B's anger rises, he shouts → A's Abandoned Child, he flees → B feels guilty and chases → loop.",
+   "sortie": "A says \"I'm not leaving, I need a pause\"; B supports one reassuring sentence instead of shouting it."
+  }
+ ],
+ "3": [
+  {
+   "domaine": "Care debt / health",
+   "cycle": "A gives, anticipates, rescues (Rescuer) → B receives without ever being filled, in permanent distress → A is drained, his Critic says \"not enough\" → A's Angry part explodes, then the shame → A gives again to atone → A's Invisible Child: he only exists by giving → loop.",
+   "sortie": "A practices saying \"no\" and receiving without giving back; B names a need without turning it into a demand."
+  },
+  {
+   "domaine": "Money / vacation",
+   "cycle": "A pays for everything to exist through giving → B enjoys it then reproaches him (\"you never take care of yourself\") → A's Rescuer feels useless, devalued → he gives even more → B is satiated and pulls away → A's Abandoned Child → loop.",
+   "sortie": "A sets a limit (\"I give up to here\"); B asks for what he needs instead of watching for generosity."
+  }
+ ],
+ "4": [
+  {
+   "domaine": "Public / recognition",
+   "cycle": "A needs to be admired (Arrogant, Image Guard) → B, empathetic, validates him without limits → A feels entitled, scorns, never apologizes → B fades, swallows the humiliation → one day B's Angry part explodes, she leaves → A's Humiliated Child, he is devastated by the gaze he wanted to control → loop.",
+   "sortie": "B says an early \"no\", without exploding; A hears a criticism without living it as a downfall."
+  },
+  {
+   "domaine": "Couple / intimacy",
+   "cycle": "A never apologizes, keeps the perfect mask → B absorbs, understands everything, forgives → A mistakes this letting go for his superiority → B blunts, goes dorsal → the lack of empathy strikes A's Invisible Child (no one really sees him) → A gets angry or shuts down → loop.",
+   "sortie": "A says a concrete \"sorry\" once; B doesn't forgive automatically, he names what wore him down."
+  }
+ ],
+ "5": [
+  {
+   "domaine": "Conflict / reproach",
+   "cycle": "A sees himself as a victim, bottled rage (vulnerable narcissist) → B validates, reassures, cuts herself off from her needs → A reads one of B's silences as persecution → A's Accuser turns everything against B → B feels guilty and apologizes → A's Guilty Child: he relishes being right then self-destructs → loop.",
+   "sortie": "A names his own part in the conflict; B stops apologizing for what she didn't do."
+  },
+  {
+   "domaine": "Social media / comparison",
+   "cycle": "A watches others' recognition, feels scorned → B secures him, reflects a flattering image → A doubts it's genuine, he tests, accuses → B goes quiet, hurt → A screams internally, plays the victim → A's Humiliated Child wants to be seen without having to ask → loop.",
+   "sortie": "A stops measuring his worth by B's eyes; B says \"you matter to me\" without submitting."
+  }
+ ],
+ "6": [
+  {
+   "domaine": "Planning / meals",
+   "cycle": "A plans everything (Controller), anxious at the unexpected → B forgets, improvises, changes his mind → A corrects, redoes, gets angry → his Angry/Critic part rises → B feels controlled, sows chaos deliberately → A's Terrified Child: without a frame, he panics → loop.",
+   "sortie": "A lets go one non-vital variable; B warns before changing his mind."
+  },
+  {
+   "domaine": "Departure / punctuality",
+   "cycle": "A locks the schedule, demands → B arrives late, forgets the key → A's Controller tenses, he watches → B feels judged and flees → A's Terrified Child: the unexpected = danger → he demands more, B deserts → loop.",
+   "sortie": "A announces a tolerable lateness limit; B commits to a single warning."
+  }
+ ],
+ "7": [
+  {
+   "domaine": "Work / project",
+   "cycle": "A doesn't start or doesn't finish (perfectionist procrastinator) → B delivers at 80%, fearless → A admires then rages, \"it's not done\" → his Critic crushes him, he blocks → B, carefree, doesn't understand, insists → A feels judged, ashamed, Humiliated Child → loop.",
+   "sortie": "A allows a \"good enough\" version by a fixed date; B delivers even imperfectly and says it."
+  },
+  {
+   "domaine": "Home / tidying",
+   "cycle": "A wants an impeccable home (Perfectionist) → B plays, leaves mess, doesn't see the disorder → A's Critic complains, he redoes everything → B feels infantilized, does it on purpose → A's Humiliated Child: order is his worth → loop.",
+   "sortie": "A accepts two imperfect zones; B tidies one thing in exchange for play space."
+  }
+ ],
+ "8": [
+  {
+   "domaine": "Evening / group",
+   "cycle": "A prefers to be alone (Hermit), distrust → B bonds in one evening, confides fast, invades → A feels sucked in, his Hermit raises a wall → B, frustrated, tells others → A reads it as betrayal → A's Terrified Child: crowds and trust = danger → loop.",
+   "sortie": "A warns of his need to leave; B limits confidences to deep subjects."
+  },
+  {
+   "domaine": "Family / holidays",
+   "cycle": "A flees gatherings, cancels at the last moment (Hermit) → B insists, calls, \"come, we're waiting\" → A feels trapped, his system rises → B feels rejected, hurt → B's Abandoned Child → he gets angry, A gives in out of guilt then resents it → loop.",
+   "sortie": "A offers a short defined presence; B accepts a partial formula without grudges."
+  }
+ ],
+ "9": [
+  {
+   "domaine": "Fight / rumination",
+   "cycle": "A analyzes not to feel (Intellectualizer), alexithymia → B is volcanic, says everything, overflows → A shuts down, rationalizes, dehumanizes B's pain → B shouts to be heard → A's Invisible Child: feeling = drowning → he flees into theory → B feels alone → loop.",
+   "sortie": "A names ONE emotion with his body; B says hers in one sentence, without piling on."
+  },
+  {
+   "domaine": "Meal / tension",
+   "cycle": "B spills his feelings at the table, cries or shouts → A, uneasy, cognitive, \"we need words\", relativizes → B feels invalidated, rises → A's Cold part freezes everything → A's Guilty Child: if I feel, I do harm → he apologizes mechanically without feeling → loop.",
+   "sortie": "A welcomes B's emotion without fixing it; B asks to be heard, not corrected."
+  }
+ ],
+ "10": [
+  {
+   "domaine": "Mistake / responsibility",
+   "cycle": "A projects all faults (Accuser), \"question yourself\" → B, chronic guilty one, apologizes for everything and carries → A piles on, feels justified → B goes quiet, swallows, collapses internally → A's Guilty Child: if he doesn't denounce, he is the fault → he accuses more → loop.",
+   "sortie": "A states his own share of the mistake before speaking of B's; B stops apologizing for what isn't his."
+  },
+  {
+   "domaine": "Meal / incident",
+   "cycle": "a reservation fails → A explodes, it's B's fault → B profusely apologizes, belittles himself → A feels legitimately angry → B, after a while, turns the accusation in an eruption (Angry part) → A's Humiliated Child → he collapses in turn → loop.",
+   "sortie": "A names the setback without a culprit; B says \"I don't accept being the fault\"."
+  }
+ ],
+ "11": [
+  {
+   "domaine": "Sexuality",
+   "cycle": "A lives desire as proof of existence (Hypersexual Seducer) → B has low libido, fear of intimacy → A approaches, is overflowing → B shuts down, freezes → A feels rejected, his worth collapses (Humiliated Child) → he runs after other conquests to exist → B feels used → loop.",
+   "sortie": "A separates desire from his worth; B names her fear of intimacy without rejecting A."
+  },
+  {
+   "domaine": "Distress / emotion",
+   "cycle": "A is in distress, seeks the embrace to feel alive → B, sexually blocked, comforts with words but avoids the body → A lives this emptiness as rejection → he provokes, seduces, performs → A's Invisible Child: without reflected desire, he doesn't exist → B feels used → loop.",
+   "sortie": "A asks explicitly \"do I matter to you?\"; B offers unambiguous contact."
+  }
+ ],
+ "12": [
+  {
+   "domaine": "Meeting / lie",
+   "cycle": "A embellishes, arranges, lies for the image (Image Guard, Liar) → B, hyper-honest, says the raw truth → A is caught red-handed, feels humiliated → A's Cold/Accuser part rises, he counter-attacks → B insists, dismantles → A's Humiliated Child: being exposed = being destroyed → loop.",
+   "sortie": "A tells the truth even ugly on one minor point; B announces the truth with a word of empathy."
+  },
+  {
+   "domaine": "Couple / unsaid",
+   "cycle": "A promises the impossible to please, biases → B, brutally frank, reveals the gap → A feels cornered, doubles down or flees → B, disgusted, closes up → A's Guilty Child → he digs himself in → B leaves mentally → loop.",
+   "sortie": "A promises less but delivers; B tempers the frankness with \"I want this to last\"."
+  }
+ ],
+ "13": [
+  {
+   "domaine": "Sexuality / abstinence",
+   "cycle": "A lives his impulses as guilty, forbids himself (Ascetic) → B is uninhibited, lives the body without shame → A judges B, moralizes, withdraws → B feels abnormal, rebels even more → A closes up, his Guilty Child screams internally → B mocks or challenges → loop.",
+   "sortie": "A says \"I feel a judgment in me, not on you\"; B accepts A's pace without challenging him."
+  },
+  {
+   "domaine": "Meal / pleasure",
+   "cycle": "A controls his plate, pleasure is suspect (Controller Ascetic) → B savors, spends, overflows → A watches and criticizes → B feels watched, not free → he overdoes it to free himself → A's Terrified Child: losing control = danger → loop.",
+   "sortie": "A allows one delimited pleasure; B contains the excess within an agreed frame."
+  }
+ ],
+ "14": [
+  {
+   "domaine": "Rest / weekend",
+   "cycle": "A works to exist (Workaholic), can't do nothing → B is idle, loafs without guilt → A admires then judges, \"you waste your time\" → B feels useless in his eyes, flakes → A takes back the load, exhausts himself → his Angry/Dorsal part activates, he cracks → A's Invisible Child: without producing, he is nothing → loop.",
+   "sortie": "A plans one real hour of rest and observes it; B values his rest out loud."
+  },
+  {
+   "domaine": "Budget / home",
+   "cycle": "A carries everything, fills everything, exhausts himself (Survivor) → B produces nothing, \"I live my life\" → A feeds a silent resentment → his Critic suddenly explodes, accuses B of freeloading → B feels attacked, escapes → A's Abandoned Child: if I stop, do they still want me? → loop.",
+   "sortie": "A asks for concrete help before the explosion; B offers a real task unasked."
+  }
+ ],
+ "15": [
+  {
+   "domaine": "Debate / contradiction",
+   "cycle": "A believes himself superior, scorns (Arrogant) → B belittles himself, refuses compliments, lies down → A mistakes this submission for his worth → B, after a while, explodes or cries → A's Humiliated Child cracks (he can't be loved if he doesn't dominate) → A closes up harder → loop.",
+   "sortie": "B stands firm on a disagreement; A hears an inferiority without feeling annihilated."
+  },
+  {
+   "domaine": "Social media / image",
+   "cycle": "A flaunts his success, awaits admiration (Arrogant / Image Guard) → B compares, devalues himself in silence → A doesn't see the wound → B blunts, isolates → B's Invisible Child → A feels alone without a mirror → he lays it on thicker → loop.",
+   "sortie": "A asks \"what would do you good?\"; B dares to say he is hurt."
+  }
+ ],
+ "16": [
+  {
+   "domaine": "Family / meal",
+   "cycle": "A makes people laugh to be kept (Clown), never serious → B is grave, everything is serious → A feels B is bored of him → he forces, overdoes the clown → B closes up, moralizes → A's Abandoned Child: without laughter, no one keeps him → A collapses or flees → loop.",
+   "sortie": "A dares a serious moment without humor; B thanks A for his sensitivity, not for his act."
+  },
+  {
+   "domaine": "Crisis / grief",
+   "cycle": "a grave situation arises → A jokes to defuse his discomfort (Clown) → B takes it badly, \"that's not a joke topic\" → A feels rejected → his Angry or Runaway part rises → B closes up, sad → A's Invisible Child: he can't be taken seriously → loop.",
+   "sortie": "A says \"I joke because I'm overwhelmed, help me\"; B welcomes A's helplessness."
+  }
+ ],
+ "17": [
+  {
+   "domaine": "Money / restaurant",
+   "cycle": "A is anxious about spending (Hoarder), watches → B spends, savors, \"life is short\" → A tenses, reproaches → B feels bridled, spends even more → A's Controller panics (Terrified Child: lack = danger) → loop.",
+   "sortie": "A sets a non-negotiable pleasure budget; B keeps the agreed frame without exceeding it."
+  },
+  {
+   "domaine": "Joint project / purchase",
+   "cycle": "A postpones, hesitates, tightens savings → B wants, buys impulsively → A corrects, withdraws → B feels infantilized, rebels → A's Terrified Child → he retakes control over money → B lives money as joy, A as security → conflict → loop.",
+   "sortie": "A announces \"we have X for this\"; B waits for a joint decision on that amount."
+  }
+ ],
+ "18": [
+  {
+   "domaine": "Social media / outing",
+   "cycle": "A watches, jealous, possessive (Jealous Controller) → B lives his life, doesn't report → A interrogates, snoops, demands proof → B feels oppressed, drifts further away → A's Abandoned Child: the freer B is, the more A fears losing him → loop.",
+   "sortie": "A states the fear (\"I'm afraid of losing you\") instead of watching; B reassures spontaneously with a gesture."
+  },
+  {
+   "domaine": "Couple / friends",
+   "cycle": "B has friends without A, leaves without him (Free) → A suffers, sets rules → B feels imprisoned, hides outings → A discovers them, rages, accuser → A's Abandoned Child → B sees the projection and gets scared → loop.",
+   "sortie": "A asks for a shared moment to feel secure; B announces his outings without hiding them."
+  }
+ ],
+ "19": [
+  {
+   "domaine": "Return / need",
+   "cycle": "A only lives in the couple (codependent), separation anxiety → B is hyper-independent, \"I need no one\" → A calls, checks, clings → B feels smothered, takes distance → A's Abandoned Child panics, he clings more → B flees more → loop.",
+   "sortie": "A cultivates an activity outside the couple; B initiates closeness before being asked."
+  },
+  {
+   "domaine": "Conflict / reconciliation",
+   "cycle": "After a fight, A fears it's the end, rushes to re-fuse → B needs solitude to repair → A lives this need as abandonment → he begs, demands closeness → B closes up → A's Humiliated Child: depending = being rejected → loop.",
+   "sortie": "A tolerates 24h of distance; B comes back and shows it explicitly."
+  }
+ ],
+ "20": [
+  {
+   "domaine": "Health / exhaustion",
+   "cycle": "A heals, rescues, helps (Healing Rescuer) → B is in permanent crisis, lets himself be carried → A empties himself, stops listening to himself → his Dorsal/Glutton parts activate at night → B asks for more → A's Parentified Child: if he doesn't save, he has no right to be a child → loop.",
+   "sortie": "A ticks the hour when he stops saving; B learns to ask several sources, not only A."
+  },
+  {
+   "domaine": "Meal / complaint",
+   "cycle": "B repeats the same complaint (illness, fatigue) → A listens, offers solutions → B \"yes but\" → A exhausts himself, his Critic whispers \"always the same\" → A's Angry part explodes → B feels abandoned, lays it on → A's Guilty Child → loop.",
+   "sortie": "A says \"I can't save you, but I'm here\"; B names precisely what he expects (listen, not fix)."
+  }
+ ],
+ "21": [
+  {
+   "domaine": "Travel / improvisation",
+   "cycle": "A plans, ritualizes everything (Planner) → B improvises, anything is possible → A corrects the itinerary, gets angry → B changes again → A's Controller tenses (Terrified Child: without plan, danger) → loop.",
+   "sortie": "A keeps one free slot in the plan; B warns before undoing everything."
+  },
+  {
+   "domaine": "Meal / schedules",
+   "cycle": "A wants the meal at a fixed time, a ritual → B eats when he wants, snacks → A feels ignored, his frame wavers → he imposes, judgment rises → B lives it as control → A's Terrified Child → loop.",
+   "sortie": "A includes B in the schedules as a shared choice; B respects one fixed ritual chosen together."
+  }
+ ],
+ "22": [
+  {
+   "domaine": "Sport / ritual",
+   "cycle": "A is sedentary, body off, low energy (Dorsal) → B is sensory, adrenaline, athletic → B trains, presses → A feels useless, can't → A's Blocker/Hermit flees → B gets discouraged, lightly mocks → A's Humiliated Child → loop.",
+   "sortie": "A picks a light low-intensity activity; B celebrates consistency, not performance."
+  },
+  {
+   "domaine": "Body / love",
+   "cycle": "A ignores his body, low energy → B, tactile and sensory, wants intense activities → A feels at fault, lies down → B is frustrated, spends his energy alone → A's Invisible Child: his body doesn't count → B feels alone in his living body → loop.",
+   "sortie": "A wakes his body with a daily micro-gesture; B tames his intensity not to demand it."
+  }
+ ],
+ "23": [
+  {
+   "domaine": "Old conflict / forgiveness",
+   "cycle": "A keeps the list, doesn't forgive (Grudge-holder) → B lets go, forgets, \"moving on\" → A brings the matter back → B thinks everything is settled, is destabilized → A feels entitled, the Accuser rises → B thinks A wants conflict → A's Guilty (or Abandoned) Child → loop.",
+   "sortie": "A says what isn't settled when it starts; B commits to a precise repair, not an erasure."
+  },
+  {
+   "domaine": "Family / celebration",
+   "cycle": "At a celebration, an old wound resurfaces → A closes up, ruminates, punishes silently (Grudge-holder) → B sees nothing, enjoys → A lives it as indifference → he isolates, internal brooding → B, free, doesn't understand → A's Abandoned Child (no one repairs) → loop.",
+   "sortie": "A names his wound that same evening; B listens without denying A's history."
+  }
+ ],
+ "24": [
+  {
+   "domaine": "Affection / tenderness",
+   "cycle": "A is cold, distant, \"I don't need affection\" (Cold/Hermit) → B is tactile, cuddly, demonstrative → B cuddles, A tenses, withdraws → B feels rejected, does more → A flees more → A's Terrified Child: contact = exposure → loop.",
+   "sortie": "A defines a contact he tolerates and asks for it; B states the need for a hug instead of taking it."
+  },
+  {
+   "domaine": "Crisis / consolation",
+   "cycle": "B is upset, needs to be held → A freezes, offers solutions or silence → B feels alone in his pain → A, uneasy, busies himself elsewhere → B's Abandoned Child → B pushes A away coldly → A feels guilty → loop.",
+   "sortie": "A consents to an agreed contact during distress; B says \"I just want you to stay\"."
+  }
+ ],
+ "25": [
+  {
+   "domaine": "Decision / unexpected",
+   "cycle": "A acts first, thinks after, regrets (Reactive) → B thinks first, acts after, sometimes misses the moment → A rushes, B hesitates → A's Persecutor blames him for doing wrong, B for not living → A's Humiliated Child revolts or collapses → loop.",
+   "sortie": "A imposes a 5-minute pause before deciding; B gives himself a deadline to reply."
+  },
+  {
+   "domaine": "Fight / escalation",
+   "cycle": "tension rises → A shouts, throws, acts impulsively (Reactive) → B keeps quiet, steps back, analyzes → A reads the silence as contempt, lays it on → B \"misses the moment\" and lets it burn → A's Terrified Child → loop.",
+   "sortie": "A says \"I'm too hot, I'll be back in 10 minutes\"; B comes back to talk after the pause without blame."
+  }
+ ],
+ "26": [
+  {
+   "domaine": "Power conflict / work",
+   "cycle": "A is Red: strength, combat, immediacy (Accuser/Survivor, reactivity) → B is Blue/Orange: order, analysis, project → A wants direct power, B wants the frame → each sees the other as a threat → A's Terrified Child (losing the fight) and B's Humiliated Child (being outdone) → loop.",
+   "sortie": "A converts a craving for power into a clear request; B gives A a position of quick impact."
+  },
+  {
+   "domaine": "Team decision",
+   "cycle": "A decides fast, wants to win (Red) → B analyzes, plans long (Blue/Orange) → A sees B's slowness as weakness, B sees A's haste as danger → the conflict explodes → each projects their shadow on the other → loop.",
+   "sortie": "A proposes a quick winnable step; B shows that the frame protects A, not that it bridles him."
+  }
+ ],
+ "27": [
+  {
+   "domaine": "Accusation / domination",
+   "cycle": "A presents himself as a victim of everything, \"yes but\", refusing solutions → B takes an abuser role, dominates, humiliates → A plays the complaint to be seen, B the domination to feel powerful → each triggers the other's shadow → the Humiliated Child in both → escalation or dependence → loop.",
+   "sortie": "A steps out of the victim role by naming a power; B steps out of the abuser role by defusing domination."
+  },
+  {
+   "domaine": "Narrative / reality",
+   "cycle": "A repeats that he suffers, piles up proofs of injustice → B, exasperated, \"enough, own it\" → A feels misunderstood, hijacked, plays the victim more → B hardens, dominates → A's Guilty and Humiliated Children reinforce each other → loop.",
+   "sortie": "A owns a minimal share of responsibility; B replaces contempt with a firm and fair frame."
+  }
+ ],
+ "28": [
+  {
+   "domaine": "Pace / daily life",
+   "cycle": "A is slow, ascetic, statically meditative (Sage) → B is restless, rushed, hyperactive → B presses, A stops → B lives A's rhythm as loss, A lives B's as hysteria → A's Terrified Child (agitation = danger) and B's Anxious Child (stopping = death) → loop.",
+   "sortie": "A sets a shared pause time; B sees in A not slowness but depth."
+  },
+  {
+   "domaine": "Project / energy",
+   "cycle": "A savors the process, unhurried → B wants results right away, stirs → A finds him noisy, B finds A soft → B's Controller races, A withdraws → A's Invisible Child (his depth isn't seen) → loop.",
+   "sortie": "A shows what slowness produces; B allocates a calm time without filling it."
+  }
+ ]
+}

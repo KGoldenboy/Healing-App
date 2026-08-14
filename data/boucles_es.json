@@ -1,0 +1,338 @@
+{
+ "1": [
+  {
+   "domaine": "Pantalla / mensajería",
+   "cycle": "A acumula en silencio durante días → envía un mensaje demasiado intenso, de repente → B, avergonzada, relee todo su pasado como mentira y depredación → A, asustado por la vergüenza, huye del conflicto, se justifica, culpa de nuevo (Niño Abandonado, luego Culpable) → B se cierra a su vez → vuelta.",
+   "sortie": "A nombra su necesidad en frío, en una frase, antes de que suba; B diría la suya sin acusar."
+  },
+  {
+   "domaine": "Comida / alcohol",
+   "cycle": "B hace un comentario directo que A vive como una humillación → El Enojado de A explota de golpe, en diferido → B, sorprendida, ataca en respuesta → el Niño Humillado de A toma el control, se derrumba o se calla → B se siente culpable → vuelta.",
+   "sortie": "A escucha el comentario como un dato, no un veredicto; B formula la crítica sin apuntar a la persona."
+  }
+ ],
+ "2": [
+  {
+   "domaine": "Separación / conflicto",
+   "cycle": "B se siente ignorado → amenaza con irse, prueba (ansioso-preocupado) → A, asustado, se exilia para procesar, \"necesito 24 horas\" → B grita que se va → el Niño Abandonado de A toma el volante, vuelve con un regalo en lugar de decir la necesidad → B ve el regalo como un cálculo → vuelta.",
+   "sortie": "A reemplaza \"se acabó\" por \"necesito 24 horas, vuelvo\"; B dice \"tengo miedo de perderte\" en lugar de amenazar con irse."
+  },
+  {
+   "domaine": "Tarde / pareja",
+   "cycle": "B se aferra, llama, exige una prueba → A se siente invadido por el Crítico (Controlador), se congela y se apaga → B interpreta el frío como abandono → la ira de B sube, grita → el Niño Abandonado de A, huye → B se siente culpable y persigue → vuelta.",
+   "sortie": "A dice \"no me voy, necesito una pausa\"; B sostiene una frase de tranquilidad en vez de gritarla."
+  }
+ ],
+ "3": [
+  {
+   "domaine": "Deuda de cuidado / salud",
+   "cycle": "A da, anticipa, rescata (Salvador) → B recibe sin llenarse nunca, en angustia permanente → A se vacía, su Crítico dice \"no es suficiente\" → El Enojado de A explota, luego la vergüenza → A vuelve a dar para redimirse → el Niño Invisible de A: solo existe dando → vuelta.",
+   "sortie": "A practica decir \"no\" y recibir sin devolver; B nombra una necesidad sin convertirla en exigencia."
+  },
+  {
+   "domaine": "Dinero / vacaciones",
+   "cycle": "A paga todo para existir a través del regalo → B lo disfruta y luego le reprocha (\"nunca te ocupas de ti\") → el Salvador de A se siente inútil, desvalorizado → da aún más → B se sacia y se aleja → el Niño Abandonado de A → vuelta.",
+   "sortie": "A pone un límite (\"doy hasta aquí\"); B pide lo que necesita en vez de vigilar la generosidad."
+  }
+ ],
+ "4": [
+  {
+   "domaine": "Público / reconocimiento",
+   "cycle": "A necesita ser admirado (Arrogante, Guardián de la imagen) → B, empática, lo valida sin límites → A se siente con derecho, desprecia, nunca se disculpa → B se borra, traga la humillación → un día El Enojado de B explota, ella se va → el Niño Humillado de A, queda arrasado por la mirada que quería controlar → vuelta.",
+   "sortie": "B dice un \"no\" temprano, sin explotar; A escucha una crítica sin vivirla como una caída."
+  },
+  {
+   "domaine": "Pareja / intimidad",
+   "cycle": "A nunca se disculpa, mantiene la máscara perfecta → B absorbe, entiende todo, perdona → A confunde esa entrega con su superioridad → B se apaga, dorsal → la falta de empatía golpea al Niño Invisible de A (nadie lo ve de verdad) → A se enfada o se encierra → vuelta.",
+   "sortie": "A dice un \"perdón\" concreto una vez; B no perdona automáticamente, nombra lo que lo desgastó."
+  }
+ ],
+ "5": [
+  {
+   "domaine": "Conflicto / reproche",
+   "cycle": "A se percibe como víctima, rabia contenida (narcisista vulnerable) → B valida, tranquiliza, se corta de sus necesidades → A interpreta un silencio de B como persecución → el Acusador de A lo vuelve todo contra B → B se siente culpable y se disculpa → el Niño Culpable de A: saborea tener razón y luego se destruye → vuelta.",
+   "sortie": "A nombra su propia parte en el conflicto; B deja de disculparse por lo que no hizo."
+  },
+  {
+   "domaine": "Redes / comparación",
+   "cycle": "A observa el reconocimiento ajeno, se siente despreciado → B lo asegura, le devuelve una imagen halagadora → A duda que sea sincero, prueba, acusa → B se calla, herido → A grita en interno, se victimiza → el Niño Humillado de A quiere ser visto sin tener que pedirlo → vuelta.",
+   "sortie": "A deja de medir su valor por la mirada de B; B dice \"cuentas para mí\" sin someterse."
+  }
+ ],
+ "6": [
+  {
+   "domaine": "Planificación / comidas",
+   "cycle": "A lo prevé todo (Controlador), angustia ante lo imprevisto → B olvida, improvisa, cambia de opinión → A corrige, reface, se enoja → sube su Enojado/Crítico → B se siente controlado, siembra caos a propósito → el Niño Aterrorizado de A: sin marco, entra en pánico → vuelta.",
+   "sortie": "A suelta una variable no vital; B avisa antes de cambiar de opinión."
+  },
+  {
+   "domaine": "Salida / puntualidad",
+   "cycle": "A fija el horario, exige → B llega tarde, olvida la llave → el Controlador de A se tensa, vigila → B se siente juzgado y huye → el Niño Aterrorizado de A: lo imprevisto = peligro → exige más, B deserta → vuelta.",
+   "sortie": "A anuncia un límite tolerable de retraso; B se compromete con un solo aviso."
+  }
+ ],
+ "7": [
+  {
+   "domaine": "Trabajo / proyecto",
+   "cycle": "A no empieza o no termina (perfeccionista procrastinador) → B entrega al 80%, sin miedo → A admira y luego se enfada, \"no está terminado\" → su Crítico lo aplasta, se bloquea → B, despreocupado, no lo entiende, insiste → A se siente juzgado, avergonzado, Niño Humillado → vuelta.",
+   "sortie": "A se permite una versión \"suficientemente buena\" en una fecha fija; B entrega aunque salga imperfecto y lo dice."
+  },
+  {
+   "domaine": "Casa / orden",
+   "cycle": "A quiere una casa impecable (Perfeccionista) → B juega, deja desorden, no ve el caos → el Crítico de A se queja, reface todo → B se siente infantilizado, lo hace a propósito → el Niño Humillado de A: el orden es su valor → vuelta.",
+   "sortie": "A acepta dos zonas imperfectas; B ordena una cosa y gana espacio de juego."
+  }
+ ],
+ "8": [
+  {
+   "domaine": "Tarde / grupo",
+   "cycle": "A prefiere estar solo (Ermitaño), desconfianza → B se hace amigo en una noche, se confía rápido, invade → A se siente absorbido, su Ermitaño levanta un muro → B, frustrado, se lo cuenta a otros → A lo interpreta como traición → el Niño Aterrorizado de A: multitudes y confianza = peligro → vuelta.",
+   "sortie": "A avisa de su necesidad de salir; B limita sus confidencias a temas profundos."
+  },
+  {
+   "domaine": "Familia / fiestas",
+   "cycle": "A huye de las reuniones, cancela a última hora (Ermitaño) → B insiste, llama, \"ven, te esperamos\" → A se siente atrapado, su sistema sube → B se siente rechazado, herido → el Niño Abandonado de B → se enfada, A cede por culpa y luego lo vive mal → vuelta.",
+   "sortie": "A propone una presencia corta y definida; B acepta una fórmula parcial sin rencor."
+  }
+ ],
+ "9": [
+  {
+   "domaine": "Pelea / rumia",
+   "cycle": "A analiza para no sentir (Intelectualizador), alexitimia → B es volcánico, lo dice todo, se desborda → A se cierra, razona, deshumaniza el dolor de B → B grita para ser escuchado → el Niño Invisible de A: sentir = ahogarse → huye a la teoría → B se siente sola → vuelta.",
+   "sortie": "A nombra UNA emoción con su cuerpo; B dice la suya en una frase, sin encadenar."
+  },
+  {
+   "domaine": "Comida / tensión",
+   "cycle": "B vacía su sentir en la mesa, llora o grita → A, incómodo, cognitiza, \"hay que poner palabras\", relativiza → B se siente invalidado, sube → El Frío de A congela todo → el Niño Culpable de A: si siento, hago daño → se disculpa mecánicamente sin sentir → vuelta.",
+   "sortie": "A acoge la emoción de B sin resolverla; B pide ser escuchado, no corregido."
+  }
+ ],
+ "10": [
+  {
+   "domaine": "Error / responsabilidad",
+   "cycle": "A proyecta todas las culpas (Acusador), \"cuestionate\" → B, culpable crónico, se disculpa de todo y carga → A echa más leña, se siente justificado → B se calla, traga, se derrumba por dentro → el Niño Culpable de A: si no denuncia, él es la culpa → acusa más → vuelta.",
+   "sortie": "A pone SU parte del error antes de hablar de la de B; B deja de disculparse por lo que no le toca."
+  },
+  {
+   "domaine": "Comida / imponderable",
+   "cycle": "una reserva falla → A explota, es culpa de B → B se confunde en disculpas, se rebaja → A se siente enfadado con razón → B, de tanto, devuelve la acusación en una erupción (Enojada) → el Niño Humillado de A → se derrumba a su vez → vuelta.",
+   "sortie": "A nombra el contratiempo sin culpable; B dice \"no acepto ser la culpa\"."
+  }
+ ],
+ "11": [
+  {
+   "domaine": "Sexualidad",
+   "cycle": "A vive el deseo como prueba de existencia (Hipersexual Seductor) → B tiene la libido apagada, miedo a la intimidad → A se acerca, se desborda → B se cierra, se congela → A se siente rechazado, su valor se derrumba (Niño Humillado) → corre tras otras conquistas para existir → B se siente usada → vuelta.",
+   "sortie": "A separa el deseo de su valor; B nombra su miedo a la intimidad sin rechazar a A."
+  },
+  {
+   "domaine": "Angustia / emoción",
+   "cycle": "A está en angustia, busca el abrazo para sentirse vivo → B, bloqueado sexual, consuela con palabras pero evita el cuerpo → A vive ese vacío como rechazo → provoca, seduce, se pone en escena → el Niño Invisible de A: sin deseo reflejado, no existe → B se siente usada → vuelta.",
+   "sortie": "A pregunta explícitamente \"¿cuento para ti?\"; B ofrece un contacto sin ambigüedad."
+  }
+ ],
+ "12": [
+  {
+   "domaine": "Reunión / mentira",
+   "cycle": "A embellece, arregla, miente por la imagen (Guardián de la imagen, Mentiroso) → B, hiperhonesto, dice la verdad cruda → A es descubierto en flagrante, se siente humillado → El Frío/Acusador de A sube, contraataca → B insiste, desmonta → el Niño Humillado de A: ser desenmascarado = ser destruido → vuelta.",
+   "sortie": "A dice la verdad aunque fea en un punto menor; B anuncia la verdad con una palabra de empatía."
+  },
+  {
+   "domaine": "Pareja / no dicho",
+   "cycle": "A promete lo imposible para agradar, sesga → B, brutalmente franco, revela el desfase → A se siente acorralado, redobla la apuesta o huye → B, asqueado, se cierra → el Niño Culpable de A → se hunde → B lo abandona mentalmente → vuelta.",
+   "sortie": "A promete menos pero cumple; B templa la franqueza con un \"quiero que perdure\"."
+  }
+ ],
+ "13": [
+  {
+   "domaine": "Sexualidad / abstinencia",
+   "cycle": "A vive sus impulsos como culpa, se prohíbe (Asceta) → B es desenfrenado, vive el cuerpo sin vergüenza → A juzga a B, moraliza, se retira → B se siente anormal, se rebela aún más → A se encierra, su Niño Culpable grita por dentro → B se burla o lo desafía → vuelta.",
+   "sortie": "A dice \"siento un juicio en mí, no sobre ti\"; B acepta el ritmo de A sin desafiarlo."
+  },
+  {
+   "domaine": "Comida / placer",
+   "cycle": "A controla su plato, el placer es sospechoso (Controlador Asceta) → B saborea, gasta, se desborda → A vigila y critica → B se siente vigilado, no libre → exagera para liberarse → el Niño Aterrorizado de A: perder el control = peligro → vuelta.",
+   "sortie": "A se permite un placer delimitado; B contiene el exceso en un marco acordado."
+  }
+ ],
+ "14": [
+  {
+   "domaine": "Descanso / fin de semana",
+   "cycle": "A trabaja para existir (Workaholic), no sabe no hacer nada → B es ocioso, deambula sin culpa → A admira y luego juzga, \"pierdes tu tiempo\" → B se siente inútil a sus ojos, se acuesta → A retoma la carga, se agota → su Enojado/Dorsal se activa, revienta → el Niño Invisible de A: sin producir, no es nada → vuelta.",
+   "sortie": "A planifica una hora real de descanso y la observa; B valora su descanso en voz alta."
+  },
+  {
+   "domaine": "Presupuesto / casa",
+   "cycle": "A carga todo, llena todo, se agota (Superviviente) → B no produce nada, \"vivo mi vida\" → A alimenta un rencor silencioso → su Crítico explota de golpe, acusa a B de aprovecharse → B se siente atacado, se evade → el Niño Abandonado de A: si me detengo, ¿me querrán? → vuelta.",
+   "sortie": "A pide ayuda concreta antes de la explosión; B propone una tarea real no solicitada."
+  }
+ ],
+ "15": [
+  {
+   "domaine": "Debate / contradicción",
+   "cycle": "A se cree superior, desprecia (Arrogante) → B se rebaja, rechaza los cumplidos, se acuesta → A confunde esa sumisión con su valor → B, de tanto, explota o llora → el Niño Humillado de A se fisura (no puede ser amado si no domina) → A se cierra más fuerte → vuelta.",
+   "sortie": "B se mantiene firme en un desacuerdo; A escucha una inferioridad sin sentirse aniquilado."
+  },
+  {
+   "domaine": "Redes / imagen",
+   "cycle": "A exhibe su éxito, espera admiración (Arrogante/Guardián de la imagen) → B se compara, se desvaloriza en silencio → A no ve la herida → B se apaga, se aísla → el Niño Invisible de B → A se siente solo sin espejo → refuerza el discurso → vuelta.",
+   "sortie": "A pregunta \"¿qué te haría bien?\"; B se atreve a decir que está herido."
+  }
+ ],
+ "16": [
+  {
+   "domaine": "Familia / comida",
+   "cycle": "A hace reír para ser cuidado (Payaso), nunca serio → B es grave, todo es serio → A siente que B se aburre de él → fuerza, exagera el payaso → B se cierra, moraliza → el Niño Abandonado de A: sin risa, no lo cuidan → A se derrumba o huye → vuelta.",
+   "sortie": "A se atreve a un momento serio sin humor; B agradece a A su sensibilidad, no su número."
+  },
+  {
+   "domaine": "Crisis / duelo",
+   "cycle": "surge una situación grave → A bromea para desactivar su malestar (Payaso) → B lo toma mal, \"no es tema de broma\" → A se siente rechazado → sube su Enojado o Fugitivo → B se cierra, triste → el Niño Invisible de A: no logra ser tomado en serio → vuelta.",
+   "sortie": "A dice \"bromeo porque estoy desbordado, ayúdame\"; B acoge la impotencia de A."
+  }
+ ],
+ "17": [
+  {
+   "domaine": "Dinero / restaurante",
+   "cycle": "A se angustia por gastar (Acaparador), vigila → B gasta, saborea, \"la vida es corta\" → A se tensa, reprocha → B se siente limitado, gasta aún más → el Controlador de A entra en pánico (Niño Aterrorizado: faltar = peligro) → vuelta.",
+   "sortie": "A fija un presupuesto de placer no negociable; B mantiene el marco acordado sin excederlo."
+  },
+  {
+   "domaine": "Proyecto común / compra",
+   "cycle": "A pospone, duda, aprieta el ahorro → B quiere, compra impulsivamente → A corrige, retira → B se siente infantilizado, se rebela → el Niño Aterrorizado de A → retoma el control del dinero → B vive el dinero como alegría, A como seguridad → conflicto → vuelta.",
+   "sortie": "A anuncia \"tenemos X para esto\"; B espera una decisión conjunta para ese monto."
+  }
+ ],
+ "18": [
+  {
+   "domaine": "Redes / salida",
+   "cycle": "A vigila, celoso, posesivo (Celoso Controlador) → B vive su vida, no rinde cuentas → A interroga, husmea, exige pruebas → B se siente oprimido, se aleja más → el Niño Abandonado de A: cuanto más libre B, más teme A perderlo → vuelta.",
+   "sortie": "A expresa el miedo (\"tengo miedo de perderte\") en vez de vigilar; B tranquiliza espontáneamente con un gesto."
+  },
+  {
+   "domaine": "Pareja / amigos",
+   "cycle": "B tiene amigos sin A, sale sin él (Libre) → A sufre, pone reglas → B se siente en la cárcel, esconde salidas → A las descubre, ruge, acusador → el Niño Abandonado de A → B ve la proyección y asusta → vuelta.",
+   "sortie": "A pide un momento compartido para sentirse seguro; B anuncia sus salidas sin esconderlas."
+  }
+ ],
+ "19": [
+  {
+   "domaine": "Vuelta / necesidad",
+   "cycle": "A solo vive en la pareja (dependiente afectivo), angustia de separación → B es hiperindependiente, \"no necesito a nadie\" → A llama, verifica, se aferra → B se siente ahogado, toma distancia → el Niño Abandonado de A entra en pánico, se aferra más → B huye más → vuelta.",
+   "sortie": "A cultiva una actividad fuera de la pareja; B inicia una cercanía antes de que se la pidan."
+  },
+  {
+   "domaine": "Conflicto / reconciliación",
+   "cycle": "Tras una pelea, A teme que sea el fin, re-fusiona a prisa → B necesita soledad para repararse → A vive esa necesidad como abandono → suplica, exige cercanía → B se cierra → el Niño Humillado de A: depender = ser rechazado → vuelta.",
+   "sortie": "A tolera 24h de distancia; B vuelve y lo manifiesta explícitamente."
+  }
+ ],
+ "20": [
+  {
+   "domaine": "Salud / agotamiento",
+   "cycle": "A cura, rescata, ayuda (Cuidador Salvador) → B está en crisis permanente, se deja llevar → A se vacía, deja de escucharse → sus partes Dorsal/Glotón se activan de noche → B pide más → el Niño Parentificado de A: si no salva, no tiene derecho a ser niño → vuelta.",
+   "sortie": "A marca la hora en que deja de salvar; B aprende a pedir a varias fuentes, no solo a A."
+  },
+  {
+   "domaine": "Comida / queja",
+   "cycle": "B repite la misma queja (enfermedad, cansancio) → A escucha, propone soluciones → B \"sí pero\" → A se agota, su Crítico murmura \"siempre igual\" → el Enojado de A explota → B se siente abandonado, añade más → el Niño Culpable de A → vuelta.",
+   "sortie": "A dice \"no puedo salvarte, pero estoy aquí\"; B nombra qué espera exacto (escuchar, no resolver)."
+  }
+ ],
+ "21": [
+  {
+   "domaine": "Viaje / improvisación",
+   "cycle": "A planifica, ritualiza todo (Planificador) → B improvisa, todo es posible → A corrige el itinerario, se enoja → B vuelve a cambiar → el Controlador de A se tensa (Niño Aterrorizado: sin plan, peligro) → vuelta.",
+   "sortie": "A guarda un hueco libre en el plan; B avisa antes de deshacerlo todo."
+  },
+  {
+   "domaine": "Comida / horarios",
+   "cycle": "A quiere la comida a hora fija, un ritual → B come cuando quiere, picotea → A se siente ignorado, su marco vacila → impone, sube el juicio → B lo vive como control → el Niño Aterrorizado de A → vuelta.",
+   "sortie": "A involucra a B en los horarios como elección común; B respeta un ritual fijo elegido por ambos."
+  }
+ ],
+ "22": [
+  {
+   "domaine": "Deporte / ritual",
+   "cycle": "A es sedentario, cuerpo apagado, energía baja (Dorsal) → B es sensorial, adrenalina, deportista → B entrena, presiona → A se siente inútil, no puede → el Bloqueador/Ermitaño de A huye → B se desanima, se burla suavemente → el Niño Humillado de A → vuelta.",
+   "sortie": "A elige una actividad ligera de baja intensidad; B celebra la constancia, no el rendimiento."
+  },
+  {
+   "domaine": "Cuerpo / amor",
+   "cycle": "A ignora su cuerpo, energía apagada → B, táctil y sensorial, quiere actividades intensas → A se siente en falta, se acuesta → B frustrado, gasta su energía solo → el Niño Invisible de A: su cuerpo no cuenta → B se siente sola en su cuerpo vivo → vuelta.",
+   "sortie": "A despierta su cuerpo con un micro-gesto diario; B domestica su intensidad para no exigirla."
+  }
+ ],
+ "23": [
+  {
+   "domaine": "Conflicto antiguo / perdón",
+   "cycle": "A guarda la lista, no perdona (Rencoroso) → B suelta, olvida, \"paso a otra cosa\" → A vuelve a sacar el tema → B cree que todo está arreglado, se desestabiliza → A se siente con derecho, sube el Acusador → B piensa que A quiere conflicto → el Niño Culpable (o Abandonado) de A → vuelta.",
+   "sortie": "A dice lo que no está arreglado cuando empieza; B se compromete con una reparación precisa, no un olvido."
+  },
+  {
+   "domaine": "Familia / fiesta",
+   "cycle": "En una fiesta, resurge una herida vieja → A se cierra, rumia, castiga en silencio (Rencoroso) → B no ve nada, disfruta → A lo vive como indiferencia → se aísla, aguanta por dentro → B, libre, no entiende → el Niño Abandonado de A (nadie repara) → vuelta.",
+   "sortie": "A nombra su herida esa misma noche; B escucha sin negar la historia de A."
+  }
+ ],
+ "24": [
+  {
+   "domaine": "Afecto / ternura",
+   "cycle": "A es frío, distante, \"no necesito afecto\" (Frío/Ermitaño) → B es táctil, cariñoso, demostrativo → B se acurruca, A se tensa, se retira → B se siente rechazado, hace más → A huye más → el Niño Aterrorizado de A: el contacto = exponerse → vuelta.",
+   "sortie": "A define un contacto que tolera y lo pide; B dice la necesidad de un abrazo en vez de tomarlo por la fuerza."
+  },
+  {
+   "domaine": "Crisis / consuelo",
+   "cycle": "B está consternado, necesita que lo abracen → A se congela, ofrece soluciones o silencio → B se siente solo en su dolor → A, incómodo, se ocupa en otra parte → el Niño Abandonado de B → B lo rechaza con frialdad → A se siente culpable → vuelta.",
+   "sortie": "A consiente un contacto acordado durante la angustia; B dice \"solo quiero que te quedes\"."
+  }
+ ],
+ "25": [
+  {
+   "domaine": "Decisión / imprevisto",
+   "cycle": "A actúa primero, piensa después, se arrepiente (Reactivo) → B piensa primero, actúa después, a veces pierde el momento → A precipita, B duda → el Perseguidor de A lo acusa por obrar mal, y a B por no vivir → el Niño Humillado de A se rebela o se derrumba → vuelta.",
+   "sortie": "A se impone una pausa de 5 min antes de decidir; B se da un plazo para responder."
+  },
+  {
+   "domaine": "Pelea / escalada",
+   "cycle": "sube la tensión → A grita, lanza, actúa impulsivo (Reactivo) → B calla, retrocede, analiza → A interpreta el silencio como desprecio, añade más → B \"pierde el momento\" y deja arder → el Niño Aterrorizado de A → vuelta.",
+   "sortie": "A dice \"estoy demasiado caliente, vuelvo en 10 min\"; B vuelve a hablar después de la pausa sin reproche."
+  }
+ ],
+ "26": [
+  {
+   "domaine": "Conflicto de poder / trabajo",
+   "cycle": "A es Rojo: fuerza, combate, inmediatez (Acusador/Superviviente, reactividad) → B es Azul/Naranja: orden, análisis, proyecto → A quiere el poder directo, B quiere el marco → cada uno ve al otro como amenaza → el Niño Aterrorizado de A (perder la lucha) y el Niño Humillado de B (ser superado) → vuelta.",
+   "sortie": "A convierte un deseo de poder en petición clara; B da a A una posición de impacto rápido."
+  },
+  {
+   "domaine": "Decisión de equipo",
+   "cycle": "A decide rápido, quiere ganar (Rojo) → B analiza, planifica largo (Azul/Naranja) → A ve la lentitud de B como debilidad, B la prisa de A como peligro → el conflicto explota → cada uno proyecta su sombra sobre el otro → vuelta.",
+   "sortie": "A propone un paso rápido y ganable; B muestra que el marco protege a A, no que lo limita."
+  }
+ ],
+ "27": [
+  {
+   "domaine": "Acusación / dominación",
+   "cycle": "A se presenta como víctima de todo, \"sí pero\", rechazo de soluciones → B asume un rol de verdugo, domina, humilla → A juega la queja para ser visto, B la dominación para sentirse poderoso → cada uno despierta la sombra del otro → el Niño Humillado en ambos → escalada o dependencia → vuelta.",
+   "sortie": "A sale del rol de víctima nombrando un poder; B sale del rol de verdugo desactivando la dominación."
+  },
+  {
+   "domaine": "Relato / realidad",
+   "cycle": "A repite que sufre, acumula pruebas de la injusticia → B, exasperado, \"basta, asume\" → A se siente incomprendido, secuestrado, se victimiza más → B se endurece, domina → el Niño Culpable y el Niño Humillado de A se refuerzan mutuamente → vuelta.",
+   "sortie": "A reconoce una mínima parte de responsabilidad; B reemplaza el desprecio por un marco firme y justo."
+  }
+ ],
+ "28": [
+  {
+   "domaine": "Ritmo / diario",
+   "cycle": "A es lento, asceta, meditativo quieto (Sabio) → B es agitado, apurado, hiperactivo → B presiona, A se detiene → B vive el ritmo de A como pérdida, A el de B como histeria → el Niño Aterrorizado de A (agitación = peligro) y el Niño Inquieto de B (detenerse = la muerte) → vuelta.",
+   "sortie": "A pone un tiempo común de pausa; B ve en A no lentitud sino profundidad."
+  },
+  {
+   "domaine": "Proyecto / energía",
+   "cycle": "A saborea el proceso, sin prisa → B quiere resultados ya, se activa → A lo encuentra ruidoso, B lo encuentra blando → el Controlador de B se dispara, A se repliega → el Niño Invisible de A (su profundidad no se ve) → vuelta.",
+   "sortie": "A muestra qué produce la lentitud; B asigna un tiempo de calma sin llenarlo."
+  }
+ ]
+}

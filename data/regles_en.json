@@ -1,0 +1,61 @@
+{
+ "regles_strictes": [
+  {
+   "n": 1,
+   "texte": "A behavior is never the problem. It is the solution a survival system found. Here, nothing is a fault: everything is a clue.",
+   "source": "ReverseBehavior — Rule 1"
+  },
+  {
+   "n": 2,
+   "texte": "Always in coalition. No behavior is produced by a single part: it is a full team — Exile (the engine) × Manager (the strategy) × Firefighter (the crisis) — with its belief and its trigger.",
+   "source": "ReverseBehavior — Rule 2"
+  },
+  {
+   "n": 3,
+   "texte": "List as many combinations as possible, then discriminate using the clues. If clues are missing, say so: do not invent.",
+   "source": "ReverseBehavior — Rule 3"
+  },
+  {
+   "n": 4,
+   "texte": "One system, a thousand symptoms. Behaviors connect through a system signature: never treat an isolated symptom.",
+   "source": "ReverseBehavior — Rule 4"
+  },
+  {
+   "n": 5,
+   "texte": "Always the concrete path. Every combination leads to the corresponding ideal behavior AND a micro-step doable in under 5 minutes, repeatable, observable.",
+   "source": "ReverseBehavior — Rule 5"
+  },
+  {
+   "n": 6,
+   "texte": "Respect the healing hierarchy: Being (Polyvagal — securing) → Feeling (IFS — meeting the parts) → Acting (ACT — micro-steps toward values). No committed action without a secured body. No access to the Exile without the protectors' permission.",
+   "source": "ReverseBehavior — Rule 6 / IdealSelf — Hierarchy"
+  },
+  {
+   "n": 7,
+   "texte": "Do not confuse ideal with perfection. The ideal behavior is the Self version of the same need — with relapses welcomed without shame.",
+   "source": "ReverseBehavior — Rule 7"
+  },
+  {
+   "n": 8,
+   "texte": "Report back without judgment, humbly. Everything produced here is a hypothesis to check with you — never an imposed truth. You can say no, correct, slow down.",
+   "source": "ReverseBehavior — Rule 8"
+  },
+  {
+   "n": 9,
+   "texte": "Speak to the need, never to the defense. If you attack the defense, it strengthens. If you speak to the protected need, the defense can relax.",
+   "source": "IdealSelf — Rule 5 / Touchstone"
+  },
+  {
+   "n": 10,
+   "texte": "End with the touchstone: words addressed to the protected need, never to the defense. That is the point of impact.",
+   "source": "ReverseBehavior — Rule 10"
+  }
+ ],
+ "ethique": {
+  "avertissement_initial": "This app is a self-observation tool. It is not a medical device, makes no diagnosis and does not replace a doctor, a psychotherapist, or human support.",
+  "crise": "If you are going through a crisis (thoughts of death, violence, dangerous withdrawal): call 15 (SAMU) or 112, or 3114 (suicide prevention, 24/7, free, France).",
+  "avertissement_miroir": "The mirror is never a justification for staying in an abusive relationship. If activation flows one way only, it is not a mirror: it is a hemorrhage. Read your projections preferably from a distance, or with a trusted third party.",
+  "confidentialite": "Everything you write stays on THIS device, in THIS browser. This page sends no data over the network. If you share this computer, use \"Erase everything\" before leaving.",
+  "hypotheses": "What this app produces is a map of hypotheses to check with you — never a verdict."
+ }
+}

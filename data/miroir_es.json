@@ -1,0 +1,1183 @@
+{
+  "paires": [
+    {
+      "id": 1,
+      "profil_a": "Evitador de conflictos/acaparador (no dicho, \"todo está bien\", arrebato retrasado)",
+      "miroir_b": "Buscador de conflictos/provocador (discusión directa, atrevida, diaria)",
+      "blessure_commune": "Niño humillado (“si digo lo que está mal, soy rechazado o destruido”)",
+      "activations": "M: Ermitaño, Intelectualizador - P: Enojado (explosión única), Fugitivo - E: Humillado",
+      "reveil": "Ira que se alimenta por goteo: decir “me lastimaste” el mismo día, frío",
+      "piege": "La explosión final que lo destruye todo y la confirmación de que “el conflicto es mortal”",
+      "managers_cles": [
+        "muet",
+        "bon_eleve"
+      ],
+      "micro_pas": [
+        "Nombrar la herida el mismo día, en frío: «eso me hirió cuando…», sin juzgar al otro.",
+        "Antes de explotar, escribe 3 líneas sobre lo que pasó — luego dilas (o entrégalas)."
+      ],
+      "boucles": [
+        {
+          "domaine": "Pantalla / mensajería",
+          "cycle": "A acumula en silencio durante días → envía un mensaje demasiado intenso, de repente → B, avergonzada, relee todo su pasado como mentira y depredación → A, asustado por la vergüenza, huye del conflicto, se justifica, culpa de nuevo (Niño Abandonado, luego Culpable) → B se cierra a su vez → vuelta.",
+          "sortie": "A nombra su necesidad en frío, en una frase, antes de que suba; B diría la suya sin acusar."
+        },
+        {
+          "domaine": "Comida / alcohol",
+          "cycle": "B hace un comentario directo que A vive como una humillación → El Enojado de A explota de golpe, en diferido → B, sorprendida, ataca en respuesta → el Niño Humillado de A toma el control, se derrumba o se calla → B se siente culpable → vuelta.",
+          "sortie": "A escucha el comentario como un dato, no un veredicto; B formula la crítica sin apuntar a la persona."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "A acumula en silencio (Víctima) mientras B provoca (Perseguidor) — luego A explota y se vuelve Persegidor a su vez, y B se cierra: los roles rotan."
+      }
+    },
+    {
+      "id": 2,
+      "profil_a": "Ansioso-evasivo (huye de la intimidad, se exilia para procesar, regresa a través de un regalo)",
+      "miroir_b": "Ansioso-preocupado/protestante (persecuciones, pruebas, amenazas con irse, gritos pidiendo tranquilidad)",
+      "blessure_commune": "Niño Abandonado (“la gente siempre termina dejándome”)",
+      "activations": "M: Ermitaño, Controlador — P: Fugitivo, Declarante — E: Abandonado",
+      "reveil": "Sobrevivir al apego: permanecer presente durante 48 horas en lugar de “se acabó”; tolerar la necesidad",
+      "piege": "La danza infinita de persecución y huida, cada pausa confirma las dos profecías.",
+      "managers_cles": [
+        "ermite",
+        "controleur"
+      ],
+      "micro_pas": [
+        "Reemplaza «se acabó» por «necesito 24 horas» — y vuelve.",
+        "Permanece presente 48 h después de un conflicto, sin huir ni amenazar con irte."
+      ],
+      "boucles": [
+        {
+          "domaine": "Separación / conflicto",
+          "cycle": "B se siente ignorado → amenaza con irse, prueba (ansioso-preocupado) → A, asustado, se exilia para procesar, \"necesito 24 horas\" → B grita que se va → el Niño Abandonado de A toma el volante, vuelve con un regalo en lugar de decir la necesidad → B ve el regalo como un cálculo → vuelta.",
+          "sortie": "A reemplaza \"se acabó\" por \"necesito 24 horas, vuelvo\"; B dice \"tengo miedo de perderte\" en lugar de amenazar con irse."
+        },
+        {
+          "domaine": "Tarde / pareja",
+          "cycle": "B se aferra, llama, exige una prueba → A se siente invadido por el Crítico (Controlador), se congela y se apaga → B interpreta el frío como abandono → la ira de B sube, grita → el Niño Abandonado de A, huye → B se siente culpable y persigue → vuelta.",
+          "sortie": "A dice \"no me voy, necesito una pausa\"; B sostiene una frase de tranquilidad en vez de gritarla."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "B persigue y pone a prueba (Perseguidor), A huye y se hiela (Víctima) — la persecución intensifica la huida, la huida intensifica la persecución."
+      }
+    },
+    {
+      "id": 3,
+      "profil_a": "Salvador / Agradable a la gente (da para existir, no sabe recibir)",
+      "miroir_b": "Víctima crónica/en angustia permanente (recibe sin nunca cumplir, “sí pero”)",
+      "blessure_commune": "Niño invisible/parentificado (“Sólo existo por lo que traigo”)",
+      "activations": "M: Salvador (da MÁS) — P: Agotamiento, Dorsal — E: Invisible",
+      "reveil": "Existir sin traer; recibir sin calcular; Salva al niño interior, no a los adultos.",
+      "piege": "El regalo interminable que nunca se llena: \"Lo di todo y todavía no soy nada\"",
+      "managers_cles": [
+        "sauveur"
+      ],
+      "micro_pas": [
+        "Recibe ayuda sin devolverla de inmediato: di simplemente «gracias».",
+        "Ofrece presencia sin resolver nada: «estoy aquí, no tienes que hacer nada por mí»."
+      ],
+      "boucles": [
+        {
+          "domaine": "Deuda de cuidado / salud",
+          "cycle": "A da, anticipa, rescata (Salvador) → B recibe sin llenarse nunca, en angustia permanente → A se vacía, su Crítico dice \"no es suficiente\" → El Enojado de A explota, luego la vergüenza → A vuelve a dar para redimirse → el Niño Invisible de A: solo existe dando → vuelta.",
+          "sortie": "A practica decir \"no\" y recibir sin devolver; B nombra una necesidad sin convertirla en exigencia."
+        },
+        {
+          "domaine": "Dinero / vacaciones",
+          "cycle": "A paga todo para existir a través del regalo → B lo disfruta y luego le reprocha (\"nunca te ocupas de ti\") → el Salvador de A se siente inútil, desvalorizado → da aún más → B se sacia y se aleja → el Niño Abandonado de A → vuelta.",
+          "sortie": "A pone un límite (\"doy hasta aquí\"); B pide lo que necesita en vez de vigilar la generosidad."
+        }
+      ],
+      "triangle": {
+        "a": "rescuer",
+        "b": "victime",
+        "danse": "A salva sin que se lo pidan (Salvador), B recibe sin crecer (Víctima) — cuanto más salva A, más impotente se vuelve B, más se agota A."
+      }
+    },
+    {
+      "id": 4,
+      "profil_a": "Narcisista grandioso (superioridad, imagen, “no necesito a nadie”, nunca se disculpa)",
+      "miroir_b": "Empático / cuidador (se olvida de sí mismo, absorbe, perdona, comprende todo)",
+      "blessure_commune": "Niño invisible (ambos no han sido vistos; uno decidió hacerse inolvidable, el otro, hacerse indispensable)",
+      "activations": "M: Arrogante, Guardián de la imagen — P: Enfadado (cuando la imagen se rompe), Devaluación del otro — E: Invisible, Humillado",
+      "reveil": "Para el narcisista: siéntete, pregunta, sé vulnerable sin derrumbarte. Para los empáticos: ámate a ti mismo, pon límites, existe sin servir",
+      "piege": "Consumo mutuo: el empático alimenta al narcisista, el narcisista confirma al empático en “solo cuento con lo que doy”. Si la activación es unidireccional → trampa, no espejo (ver 4.3)",
+      "managers_cles": [
+        "arrogant",
+        "gardien_image"
+      ],
+      "micro_pas": [
+        "Pide al otro una ayuda concreta, sin convertirla en una actuación.",
+        "Di una emoción real sin decorarla: «tuve miedo», «necesito»."
+      ],
+      "boucles": [
+        {
+          "domaine": "Público / reconocimiento",
+          "cycle": "A necesita ser admirado (Arrogante, Guardián de la imagen) → B, empática, lo valida sin límites → A se siente con derecho, desprecia, nunca se disculpa → B se borra, traga la humillación → un día El Enojado de B explota, ella se va → el Niño Humillado de A, queda arrasado por la mirada que quería controlar → vuelta.",
+          "sortie": "B dice un \"no\" temprano, sin explotar; A escucha una crítica sin vivirla como una caída."
+        },
+        {
+          "domaine": "Pareja / intimidad",
+          "cycle": "A nunca se disculpa, mantiene la máscara perfecta → B absorbe, entiende todo, perdona → A confunde esa entrega con su superioridad → B se apaga, dorsal → la falta de empatía golpea al Niño Invisible de A (nadie lo ve de verdad) → A se enfada o se encierra → vuelta.",
+          "sortie": "A dice un \"perdón\" concreto una vez; B no perdona automáticamente, nombra lo que lo desgastó."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "rescuer",
+        "danse": "A domina y desprecia (Perseguidor), B absorbe y perdona (Salvador) — el desprecio de A necesita la absorción de B para sostenerse, y viceversa."
+      }
+    },
+    {
+      "id": 5,
+      "profil_a": "Narcisista vulnerable (fragilidad oculta, víctima de todos, rabia reprimida)",
+      "miroir_b": "Empático/espejo emocional (valida, tranquiliza, se aleja de sus propias necesidades)",
+      "blessure_commune": "Niño Humillado + Abandonado (uno se protege quejándose, el otro dando)",
+      "activations": "M: Víctima, Acusador - P: Ira, Bloqueador - E: Humillado",
+      "reveil": "Dignidad sin queja (A); el límite sin la culpa (B)",
+      "piege": "El interminable triángulo víctima-salvador-persecudor",
+      "managers_cles": [
+        "victime",
+        "accusateur"
+      ],
+      "micro_pas": [
+        "Valida al otro sin olvidarte: «te escucho, y yo necesito…».",
+        "Mantén un límite simple, sin ahogarlo en excusas."
+      ],
+      "boucles": [
+        {
+          "domaine": "Conflicto / reproche",
+          "cycle": "A se percibe como víctima, rabia contenida (narcisista vulnerable) → B valida, tranquiliza, se corta de sus necesidades → A interpreta un silencio de B como persecución → el Acusador de A lo vuelve todo contra B → B se siente culpable y se disculpa → el Niño Culpable de A: saborea tener razón y luego se destruye → vuelta.",
+          "sortie": "A nombra su propia parte en el conflicto; B deja de disculparse por lo que no hizo."
+        },
+        {
+          "domaine": "Redes / comparación",
+          "cycle": "A observa el reconocimiento ajeno, se siente despreciado → B lo asegura, le devuelve una imagen halagadora → A duda que sea sincero, prueba, acusa → B se calla, herido → A grita en interno, se victimiza → el Niño Humillado de A quiere ser visto sin tener que pedirlo → vuelta.",
+          "sortie": "A deja de medir su valor por la mirada de B; B dice \"cuentas para mí\" sin someterse."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "rescuer",
+        "danse": "A sufre el mundo y se queja (Víctima), B valida y tranquiliza sin fin (Salvador) — la queja de A se alimenta del cuidado de B."
+      }
+    },
+    {
+      "id": 6,
+      "profil_a": "Controlador/rigidez (planificarlo todo, bloquearlo todo, ansiedad ante lo inesperado)",
+      "miroir_b": "Caótico/impredecible (desordenado, espontáneo, se olvida, cambia de opinión)",
+      "blessure_commune": "Niño aterrorizado (“el mundo no es seguro” – uno lo domina, el otro se rinde ante él)",
+      "activations": "M: Controlador (bloquea con más fuerza) — P: Enojado, TCA, Anestesista — E: Aterrorizado",
+      "reveil": "Tolerar la incertidumbre (A); crear contenedor (B)",
+      "piege": "La guerra por el control: uno se asfixia, el otro huye, cada uno de los cuales confirma la peligrosidad del mundo",
+      "managers_cles": [
+        "controleur"
+      ],
+      "micro_pas": [
+        "Deja que llegue un imprevisto sin controlarlo: no planifiques nada para una salida.",
+        "Respira 3 veces antes de «corregir» la organización del otro."
+      ],
+      "boucles": [
+        {
+          "domaine": "Planificación / comidas",
+          "cycle": "A lo prevé todo (Controlador), angustia ante lo imprevisto → B olvida, improvisa, cambia de opinión → A corrige, reface, se enoja → sube su Enojado/Crítico → B se siente controlado, siembra caos a propósito → el Niño Aterrorizado de A: sin marco, entra en pánico → vuelta.",
+          "sortie": "A suelta una variable no vital; B avisa antes de cambiar de opinión."
+        },
+        {
+          "domaine": "Salida / puntualidad",
+          "cycle": "A fija el horario, exige → B llega tarde, olvida la llave → el Controlador de A se tensa, vigila → B se siente juzgado y huye → el Niño Aterrorizado de A: lo imprevisto = peligro → exige más, B deserta → vuelta.",
+          "sortie": "A anuncia un límite tolerable de retraso; B se compromete con un solo aviso."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A lo cierra todo con llave (Perseguidor), B desborda y olvida (Víctima) — el caos de B justifica el control de A, el control de A alimenta el caos de B."
+      }
+    },
+    {
+      "id": 7,
+      "profil_a": "Perfeccionista/procrastinador por miedo (nunca nada es lo suficientemente bueno, no comienza ni termina)",
+      "miroir_b": "Despreocupado / “ya es suficiente” (cumple al 80%, no le importa la apariencia, juega)",
+      "blessure_commune": "Niño humillado (“un error = prueba de que no valgo nada”)",
+      "activations": "M: Perfeccionista, Crítico - P: Parálisis, Abandono - E: Humillado",
+      "reveil": "Lo imperfecto como prueba de valentía (A); cuidado y estándar (B)",
+      "piege": "Parálisis mutua: uno no se atreve, el otro no lo consigue",
+      "managers_cles": [
+        "perfectionniste",
+        "procrastinateur"
+      ],
+      "micro_pas": [
+        "Entrega voluntariamente un trabajo al 80 % — y observa qué pasa.",
+        "Di «ya basta» en voz alta, y luego detente de verdad."
+      ],
+      "boucles": [
+        {
+          "domaine": "Trabajo / proyecto",
+          "cycle": "A no empieza o no termina (perfeccionista procrastinador) → B entrega al 80%, sin miedo → A admira y luego se enfada, \"no está terminado\" → su Crítico lo aplasta, se bloquea → B, despreocupado, no lo entiende, insiste → A se siente juzgado, avergonzado, Niño Humillado → vuelta.",
+          "sortie": "A se permite una versión \"suficientemente buena\" en una fecha fija; B entrega aunque salga imperfecto y lo dice."
+        },
+        {
+          "domaine": "Casa / orden",
+          "cycle": "A quiere una casa impecable (Perfeccionista) → B juega, deja desorden, no ve el caos → el Crítico de A se queja, reface todo → B se siente infantilizado, lo hace a propósito → el Niño Humillado de A: el orden es su valor → vuelta.",
+          "sortie": "A acepta dos zonas imperfectas; B ordena una cosa y gana espacio de juego."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A juzga lo que no es perfecto (Perseguidor), B aguanta y se aleja (Víctima) — cuanto más critica A, más suelta B."
+      }
+    },
+    {
+      "id": 8,
+      "profil_a": "Ermitaño/solitario (pocos amigos, “prefiero estar solo”, desconfianza)",
+      "miroir_b": "Social/abierto (hace amigos en una noche, confía rápidamente, invade)",
+      "blessure_commune": "Niño humillado o aterrorizado (“otros terminan juzgando / el mundo es peligroso”)",
+      "activations": "M: Ermitaño, Hipervigilante - P: Fugitivo, Dorsal - E: Aterrorizado",
+      "reveil": "Confianza graduada (A); discernimiento (B)",
+      "piege": "El agotamiento social de uno, el sentimiento de abandono del otro",
+      "managers_cles": [
+        "ermite"
+      ],
+      "micro_pas": [
+        "Di que sí a UNA invitación, con un límite anunciado: «puedo ir 1 hora».",
+        "Responde a un mensaje el mismo día, sin reescribirlo tres veces."
+      ],
+      "boucles": [
+        {
+          "domaine": "Tarde / grupo",
+          "cycle": "A prefiere estar solo (Ermitaño), desconfianza → B se hace amigo en una noche, se confía rápido, invade → A se siente absorbido, su Ermitaño levanta un muro → B, frustrado, se lo cuenta a otros → A lo interpreta como traición → el Niño Aterrorizado de A: multitudes y confianza = peligro → vuelta.",
+          "sortie": "A avisa de su necesidad de salir; B limita sus confidencias a temas profundos."
+        },
+        {
+          "domaine": "Familia / fiestas",
+          "cycle": "A huye de las reuniones, cancela a última hora (Ermitaño) → B insiste, llama, \"ven, te esperamos\" → A se siente atrapado, su sistema sube → B se siente rechazado, herido → el Niño Abandonado de B → se enfada, A cede por culpa y luego lo vive mal → vuelta.",
+          "sortie": "A propone una presencia corta y definida; B acepta una fórmula parcial sin rencor."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "B invade y se confía rápido (Perseguidor), A soporta y se retira (Víctima) — la intrusión de B confirma a A que los demás agotan."
+      }
+    },
+    {
+      "id": 9,
+      "profil_a": "Intelectualizador/frío emocional (entiende por no sentir, alexitimia)",
+      "miroir_b": "Volcánica/hiperemocional (todo se siente, todo se dice, todo se desborda)",
+      "blessure_commune": "Niño Invisible (“mis emociones no tienen voz” – uno las exilia, el otro las grita)",
+      "activations": "M: Intelectualizador (análisis en lugar de sentimiento) — P: Disociativo, Desplazamiento — E: Invisible",
+      "reveil": "Sentir sin comprender primero (A); piensa antes de gritar (B)",
+      "piege": "La pareja “glaciar × volcán”: uno se congela, el otro arde",
+      "managers_cles": [
+        "intellectualiseur"
+      ],
+      "micro_pas": [
+        "Sentir antes de comprender: nombra la emoción del cuerpo («garganta apretada») antes de analizar.",
+        "Cuenta hasta 10 antes de gritar — luego di la necesidad que hay debajo."
+      ],
+      "boucles": [
+        {
+          "domaine": "Pelea / rumia",
+          "cycle": "A analiza para no sentir (Intelectualizador), alexitimia → B es volcánico, lo dice todo, se desborda → A se cierra, razona, deshumaniza el dolor de B → B grita para ser escuchado → el Niño Invisible de A: sentir = ahogarse → huye a la teoría → B se siente sola → vuelta.",
+          "sortie": "A nombra UNA emoción con su cuerpo; B dice la suya en una frase, sin encadenar."
+        },
+        {
+          "domaine": "Comida / tensión",
+          "cycle": "B vacía su sentir en la mesa, llora o grita → A, incómodo, cognitiza, \"hay que poner palabras\", relativiza → B se siente invalidado, sube → El Frío de A congela todo → el Niño Culpable de A: si siento, hago daño → se disculpa mecánicamente sin sentir → vuelta.",
+          "sortie": "A acoge la emoción de B sin resolverla; B pide ser escuchado, no corregido."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A congela la emoción en análisis (Perseguidor), B desborda y se derrumba (Víctima) — la frialdad de A aviva el volcán de B, que justifica la frialdad de A."
+      }
+    },
+    {
+      "id": 10,
+      "profil_a": "Culpador/acusador (proyecta todas las faltas, “cuestionate a ti mismo”—en los demás)",
+      "miroir_b": "Culpable crónico (se disculpa por todo, carga con toda la culpa)",
+      "blessure_commune": "Niño culpable (“Si es mi culpa, definitivamente soy malo”; uno lo deja en otro lugar, el otro lo recoge)",
+      "activations": "M: Acusador, Víctima - P: Ira - E: Culpable",
+      "reveil": "La responsabilidad como poder (A); la inocencia como un derecho (B)",
+      "piege": "Los engranajes: uno acusa, el otro choca: ​​la culpa da vueltas sin ser planteada",
+      "managers_cles": [
+        "accusateur"
+      ],
+      "micro_pas": [
+        "Reemplaza «es tu culpa» por «me sentí… cuando…».",
+        "Practica NO disculparte durante todo un día."
+      ],
+      "boucles": [
+        {
+          "domaine": "Error / responsabilidad",
+          "cycle": "A proyecta todas las culpas (Acusador), \"cuestionate\" → B, culpable crónico, se disculpa de todo y carga → A echa más leña, se siente justificado → B se calla, traga, se derrumba por dentro → el Niño Culpable de A: si no denuncia, él es la culpa → acusa más → vuelta.",
+          "sortie": "A pone SU parte del error antes de hablar de la de B; B deja de disculparse por lo que no le toca."
+        },
+        {
+          "domaine": "Comida / imponderable",
+          "cycle": "una reserva falla → A explota, es culpa de B → B se confunde en disculpas, se rebaja → A se siente enfadado con razón → B, de tanto, devuelve la acusación en una erupción (Enojada) → el Niño Humillado de A → se derrumba a su vez → vuelta.",
+          "sortie": "A nombra el contratiempo sin culpable; B dice \"no acepto ser la culpa\"."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A acusa (Perseguidor), B se disculpa (Víctima) — cada acusación confirma a B que es culpable, y a A que tiene razón."
+      }
+    },
+    {
+      "id": 11,
+      "profil_a": "Hipersexual/seductor (deseo como prueba de existencia, conquistas)",
+      "miroir_b": "Bloqueo sexual/deseo confinado (libido extinguida, miedo a la intimidad, no sexual) - Masculino",
+      "blessure_commune": "Humillado + Niño Invisible (mismo sistema: girar hacia el otro con tu impulso = peligro; uno lo hace compulsivamente, el otro ya no lo hace)",
+      "activations": "M: Seductor / Crítico — P: Hipersexual / Fugitivo — E: Invisible, Humillado",
+      "reveil": "Intimidad sin actuación (A); el legítimo impulso vital (B) — cf. el principio “erección creativa = erección sexual”",
+      "piege": "Consumo sin encuentro: uno se llena, el otro se vacía",
+      "managers_cles": [
+        "seducteur"
+      ],
+      "micro_pas": [
+        "Un gesto de intimidad sin actuación: un beso, una mano apoyada, nada más.",
+        "Di «te deseo» — o «no tengo ganas» — sin convertirlo en una prueba."
+      ],
+      "boucles": [
+        {
+          "domaine": "Sexualidad",
+          "cycle": "A vive el deseo como prueba de existencia (Hipersexual Seductor) → B tiene la libido apagada, miedo a la intimidad → A se acerca, se desborda → B se cierra, se congela → A se siente rechazado, su valor se derrumba (Niño Humillado) → corre tras otras conquistas para existir → B se siente usada → vuelta.",
+          "sortie": "A separa el deseo de su valor; B nombra su miedo a la intimidad sin rechazar a A."
+        },
+        {
+          "domaine": "Angustia / emoción",
+          "cycle": "A está en angustia, busca el abrazo para sentirse vivo → B, bloqueado sexual, consuela con palabras pero evita el cuerpo → A vive ese vacío como rechazo → provoca, seduce, se pone en escena → el Niño Invisible de A: sin deseo reflejado, no existe → B se siente usada → vuelta.",
+          "sortie": "A pregunta explícitamente \"¿cuento para ti?\"; B ofrece un contacto sin ambigüedad."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A empuja hacia el deseo (Perseguidor), B se congela y se retira (Víctima) — la presión de A anestesia a B, la anestesia de B deja hambriento a A."
+      }
+    },
+    {
+      "id": 12,
+      "profil_a": "Mentiroso / fabricante / imagen embellecida",
+      "miroir_b": "Hiperhonesto / brutalmente franco",
+      "blessure_commune": "Humillado + Niño Invisible (“si supieran la verdad sobre mí, me rechazarían” – uno lo embellece, el otro me lo echa en cara)",
+      "activations": "M: Guardián de la imagen, Fabulador — P: Declarador — E: Humillado",
+      "reveil": "La verdad simple como terreno seguro (A); diplomacia como respeto (B)",
+      "piege": "La guerra de la verdad: uno se siente traicionado, el otro se siente mentido",
+      "managers_cles": [
+        "gardien_image"
+      ],
+      "micro_pas": [
+        "Di UNA verdad incómoda, simple, sin adornarla.",
+        "Suaviza una franqueza sin traicionarla: «prefiero decirte…»."
+      ],
+      "boucles": [
+        {
+          "domaine": "Reunión / mentira",
+          "cycle": "A embellece, arregla, miente por la imagen (Guardián de la imagen, Mentiroso) → B, hiperhonesto, dice la verdad cruda → A es descubierto en flagrante, se siente humillado → El Frío/Acusador de A sube, contraataca → B insiste, desmonta → el Niño Humillado de A: ser desenmascarado = ser destruido → vuelta.",
+          "sortie": "A dice la verdad aunque fea en un punto menor; B anuncia la verdad con una palabra de empatía."
+        },
+        {
+          "domaine": "Pareja / no dicho",
+          "cycle": "A promete lo imposible para agradar, sesga → B, brutalmente franco, revela el desfase → A se siente acorralado, redobla la apuesta o huye → B, asqueado, se cierra → el Niño Culpable de A → se hunde → B lo abandona mentalmente → vuelta.",
+          "sortie": "A promete menos pero cumple; B templa la franqueza con un \"quiero que perdure\"."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "A embellece para existir (Víctima), B suelta la verdad cruda (Perseguidor) — la franqueza de B desnuda a A, que se protege embelleciendo más."
+      }
+    },
+    {
+      "id": 13,
+      "profil_a": "Ascético / “puro” / control de impulsos",
+      "miroir_b": "Desenfrenado/transgresor (sexo, exceso, cuerpo sin vergüenza)",
+      "blessure_commune": "Niño culpable (“el placer es una falta” – uno lo rechaza, el otro lo comete por ambos)",
+      "activations": "M: Crítica moral — P: Porno-castigo, Borracho — E: Culpable",
+      "reveil": "Placer inocente (A); el límite que protege (B)",
+      "piege": "Fascinación-repulsión: uno juzga, el otro disfruta... y la vergüenza circula",
+      "managers_cles": [
+        "ascete"
+      ],
+      "micro_pas": [
+        "Date un pequeño placer sin tener que merecerlo antes.",
+        "Pon un límite en frío, sin vergüenza ni provocación."
+      ],
+      "boucles": [
+        {
+          "domaine": "Sexualidad / abstinencia",
+          "cycle": "A vive sus impulsos como culpa, se prohíbe (Asceta) → B es desenfrenado, vive el cuerpo sin vergüenza → A juzga a B, moraliza, se retira → B se siente anormal, se rebela aún más → A se encierra, su Niño Culpable grita por dentro → B se burla o lo desafía → vuelta.",
+          "sortie": "A dice \"siento un juicio en mí, no sobre ti\"; B acepta el ritmo de A sin desafiarlo."
+        },
+        {
+          "domaine": "Comida / placer",
+          "cycle": "A controla su plato, el placer es sospechoso (Controlador Asceta) → B saborea, gasta, se desborda → A vigila y critica → B se siente vigilado, no libre → exagera para liberarse → el Niño Aterrorizado de A: perder el control = peligro → vuelta.",
+          "sortie": "A se permite un placer delimitado; B contiene el exceso en un marco acordado."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A se priva y juzga (Perseguidor), B desborda sin vergüenza (Víctima) — el impulso de B es la tentación que A combate, el control de A es la prisión que B huye."
+      }
+    },
+    {
+      "id": 14,
+      "profil_a": "Adicto al trabajo/sobreviviente (trabajando para existir, incapaz de hacer nada)",
+      "miroir_b": "Ocio / holgazanería (“vivo mi vida”, no produzco nada y estoy bien)",
+      "blessure_commune": "Abandonado + Niño Invisible (“Solo valgo lo que produzco”)",
+      "activations": "M: Perfeccionista, Buen Estudiante - P: Adicto al trabajo (el trabajo ES el bombero) - E: Abandonado",
+      "reveil": "Valor sin producción (A); significado y contribución (B)",
+      "piege": "Juicio mutuo: “vago” × “esclavo”",
+      "managers_cles": [
+        "survivant",
+        "perfectionniste"
+      ],
+      "micro_pas": [
+        "10 minutos de vacío voluntario al día, sin pantalla ni producción.",
+        "Ofrece a alguien una pequeña contribución concreta, sin contrapartida."
+      ],
+      "boucles": [
+        {
+          "domaine": "Descanso / fin de semana",
+          "cycle": "A trabaja para existir (Workaholic), no sabe no hacer nada → B es ocioso, deambula sin culpa → A admira y luego juzga, \"pierdes tu tiempo\" → B se siente inútil a sus ojos, se acuesta → A retoma la carga, se agota → su Enojado/Dorsal se activa, revienta → el Niño Invisible de A: sin producir, no es nada → vuelta.",
+          "sortie": "A planifica una hora real de descanso y la observa; B valora su descanso en voz alta."
+        },
+        {
+          "domaine": "Presupuesto / casa",
+          "cycle": "A carga todo, llena todo, se agota (Superviviente) → B no produce nada, \"vivo mi vida\" → A alimenta un rencor silencioso → su Crítico explota de golpe, acusa a B de aprovecharse → B se siente atacado, se evade → el Niño Abandonado de A: si me detengo, ¿me querrán? → vuelta.",
+          "sortie": "A pide ayuda concreta antes de la explosión; B propone una tarea real no solicitada."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A produce sin fin y juzga al otro (Perseguidor), B holgazanea y se siente juzgado (Víctima) — la agitación de A es la sombra del descanso, el descanso de B es la sombra de la acción."
+      }
+    },
+    {
+      "id": 15,
+      "profil_a": "Arrogante/superior (desprecia, nunca se disculpa)",
+      "miroir_b": "Autocrítico/humildemente aplastado (se menosprecia a sí mismo, rechaza los elogios)",
+      "blessure_commune": "Niño Humillado (uno se levanta para no caer, el otro se acuesta para no ser golpeado)",
+      "activations": "M: Arrogante, Crítico - P: Desprecio, Autohumillación - E: Humillado",
+      "reveil": "La fuerza que inclina (A); dignidad que se defiende (B)",
+      "piege": "Dos soledades: la torre de cristal y la bodega",
+      "managers_cles": [
+        "arrogant"
+      ],
+      "micro_pas": [
+        "Di «me equivoqué» sin añadir excusa ni justificación.",
+        "Recibe un cumplido con un simple «gracias»."
+      ],
+      "boucles": [
+        {
+          "domaine": "Debate / contradicción",
+          "cycle": "A se cree superior, desprecia (Arrogante) → B se rebaja, rechaza los cumplidos, se acuesta → A confunde esa sumisión con su valor → B, de tanto, explota o llora → el Niño Humillado de A se fisura (no puede ser amado si no domina) → A se cierra más fuerte → vuelta.",
+          "sortie": "B se mantiene firme en un desacuerdo; A escucha una inferioridad sin sentirse aniquilado."
+        },
+        {
+          "domaine": "Redes / imagen",
+          "cycle": "A exhibe su éxito, espera admiración (Arrogante/Guardián de la imagen) → B se compara, se desvaloriza en silencio → A no ve la herida → B se apaga, se aísla → el Niño Invisible de B → A se siente solo sin espejo → refuerza el discurso → vuelta.",
+          "sortie": "A pregunta \"¿qué te haría bien?\"; B se atreve a decir que está herido."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A se eleva (Perseguidor), B se rebaja (Víctima) — la superioridad de A necesita el aplastamiento de B para sostenerse."
+      }
+    },
+    {
+      "id": 16,
+      "profil_a": "Payaso/bufón (haz reír a la gente para que te mantengan, nunca hables en serio)",
+      "miroir_b": "Moral seria/rígida (nunca levedad, todo es serio)",
+      "blessure_commune": "Niño Invisible (“Sólo existo a través de la atención” – uno a través de la risa, el otro a través de la virtud)",
+      "activations": "M: Payaso, Buen Estudiante — P: Autohumillación, Dorsal — E: Invisible",
+      "reveil": "Ser visto serio (A); la ligereza que libera (B)",
+      "piege": "La pareja “divertida × aguafiestas”: uno nunca se toma en serio a sí mismo, el otro nunca se ríe",
+      "managers_cles": [
+        "clown"
+      ],
+      "micro_pas": [
+        "Sé serio una vez: di algo verdadero sin convertirlo en broma.",
+        "Permítete una ligereza, sin convertirla en una lección."
+      ],
+      "boucles": [
+        {
+          "domaine": "Familia / comida",
+          "cycle": "A hace reír para ser cuidado (Payaso), nunca serio → B es grave, todo es serio → A siente que B se aburre de él → fuerza, exagera el payaso → B se cierra, moraliza → el Niño Abandonado de A: sin risa, no lo cuidan → A se derrumba o huye → vuelta.",
+          "sortie": "A se atreve a un momento serio sin humor; B agradece a A su sensibilidad, no su número."
+        },
+        {
+          "domaine": "Crisis / duelo",
+          "cycle": "surge una situación grave → A bromea para desactivar su malestar (Payaso) → B lo toma mal, \"no es tema de broma\" → A se siente rechazado → sube su Enojado o Fugitivo → B se cierra, triste → el Niño Invisible de A: no logra ser tomado en serio → vuelta.",
+          "sortie": "A dice \"bromeo porque estoy desbordado, ayúdame\"; B acoge la impotencia de A."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "A hace reír para ser aceptado (Víctima), B juzga la ligereza (Perseguidor) — la seriedad de B confirma a A que debe divertir para existir."
+      }
+    },
+    {
+      "id": 17,
+      "profil_a": "Acaparador/avaro (dinero como seguridad absoluta, ansiedad por gastar)",
+      "miroir_b": "Derrochador/pródigo (el dinero se evapora, placer inmediato, deudas)",
+      "blessure_commune": "Niño abandonado + aterrorizado (“el dinero no se va; la gente sí”)",
+      "activations": "M: Acaparador, Controlador – P: Avaricia, Dorsal – E: Abandonado",
+      "reveil": "Seguridad a través de enlaces (A); previsión que protege (B)",
+      "piege": "La guerra del dinero que reemplaza a la guerra de los sentimientos",
+      "managers_cles": [
+        "thesauriseur"
+      ],
+      "micro_pas": [
+        "Gasta una pequeña cantidad en un placer, sin culparte.",
+        "Anota un gasto antes de hacerlo — luego espera una hora."
+      ],
+      "boucles": [
+        {
+          "domaine": "Dinero / restaurante",
+          "cycle": "A se angustia por gastar (Acaparador), vigila → B gasta, saborea, \"la vida es corta\" → A se tensa, reprocha → B se siente limitado, gasta aún más → el Controlador de A entra en pánico (Niño Aterrorizado: faltar = peligro) → vuelta.",
+          "sortie": "A fija un presupuesto de placer no negociable; B mantiene el marco acordado sin excederlo."
+        },
+        {
+          "domaine": "Proyecto común / compra",
+          "cycle": "A pospone, duda, aprieta el ahorro → B quiere, compra impulsivamente → A corrige, retira → B se siente infantilizado, se rebela → el Niño Aterrorizado de A → retoma el control del dinero → B vive el dinero como alegría, A como seguridad → conflicto → vuelta.",
+          "sortie": "A anuncia \"tenemos X para esto\"; B espera una decisión conjunta para ese monto."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A aprieta y controla (Perseguidor), B gasta y desordena (Víctima) — el gasto de B amenaza la seguridad de A, la restricción de A ahoga a B."
+      }
+    },
+    {
+      "id": 18,
+      "profil_a": "Celoso/posesivo/vigilante",
+      "miroir_b": "Libre/despreocupado (“Vivo mi vida, no debo nada”)",
+      "blessure_commune": "Niño Abandonado (“si no los cuido, me dejan”)",
+      "activations": "M: Controlador, Comparador - P: Enojado - E: Abandonado",
+      "reveil": "Seguridad interna (A); el compromiso que tranquiliza (B)",
+      "piege": "La profecía se cumplió: uno se asfixia, el otro se va",
+      "managers_cles": [
+        "jaloux",
+        "controleur"
+      ],
+      "micro_pas": [
+        "Di la necesidad en lugar de vigilar: «cuando estás lejos, tengo miedo de perderte».",
+        "Tranquiliza una vez al día, espontáneamente, sin que te lo pidan."
+      ],
+      "boucles": [
+        {
+          "domaine": "Redes / salida",
+          "cycle": "A vigila, celoso, posesivo (Celoso Controlador) → B vive su vida, no rinde cuentas → A interroga, husmea, exige pruebas → B se siente oprimido, se aleja más → el Niño Abandonado de A: cuanto más libre B, más teme A perderlo → vuelta.",
+          "sortie": "A expresa el miedo (\"tengo miedo de perderte\") en vez de vigilar; B tranquiliza espontáneamente con un gesto."
+        },
+        {
+          "domaine": "Pareja / amigos",
+          "cycle": "B tiene amigos sin A, sale sin él (Libre) → A sufre, pone reglas → B se siente en la cárcel, esconde salidas → A las descubre, ruge, acusador → el Niño Abandonado de A → B ve la proyección y asusta → vuelta.",
+          "sortie": "A pide un momento compartido para sentirse seguro; B anuncia sus salidas sin esconderlas."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A vigila y acusa (Perseguidor), B se siente enjaulado y escapa (Víctima) — la libertad de B aviva los celos de A, los celos de A justifican la huida de B."
+      }
+    },
+    {
+      "id": 19,
+      "profil_a": "Dependiente emocional/fusional (vive sólo en pareja, ansiedad por separación)",
+      "miroir_b": "Hiperindependiente (“no necesito a nadie”, distancia)",
+      "blessure_commune": "Niño abandonado (uno se aferra, el otro no se aferra; mismo miedo, dos respuestas)",
+      "activations": "M: Dador, Ansioso — P: Declarante, Súplica — E: Abandonado",
+      "reveil": "Autonomía en el enlace (A); la necesidad declarada (B)",
+      "piege": "La pareja “abrazadera × huida”: cada uno confirma el miedo del otro",
+      "managers_cles": [
+        "sauveur"
+      ],
+      "micro_pas": [
+        "Pasa una tarde sin el otro, voluntariamente, sin llenar el vacío.",
+        "Di «te necesito» sobre un punto concreto."
+      ],
+      "boucles": [
+        {
+          "domaine": "Vuelta / necesidad",
+          "cycle": "A solo vive en la pareja (dependiente afectivo), angustia de separación → B es hiperindependiente, \"no necesito a nadie\" → A llama, verifica, se aferra → B se siente ahogado, toma distancia → el Niño Abandonado de A entra en pánico, se aferra más → B huye más → vuelta.",
+          "sortie": "A cultiva una actividad fuera de la pareja; B inicia una cercanía antes de que se la pidan."
+        },
+        {
+          "domaine": "Conflicto / reconciliación",
+          "cycle": "Tras una pelea, A teme que sea el fin, re-fusiona a prisa → B necesita soledad para repararse → A vive esa necesidad como abandono → suplica, exige cercanía → B se cierra → el Niño Humillado de A: depender = ser rechazado → vuelta.",
+          "sortie": "A tolera 24h de distancia; B vuelve y lo manifiesta explícitamente."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "A se aferra y suplica (Víctima), B se distancia y se hiela (Perseguidor) — la demanda de A ahuyenta a B, la huida de B aterroriza a A."
+      }
+    },
+    {
+      "id": 20,
+      "profil_a": "Cuidador/terapeuta/salvador de angustia",
+      "miroir_b": "Enfermedad crónica/en crisis permanente",
+      "blessure_commune": "Niño Parentificado (“Debo salvar, no tengo derecho a ser débil”)",
+      "activations": "M: Salvador, Reparador — P: Agotamiento, Dorsal — E: Parentificado",
+      "reveil": "Recibir atención (A); recupera tu poder (B)",
+      "piege": "Agotamiento del cuidador e impotencia crónica de la persona que recibe el cuidado: un rol para dos",
+      "managers_cles": [
+        "sauveur"
+      ],
+      "micro_pas": [
+        "Recibe un cuidado sin devolverlo: deja que alguien haga algo por mí.",
+        "Retoma UNA pequeña responsabilidad concreta, hoy."
+      ],
+      "boucles": [
+        {
+          "domaine": "Salud / agotamiento",
+          "cycle": "A cura, rescata, ayuda (Cuidador Salvador) → B está en crisis permanente, se deja llevar → A se vacía, deja de escucharse → sus partes Dorsal/Glotón se activan de noche → B pide más → el Niño Parentificado de A: si no salva, no tiene derecho a ser niño → vuelta.",
+          "sortie": "A marca la hora en que deja de salvar; B aprende a pedir a varias fuentes, no solo a A."
+        },
+        {
+          "domaine": "Comida / queja",
+          "cycle": "B repite la misma queja (enfermedad, cansancio) → A escucha, propone soluciones → B \"sí pero\" → A se agota, su Crítico murmura \"siempre igual\" → el Enojado de A explota → B se siente abandonado, añade más → el Niño Culpable de A → vuelta.",
+          "sortie": "A dice \"no puedo salvarte, pero estoy aquí\"; B nombra qué espera exacto (escuchar, no resolver)."
+        }
+      ],
+      "triangle": {
+        "a": "rescuer",
+        "b": "victime",
+        "danse": "A salva y cuida (Salvador), B está en crisis permanente (Víctima) — el malestar de B da un rol a A, el cuidado de A mantiene el malestar de B."
+      }
+    },
+    {
+      "id": 21,
+      "profil_a": "Planificador/organizado/ritual",
+      "miroir_b": "Improvisador/espontáneo (nada está planeado, todo es posible)",
+      "blessure_commune": "Niño aterrorizado (uno se asegura con lo predecible, el otro evitando cualquier compromiso)",
+      "activations": "M: Controlador, Planificador — P: Anestesista — E: Aterrorizado",
+      "reveil": "Lo inesperado como aventura (A); el marco como libertad (B)",
+      "piege": "La agenda contra el caos: nadie está de acuerdo",
+      "managers_cles": [
+        "planificateur",
+        "controleur"
+      ],
+      "micro_pas": [
+        "Di «ya veremos» y vívelo de verdad: una salida sin plan.",
+        "Avisa con antelación de una sola cosa importante."
+      ],
+      "boucles": [
+        {
+          "domaine": "Viaje / improvisación",
+          "cycle": "A planifica, ritualiza todo (Planificador) → B improvisa, todo es posible → A corrige el itinerario, se enoja → B vuelve a cambiar → el Controlador de A se tensa (Niño Aterrorizado: sin plan, peligro) → vuelta.",
+          "sortie": "A guarda un hueco libre en el plan; B avisa antes de deshacerlo todo."
+        },
+        {
+          "domaine": "Comida / horarios",
+          "cycle": "A quiere la comida a hora fija, un ritual → B come cuando quiere, picotea → A se siente ignorado, su marco vacila → impone, sube el juicio → B lo vive como control → el Niño Aterrorizado de A → vuelta.",
+          "sortie": "A involucra a B en los horarios como elección común; B respeta un ritual fijo elegido por ambos."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A lo organiza todo (Perseguidor), B improvisa y desordena (Víctima) — lo imprevisto de B arruina los planes de A, los planes de A ahogan a B."
+      }
+    },
+    {
+      "id": 22,
+      "profil_a": "Sedentario/apagado corporal (cuerpo ignorado, poca energía)",
+      "miroir_b": "Sensorial / adrenalina / deportivo (cuerpo vivo, sensaciones fuertes)",
+      "blessure_commune": "Niño Invisible + Humillado (“mi cuerpo no es un lugar seguro”)",
+      "activations": "M: Ermitaño, Intelectualizador — P: Dorsal — E: Invisible",
+      "reveil": "Reinhabitar el cuerpo (A); fondeo y descanso (B)",
+      "piege": "Apatía versus inquietud: dos formas de no encontrarse",
+      "managers_cles": [
+        "ermite",
+        "intellectualiseur"
+      ],
+      "micro_pas": [
+        "2 minutos de presencia en el cuerpo: pies en el suelo, respiración, hombros.",
+        "Un momento de descanso sin estimulación — solo estar."
+      ],
+      "boucles": [
+        {
+          "domaine": "Deporte / ritual",
+          "cycle": "A es sedentario, cuerpo apagado, energía baja (Dorsal) → B es sensorial, adrenalina, deportista → B entrena, presiona → A se siente inútil, no puede → el Bloqueador/Ermitaño de A huye → B se desanima, se burla suavemente → el Niño Humillado de A → vuelta.",
+          "sortie": "A elige una actividad ligera de baja intensidad; B celebra la constancia, no el rendimiento."
+        },
+        {
+          "domaine": "Cuerpo / amor",
+          "cycle": "A ignora su cuerpo, energía apagada → B, táctil y sensorial, quiere actividades intensas → A se siente en falta, se acuesta → B frustrado, gasta su energía solo → el Niño Invisible de A: su cuerpo no cuenta → B se siente sola en su cuerpo vivo → vuelta.",
+          "sortie": "A despierta su cuerpo con un micro-gesto diario; B domestica su intensidad para no exigirla."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "B vive por el cuerpo y la adrenalina (Perseguidor), A se siente superado y se apaga (Víctima) — la energía de B devuelve a A a su cuerpo ignorado."
+      }
+    },
+    {
+      "id": 23,
+      "profil_a": "Resentida/tenaz (no perdona, mantiene una lista)",
+      "miroir_b": "Perdonar / “Estoy siguiendo adelante” (déjalo ir rápidamente, olvídalo)",
+      "blessure_commune": "Niño abandonado + humillado (“perdonar = ser abandonado/herido otra vez”)",
+      "activations": "M: Vigilante, Acusador - P: Enojado - E: Abandonado",
+      "reveil": "Justicia sin odio (A); Memoria sin el veneno (B)",
+      "piege": "La pareja “fiscal × amnésico”: la lista de agravios ante la ausencia de cuentas",
+      "managers_cles": [
+        "rancunier"
+      ],
+      "micro_pas": [
+        "Escribe el rencor en papel, luego guárdalo 24 h antes de cualquier decisión.",
+        "Recuerda una herida antigua sin volver a vivirla."
+      ],
+      "boucles": [
+        {
+          "domaine": "Conflicto antiguo / perdón",
+          "cycle": "A guarda la lista, no perdona (Rencoroso) → B suelta, olvida, \"paso a otra cosa\" → A vuelve a sacar el tema → B cree que todo está arreglado, se desestabiliza → A se siente con derecho, sube el Acusador → B piensa que A quiere conflicto → el Niño Culpable (o Abandonado) de A → vuelta.",
+          "sortie": "A dice lo que no está arreglado cuando empieza; B se compromete con una reparación precisa, no un olvido."
+        },
+        {
+          "domaine": "Familia / fiesta",
+          "cycle": "En una fiesta, resurge una herida vieja → A se cierra, rumia, castiga en silencio (Rencoroso) → B no ve nada, disfruta → A lo vive como indiferencia → se aísla, aguanta por dentro → B, libre, no entiende → el Niño Abandonado de A (nadie repara) → vuelta.",
+          "sortie": "A nombra su herida esa misma noche; B escucha sin negar la historia de A."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A guarda la lista de agravios (Perseguidor), B suelta y soporta el rencor (Víctima) — el perdón de B vuelve injustificable el rencor de A, lo que lo refuerza."
+      }
+    },
+    {
+      "id": 24,
+      "profil_a": "Frío / distante / “No necesito cariño”",
+      "miroir_b": "Táctil/demostrativo (abrazos, palabras dulces, necesidad de contacto)",
+      "blessure_commune": "Niño Invisible (\"Me faltaba cariño, uno lo exilió, el otro lo suplicó\")",
+      "activations": "M: Ermitaño, Intelectualizador — P: Disociativo — E: Invisible",
+      "reveil": "El contacto que no mata (A); la distancia que no se rinde (B)",
+      "piege": "Uno se siente asfixiado, el otro se siente congelado.",
+      "managers_cles": [
+        "froid",
+        "ermite"
+      ],
+      "micro_pas": [
+        "Un contacto elegido y nombrado: «necesito un abrazo» o «ahora no».",
+        "Una distancia anunciada con fecha de regreso: «vuelvo en 1 hora»."
+      ],
+      "boucles": [
+        {
+          "domaine": "Afecto / ternura",
+          "cycle": "A es frío, distante, \"no necesito afecto\" (Frío/Ermitaño) → B es táctil, cariñoso, demostrativo → B se acurruca, A se tensa, se retira → B se siente rechazado, hace más → A huye más → el Niño Aterrorizado de A: el contacto = exponerse → vuelta.",
+          "sortie": "A define un contacto que tolera y lo pide; B dice la necesidad de un abrazo en vez de tomarlo por la fuerza."
+        },
+        {
+          "domaine": "Crisis / consuelo",
+          "cycle": "B está consternado, necesita que lo abracen → A se congela, ofrece soluciones o silencio → B se siente solo en su dolor → A, incómodo, se ocupa en otra parte → el Niño Abandonado de B → B lo rechaza con frialdad → A se siente culpable → vuelta.",
+          "sortie": "A consiente un contacto acordado durante la angustia; B dice \"solo quiero que te quedes\"."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A priva de afecto (Perseguidor), B mendiga muestras de amor (Víctima) — la demanda de B cierra a A, el retiro de A aterroriza a B."
+      }
+    },
+    {
+      "id": 25,
+      "profil_a": "Reactivo/impulsivo (actúa primero, piensa después, se arrepiente)",
+      "miroir_b": "Pensativo/lento (piensa primero, actúa después, pierde el momento)",
+      "blessure_commune": "Niño Aterrorizado (uno huye del vacío mediante la acción, el otro huye de la acción mediante el pensamiento)",
+      "activations": "M: Sobreviviente, Acusador - P: Enojado, Reportero - E: Aterrorizado",
+      "reveil": "La pausa que salva (A); el alce que vive (B)",
+      "piege": "La pareja “fuego × hielo”: uno quema el escenario antes de que llegue el otro",
+      "managers_cles": [
+        "accusateur",
+        "survivant"
+      ],
+      "micro_pas": [
+        "Antes de actuar: 3 respiraciones, luego «¿qué quiero de verdad?».",
+        "Aprovecha una ocasión en el minuto, sin sopesarlo todo."
+      ],
+      "boucles": [
+        {
+          "domaine": "Decisión / imprevisto",
+          "cycle": "A actúa primero, piensa después, se arrepiente (Reactivo) → B piensa primero, actúa después, a veces pierde el momento → A precipita, B duda → el Perseguidor de A lo acusa por obrar mal, y a B por no vivir → el Niño Humillado de A se rebela o se derrumba → vuelta.",
+          "sortie": "A se impone una pausa de 5 min antes de decidir; B se da un plazo para responder."
+        },
+        {
+          "domaine": "Pelea / escalada",
+          "cycle": "sube la tensión → A grita, lanza, actúa impulsivo (Reactivo) → B calla, retrocede, analiza → A interpreta el silencio como desprecio, añade más → B \"pierde el momento\" y deja arder → el Niño Aterrorizado de A → vuelta.",
+          "sortie": "A dice \"estoy demasiado caliente, vuelvo en 10 min\"; B vuelve a hablar después de la pausa sin reproche."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A desborda y corta la palabra (Perseguidor), B calla y pierde el momento (Víctima) — la impulsividad de A impide la lentitud de B, la lentitud de B irrita a A."
+      }
+    },
+    {
+      "id": 26,
+      "profil_a": "Rojo (conciencia) – poder, combate, inmediatez",
+      "miroir_b": "Azul/Naranja emergente — orden, análisis, proyecto",
+      "blessure_commune": "El mismo nivel de supervivencia (dos sistemas que nunca han conocido la seguridad)",
+      "activations": "M: Acusador, Sobreviviente - P: Enojado - E: Todos",
+      "reveil": "Potencia al servicio del enlace (A); El análisis al servicio de la acción (B).",
+      "piege": "El diálogo de los sordos: “gritas” / “no dices nada”",
+      "managers_cles": [
+        "accusateur",
+        "survivant"
+      ],
+      "micro_pas": [
+        "Traduce una emoción en petición: «siento…, necesito…».",
+        "Decide en 5 minutos en lugar de analizar 5 días."
+      ],
+      "boucles": [
+        {
+          "domaine": "Conflicto de poder / trabajo",
+          "cycle": "A es Rojo: fuerza, combate, inmediatez (Acusador/Superviviente, reactividad) → B es Azul/Naranja: orden, análisis, proyecto → A quiere el poder directo, B quiere el marco → cada uno ve al otro como amenaza → el Niño Aterrorizado de A (perder la lucha) y el Niño Humillado de B (ser superado) → vuelta.",
+          "sortie": "A convierte un deseo de poder en petición clara; B da a A una posición de impacto rápido."
+        },
+        {
+          "domaine": "Decisión de equipo",
+          "cycle": "A decide rápido, quiere ganar (Rojo) → B analiza, planifica largo (Azul/Naranja) → A ve la lentitud de B como debilidad, B la prisa de A como peligro → el conflicto explota → cada uno proyecta su sombra sobre el otro → vuelta.",
+          "sortie": "A propone un paso rápido y ganable; B muestra que el marco protege a A, no que lo limita."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "persecuteur",
+        "danse": "Dos fuerzas que chocan: A golpea fuerte y de inmediato, B estructura y controla — cada uno vive al otro como amenaza, ninguno cede: dos Perseguidores."
+      }
+    },
+    {
+      "id": 27,
+      "profil_a": "Víctima supuesta (me pasa de todo, “sí pero”, negativa a soluciones)",
+      "miroir_b": "Presunto verdugo (domina, humilla, no siente)",
+      "blessure_commune": "Niño Humillado + Aterrorizado (la escena original de impotencia, repetida desde ambos lados)",
+      "activations": "M: Víctima — P: Denuncia, Somatización — E: Humillada",
+      "reveil": "Poder sobre la propia vida (A); vulnerabilidad (B)",
+      "piege": "⚠️ Trampa máxima: si la activación es unidireccional y B nunca se cuestiona, NO es un espejo, es un sistema de violencia. El despertar sólo es posible con un tercero y la separación. Nunca leas esta línea como justificación para quedarte.",
+      "managers_cles": [
+        "victime"
+      ],
+      "micro_pas": [
+        "Reemplaza «sí, pero» por «¿qué puedo hacer yo, ahora?».",
+        "Reconoce al otro sin dominar: «tuviste razón en ese punto»."
+      ],
+      "boucles": [
+        {
+          "domaine": "Acusación / dominación",
+          "cycle": "A se presenta como víctima de todo, \"sí pero\", rechazo de soluciones → B asume un rol de verdugo, domina, humilla → A juega la queja para ser visto, B la dominación para sentirse poderoso → cada uno despierta la sombra del otro → el Niño Humillado en ambos → escalada o dependencia → vuelta.",
+          "sortie": "A sale del rol de víctima nombrando un poder; B sale del rol de verdugo desactivando la dominación."
+        },
+        {
+          "domaine": "Relato / realidad",
+          "cycle": "A repite que sufre, acumula pruebas de la injusticia → B, exasperado, \"basta, asume\" → A se siente incomprendido, secuestrado, se victimiza más → B se endurece, domina → el Niño Culpable y el Niño Humillado de A se refuerzan mutuamente → vuelta.",
+          "sortie": "A reconoce una mínima parte de responsabilidad; B reemplaza el desprecio por un marco firme y justo."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "A soporta y reivindica su impotencia (Víctima), B domina y humilla (Perseguidor) — cada humillación confirma a A que es víctima, cada queja confirma a B que trata con una víctima."
+      }
+    },
+    {
+      "id": 28,
+      "profil_a": "Sabio / lento / meditativo",
+      "miroir_b": "Inquieto/hiperactivo/con prisa",
+      "blessure_commune": "Niño Aterrorizado + Invisible (“si me detengo, me desplomo / si no me muevo, no existo”)",
+      "activations": "M: Evitativo, Dorsal - P: Sueño, Disociación - E: Aterrorizado",
+      "reveil": "La acción que ancla (A); el silencio que nutre (B)",
+      "piege": "La torre de marfil contra el torbellino",
+      "managers_cles": [
+        "evitant"
+      ],
+      "micro_pas": [
+        "3 minutos de inmovilidad voluntaria, sin objetivo, sin pantalla.",
+        "Una acción rápida y concreta, sin aplazarla."
+      ],
+      "boucles": [
+        {
+          "domaine": "Ritmo / diario",
+          "cycle": "A es lento, asceta, meditativo quieto (Sabio) → B es agitado, apurado, hiperactivo → B presiona, A se detiene → B vive el ritmo de A como pérdida, A el de B como histeria → el Niño Aterrorizado de A (agitación = peligro) y el Niño Inquieto de B (detenerse = la muerte) → vuelta.",
+          "sortie": "A pone un tiempo común de pausa; B ve en A no lentitud sino profundidad."
+        },
+        {
+          "domaine": "Proyecto / energía",
+          "cycle": "A saborea el proceso, sin prisa → B quiere resultados ya, se activa → A lo encuentra ruidoso, B lo encuentra blando → el Controlador de B se dispara, A se repliega → el Niño Invisible de A (su profundidad no se ve) → vuelta.",
+          "sortie": "A muestra qué produce la lentitud; B asigna un tiempo de calma sin llenarlo."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "B apura y se agita (Perseguidor), A se deja desbordar y se retira (Víctima) — la agitación de B es insoportable para el silencio de A, el silencio de A es vacío para B."
+      }
+    }
+  ],
+  "styles_attachement": [
+    {
+      "style": "Evitativo (huye de la intimidad, se exilia)",
+      "miroir": "Preocupado/protestando (persecuciones, pruebas, gritos pidiendo tranquilidad)",
+      "dynamique": "La danza de la persecución-huida: cada retirada de uno desencadena la persecución del otro, cada persecución desencadena la retirada"
+    },
+    {
+      "style": "Preocupado (apego, ansiedad)",
+      "miroir": "Evitativo (distancia, exilio, donaciones diferidas)",
+      "dynamique": "Espejo exacto de la línea de arriba (ambas líneas son el mismo par)"
+    },
+    {
+      "style": "Desorganizado (correr-huir, caos)",
+      "miroir": "Seguro (permanece, contiene, no desestabiliza)",
+      "dynamique": "Espejo curativo: uno aprende a tener seguridad a través del contacto con un sistema que ni abandona ni invade, pero cuidado: lo seguro se agota si lo desorganizado no participa."
+    },
+    {
+      "style": "Seguro (integrado)",
+      "miroir": "(ya no tiene un espejo de lesión - atrae espejos de crecimiento: una persona que porta una cualidad que aspira a desarrollar, sin activación traumática)",
+      "dynamique": "No hay despertar a través de la crisis, sino despertar a través de la expansión."
+    }
+  ],
+  "managers_cles": {
+    "1": [
+      "muet",
+      "bon_eleve"
+    ],
+    "2": [
+      "ermite",
+      "controleur"
+    ],
+    "3": [
+      "sauveur"
+    ],
+    "4": [
+      "arrogant",
+      "gardien_image"
+    ],
+    "5": [
+      "victime",
+      "accusateur"
+    ],
+    "6": [
+      "controleur"
+    ],
+    "7": [
+      "perfectionniste",
+      "procrastinateur"
+    ],
+    "8": [
+      "ermite"
+    ],
+    "9": [
+      "intellectualiseur"
+    ],
+    "10": [
+      "accusateur"
+    ],
+    "11": [
+      "seducteur"
+    ],
+    "12": [
+      "gardien_image"
+    ],
+    "13": [
+      "ascete"
+    ],
+    "14": [
+      "survivant",
+      "perfectionniste"
+    ],
+    "15": [
+      "arrogant"
+    ],
+    "16": [
+      "clown"
+    ],
+    "17": [
+      "thesauriseur"
+    ],
+    "18": [
+      "jaloux",
+      "controleur"
+    ],
+    "19": [
+      "sauveur"
+    ],
+    "20": [
+      "sauveur"
+    ],
+    "21": [
+      "planificateur",
+      "controleur"
+    ],
+    "22": [
+      "ermite",
+      "intellectualiseur"
+    ],
+    "23": [
+      "rancunier"
+    ],
+    "24": [
+      "froid",
+      "ermite"
+    ],
+    "25": [
+      "accusateur",
+      "survivant"
+    ],
+    "26": [
+      "accusateur",
+      "survivant"
+    ],
+    "27": [
+      "victime"
+    ],
+    "28": [
+      "evitant"
+    ]
+  },
+  "stades_eveil": [
+    {
+      "n": 1,
+      "nom": "Reconocimiento",
+      "description": "El impacto de la familiaridad: \"Te conozco desde siempre\". La neurocepción reconoce la misma frecuencia de lesión.",
+      "piege": "Confundir reconocimiento y destino, y lanzarse a la fusión."
+    },
+    {
+      "n": 2,
+      "nom": "Activación",
+      "description": "Todo el sistema se pone en pie: los directivos defienden, los bomberos conducen, los exiliados gritan. Cada comportamiento del otro es una clave.",
+      "piege": "Huir (“somos incompatibles”) o aferrarnos (“voy a arreglarlo”): ambos son escapes: el espejo debe leerse, no escaparse ni repararse."
+    },
+    {
+      "n": 3,
+      "nom": "Crisis / Disonancia",
+      "description": "El punto de ruptura... Y algo que no encaja con la historia. Ésta es la brecha a través de la cual puede pasar el despertar, siempre que un tercero (o un Yo accesible) nombre el sistema.",
+      "piege": "Cerrar la disonancia bloqueando la historia (idealización total o devaluación total)."
+    },
+    {
+      "n": 4,
+      "nom": "Integración o repetición",
+      "description": "Todos reintegran su parte desautorizada, o el mismo espejo regresa bajo una nueva cara. Si se repite el mismo patrón con diferentes caras, la lección no se aprende.",
+      "piege": "Esperar a que el otro cambie en lugar de reinstalar tu propia parte."
+    }
+  ],
+  "discrimination_miroir_leurre": [
+    {
+      "indice": "Dirección de activación",
+      "vrai": "Bilateral: él me provoca y yo lo provoco.",
+      "leurre": "Unidireccional: sólo estoy activado"
+    },
+    {
+      "indice": "Reconocimiento",
+      "vrai": "“Te conozco desde siempre” - recíproco",
+      "leurre": "Estoy solo al sentir la intensidad."
+    },
+    {
+      "indice": "Lección",
+      "vrai": "Cada conflicto revela UNA parte específica y nombrable.",
+      "leurre": "Conflictos borrosos, sin enseñanza, siempre los mismos."
+    },
+    {
+      "indice": "Narrativo",
+      "vrai": "La disonancia existe (“no es lo que pensaba”)",
+      "leurre": "Historia bloqueada (idealización y luego devaluación total)"
+    },
+    {
+      "indice": "Vulnerabilidad",
+      "vrai": "Ambos terminan mostrando su dolor.",
+      "leurre": "Sólo uno es revelado; el otro permanece en una posición de poder"
+    },
+    {
+      "indice": "Asunto",
+      "vrai": "Posible integración (con o sin la relación)",
+      "leurre": "Consumo, explotación, dependencia... sin aprendizaje"
+    }
+  ],
+  "questions_miroir": [
+    {
+      "id": "q1",
+      "titre": "¿Qué es lo que más me irrita de otras personas?",
+      "cible": "La parte desautorizada (proyección negativa): “No soporto a la gente que grita” = Tuve que tragarme la voz.",
+      "reponse": ""
+    },
+    {
+      "id": "q2",
+      "titre": "¿Qué admiro/deseo en secreto?",
+      "cible": "La parte exiliada (proyección positiva) – “Admiro a la gente que se atreve” = He exiliado mi audacia.",
+      "reponse": ""
+    },
+    {
+      "id": "q3",
+      "titre": "¿Qué repito siempre, con caras distintas?",
+      "cible": "La herida común (resonancia) – “todos se van eventualmente” = Yo elijo a las personas que se van.",
+      "reponse": ""
+    },
+    {
+      "id": "q4",
+      "titre": "¿De qué estoy huyendo o temiendo más en el mundo?",
+      "cible": "El Exilio central – “ser visto como un monstruo” = la vergüenza del Niño Humillado.",
+      "reponse": ""
+    },
+    {
+      "id": "q5",
+      "titre": "Si esta cualidad o defecto que veo en el otro fuera una PARTE DE MÍ escondida en la Sombra... ¿qué edad tendría, y qué necesitaría de mi Self?",
+      "cible": "La reintegración (la «pregunta mágica» del IFS) — la proyección se convierte en puerta de entrada: nombrar la parte, darle una edad, confiarla al Self (U-Turn y luego reparentalización).",
+      "reponse": ""
+    }
+  ],
+  "decodage_projections": [
+    {
+      "reaction": "«Lo juzgo, lo desprecio, me da asco.»",
+      "type": "MANAGER",
+      "ombre": "El Exiliado reprimido + el permiso de vivir la necesidad prohibida (soltar, decir no, descansar).",
+      "cle": "La intensidad: una simple observación viene del Self; una reacción visceral y cargada es una proyección."
+    },
+    {
+      "reaction": "«Lo odio, es peligroso, monstruoso, debo huir o destruirlo.»",
+      "type": "BOMBERO",
+      "ombre": "El terror de un trauma pasado + la propia rabia defensiva del sistema, demonizada.",
+      "cle": "La desproporción: el Bombero combate afuera el terror que vive adentro, creyendo en un mal externo."
+    },
+    {
+      "reaction": "«Es fascinante, perfecto, me salvará o me completará.»",
+      "type": "EXILIADO",
+      "ombre": "«El Oro de la Sombra»: el propio valor, poder creativo y belleza delegados al otro.",
+      "cle": "La idealización sin fisuras: las cualidades vistas en el otro son el espejo de lo encerrado en uno mismo."
+    }
+  ],
+  "regle_miroir": "Un espejo refleja en ambas direcciones. Si el otro nunca refleja nada, no es un espejo: es una pared.",
+  "loi_parentale": {
+    "texte": "« Mientras sigamos guardando rencor a un progenitor —aunque sea inconscientemente—, nuestras relaciones con todas las demás personas del mismo sexo que ese progenitor serán difíciles. » El espejo se juega primero ahí: con las figuras que se parecen al progenitor.",
+    "cles": [
+      "Las personas del mismo sexo que el progenitor disparan con más fuerza, sin razón aparente",
+      "El progenitor con quien mejor nos llevábamos en la adolescencia es a menudo con quien más tenemos que resolver",
+      "Lo que no se ha resuelto con un progenitor se perpetúa con las personas del mismo sexo que él"
+    ]
+  },
+  "triangle_vie": {
+    "texte": "Toda herida se activa de tres maneras, en el mismo grado: me afecta la actitud de otro; me siento culpable hacia alguien; sufro por lo que me hago a mí mismo. Si solo una de las tres es consciente, las otras dos existen igualmente.",
+    "exemple": "Ejemplo: si te molesta mucho que te mientan, te sientes culpable de mentir en el mismo grado — y te mientes a ti mismo. El triángulo se convierte en un detector: en cuanto tomas conciencia de un «soy», sabes que las otras dos caras existen."
+  }
+}

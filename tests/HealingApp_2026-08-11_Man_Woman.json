@@ -1,0 +1,2401 @@
+{
+ "version": 2,
+ "actif": "woman",
+ "langue": "fr",
+ "profils": {
+  "man": {
+   "profil": {
+    "nom": "man",
+    "genre": "homme",
+    "age": 36,
+    "creeLe": "2026-08-05"
+   },
+   "reponses": {
+    "8.7.A": {},
+    "8.7.B": {},
+    "8.7.C": {},
+    "8.6.D": {},
+    "8.6.B": {},
+    "8.6.A": {},
+    "8.4.B": {},
+    "8.3.C": {},
+    "8.2.B": {},
+    "8.2.A": {},
+    "8.1.B": {},
+    "7.2.A": {},
+    "6.1.A": {},
+    "5.6.B": {},
+    "5.5.A": {},
+    "5.3.C": {},
+    "5.2.B": {},
+    "5.1.A": {},
+    "4.8.A": {},
+    "4.7.A": {},
+    "4.7.D": {},
+    "4.7.C": {},
+    "4.6.B": {},
+    "4.5.B": {},
+    "4.4.B": {},
+    "4.3.D": {},
+    "4.3.C": {},
+    "4.3.A": {},
+    "4.2.A": {},
+    "4.1.D": {},
+    "3.4.B": {},
+    "3.1.D": {},
+    "3.1.B": {},
+    "3.1.A": {},
+    "2.4.A": {},
+    "2.3.B": {},
+    "1.8.C": {},
+    "1.8.B": {},
+    "1.8.A": {},
+    "1.5.A": {},
+    "1.5.C": {},
+    "1.4.C": {},
+    "1.4.B": {},
+    "1.4.A": {},
+    "1.3.D": {},
+    "1.3.B": {},
+    "1.15.A": {},
+    "1.19.A": {},
+    "1.20.A": {},
+    "5.7.A": {},
+    "5.7.B": {},
+    "5.9.B": {}
+   },
+   "signesCoches": {
+    "7.2": [
+     0,
+     1,
+     3,
+     5,
+     6
+    ],
+    "7.1": [
+     0,
+     4
+    ],
+    "6.1": [
+     4
+    ],
+    "5.5": [
+     3
+    ],
+    "5.4": [
+     2
+    ],
+    "5.3": [
+     2,
+     3
+    ],
+    "5.2": [
+     5,
+     1,
+     2
+    ],
+    "5.1": [
+     0,
+     1,
+     3,
+     6
+    ],
+    "4.8": [
+     0,
+     1,
+     3,
+     4,
+     5
+    ],
+    "4.7": [
+     1,
+     2,
+     3,
+     7
+    ],
+    "4.6": [
+     1
+    ],
+    "4.5": [
+     2
+    ],
+    "4.4": [
+     0,
+     1,
+     5
+    ],
+    "4.3": [
+     0,
+     1,
+     3,
+     6
+    ],
+    "4.2": [
+     0,
+     1,
+     2,
+     4,
+     5
+    ],
+    "4.1": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "3.4": [
+     1,
+     2,
+     3
+    ],
+    "3.1": [
+     0,
+     2,
+     3
+    ],
+    "2.4": [
+     3,
+     4
+    ],
+    "2.3": [
+     2,
+     5
+    ],
+    "1.10": [
+     0
+    ],
+    "1.9": [
+     3,
+     6
+    ],
+    "1.8": [
+     0,
+     5
+    ],
+    "1.6": [
+     2
+    ],
+    "1.5": [
+     0,
+     1,
+     2,
+     4,
+     5
+    ],
+    "1.4": [
+     1,
+     2
+    ],
+    "1.3": [
+     6,
+     4,
+     0
+    ],
+    "1.15": [
+     2
+    ],
+    "1.19": [
+     3
+    ],
+    "1.20": [
+     2,
+     4
+    ],
+    "5.6": [
+     4
+    ],
+    "5.7": [
+     0,
+     3,
+     4
+    ],
+    "5.9": [
+     3
+    ]
+   },
+   "reconnaissances": {
+    "7.2": true,
+    "7.1": true,
+    "6.1": true,
+    "5.5": true,
+    "5.4": true,
+    "5.3": true,
+    "5.2": true,
+    "5.1": true,
+    "4.8": true,
+    "4.7": true,
+    "4.6": true,
+    "4.5": true,
+    "4.4": true,
+    "4.3": true,
+    "4.2": true,
+    "4.1": true,
+    "3.4": true,
+    "3.1": true,
+    "2.4": true,
+    "2.3": true,
+    "1.10": true,
+    "1.9": true,
+    "1.8": true,
+    "1.6": true,
+    "1.5": true,
+    "1.4": true,
+    "1.3": true,
+    "1.15": true,
+    "1.19": true,
+    "1.20": true,
+    "5.6": true,
+    "5.7": true,
+    "5.9": true
+   },
+   "mode": "exhaustif",
+   "affinage": {
+    "d1": 1,
+    "d2": 2,
+    "d3": 1
+   },
+   "affinageTermine": true,
+   "modeSimple": {
+    "frequence": "",
+    "depuis": ""
+   },
+   "resultat": {
+    "calculeLe": "2026-08-11",
+    "langue": "en",
+    "nbCombos": 52,
+    "nbRecon": 33,
+    "lectureLarge": true,
+    "lecturePartielle": false,
+    "scores": {
+     "exiles": {
+      "invisible": 13.5,
+      "terrifie": 9,
+      "abandonne": 11,
+      "coupable": 8.5,
+      "humilie": 18,
+      "parentifie": 1
+     },
+     "managers": {
+      "evitant": 1,
+      "procrastinateur": 3,
+      "dormeur": 1,
+      "accusateur": 1,
+      "bon_eleve": 4,
+      "comparateur": 3,
+      "controleur": 2,
+      "thesauriseur": 1.5,
+      "arrogant": 1.5,
+      "sauveur": 2,
+      "perfectionniste": 3,
+      "victime": 1,
+      "gardien_image": 3.5,
+      "planificateur": 1,
+      "critique": 6,
+      "ermite": 4,
+      "froid": 1,
+      "saboteur": 1.5,
+      "clown": 1,
+      "muet": 1,
+      "dependant_affectif": 1,
+      "intellectualiseur": 6.5,
+      "hypervigilant": 2,
+      "seducteur": 0.5,
+      "reveur": 0.5
+     },
+     "pompiers": {
+      "dorsal": 3.5,
+      "endormeur": 1,
+      "rageur": 7,
+      "rancune": 2,
+      "hypersexuel": 5.5,
+      "manque": 1,
+      "accumulation": 1.5,
+      "mepris": 1,
+      "fabulateur": 1,
+      "dissociatif": 2,
+      "auto_humiliation": 2,
+      "auto_sabotage": 1,
+      "fuyard": 2,
+      "bloqueur": 1,
+      "declarateur": 1,
+      "fantasme": 3,
+      "inhibition": 1,
+      "drama": 1,
+      "workaholie": 2,
+      "gamer": 2,
+      "scroll": 3,
+      "evitement_de_performance": 1,
+      "envie": 0.5,
+      "shopaholique": 1,
+      "joueur": 1,
+      "adrenaline": 0.5
+     }
+    },
+    "exiles": [
+     {
+      "id": "humilie",
+      "score": 18
+     },
+     {
+      "id": "invisible",
+      "score": 13.5
+     },
+     {
+      "id": "abandonne",
+      "score": 11
+     },
+     {
+      "id": "terrifie",
+      "score": 9
+     },
+     {
+      "id": "coupable",
+      "score": 8.5
+     },
+     {
+      "id": "parentifie",
+      "score": 1
+     }
+    ],
+    "managers": [
+     {
+      "id": "intellectualiseur",
+      "score": 6.5
+     },
+     {
+      "id": "critique",
+      "score": 6
+     },
+     {
+      "id": "bon_eleve",
+      "score": 4
+     },
+     {
+      "id": "ermite",
+      "score": 4
+     },
+     {
+      "id": "gardien_image",
+      "score": 3.5
+     },
+     {
+      "id": "procrastinateur",
+      "score": 3
+     },
+     {
+      "id": "comparateur",
+      "score": 3
+     },
+     {
+      "id": "perfectionniste",
+      "score": 3
+     },
+     {
+      "id": "controleur",
+      "score": 2
+     },
+     {
+      "id": "sauveur",
+      "score": 2
+     },
+     {
+      "id": "hypervigilant",
+      "score": 2
+     },
+     {
+      "id": "thesauriseur",
+      "score": 1.5
+     },
+     {
+      "id": "arrogant",
+      "score": 1.5
+     },
+     {
+      "id": "saboteur",
+      "score": 1.5
+     },
+     {
+      "id": "evitant",
+      "score": 1
+     },
+     {
+      "id": "dormeur",
+      "score": 1
+     },
+     {
+      "id": "accusateur",
+      "score": 1
+     },
+     {
+      "id": "victime",
+      "score": 1
+     },
+     {
+      "id": "planificateur",
+      "score": 1
+     },
+     {
+      "id": "froid",
+      "score": 1
+     },
+     {
+      "id": "clown",
+      "score": 1
+     },
+     {
+      "id": "muet",
+      "score": 1
+     },
+     {
+      "id": "dependant_affectif",
+      "score": 1
+     },
+     {
+      "id": "seducteur",
+      "score": 0.5
+     },
+     {
+      "id": "reveur",
+      "score": 0.5
+     }
+    ],
+    "pompiers": [
+     {
+      "id": "rageur",
+      "score": 7
+     },
+     {
+      "id": "hypersexuel",
+      "score": 5.5
+     },
+     {
+      "id": "dorsal",
+      "score": 3.5
+     },
+     {
+      "id": "fantasme",
+      "score": 3
+     },
+     {
+      "id": "scroll",
+      "score": 3
+     },
+     {
+      "id": "rancune",
+      "score": 2
+     },
+     {
+      "id": "dissociatif",
+      "score": 2
+     },
+     {
+      "id": "auto_humiliation",
+      "score": 2
+     },
+     {
+      "id": "fuyard",
+      "score": 2
+     },
+     {
+      "id": "workaholie",
+      "score": 2
+     },
+     {
+      "id": "gamer",
+      "score": 2
+     },
+     {
+      "id": "accumulation",
+      "score": 1.5
+     },
+     {
+      "id": "endormeur",
+      "score": 1
+     },
+     {
+      "id": "manque",
+      "score": 1
+     },
+     {
+      "id": "mepris",
+      "score": 1
+     },
+     {
+      "id": "fabulateur",
+      "score": 1
+     },
+     {
+      "id": "auto_sabotage",
+      "score": 1
+     },
+     {
+      "id": "bloqueur",
+      "score": 1
+     },
+     {
+      "id": "declarateur",
+      "score": 1
+     },
+     {
+      "id": "inhibition",
+      "score": 1
+     },
+     {
+      "id": "drama",
+      "score": 1
+     },
+     {
+      "id": "evitement_de_performance",
+      "score": 1
+     },
+     {
+      "id": "shopaholique",
+      "score": 1
+     },
+     {
+      "id": "joueur",
+      "score": 1
+     },
+     {
+      "id": "envie",
+      "score": 0.5
+     },
+     {
+      "id": "adrenaline",
+      "score": 0.5
+     }
+    ],
+    "exiles_centraux": [
+     "humilie"
+    ],
+    "exiles_tous": [
+     {
+      "id": "humilie",
+      "score": 18,
+      "declencheurs": [
+       "The accumulation of injustices silences",
+       "The slightest look, the slightest doubt",
+       "Any questions about his life",
+       "The anticipation of being judged",
+       "All neutral face, all silence",
+       "Brand new encounter",
+       "The anticipation of being mocked",
+       "Any social comparison",
+       "The first injustice kills",
+       "The potential look",
+       "The slightest surge of momentum, the slightest opportunity",
+       "The slightest downtime, the slightest criticism",
+       "The slightest real failure, the slightest criticism",
+       "Real sexual desire, the prospect of an encounter",
+       "A criticism, a failure, an ambiguous interaction",
+       "Any success of others",
+       "Any situation of power, any past rejection"
+      ],
+      "couts": [
+       "Swallowing too long, exploding too hard",
+       "The body becomes armor, never a house",
+       "Double life, permanent fear of being unmasked",
+       "Self-humiliation becomes a habit",
+       "Exhaustion, distorted relationships",
+       "Chronic loneliness",
+       "Permanent confirmation of self-deprecation",
+       "Toxic relationships",
+       "Explosions that destroy what we protected",
+       "Mental headlong rush",
+       "Desire dies before it is born",
+       "Relationships destroyed by explosions",
+       "Burn-out, empty personal life",
+       "Real skills never developed",
+       "Real desire atrophies; shame increases",
+       "A stolen presence, maintained anxiety",
+       "Chronic craving, distorted relationships",
+       "Object relations, growing emptiness"
+      ],
+      "manager_id": "critique",
+      "pompier_id": "rageur"
+     },
+     {
+      "id": "invisible",
+      "score": 13.5,
+      "declencheurs": [
+       "Any effort (useless in his eyes)",
+       "Recognition given to others",
+       "The void of recognition",
+       "The perceived distress of the other",
+       "Any prolonged social interaction",
+       "Any bodily sensation",
+       "Loneliness, the need for connection",
+       "The feeling of a dull or false life",
+       "Ordinary pain, conflicts, boredom",
+       "Social networks",
+       "Comparison, social events",
+       "Self-doubt, the feeling of being transparent",
+       "The frustration of ordinary life"
+      ],
+      "couts": [
+       "Trying nothing to lose nothing — and letting everything pass",
+       "I measure everything and receive nothing",
+       "The denied need ends up screaming alone",
+       "Ruin, and love never obtained by money",
+       "Hollow image, inner emptiness",
+       "Social fatigue, isolation",
+       "Uninhabited body, inaudible desire",
+       "The capacity for intimacy is unlearned",
+       "Avoidance through transcendence",
+       "An “elevated” life that changes nothing",
+       "Depression, abandonment",
+       "Debt, fake image",
+       "The desire never fulfilled (to prove ≠ to be loved)",
+       "Financial ruin, shame"
+      ],
+      "manager_id": "bon_eleve",
+      "pompier_id": "hypersexuel"
+     },
+     {
+      "id": "abandonne",
+      "score": 11,
+      "declencheurs": [
+       "Waking up, loneliness",
+       "Any loss, any departure",
+       "A desire for closeness, a need for comfort",
+       "An unspoken word that grows, an angry truth",
+       "A perceived distance, a sign of anticipated rejection",
+       "The growing attachment, the slightest rejection",
+       "Stable people (unfamiliar), unstable people (familiar)",
+       "Relationships, weekends, vacations",
+       "Loneliness, sadness, evening thoughts",
+       "All spending, all sharing",
+       "Relationship disappointment",
+       "Loneliness, sadness",
+       "Boredom, emptiness, apathy"
+      ],
+      "couts": [
+       "Sleeping to avoid feeling — and missing life",
+       "Owning things without ever being reassured",
+       "Solitude as a fortress — and the grudge that locks the door",
+       "Leaving without having spoken — and leaving the other without explanation",
+       "The back and forth that drives the other and oneself — yoyo love",
+       "Exact repetition of the injury",
+       "Endless painful cycles",
+       "Loneliness disguised as success",
+       "Life on borrowed time, procrastination",
+       "Life in apnea, greed, loneliness",
+       "Solitary compulsion",
+       "Addiction to other people's bodies",
+       "Cascading addictions"
+      ],
+      "manager_id": "critique",
+      "pompier_id": "scroll"
+     },
+     {
+      "id": "terrifie",
+      "score": 9,
+      "declencheurs": [
+       "Any deadline",
+       "Any perceived threat",
+       "The uncertainty",
+       "The unexpected, uncertainty, a hole in the schedule",
+       "Any important decision, any commitment",
+       "Actual interactions, conflict, intimacy",
+       "Uncertainty, alerts",
+       "Relational uncertainty",
+       "The least financial uncertainty",
+       "An expense, a loss, anxiety-provoking news"
+      ],
+      "couts": [
+       "Not starting is already failing in advance",
+       "The defense that works ends up pushing everyone away",
+       "The lack comes back as soon as I stop",
+       "A schedule that takes the place of life — and absences when it breaks down",
+       "Life on pause",
+       "Real life in the wasteland",
+       "Chronic anxiety, despair",
+       "Mental exhaustion",
+       "Inability to enjoy",
+       "Have much, live little — the security that narrows life"
+      ],
+      "manager_id": "intellectualiseur",
+      "pompier_id": "rageur"
+     },
+     {
+      "id": "coupable",
+      "score": 8.5,
+      "declencheurs": [
+       "An error, a reproach, a mirror that reflects one's own fault",
+       "All pleasure",
+       "Guilt, fault",
+       "The moment when the relationship becomes good",
+       "All pleasure, all desire",
+       "Any missing parental acknowledgment",
+       "Stress, guilt",
+       "Success approaching",
+       "A success, a moment when everything is going well"
+      ],
+      "couts": [
+       "Relationships in constant trial — and the fault that always comes back",
+       "Forbidden pleasure becomes shame, never joy",
+       "No power over his life",
+       "Destroyed relationships on the verge of happiness",
+       "Permanent sexual guilt",
+       "Endless quest (never enough)",
+       "Cycle of shame → relapse → shame",
+       "Staying below your potential",
+       "Financial self-sabotage"
+      ],
+      "manager_id": "critique",
+      "pompier_id": "rageur"
+     },
+     {
+      "id": "parentifie",
+      "score": 1,
+      "declencheurs": [
+       "One more request, an impossible “no” to say"
+      ],
+      "couts": [
+       "Saving others, dynamiting bridges — and finding yourself alone"
+      ],
+      "manager_id": "bon_eleve",
+      "pompier_id": "dorsal"
+     }
+    ],
+    "double": false,
+    "affinageNecessaire": false,
+    "managers_dominants": [
+     "intellectualiseur",
+     "critique",
+     "bon_eleve",
+     "ermite"
+    ],
+    "pompiers_secours": [
+     "rageur",
+     "hypersexuel",
+     "dorsal"
+    ],
+    "declencheurs": [
+     "Any effort (useless in his eyes)",
+     "Any deadline",
+     "Waking up, loneliness",
+     "An error, a reproach, a mirror that reflects one's own fault",
+     "Any perceived threat",
+     "The accumulation of injustices silences",
+     "Recognition given to others",
+     "All pleasure",
+     "The uncertainty",
+     "Any loss, any departure",
+     "The void of recognition",
+     "The perceived distress of the other",
+     "The slightest look, the slightest doubt",
+     "Guilt, fault",
+     "Any questions about his life",
+     "The unexpected, uncertainty, a hole in the schedule",
+     "The anticipation of being judged",
+     "All neutral face, all silence",
+     "Brand new encounter",
+     "A desire for closeness, a need for comfort",
+     "Any prolonged social interaction",
+     "The moment when the relationship becomes good",
+     "The anticipation of being mocked",
+     "Any social comparison",
+     "An unspoken word that grows, an angry truth",
+     "A perceived distance, a sign of anticipated rejection",
+     "The growing attachment, the slightest rejection",
+     "The first injustice kills",
+     "One more request, an impossible “no” to say",
+     "The potential look",
+     "All pleasure, all desire",
+     "Any bodily sensation",
+     "The slightest surge of momentum, the slightest opportunity",
+     "Stable people (unfamiliar), unstable people (familiar)",
+     "Any missing parental acknowledgment",
+     "Relationships, weekends, vacations",
+     "The slightest downtime, the slightest criticism",
+     "The slightest real failure, the slightest criticism",
+     "Any important decision, any commitment",
+     "Stress, guilt",
+     "Loneliness, the need for connection",
+     "Real sexual desire, the prospect of an encounter",
+     "Actual interactions, conflict, intimacy",
+     "Loneliness, sadness, evening thoughts",
+     "The feeling of a dull or false life",
+     "Uncertainty, alerts",
+     "Ordinary pain, conflicts, boredom",
+     "A criticism, a failure, an ambiguous interaction",
+     "Relational uncertainty",
+     "Success approaching",
+     "All spending, all sharing",
+     "The least financial uncertainty",
+     "An expense, a loss, anxiety-provoking news",
+     "Any success of others",
+     "Social networks",
+     "Comparison, social events",
+     "Relationship disappointment",
+     "Self-doubt, the feeling of being transparent",
+     "Any situation of power, any past rejection",
+     "Loneliness, sadness",
+     "The frustration of ordinary life",
+     "Boredom, emptiness, apathy",
+     "A success, a moment when everything is going well"
+    ],
+    "couts": [
+     "Trying nothing to lose nothing — and letting everything pass",
+     "Not starting is already failing in advance",
+     "Sleeping to avoid feeling — and missing life",
+     "Relationships in constant trial — and the fault that always comes back",
+     "The defense that works ends up pushing everyone away",
+     "Swallowing too long, exploding too hard",
+     "I measure everything and receive nothing",
+     "Forbidden pleasure becomes shame, never joy",
+     "The lack comes back as soon as I stop",
+     "Owning things without ever being reassured",
+     "The denied need ends up screaming alone",
+     "Ruin, and love never obtained by money",
+     "The body becomes armor, never a house",
+     "No power over his life",
+     "Double life, permanent fear of being unmasked",
+     "A schedule that takes the place of life — and absences when it breaks down",
+     "Hollow image, inner emptiness",
+     "Self-humiliation becomes a habit",
+     "Exhaustion, distorted relationships",
+     "Chronic loneliness",
+     "Solitude as a fortress — and the grudge that locks the door",
+     "Social fatigue, isolation",
+     "Destroyed relationships on the verge of happiness",
+     "Permanent confirmation of self-deprecation",
+     "Toxic relationships",
+     "Leaving without having spoken — and leaving the other without explanation",
+     "The back and forth that drives the other and oneself — yoyo love",
+     "Exact repetition of the injury",
+     "Explosions that destroy what we protected",
+     "Saving others, dynamiting bridges — and finding yourself alone",
+     "Mental headlong rush",
+     "Permanent sexual guilt",
+     "Uninhabited body, inaudible desire",
+     "Desire dies before it is born",
+     "Endless painful cycles",
+     "Relationships destroyed by explosions",
+     "Endless quest (never enough)",
+     "Loneliness disguised as success",
+     "Burn-out, empty personal life",
+     "Real skills never developed",
+     "Life on pause",
+     "Cycle of shame → relapse → shame",
+     "The capacity for intimacy is unlearned",
+     "Real desire atrophies; shame increases",
+     "Real life in the wasteland",
+     "Life on borrowed time, procrastination",
+     "Avoidance through transcendence",
+     "Chronic anxiety, despair",
+     "An “elevated” life that changes nothing",
+     "A stolen presence, maintained anxiety",
+     "Mental exhaustion",
+     "Staying below your potential",
+     "Life in apnea, greed, loneliness",
+     "Inability to enjoy",
+     "Have much, live little — the security that narrows life",
+     "Chronic craving, distorted relationships",
+     "Depression, abandonment",
+     "Debt, fake image",
+     "Solitary compulsion",
+     "The desire never fulfilled (to prove ≠ to be loved)",
+     "Object relations, growing emptiness",
+     "Addiction to other people's bodies",
+     "Financial ruin, shame",
+     "Cascading addictions",
+     "Financial self-sabotage"
+    ],
+    "declencheurs_top": "Any effort (useless in his eyes) · Any deadline · Waking up, loneliness",
+    "couts_top": "Trying nothing to lose nothing — and letting everything pass · Not starting is already failing in advance · Sleeping to avoid feeling — and missing life",
+    "comportements_cles": [
+     {
+      "id": "8.7",
+      "nom": "Laziness (acedia)",
+      "combos": [
+       {
+        "id": "8.7.A",
+        "lettre": "A",
+        "manager": "evitant",
+        "pompier": "dorsal",
+        "pompier_note": null,
+        "exile": "invisible",
+        "exile_alt": null,
+        "phrase_interieure": "“Nothing I do matters. What's the point. »",
+        "declencheur": "Any effort (useless in his eyes)",
+        "protege": "Insignificance",
+        "cout": "Trying nothing to lose nothing — and letting everything pass",
+        "besoin_vise": "Sense",
+        "ideal": "meaning before effort",
+        "micro_pas": "a tiny action linked to ONE value (“I do it because…”)",
+        "arret": "Start with ONE 5-minute action, even imperfect"
+       },
+       {
+        "id": "8.7.B",
+        "lettre": "B",
+        "manager": "procrastinateur",
+        "pompier": "dorsal",
+        "pompier_note": null,
+        "exile": "terrifie",
+        "exile_alt": null,
+        "phrase_interieure": "“If I don't start, I don't fail. »",
+        "declencheur": "Any deadline",
+        "protege": "Failure (and judgment)",
+        "cout": "Not starting is already failing in advance",
+        "besoin_vise": "Security",
+        "ideal": "failure as given, not as verdict",
+        "micro_pas": "start 5 min — “just start”",
+        "arret": "Say \"I start with the smallest piece\" and do it"
+       },
+       {
+        "id": "8.7.C",
+        "lettre": "C",
+        "manager": "dormeur",
+        "pompier": "endormeur",
+        "pompier_note": null,
+        "exile": "abandonne",
+        "exile_alt": null,
+        "phrase_interieure": "“Sleep = not feel the lack. »",
+        "declencheur": "Waking up, loneliness",
+        "protege": "The pain",
+        "cout": "Sleeping to avoid feeling — and missing life",
+        "besoin_vise": "Rest",
+        "ideal": "the rest that restores",
+        "micro_pas": "an alarm clock at a fixed time + 10 minutes of light, even without a purpose",
+        "arret": "Stand up, drink, open the window — 5 minutes awake before deciding"
+       }
+      ],
+      "ideal": "meaning before effort · failure as given, not as verdict · the rest that restores",
+      "micro_pas": [
+       "a tiny action linked to ONE value (“I do it because…”)",
+       "start 5 min — “just start”",
+       "an alarm clock at a fixed time + 10 minutes of light, even without a purpose"
+      ],
+      "phase": 3,
+      "poids": 3
+     },
+     {
+      "id": "8.6",
+      "nom": "Anger (will)",
+      "combos": [
+       {
+        "id": "8.6.D",
+        "lettre": "D",
+        "manager": "accusateur",
+        "pompier": "rageur",
+        "pompier_note": null,
+        "exile": "coupable",
+        "exile_alt": null,
+        "phrase_interieure": "\"It's your fault!\" » — if the fault is yours, it is not mine",
+        "declencheur": "An error, a reproach, a mirror that reflects one's own fault",
+        "protege": "The inner court, the unbearable guilt",
+        "cout": "Relationships in constant trial — and the fault that always comes back",
+        "besoin_vise": "Innocence",
+        "ideal": "shared responsibility: “there is a part for everyone”",
+        "micro_pas": "once a day: acknowledge part of your own fault, in a low voice",
+        "arret": "before the accusation: “what does this anger tell me about my own fear? »"
+       },
+       {
+        "id": "8.6.B",
+        "lettre": "B",
+        "manager": null,
+        "pompier": "rageur",
+        "pompier_note": null,
+        "exile": "terrifie",
+        "exile_alt": null,
+        "phrase_interieure": "“Anger is the only defense that works. »",
+        "declencheur": "Any perceived threat",
+        "protege": "Fear",
+        "cout": "The defense that works ends up pushing everyone away",
+        "besoin_vise": "Protection",
+        "ideal": "protection without destruction",
+        "micro_pas": "leave the room, breathe, come back 10 minutes later",
+        "arret": "Leave the place for 10 min and scream into a pillow if needed"
+       },
+       {
+        "id": "8.6.A",
+        "lettre": "A",
+        "manager": "bon_eleve",
+        "pompier": "rageur",
+        "pompier_note": null,
+        "exile": "humilie",
+        "exile_alt": null,
+        "phrase_interieure": "“I swallowed it all. Rage is my only voice. »",
+        "declencheur": "The accumulation of injustices silences",
+        "protege": "The humiliation",
+        "cout": "Swallowing too long, exploding too hard",
+        "besoin_vise": "Boundaries",
+        "ideal": "drip anger",
+        "micro_pas": "express dissatisfaction the same day, cold",
+        "arret": "3 breaths before answering, then \"I'll get back to you in 10 min\""
+       }
+      ],
+      "ideal": "shared responsibility: “there is a part for everyone” · protection without destruction · drip anger",
+      "micro_pas": [
+       "once a day: acknowledge part of your own fault, in a low voice",
+       "leave the room, breathe, come back 10 minutes later",
+       "express dissatisfaction the same day, cold"
+      ],
+      "phase": 3,
+      "poids": 3
+     },
+     {
+      "id": "4.7",
+      "nom": "Isolation / few friends / chosen-suffered solitude",
+      "combos": [
+       {
+        "id": "4.7.A",
+        "lettre": "A",
+        "manager": "ermite",
+        "pompier": null,
+        "pompier_note": "isolation = strategy",
+        "exile": "humilie",
+        "exile_alt": null,
+        "phrase_interieure": "“Few friends = few judges. Others always end up judging me. »",
+        "declencheur": "Brand new encounter",
+        "protege": "The potential humiliation",
+        "cout": "Chronic loneliness",
+        "besoin_vise": null,
+        "ideal": "judges who become witnesses",
+        "micro_pas": "ONE new meeting per month, without waiting, “just see”",
+        "arret": "Accept ONE invitation with a limit: \"I'll come for 1 h\""
+       },
+       {
+        "id": "4.7.D",
+        "lettre": "D",
+        "manager": "froid",
+        "pompier": "rancune",
+        "pompier_note": null,
+        "exile": "abandonne",
+        "exile_alt": null,
+        "phrase_interieure": "“I show nothing, I ask for nothing — and I forget nothing. »",
+        "declencheur": "A desire for closeness, a need for comfort",
+        "protege": "The humiliation of needing, the hurt that accumulates",
+        "cout": "Solitude as a fortress — and the grudge that locks the door",
+        "besoin_vise": "Comfort without risk",
+        "ideal": "memory without poison: remembering without closing yourself off",
+        "micro_pas": "tell a simple need to someone safe",
+        "arret": "when the list of grievances grows: write the angry letter, don't send it"
+       },
+       {
+        "id": "4.7.C",
+        "lettre": "C",
+        "manager": "gardien_image",
+        "pompier": "dorsal",
+        "pompier_note": null,
+        "exile": "invisible",
+        "exile_alt": null,
+        "phrase_interieure": "“Holding the mask in society is exhausting. I prefer to be alone. »",
+        "declencheur": "Any prolonged social interaction",
+        "protege": "The exposure of the “real me” (deemed unworthy)",
+        "cout": "Social fatigue, isolation",
+        "besoin_vise": null,
+        "ideal": "a less and less thick mask",
+        "micro_pas": "letting ONE social awkwardness slip and not apologizing for it 10 times",
+        "arret": "Say yes to a suggested outing, without postponing it"
+       }
+      ],
+      "ideal": "judges who become witnesses · memory without poison: remembering without closing yourself off · a less and less thick mask",
+      "micro_pas": [
+       "ONE new meeting per month, without waiting, “just see”",
+       "tell a simple need to someone safe",
+       "letting ONE social awkwardness slip and not apologizing for it 10 times"
+      ],
+      "phase": 3,
+      "poids": 3
+     },
+     {
+      "id": "4.3",
+      "nom": "Escape before being left (ghosting, cuts)",
+      "combos": [
+       {
+        "id": "4.3.D",
+        "lettre": "D",
+        "manager": "muet",
+        "pompier": "fuyard",
+        "pompier_note": null,
+        "exile": "abandonne",
+        "exile_alt": null,
+        "phrase_interieure": "\" Everything is fine. » — I didn't say anything, and I already left",
+        "declencheur": "An unspoken word that grows, an angry truth",
+        "protege": "The conversation that could break everything",
+        "cout": "Leaving without having spoken — and leaving the other without explanation",
+        "besoin_vise": "Say before you leave",
+        "ideal": "say it cold, in time, before it boils over",
+        "micro_pas": "one sentence of truth per week, said coldly, without withdrawing it",
+        "arret": "before leaving: 24 hours of delay, and one sentence said — even imperfect"
+       },
+       {
+        "id": "4.3.C",
+        "lettre": "C",
+        "manager": "dependant_affectif",
+        "pompier": "bloqueur",
+        "pompier_note": null,
+        "exile": "abandonne",
+        "exile_alt": null,
+        "phrase_interieure": "“I hold on, I hold on…and then I suddenly cut it off. »",
+        "declencheur": "A perceived distance, a sign of anticipated rejection",
+        "protege": "The agony of waiting to be left",
+        "cout": "The back and forth that drives the other and oneself — yoyo love",
+        "besoin_vise": "Continuity of the link",
+        "ideal": "continued attachment: holding on less tightly, blocking less often",
+        "micro_pas": "instead of cutting: “I need 48 hours” — and coming back",
+        "arret": "before sending the breakup message: write, don't send, sleep on it"
+       },
+       {
+        "id": "4.3.A",
+        "lettre": "A",
+        "manager": "ermite",
+        "pompier": "fuyard",
+        "pompier_note": null,
+        "exile": "abandonne",
+        "exile_alt": null,
+        "phrase_interieure": "“Leave before you are left.” I won't survive another abandonment. »",
+        "declencheur": "The growing attachment, the slightest rejection",
+        "protege": "Abandonment (by causing it, we control it)",
+        "cout": "Exact repetition of the injury",
+        "besoin_vise": null,
+        "ideal": "the door that closes gently",
+        "micro_pas": "instead of “it’s finished”, write “I need 48 hours” — and come back",
+        "arret": "Replace \"it's over\" with \"I need 24 hours\""
+       }
+      ],
+      "ideal": "say it cold, in time, before it boils over · continued attachment: holding on less tightly, blocking less often · the door that closes gently",
+      "micro_pas": [
+       "one sentence of truth per week, said coldly, without withdrawing it",
+       "instead of cutting: “I need 48 hours” — and coming back",
+       "instead of “it’s finished”, write “I need 48 hours” — and come back"
+      ],
+      "phase": 3,
+      "poids": 3
+     },
+     {
+      "id": "3.1",
+      "nom": "Blocked desire / extinguished libido / fear of finding a partner",
+      "combos": [
+       {
+        "id": "3.1.D",
+        "lettre": "D",
+        "manager": "critique",
+        "pompier": "inhibition",
+        "pompier_note": null,
+        "exile": "coupable",
+        "exile_alt": null,
+        "phrase_interieure": "“Desiring is dirty. Taking pleasure is forbidden. »",
+        "declencheur": "All pleasure, all desire",
+        "protege": "The fault (religious/rigid educations)",
+        "cout": "Permanent sexual guilt",
+        "besoin_vise": null,
+        "ideal": "pleasure as a gift",
+        "micro_pas": "allow yourself ONE simple pleasure per day (a good meal, a bath) without guilt — relearn that enjoying is allowed",
+        "arret": "Name the fear: \"I'm afraid of being judged\" — then 4-7-8"
+       },
+       {
+        "id": "3.1.B",
+        "lettre": "B",
+        "manager": "intellectualiseur",
+        "pompier": "dissociatif",
+        "pompier_note": null,
+        "exile": "invisible",
+        "exile_alt": null,
+        "phrase_interieure": "“I am a head. The body is a foreign object. »",
+        "declencheur": "Any bodily sensation",
+        "protege": "The body (unknown and dangerous territory)",
+        "cout": "Uninhabited body, inaudible desire",
+        "besoin_vise": null,
+        "ideal": "re-inhabit the body",
+        "micro_pas": "conscious shower 30 sec (feel the water on the skin, without washing mechanically)",
+        "arret": "Say the need out loud, without turning it into a performance"
+       },
+       {
+        "id": "3.1.A",
+        "lettre": "A",
+        "manager": "critique",
+        "pompier": null,
+        "pompier_note": "direct inhibition — no Firefighter, the fire is extinguished upstream",
+        "exile": "humilie",
+        "exile_alt": null,
+        "phrase_interieure": "“My desire is laughable. To show myself wanting = to be humiliated. »",
+        "declencheur": "The slightest surge of momentum, the slightest opportunity",
+        "protege": "The anticipated humiliation",
+        "cout": "Desire dies before it is born",
+        "besoin_vise": null,
+        "ideal": "legitimate and protected desire",
+        "micro_pas": "feel the surge of momentum for 30 seconds without doing anything about it, just name it: “there is life there”",
+        "arret": "A gesture of tenderness with NO goal: a kiss, a resting hand"
+       }
+      ],
+      "ideal": "pleasure as a gift · re-inhabit the body · legitimate and protected desire",
+      "micro_pas": [
+       "allow yourself ONE simple pleasure per day (a good meal, a bath) without guilt — relearn that enjoying is allowed",
+       "conscious shower 30 sec (feel the water on the skin, without washing mechanically)",
+       "feel the surge of momentum for 30 seconds without doing anything about it, just name it: “there is life there”"
+      ],
+      "phase": 3,
+      "poids": 3
+     }
+    ],
+    "phase_globale": 3,
+    "domaines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   "affinageNecessaire": false,
+   "engagements": {
+    "echelles": {},
+    "coches": {},
+    "reglesConfirmees": false
+   },
+   "miroir": {
+    "reponses4q": {},
+    "note": ""
+   },
+   "declencheur": {
+    "consenti": false,
+    "reponses": {}
+   },
+   "theorie": {
+    "lus": {},
+    "favoris": []
+   },
+   "microPas": {},
+   "proactifCoches": {}
+  },
+  "woman": {
+   "profil": {
+    "nom": "woman",
+    "genre": "femme",
+    "age": 27,
+    "creeLe": "2026-08-05"
+   },
+   "reponses": {
+    "8.7.D": {},
+    "8.6.D": {},
+    "8.6.C": {},
+    "8.6.B": {},
+    "8.4.A": {},
+    "8.3.A": {},
+    "8.1.C": {},
+    "7.3.A": {},
+    "6.4.B": {},
+    "6.4.A": {},
+    "6.3.B": {},
+    "6.3.A": {},
+    "6.2.A": {},
+    "6.1.B": {},
+    "5.6.B": {},
+    "5.6.A": {},
+    "5.5.A": {},
+    "5.4.B": {},
+    "5.4.A": {},
+    "5.1.B": {},
+    "4.6.B": {},
+    "4.6.A": {},
+    "4.4.B": {},
+    "3.3.B": {},
+    "3.2.C": {},
+    "3.2.A": {},
+    "2.3.A": {},
+    "2.1.C": {},
+    "2.1.B": {},
+    "1.10.B": {},
+    "1.9.A": {},
+    "1.7.D": {},
+    "1.7.C": {},
+    "1.3.A": {},
+    "1.3.C": {},
+    "2.5.A": {},
+    "4.9.A": {},
+    "6.8.B": {},
+    "7.4.A": {},
+    "7.4.B": {},
+    "9.2.A": {},
+    "9.2.B": {},
+    "9.3.A": {}
+   },
+   "signesCoches": {
+    "8.6": [
+     0
+    ],
+    "8.4": [
+     0
+    ],
+    "8.3": [
+     0
+    ],
+    "8.1": [
+     0
+    ],
+    "7.3": [
+     0,
+     1,
+     3,
+     4,
+     5
+    ],
+    "6.4": [
+     1,
+     2,
+     5,
+     0
+    ],
+    "6.3": [
+     2,
+     3
+    ],
+    "6.2": [
+     1
+    ],
+    "5.6": [
+     0,
+     2,
+     3
+    ],
+    "5.5": [
+     3
+    ],
+    "5.4": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "5.2": [
+     3,
+     4,
+     5,
+     7
+    ],
+    "5.1": [
+     0,
+     6
+    ],
+    "4.8": [
+     0,
+     1,
+     4
+    ],
+    "4.6": [
+     0,
+     1,
+     3,
+     4
+    ],
+    "4.4": [
+     0,
+     4
+    ],
+    "4.3": [
+     2,
+     4,
+     5
+    ],
+    "3.3": [
+     0,
+     1
+    ],
+    "3.2": [
+     1,
+     2,
+     6
+    ],
+    "2.4": [
+     1,
+     5
+    ],
+    "2.3": [
+     1,
+     2
+    ],
+    "2.1": [
+     0,
+     4
+    ],
+    "1.10": [
+     0,
+     1,
+     2,
+     4,
+     5
+    ],
+    "1.9": [
+     4,
+     5
+    ],
+    "1.7": [
+     3
+    ],
+    "1.3": [
+     0,
+     1,
+     2,
+     3,
+     5
+    ],
+    "1.2": [
+     4
+    ],
+    "1.1": [
+     4,
+     6
+    ],
+    "1.17": [
+     3
+    ],
+    "2.5": [
+     3
+    ],
+    "4.9": [
+     5
+    ],
+    "5.7": [
+     1,
+     2
+    ],
+    "6.5": [
+     0,
+     3
+    ],
+    "6.7": [
+     0,
+     3
+    ],
+    "6.8": [
+     0,
+     1,
+     4
+    ],
+    "7.4": [
+     1,
+     2,
+     4,
+     5
+    ],
+    "9.3": [
+     2,
+     3
+    ]
+   },
+   "reconnaissances": {
+    "8.6": true,
+    "8.4": true,
+    "8.3": true,
+    "8.1": true,
+    "7.3": true,
+    "6.4": true,
+    "6.3": true,
+    "6.2": true,
+    "5.6": true,
+    "5.5": true,
+    "5.4": true,
+    "5.2": true,
+    "5.1": true,
+    "4.8": true,
+    "4.6": true,
+    "4.4": true,
+    "4.3": true,
+    "3.3": true,
+    "3.2": true,
+    "2.4": true,
+    "2.3": true,
+    "2.1": true,
+    "1.10": true,
+    "1.9": true,
+    "1.7": true,
+    "1.3": true,
+    "1.2": true,
+    "1.1": true
+   },
+   "mode": "exhaustif",
+   "affinage": {
+    "d1": 1,
+    "d2": 1,
+    "d3": 1
+   },
+   "affinageTermine": true,
+   "modeSimple": {
+    "frequence": "",
+    "depuis": ""
+   },
+   "resultat": {
+    "calculeLe": "2026-08-11",
+    "langue": "fr",
+    "nbCombos": 35,
+    "nbRecon": 28,
+    "lectureLarge": true,
+    "lecturePartielle": false,
+    "scores": {
+     "exiles": {
+      "parentifie": 1,
+      "coupable": 5.5,
+      "abandonne": 6.5,
+      "terrifie": 4,
+      "humilie": 11.5,
+      "invisible": 16.5
+     },
+     "managers": {
+      "survivant": 1,
+      "accusateur": 1,
+      "rancunier": 1,
+      "comparateur": 5,
+      "seducteur": 4,
+      "gardien_image": 5.5,
+      "victime": 4,
+      "intellectualiseur": 1.5,
+      "critique": 2,
+      "ermite": 3,
+      "controleur": 4,
+      "saboteur": 1.5,
+      "provocateur": 2,
+      "ascete": 1,
+      "arrogant": 1,
+      "dependant_affectif": 0.5,
+      "muet": 0.5,
+      "perfectionniste": 0.5,
+      "bon_eleve": 0.5
+     },
+     "pompiers": {
+      "dorsal": 2,
+      "rageur": 6,
+      "haine": 1,
+      "envie": 2,
+      "hypersexuel": 3,
+      "mepris": 2,
+      "shopaholique": 2,
+      "fabulateur": 1,
+      "plainte": 1,
+      "auto_sabotage": 1,
+      "test": 1,
+      "adrenaline": 2,
+      "glouton": 1,
+      "tca": 1,
+      "scroll": 2,
+      "fuyard": 1.5,
+      "bloqueur": 0.5,
+      "drama": 1,
+      "ivrogne": 3,
+      "anesthesieur": 1
+     }
+    },
+    "exiles": [
+     {
+      "id": "invisible",
+      "score": 16.5
+     },
+     {
+      "id": "humilie",
+      "score": 11.5
+     },
+     {
+      "id": "abandonne",
+      "score": 6.5
+     },
+     {
+      "id": "coupable",
+      "score": 5.5
+     },
+     {
+      "id": "terrifie",
+      "score": 4
+     },
+     {
+      "id": "parentifie",
+      "score": 1
+     }
+    ],
+    "managers": [
+     {
+      "id": "gardien_image",
+      "score": 5.5
+     },
+     {
+      "id": "comparateur",
+      "score": 5
+     },
+     {
+      "id": "seducteur",
+      "score": 4
+     },
+     {
+      "id": "victime",
+      "score": 4
+     },
+     {
+      "id": "controleur",
+      "score": 4
+     },
+     {
+      "id": "ermite",
+      "score": 3
+     },
+     {
+      "id": "critique",
+      "score": 2
+     },
+     {
+      "id": "provocateur",
+      "score": 2
+     },
+     {
+      "id": "intellectualiseur",
+      "score": 1.5
+     },
+     {
+      "id": "saboteur",
+      "score": 1.5
+     },
+     {
+      "id": "survivant",
+      "score": 1
+     },
+     {
+      "id": "accusateur",
+      "score": 1
+     },
+     {
+      "id": "rancunier",
+      "score": 1
+     },
+     {
+      "id": "ascete",
+      "score": 1
+     },
+     {
+      "id": "arrogant",
+      "score": 1
+     },
+     {
+      "id": "dependant_affectif",
+      "score": 0.5
+     },
+     {
+      "id": "muet",
+      "score": 0.5
+     },
+     {
+      "id": "perfectionniste",
+      "score": 0.5
+     },
+     {
+      "id": "bon_eleve",
+      "score": 0.5
+     }
+    ],
+    "pompiers": [
+     {
+      "id": "rageur",
+      "score": 6
+     },
+     {
+      "id": "hypersexuel",
+      "score": 3
+     },
+     {
+      "id": "ivrogne",
+      "score": 3
+     },
+     {
+      "id": "dorsal",
+      "score": 2
+     },
+     {
+      "id": "envie",
+      "score": 2
+     },
+     {
+      "id": "mepris",
+      "score": 2
+     },
+     {
+      "id": "shopaholique",
+      "score": 2
+     },
+     {
+      "id": "adrenaline",
+      "score": 2
+     },
+     {
+      "id": "scroll",
+      "score": 2
+     },
+     {
+      "id": "fuyard",
+      "score": 1.5
+     },
+     {
+      "id": "haine",
+      "score": 1
+     },
+     {
+      "id": "fabulateur",
+      "score": 1
+     },
+     {
+      "id": "plainte",
+      "score": 1
+     },
+     {
+      "id": "auto_sabotage",
+      "score": 1
+     },
+     {
+      "id": "test",
+      "score": 1
+     },
+     {
+      "id": "glouton",
+      "score": 1
+     },
+     {
+      "id": "tca",
+      "score": 1
+     },
+     {
+      "id": "drama",
+      "score": 1
+     },
+     {
+      "id": "anesthesieur",
+      "score": 1
+     },
+     {
+      "id": "bloqueur",
+      "score": 0.5
+     }
+    ],
+    "exiles_centraux": [
+     "invisible"
+    ],
+    "exiles_tous": [
+     {
+      "id": "invisible",
+      "score": 16.5,
+      "declencheurs": [
+       "Le doute de soi",
+       "Le besoin d'attention",
+       "Les émotions interdites (colère, tristesse, peur)",
+       "Le moindre besoin corporel",
+       "Le sentiment d'être transparent",
+       "Le bien-être (invisible), la détresse (visible)",
+       "Les réseaux sociaux",
+       "Le doute sur sa valeur",
+       "Le doute sur sa valeur, le vide",
+       "L'anesthésie du quotidien",
+       "L'auto-doute, le sentiment d'être transparent",
+       "Le silence des autres, le vide de reconnaissance",
+       "Le vide de reconnaissance",
+       "Le calme, la routine",
+       "L'ennui créatif, le vide intérieur",
+       "La solitude du soir, le vide"
+      ],
+      "couts": [
+       "Mon existence en otage du désir des autres",
+       "Maladies comme langage",
+       "Symptômes récurrents sans cause",
+       "Santé en déclin silencieux",
+       "Identité otage du physique (et de l'âge)",
+       "Le rôle de victime verrouille la guérison",
+       "Déprime, abandon",
+       "Dépendance au regard",
+       "Image sans substance",
+       "Jamais aimé, seulement désiré",
+       "Anesthésie croissante (il en faut plus)",
+       "Le désir jamais comblé (prouver ≠ être aimé)",
+       "Estime otage des algorithmes",
+       "Image creuse, vide intérieur",
+       "Intimité vraie jamais expérimentée",
+       "Créativité dépendante de la substance",
+       "Isolement accru, santé"
+      ],
+      "manager_id": "gardien_image",
+      "pompier_id": "hypersexuel"
+     },
+     {
+      "id": "humilie",
+      "score": 11.5,
+      "declencheurs": [
+       "Toute réussite d'autrui",
+       "Toute erreur",
+       "Le sentiment d'impuissance globale",
+       "Toute question sur sa vie",
+       "Toute comparaison sociale",
+       "Un refus, un regard qui ne s'attarde pas, une comparaison défavorable",
+       "Les posts des autres (voyages, succès, couples)",
+       "Toute situation de comparaison, tout défi",
+       "Tout visage neutre, tout silence",
+       "Toute critique, toute blessure d'amour-propre",
+       "Les deadlines, la compétition, la comparaison",
+       "Une humiliation, un échec, une critique"
+      ],
+      "couts": [
+       "La valeur des autres devient ma blessure",
+       "L'erreur jamais reconnue s'accumule et devient faute",
+       "Mise en danger vitale",
+       "Vie double, peur permanente d'être démasqué",
+       "Envie chronique, relations faussées",
+       "Relations toxiques",
+       "N'être aimé que pour l'image, jamais pour soi",
+       "Envie chronique, déprime",
+       "Solitude des « tours de verre »",
+       "Épuisement, relations déformées",
+       "Dignité sauvée, lien perdu",
+       "Épuisement, crash, santé",
+       "Honte aggravée le lendemain → cycle"
+      ],
+      "manager_id": "gardien_image",
+      "pompier_id": "rageur"
+     },
+     {
+      "id": "abandonne",
+      "score": 6.5,
+      "declencheurs": [
+       "Le souvenir de la trahison",
+       "Le vide, l'ennui, la tristesse",
+       "L'amour qui va bien (suspect)",
+       "La déception relationnelle",
+       "L'attachement qui grandit, le moindre rejet",
+       "Une distance perçue, un signe de rejet anticipé",
+       "Un non-dit qui grossit, une vérité qui fâche",
+       "Les personnes stables (inconnues), les personnes instables (familières)",
+       "Le manque, la rupture, l'absence"
+      ],
+      "couts": [
+       "La rancune protège la blessure et l'emprisonne",
+       "Dettes, vide croissant",
+       "Les tests finissent par faire fuir",
+       "Compulsion solitaire",
+       "Répétition exacte de la blessure",
+       "Le va-et-vient qui épulse l'autre et soi — l'amour en yoyo",
+       "Partir sans avoir parlé — et laisser l'autre sans explication",
+       "Cycles douloureux sans fin",
+       "Insomnie rebond, dépendance"
+      ],
+      "manager_id": "controleur",
+      "pompier_id": "scroll"
+     },
+     {
+      "id": "coupable",
+      "score": 5.5,
+      "declencheurs": [
+       "Une erreur, un reproche, un miroir qui renvoie sa propre faute",
+       "Le bien-être (interdit)",
+       "La culpabilité, la faute",
+       "Le moment où la relation devient bonne",
+       "Un moment de joie, un désir, un plaisir qui s'annonce",
+       "La veille d'un examen, d'un entretien, d'une chance"
+      ],
+      "couts": [
+       "Des relations en procès permanent — et la faute qui revient toujours",
+       "Maladies évitables",
+       "Aucun pouvoir sur sa vie",
+       "Relations détruites au bord du bonheur",
+       "La privation qui finit toujours en débordement — et la honte qui suit",
+       "Échecs programmés qui confirment la croyance"
+      ],
+      "manager_id": "victime",
+      "pompier_id": "rageur"
+     },
+     {
+      "id": "terrifie",
+      "score": 4,
+      "declencheurs": [
+       "Toute menace perçue",
+       "L'incertitude relationnelle, l'attente",
+       "L'incertitude, l'imprévisible",
+       "L'hypervigilance, l'angoisse, les souvenirs",
+       "Toute situation sociale, séduction, prise de parole"
+      ],
+      "couts": [
+       "La défense qui marche finit par éloigner tout le monde",
+       "Conflits auto-produits",
+       "Illusion de contrôle, risques réels",
+       "Vie en apnée, aucun traitement de la cause",
+       "Dépendance sociale à la substance ; authenticité jamais testée"
+      ],
+      "manager_id": "controleur",
+      "pompier_id": "rageur"
+     },
+     {
+      "id": "parentifie",
+      "score": 1,
+      "declencheurs": [
+       "Après l'effort, quand plus personne n'a besoin de rien — le vide"
+      ],
+      "couts": [
+       "La vie en deux temps : tout donner, puis ne plus pouvoir bouger"
+      ],
+      "manager_id": "survivant",
+      "pompier_id": "dorsal"
+     }
+    ],
+    "double": false,
+    "affinageNecessaire": false,
+    "managers_dominants": [
+     "gardien_image",
+     "comparateur",
+     "seducteur",
+     "victime"
+    ],
+    "pompiers_secours": [
+     "rageur",
+     "hypersexuel",
+     "ivrogne"
+    ],
+    "declencheurs": [
+     "Après l'effort, quand plus personne n'a besoin de rien — le vide",
+     "Une erreur, un reproche, un miroir qui renvoie sa propre faute",
+     "Le souvenir de la trahison",
+     "Toute menace perçue",
+     "Toute réussite d'autrui",
+     "Le doute de soi",
+     "Toute erreur",
+     "Le vide, l'ennui, la tristesse",
+     "Le besoin d'attention",
+     "Les émotions interdites (colère, tristesse, peur)",
+     "Le bien-être (interdit)",
+     "Le moindre besoin corporel",
+     "Le sentiment d'impuissance globale",
+     "Le sentiment d'être transparent",
+     "La culpabilité, la faute",
+     "Le bien-être (invisible), la détresse (visible)",
+     "Toute question sur sa vie",
+     "Les réseaux sociaux",
+     "Le doute sur sa valeur",
+     "Le moment où la relation devient bonne",
+     "L'amour qui va bien (suspect)",
+     "Toute comparaison sociale",
+     "Un refus, un regard qui ne s'attarde pas, une comparaison défavorable",
+     "Le doute sur sa valeur, le vide",
+     "L'incertitude relationnelle, l'attente",
+     "L'incertitude, l'imprévisible",
+     "L'anesthésie du quotidien",
+     "La déception relationnelle",
+     "L'auto-doute, le sentiment d'être transparent",
+     "Un moment de joie, un désir, un plaisir qui s'annonce",
+     "Le silence des autres, le vide de reconnaissance",
+     "Les posts des autres (voyages, succès, couples)",
+     "Toute situation de comparaison, tout défi",
+     "Le vide de reconnaissance",
+     "Tout visage neutre, tout silence",
+     "L'attachement qui grandit, le moindre rejet",
+     "Toute critique, toute blessure d'amour-propre",
+     "Une distance perçue, un signe de rejet anticipé",
+     "Un non-dit qui grossit, une vérité qui fâche",
+     "Les personnes stables (inconnues), les personnes instables (familières)",
+     "Le calme, la routine",
+     "L'ennui créatif, le vide intérieur",
+     "L'hypervigilance, l'angoisse, les souvenirs",
+     "Les deadlines, la compétition, la comparaison",
+     "Une humiliation, un échec, une critique",
+     "La solitude du soir, le vide",
+     "Le manque, la rupture, l'absence",
+     "Toute situation sociale, séduction, prise de parole",
+     "La veille d'un examen, d'un entretien, d'une chance"
+    ],
+    "couts": [
+     "La vie en deux temps : tout donner, puis ne plus pouvoir bouger",
+     "Des relations en procès permanent — et la faute qui revient toujours",
+     "La rancune protège la blessure et l'emprisonne",
+     "La défense qui marche finit par éloigner tout le monde",
+     "La valeur des autres devient ma blessure",
+     "Mon existence en otage du désir des autres",
+     "L'erreur jamais reconnue s'accumule et devient faute",
+     "Dettes, vide croissant",
+     "Maladies comme langage",
+     "Symptômes récurrents sans cause",
+     "Maladies évitables",
+     "Santé en déclin silencieux",
+     "Mise en danger vitale",
+     "Identité otage du physique (et de l'âge)",
+     "Aucun pouvoir sur sa vie",
+     "Le rôle de victime verrouille la guérison",
+     "Vie double, peur permanente d'être démasqué",
+     "Déprime, abandon",
+     "Envie chronique, relations faussées",
+     "Dépendance au regard",
+     "Relations détruites au bord du bonheur",
+     "Les tests finissent par faire fuir",
+     "Relations toxiques",
+     "Image sans substance",
+     "N'être aimé que pour l'image, jamais pour soi",
+     "Jamais aimé, seulement désiré",
+     "Conflits auto-produits",
+     "Illusion de contrôle, risques réels",
+     "Anesthésie croissante (il en faut plus)",
+     "Compulsion solitaire",
+     "Le désir jamais comblé (prouver ≠ être aimé)",
+     "La privation qui finit toujours en débordement — et la honte qui suit",
+     "Estime otage des algorithmes",
+     "Envie chronique, déprime",
+     "Solitude des « tours de verre »",
+     "Image creuse, vide intérieur",
+     "Épuisement, relations déformées",
+     "Répétition exacte de la blessure",
+     "Dignité sauvée, lien perdu",
+     "Le va-et-vient qui épulse l'autre et soi — l'amour en yoyo",
+     "Partir sans avoir parlé — et laisser l'autre sans explication",
+     "Cycles douloureux sans fin",
+     "Intimité vraie jamais expérimentée",
+     "Créativité dépendante de la substance",
+     "Vie en apnée, aucun traitement de la cause",
+     "Épuisement, crash, santé",
+     "Honte aggravée le lendemain → cycle",
+     "Isolement accru, santé",
+     "Insomnie rebond, dépendance",
+     "Dépendance sociale à la substance ; authenticité jamais testée",
+     "Échecs programmés qui confirment la croyance"
+    ],
+    "declencheurs_top": "Après l'effort, quand plus personne n'a besoin de rien — le vide · Une erreur, un reproche, un miroir qui renvoie sa propre faute · Le souvenir de la trahison",
+    "couts_top": "La vie en deux temps : tout donner, puis ne plus pouvoir bouger · Des relations en procès permanent — et la faute qui revient toujours · La rancune protège la blessure et l'emprisonne",
+    "comportements_cles": [
+     {
+      "id": "8.6",
+      "nom": "Colère (ira)",
+      "combos": [
+       {
+        "id": "8.6.D",
+        "lettre": "D",
+        "manager": "accusateur",
+        "pompier": "rageur",
+        "pompier_note": null,
+        "exile": "coupable",
+        "exile_alt": null,
+        "phrase_interieure": "« C'est de ta faute ! » — si la faute est à toi, elle n'est pas à moi",
+        "declencheur": "Une erreur, un reproche, un miroir qui renvoie sa propre faute",
+        "protege": "Le tribunal intérieur, la culpabilité insupportable",
+        "cout": "Des relations en procès permanent — et la faute qui revient toujours",
+        "besoin_vise": "Innocence",
+        "ideal": "la responsabilité partagée : « il y a une part pour chacun »",
+        "micro_pas": "une fois par jour : reconnaître une part de sa propre faute, à voix basse",
+        "arret": "avant l'accusation : « qu'est-ce que cette colère me dit de ma propre peur ? »"
+       },
+       {
+        "id": "8.6.C",
+        "lettre": "C",
+        "manager": "rancunier",
+        "pompier": "haine",
+        "pompier_note": null,
+        "exile": "abandonne",
+        "exile_alt": null,
+        "phrase_interieure": "« Je ne pardonnerai pas. Pardonner = être quitté/blessé à nouveau. »",
+        "declencheur": "Le souvenir de la trahison",
+        "protege": "L'abandon",
+        "cout": "La rancune protège la blessure et l'emprisonne",
+        "besoin_vise": "Justice",
+        "ideal": "la justice sans la haine",
+        "micro_pas": "écrire la lettre de colère, non envoyée, puis la brûler",
+        "arret": "Écrire la rancune sur papier et la garder 24 h avant d'agir"
+       },
+       {
+        "id": "8.6.B",
+        "lettre": "B",
+        "manager": null,
+        "pompier": "rageur",
+        "pompier_note": null,
+        "exile": "terrifie",
+        "exile_alt": null,
+        "phrase_interieure": "« La colère est la seule défense qui marche. »",
+        "declencheur": "Toute menace perçue",
+        "protege": "La peur",
+        "cout": "La défense qui marche finit par éloigner tout le monde",
+        "besoin_vise": "Protection",
+        "ideal": "protection sans destruction",
+        "micro_pas": "sortir de la pièce, respirer, revenir 10 min après",
+        "arret": "Quitter le lieu 10 min et crier dans un oreiller si besoin"
+       }
+      ],
+      "ideal": "la responsabilité partagée : « il y a une part pour chacun » · la justice sans la haine · protection sans destruction",
+      "micro_pas": [
+       "une fois par jour : reconnaître une part de sa propre faute, à voix basse",
+       "écrire la lettre de colère, non envoyée, puis la brûler",
+       "sortir de la pièce, respirer, revenir 10 min après"
+      ],
+      "phase": 1,
+      "poids": 3
+     },
+     {
+      "id": "1.1",
+      "nom": "Alcool",
+      "combos": [
+       {
+        "id": "1.1.A",
+        "lettre": "A",
+        "manager": "critique",
+        "pompier": "ivrogne",
+        "pompier_note": null,
+        "exile": "humilie",
+        "exile_alt": null,
+        "phrase_interieure": "« Je suis nul. Je bois pour éteindre la voix qui me le répète. »",
+        "declencheur": "Une humiliation, un échec, une critique",
+        "protege": "La chaleur de la honte, le tribunal intérieur",
+        "cout": "Honte aggravée le lendemain → cycle",
+        "besoin_vise": null,
+        "ideal": "se défusionner du Critique (« c'est une pensée, pas un fait »)",
+        "micro_pas": "quand le Critique attaque, écrire la phrase, la lire à voix haute, répondre « merci de protéger » — sans boire",
+        "arret": "5 minutes de sursis : ne rien ouvrir, 3 respirations, sortir de la pièce"
+       },
+       {
+        "id": "1.1.B",
+        "lettre": "B",
+        "manager": "ermite",
+        "pompier": "anesthesieur",
+        "pompier_note": null,
+        "exile": "invisible",
+        "exile_alt": null,
+        "phrase_interieure": "« Personne ne me voit. L'alcool me réchauffe comme une présence. »",
+        "declencheur": "La solitude du soir, le vide",
+        "protege": "Le vide d'existence, l'absence de lien",
+        "cout": "Isolement accru, santé",
+        "besoin_vise": null,
+        "ideal": "co-régulation réelle (un appel, un lieu sûr)",
+        "micro_pas": "un verre remplacé par un appel de 5 min à UNE personne sûre, 2 soirs par semaine",
+        "arret": "Remplacer le premier verre par un grand verre d'eau, debout, à la fenêtre"
+       },
+       {
+        "id": "1.1.C",
+        "lettre": "C",
+        "manager": "controleur",
+        "pompier": "ivrogne",
+        "pompier_note": null,
+        "exile": "abandonne",
+        "exile_alt": null,
+        "phrase_interieure": "« Si je dors, je ne pense plus à lui/elle. »",
+        "declencheur": "Le manque, la rupture, l'absence",
+        "protege": "La douleur du manque, l'envie d'écrire",
+        "cout": "Insomnie rebond, dépendance",
+        "besoin_vise": null,
+        "ideal": "ritualiser le deuil du soir (écrire la lettre non envoyée)",
+        "micro_pas": "au lieu du verre, 10 lignes écrites, non envoyées",
+        "arret": "Appeler une personne de confiance avant d'acheter"
+       },
+       {
+        "id": "1.1.D",
+        "lettre": "D",
+        "manager": "bon_eleve",
+        "pompier": "ivrogne",
+        "pompier_note": null,
+        "exile": "terrifie",
+        "exile_alt": null,
+        "phrase_interieure": "« Sans alcool, je ne suis pas capable d'être moi-même en public. »",
+        "declencheur": "Toute situation sociale, séduction, prise de parole",
+        "protege": "La peur du regard, l'exposition",
+        "cout": "Dépendance sociale à la substance ; authenticité jamais testée",
+        "besoin_vise": null,
+        "ideal": "prouver au corps que l'exposition ne tue pas",
+        "micro_pas": "UN compliment dit à voix haute, sans alcool, à une personne sûre",
+        "arret": "Dire à voix haute « j'ai envie de boire » — puis attendre 10 minutes avant tout geste"
+       },
+       {
+        "id": "1.1.E",
+        "lettre": "E",
+        "manager": "saboteur",
+        "pompier": "ivrogne",
+        "pompier_note": null,
+        "exile": "coupable",
+        "exile_alt": null,
+        "phrase_interieure": "« Je n'ai pas le droit de réussir. Je me sabote avant d'avoir pu échouer. »",
+        "declencheur": "La veille d'un examen, d'un entretien, d'une chance",
+        "protege": "La peur du succès (et de l'exposition qu'il implique)",
+        "cout": "Échecs programmés qui confirment la croyance",
+        "besoin_vise": null,
+        "ideal": "droit à la réussite",
+        "micro_pas": "nommer la part qui sabote AVANT l'événement, lui dire « je te vois, je gère », puis se préparer sobrement",
+        "arret": "Verser le verre ou le jeter, puis 3 min de marche dehors"
+       }
+      ],
+      "ideal": "se défusionner du Critique (« c'est une pensée, pas un fait ») · co-régulation réelle (un appel, un lieu sûr) · ritualiser le deuil du soir (écrire la lettre non envoyée) · prouver au corps que l'exposition ne tue pas · droit à la réussite",
+      "micro_pas": [
+       "quand le Critique attaque, écrire la phrase, la lire à voix haute, répondre « merci de protéger » — sans boire",
+       "un verre remplacé par un appel de 5 min à UNE personne sûre, 2 soirs par semaine",
+       "au lieu du verre, 10 lignes écrites, non envoyées",
+       "UN compliment dit à voix haute, sans alcool, à une personne sûre",
+       "nommer la part qui sabote AVANT l'événement, lui dire « je te vois, je gère », puis se préparer sobrement"
+      ],
+      "phase": 1,
+      "poids": 2.5
+     },
+     {
+      "id": "6.4",
+      "nom": "Somatisation / hypocondrie / symptômes sans cause",
+      "combos": [
+       {
+        "id": "6.4.B",
+        "lettre": "B",
+        "manager": "victime",
+        "pompier": null,
+        "pompier_note": "maladie = attention",
+        "exile": "invisible",
+        "exile_alt": null,
+        "phrase_interieure": "« On ne s'occupe de moi que quand je suis malade. »",
+        "declencheur": "Le besoin d'attention",
+        "protege": "L'invisibilité",
+        "cout": "Maladies comme langage",
+        "besoin_vise": null,
+        "ideal": "demander l'attention directement",
+        "micro_pas": "formuler UN besoin d'attention à voix haute, sans être malade",
+        "arret": "Nommer l'émotion au lieu du symptôme : « qu'est-ce que je sens ? »"
+       },
+       {
+        "id": "6.4.A",
+        "lettre": "A",
+        "manager": "intellectualiseur",
+        "pompier": null,
+        "pompier_note": "soma = Pompier",
+        "exile": "invisible",
+        "exile_alt": null,
+        "phrase_interieure": "« Je n'ai pas le droit de dire ce que je sens. Mon corps le dira pour moi. »",
+        "declencheur": "Les émotions interdites (colère, tristesse, peur)",
+        "protege": "L'expression émotionnelle (interdite)",
+        "cout": "Symptômes récurrents sans cause",
+        "besoin_vise": null,
+        "ideal": "donner la parole aux émotions",
+        "micro_pas": "quand le symptôme apparaît, se demander « quelle émotion n'a pas pu sortir aujourd'hui ? » et l'écrire",
+        "arret": "Ancrer le corps : pieds au sol, souffle, avant d'interpréter le symptôme"
+       }
+      ],
+      "ideal": "demander l'attention directement · donner la parole aux émotions",
+      "micro_pas": [
+       "formuler UN besoin d'attention à voix haute, sans être malade",
+       "quand le symptôme apparaît, se demander « quelle émotion n'a pas pu sortir aujourd'hui ? » et l'écrire"
+      ],
+      "phase": 1,
+      "poids": 2
+     },
+     {
+      "id": "6.3",
+      "nom": "Négligence corporelle / santé ignorée",
+      "combos": [
+       {
+        "id": "6.3.B",
+        "lettre": "B",
+        "manager": "critique",
+        "pompier": null,
+        "pompier_note": "négligence = punition",
+        "exile": "coupable",
+        "exile_alt": null,
+        "phrase_interieure": "« Je ne mérite pas qu'on prenne soin de moi. »",
+        "declencheur": "Le bien-être (interdit)",
+        "protege": "La réparation (refusée)",
+        "cout": "Maladies évitables",
+        "besoin_vise": null,
+        "ideal": "le droit aux soins",
+        "micro_pas": "prendre UN rendez-vous de soin (médecin, dentiste) dans la semaine",
+        "arret": "Prendre rendez-vous (médecin, dentiste) aujourd'hui"
+       },
+       {
+        "id": "6.3.A",
+        "lettre": "A",
+        "manager": "ermite",
+        "pompier": null,
+        "pompier_note": "négligence = anesthésie",
+        "exile": "invisible",
+        "exile_alt": null,
+        "phrase_interieure": "« Mon corps n'a pas d'importance puisque je n'existe pas. »",
+        "declencheur": "Le moindre besoin corporel",
+        "protege": "L'existence (refusée)",
+        "cout": "Santé en déclin silencieux",
+        "besoin_vise": null,
+        "ideal": "prendre soin = s'aimer",
+        "micro_pas": "UN acte de soin quotidien (dormir 30 min de plus, boire, un rdv médical) comme acte d'existence",
+        "arret": "Un geste de soin de 5 min : boire, se laver, dormir"
+       }
+      ],
+      "ideal": "le droit aux soins · prendre soin = s'aimer",
+      "micro_pas": [
+       "prendre UN rendez-vous de soin (médecin, dentiste) dans la semaine",
+       "UN acte de soin quotidien (dormir 30 min de plus, boire, un rdv médical) comme acte d'existence"
+      ],
+      "phase": 3,
+      "poids": 2
+     },
+     {
+      "id": "5.6",
+      "nom": "Victimisation / souffrance comme langage d'amour",
+      "combos": [
+       {
+        "id": "5.6.B",
+        "lettre": "B",
+        "manager": "victime",
+        "pompier": null,
+        "pompier_note": "déresponsabilisation",
+        "exile": "coupable",
+        "exile_alt": null,
+        "phrase_interieure": "« Si c'est la faute des autres, je ne suis pas mauvais. »",
+        "declencheur": "La culpabilité, la faute",
+        "protege": "La honte d'être coupable",
+        "cout": "Aucun pouvoir sur sa vie",
+        "besoin_vise": null,
+        "ideal": "la responsabilité comme pouvoir",
+        "micro_pas": "reconnaître UNE part de responsabilité dans un problème, sans se condamner — « j'ai fait un choix, je peux en faire d'autres »",
+        "arret": "Exprimer un besoin directement, sans passer par la souffrance"
+       },
+       {
+        "id": "5.6.A",
+        "lettre": "A",
+        "manager": "victime",
+        "pompier": null,
+        "pompier_note": "plainte = Pompier",
+        "exile": "invisible",
+        "exile_alt": null,
+        "phrase_interieure": "« Personne ne me voit quand je vais bien. On ne s'occupe de moi que quand je vais mal. »",
+        "declencheur": "Le bien-être (invisible), la détresse (visible)",
+        "protege": "L'invisibilité",
+        "cout": "Le rôle de victime verrouille la guérison",
+        "besoin_vise": null,
+        "ideal": "être vu dans la force",
+        "micro_pas": "partager UNE bonne nouvelle ou une réussite avec quelqu'un, sans la minimiser",
+        "arret": "Remplacer « oui mais » par « qu'est-ce que je peux faire ? »"
+       }
+      ],
+      "ideal": "la responsabilité comme pouvoir · être vu dans la force",
+      "micro_pas": [
+       "reconnaître UNE part de responsabilité dans un problème, sans se condamner — « j'ai fait un choix, je peux en faire d'autres »",
+       "partager UNE bonne nouvelle ou une réussite avec quelqu'un, sans la minimiser"
+      ],
+      "phase": 3,
+      "poids": 2
+     }
+    ],
+    "phase_globale": 1,
+    "domaines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   "affinageNecessaire": false,
+   "engagements": {
+    "echelles": {},
+    "coches": {},
+    "reglesConfirmees": false
+   },
+   "miroir": {
+    "reponses4q": {},
+    "note": ""
+   },
+   "declencheur": {
+    "consenti": false,
+    "reponses": {}
+   },
+   "theorie": {
+    "lus": {},
+    "favoris": []
+   },
+   "microPas": {},
+   "proactifCoches": {}
+  }
+ }
+}

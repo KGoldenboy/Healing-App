@@ -1,0 +1,1845 @@
+{
+  "exiles": {
+    "humilie": {
+      "id": "humilie",
+      "nom": "Enfant Humilié",
+      "blessure": "Moqueries, critiques, comparaison",
+      "croyance": "« Je suis laid/nul/indigne »",
+      "lieu_corporel": "Visage (chaud), épaules (recroquevillées), estomac (serré)",
+      "part_desavouee": "La dignité inattaquable : l'auto-affirmation qui ne s'excuse pas, la fierté qui ne dépend d'aucun regard",
+      "signatures": [
+        "Se rabaisser OU se surélever",
+        "perfectionnisme",
+        "explosions",
+        "mépris",
+        "peur du regard",
+        "blocage du désir",
+        "comparaison"
+      ],
+      "protecteurs": [
+        "critique",
+        "perfectionniste",
+        "arrogant",
+        "clown",
+        "heros",
+        "gardien_image",
+        "bon_eleve",
+        "auto_devalorise",
+        "comparateur",
+        "seducteur"
+      ],
+      "pompiers_extincteurs": [
+        "rageur",
+        "ivrogne",
+        "hypersexuel",
+        "adrenaline",
+        "fuyard",
+        "auto_humiliation",
+        "envie",
+        "evitement_de_performance",
+        "gamer",
+        "inhibition",
+        "mepris"
+      ],
+      "decisions_cles_typiques": [],
+      "micro_pas": [
+        "3 min de présence au corps : souffle dans le ventre, épaules relâchées, visage détendu",
+        "Une action de plaisir par jour, sans justification : « je me donne le droit de ne pas être capable de tout prendre »."
+      ],
+      "vocabulaire": [
+        "digne",
+        "indigne",
+        "petit",
+        "gros",
+        "cochon",
+        "sale",
+        "je suis pris",
+        "je ne vaux pas mieux"
+      ],
+      "morphologie": "Corps rond, taille courte, cou gros et bombé ; grands yeux ronds, ouverts, innocents d'un enfant ; voix mielleuse.",
+      "origine": "Entre 1 et 3 ans — le contrôle et la honte du parent qui réprime le plaisir (souvent la mère) : la propreté, le corps, la liberté brimée."
+    },
+    "invisible": {
+      "id": "invisible",
+      "nom": "Enfant Invisible",
+      "blessure": "Émotions non reconnues, absence de miroir",
+      "croyance": "« Mes émotions ne comptent pas. Je n'existe pas. »",
+      "lieu_corporel": "Corps entier (absence de sensation), vide",
+      "part_desavouee": "L'existence gratuite : être là sans produire, sans plaire, sans prouver — et le dire",
+      "signatures": [
+        "Don pour exister",
+        "quête de likes et de reconnaissance",
+        "victimisation",
+        "clown",
+        "somatisation",
+        "achat d'attention",
+        "« à quoi bon »"
+      ],
+      "protecteurs": [
+        "sauveur",
+        "gardien_image",
+        "bon_eleve",
+        "victime",
+        "clown",
+        "ermite",
+        "reveur",
+        "seducteur",
+        "survivant"
+      ],
+      "pompiers_extincteurs": [
+        "scroll",
+        "glouton",
+        "shopaholique",
+        "fabulateur",
+        "hypersexuel",
+        "somatisation",
+        "fantasme",
+        "plainte",
+        "workaholie"
+      ],
+      "decisions_cles_typiques": [],
+      "micro_pas": [
+        "3 min de présence : main sur le cœur, sans rien apporter ni prouver",
+        "Trois fois par jour : « qu'est-ce que je ressens, là, maintenant ? » — et le nommer, même tout bas."
+      ],
+      "vocabulaire": [
+        "nul",
+        "rien",
+        "inexistant",
+        "disparaître",
+        "pas de place",
+        "sans valeur",
+        "de trop",
+        "à quoi bon"
+      ],
+      "morphologie": "Corps étroit, contracté, comme s'il voulait disparaître ; petits yeux cernés, regard fuyant ; voix éteinte ; vêtements sombres.",
+      "origine": "De la conception à 1 an — le rejet par le parent du même sexe : ne pas sentir le droit d'exister."
+    },
+    "abandonne": {
+      "id": "abandonne",
+      "nom": "Enfant Abandonné",
+      "blessure": "Perte, séparation, rejet",
+      "croyance": "« Je ne suis pas assez pour qu'on reste »",
+      "lieu_corporel": "Sternum (creux, froid), gorge (boule)",
+      "part_desavouee": "La présence qui reste : l'engagement déclaré, la fidélité qui survit au conflit, la porte qui ne claque pas",
+      "signatures": [
+        "Fuite avant d'être quitté",
+        "« Adieu » définitifs",
+        "jalousie",
+        "tests",
+        "relations instables",
+        "anesthésie",
+        "dépendance affective masquée"
+      ],
+      "protecteurs": [
+        "controleur",
+        "ermite",
+        "sauveur",
+        "jaloux",
+        "provocateur",
+        "critique",
+        "dependant_affectif",
+        "dormeur",
+        "froid",
+        "muet",
+        "rancunier"
+      ],
+      "pompiers_extincteurs": [
+        "fuyard",
+        "declarateur",
+        "anesthesieur",
+        "scroll",
+        "drama",
+        "glouton",
+        "endormeur",
+        "bloqueur",
+        "gamer_clan",
+        "haine",
+        "rancune",
+        "test"
+      ],
+      "decisions_cles_typiques": [],
+      "micro_pas": [
+        "3 min de présence : pieds au sol, « je suis là, je reste »",
+        "Dix compliments par jour, à soi et aux autres — combler le manque autrement que par l'accroche."
+      ],
+      "vocabulaire": [
+        "absent",
+        "seul",
+        "je ne supporte pas",
+        "on ne me lâche pas",
+        "j'ai laissé tomber",
+        "je ne peux pas",
+        "laisser",
+        "quitter"
+      ],
+      "morphologie": "Corps long et mince, sans tonus, qui s'affaisse ; épaules tombantes, dos courbé ; grands yeux tristes ; petite voix d'enfant, plaintive.",
+      "origine": "Entre 1 et 3 ans — le manque de nourriture affective avec le parent du sexe opposé."
+    },
+    "terrifie": {
+      "id": "terrifie",
+      "nom": "Enfant Terrifié",
+      "blessure": "Violence, menace de mort symbolique",
+      "croyance": "« Le monde n'est pas sûr. Je vais mourir. »",
+      "lieu_corporel": "Tout le corps (figé, glacé)",
+      "part_desavouee": "La sécurité incarnée : le calme qui ne fuit pas, la confiance qui s'approche, l'audace tranquille",
+      "signatures": [
+        "Évitement",
+        "hypervigilance",
+        "procrastination",
+        "isolement",
+        "contrôle",
+        "dissociation",
+        "somatisation",
+        "TCA-restriction"
+      ],
+      "protecteurs": [
+        "controleur",
+        "hypervigilant",
+        "evitant",
+        "ermite",
+        "procrastinateur",
+        "planificateur",
+        "intellectualiseur",
+        "thesauriseur"
+      ],
+      "pompiers_extincteurs": [
+        "dissociatif",
+        "fuyard",
+        "anesthesieur",
+        "adrenaline",
+        "dorsal",
+        "rageur",
+        "accumulation",
+        "manque",
+        "tca"
+      ],
+      "decisions_cles_typiques": [],
+      "micro_pas": [
+        "3 min de présence : scan lent du corps, de la tête aux pieds, sans juger",
+        "Quand la peur monte : peur réelle ou peur irréelle ? « Quelle est la pire chose qui puisse m'arriver — et serais-je capable de la gérer ? »"
+      ],
+      "vocabulaire": [
+        "fais-moi confiance",
+        "je suis capable",
+        "je le savais",
+        "j'avais raison",
+        "as-tu compris ?",
+        "dissocié",
+        "séparé",
+        "quitté"
+      ],
+      "morphologie": "Haut du corps qui exhibe la force : épaules plus larges que les hanches, poitrine et ventre bombés ; regard intense et séducteur ; voix forte qui porte loin.",
+      "origine": "La peur s'apprend : entre 0 et 7 ans, par la surprotection ou la violence. Le corps a appris que le monde n'était pas sûr — angoisse de séparation, agoraphobie, tout changement vécu comme une mort symbolique."
+    },
+    "coupable": {
+      "id": "coupable",
+      "nom": "Enfant Coupable",
+      "blessure": "Responsabilité imposée trop tôt",
+      "croyance": "« Tout est ma faute. Je suis mauvais. »",
+      "lieu_corporel": "Poids sur les épaules, oppression thoracique",
+      "part_desavouee": "L'innocence accordée : la faute nommée, réparée, déposée — sans condamnation ni déni",
+      "signatures": [
+        "Auto-sabotage",
+        "punitions",
+        "don pour se purifier",
+        "se rabaisser",
+        "échecs programmés",
+        "refus du bonheur"
+      ],
+      "protecteurs": [
+        "critique",
+        "bon_eleve",
+        "saboteur",
+        "victime",
+        "sauveur",
+        "accusateur",
+        "ascete"
+      ],
+      "pompiers_extincteurs": [
+        "ivrogne",
+        "joueur",
+        "glouton",
+        "rageur",
+        "auto_sabotage"
+      ],
+      "decisions_cles_typiques": [],
+      "micro_pas": [
+        "3 min de présence : souffle long, « je n'ai rien à réparer en ce moment »",
+        "Repérer une auto-accusation du jour et la reformuler en fait : « j'ai fait ce que je pouvais avec ce que je savais »."
+      ],
+      "vocabulaire": [
+        "pas de problème",
+        "toujours",
+        "jamais",
+        "très",
+        "justement",
+        "exactement",
+        "d'accord ?",
+        "il faut",
+        "je devrais"
+      ],
+      "morphologie": "Corps droit, rigide, le plus parfait possible, bien proportionné ; mâchoire serrée, cou raide ; voix sèche et rapide.",
+      "origine": "Entre 4 et 6 ans — la froideur et l'exigence du parent du même sexe : devoir être parfait et juste pour être aimé."
+    },
+    "parentifie": {
+      "id": "parentifie",
+      "nom": "Enfant Parentifié",
+      "blessure": "Responsabilité imposée trop tôt, enfance volée",
+      "croyance": "Je dois sauver, je n'ai pas le droit d'être enfant",
+      "lieu_corporel": "Poids sur les épaules, oppression thoracique",
+      "part_desavouee": "La vulnérabilité assumée : recevoir sans calculer, se laisser porter, être faible sans danger",
+      "signatures": [
+        "Sauvetage des autres",
+        "sur-responsabilité",
+        "incapacité à recevoir",
+        "épuisement",
+        "« je ne peux pas vous laisser en galère »"
+      ],
+      "protecteurs": [
+        "sauveur",
+        "bon_eleve",
+        "survivant"
+      ],
+      "pompiers_extincteurs": [
+        "epuisement",
+        "dorsal",
+        "declarateur",
+        "workaholie"
+      ],
+      "decisions_cles_typiques": [],
+      "micro_pas": [
+        "3 min de présence : sentir son propre poids, sans porter personne",
+        "Dire non à une demande non vitale, pour vérifier que l'autre survit sans toi."
+      ],
+      "vocabulaire": [
+        "je suis capable d'en prendre",
+        "laisse-moi faire",
+        "tu ne peux pas t'en sortir sans moi",
+        "c'est de ma faute si",
+        "je dois"
+      ],
+      "morphologie": "Le corps qui porte : épaules chargées, dos solide, cou tendu — la posture de celui qui tient tout, et qui s'effondre quand il ne tient plus.",
+      "origine": "Très tôt — l'enfant apprend que son amour se gagne en s'oubliant pour les autres ; il devient le parent de ses parents (le « sauveur » qui porte le bonheur des siens)."
+    }
+  },
+  "managers": {
+    "critique": {
+      "id": "critique",
+      "nom": "Critique",
+      "strategie": "Attaquer (soi ou l'autre) avant d'être attaqué",
+      "derive_pompier": [
+        "ivrogne",
+        "auto_humiliation",
+        "scroll"
+      ],
+      "nouveau_role": "Conseiller en qualité : suggère après, jamais avant l'élan",
+      "strategie_opposee": "Insouciant : « c'est assez », ne juge ni ne se juge, accueille l'erreur comme une donnée",
+      "signes_distinctifs": "Voix intérieure jugeante, « pas assez bien »",
+      "peur": "Si je n'attaque pas, l'Exilé sera activé",
+      "protege": [
+        "humilie",
+        "abandonne",
+        "coupable"
+      ],
+      "micro_pas": [
+        "Une remarque positive par jour, dite avant toute critique",
+        "Avant d'attaquer : 3 respirations, puis « est-ce que je protège quelque chose ? »"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Critique",
+        "Critique (moral)",
+        "Critique (retourné)",
+        "Juge",
+        "Critique/Juge"
+      ]
+    },
+    "dependant_affectif": {
+      "id": "dependant_affectif",
+      "nom": "Dépendant affectif",
+      "strategie": "S'accrocher, fusionner, angoisse de séparation",
+      "strategie_opposee": "L'Hyper-indépendant : « je n'ai besoin de personne », distance",
+      "nouveau_role": "Amoureux autonome : l'autonomie dans le lien",
+      "peur": "L'autre va partir si je ne m'accroche pas",
+      "protege": [
+        "abandonne"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Une phrase d'autonomie par jour : « j'ai passé un bon moment seul·e »",
+        "Attendre 1 h avant de relancer — et le dire : « je respire, je ne relance pas »"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Dépendant affectif"
+      ]
+    },
+    "intellectualiseur": {
+      "id": "intellectualiseur",
+      "nom": "Intellectualiseur",
+      "strategie": "Comprendre pour ne pas sentir",
+      "derive_pompier": [
+        "scroll",
+        "dissociatif",
+        "fantasme"
+      ],
+      "nouveau_role": "Explorateur curieux : apprend pour le plaisir",
+      "strategie_opposee": "Volcanique : sent tout, dit tout, déborde, pleure, crie",
+      "signes_distinctifs": "Analyse constante, « je comprends mais… »",
+      "peur": "Si je ne comprends pas, je ne contrôle pas",
+      "protege": [
+        "terrifie"
+      ],
+      "micro_pas": [
+        "Nommer UNE émotion avec son lieu corporel avant d'analyser",
+        "Un ressenti brut par jour, sans explication : « je me sens… » et rien après",
+        "Une émotion nommée avant l'analyse : « je ressens… » avant « je pense que… »."
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Intellectualiseur"
+      ]
+    },
+    "controleur": {
+      "id": "controleur",
+      "nom": "Contrôleur",
+      "strategie": "Tout prévoir, tout verrouiller",
+      "derive_pompier": [
+        "rageur",
+        "anesthesieur",
+        "adrenaline",
+        "declarateur"
+      ],
+      "nouveau_role": "Chorégraphe : fixe le cadre, libère le contenu",
+      "strategie_opposee": "Chaotique : imprévisible, spontané, change d'avis, laisse la place à l'incertitude",
+      "signes_distinctifs": "Planification excessive, rigidité",
+      "peur": "Si je lâche, c'est le chaos",
+      "protege": [
+        "abandonne",
+        "terrifie"
+      ],
+      "micro_pas": [
+        "Lâcher UNE variable non vitale par jour, et le constater",
+        "Un imprévu accepté sans plan B : « je verrai quand ça arrivera »",
+        "Transformer une attente en entente : dire ce que je désire, vérifier si l'autre est d'accord pour y répondre."
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Contrôleur"
+      ]
+    },
+    "bon_eleve": {
+      "id": "bon_eleve",
+      "nom": "Bon Élève",
+      "strategie": "Obéir, bien faire, se taire",
+      "derive_pompier": [
+        "rageur",
+        "dorsal",
+        "fuyard"
+      ],
+      "nouveau_role": "Diplomate du lien : dit ce qui ne va pas, à froid",
+      "strategie_opposee": "Transgresseur : franchit les règles, ose l'interdit, vit la faute sans s'effondrer",
+      "peur": null,
+      "protege": [
+        "humilie",
+        "invisible",
+        "coupable",
+        "parentifie"
+      ],
+      "micro_pas": [
+        "Dire une préférence personnelle par jour, même triviale",
+        "Une phrase qui ne plaît pas, dite à froid, une fois par semaine",
+        "Une erreur assumée par jour : la dire à voix haute, sans la rattraper aussitôt."
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Bon Élève",
+        "Bon Garçon",
+        "Obéissant"
+      ]
+    },
+    "saboteur": {
+      "id": "saboteur",
+      "nom": "Saboteur",
+      "strategie": "Détruire avant d'être détruit",
+      "derive_pompier": [
+        "joueur",
+        "ivrogne",
+        "auto_sabotage"
+      ],
+      "nouveau_role": "Gardien du réel : teste les risques avec lucidité",
+      "strategie_opposee": "Le Confiant : ose, se rate, se relève sans se détruire",
+      "peur": null,
+      "protege": [
+        "coupable"
+      ],
+      "micro_pas": [
+        "À chaque élan de destruction : 10 min de pause, puis « qu'est-ce que je protège ? »",
+        "Protéger UNE chose en construction aujourd'hui au lieu d'en détruire une"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Saboteur"
+      ]
+    },
+    "perfectionniste": {
+      "id": "perfectionniste",
+      "nom": "Perfectionniste",
+      "strategie": "Ne jamais faillir, ne rien livrer d'imparfait",
+      "derive_pompier": [],
+      "nouveau_role": "Gardien du soin : veille à la douceur du processus",
+      "strategie_opposee": "Improvisateur : livre à 80 %, se fiche du regard, commence sans savoir finir",
+      "signes_distinctifs": "Standards inatteignables, épuisement",
+      "peur": "Si je fais une erreur, je suis indigne",
+      "protege": [
+        "humilie"
+      ],
+      "micro_pas": [
+        "Livrer une version « assez bien » à date fixe, chaque semaine",
+        "Une erreur nommée à voix haute sans punition : « j'ai raté, ça arrive »",
+        "Le soir : « ai-je fait mon possible aujourd'hui ? » au lieu de « ai-je été parfait ? »"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Perfectionniste"
+      ]
+    },
+    "ermite": {
+      "id": "ermite",
+      "nom": "Ermite",
+      "strategie": "Se retirer pour se protéger",
+      "derive_pompier": [
+        "fuyard",
+        "dorsal",
+        "dissociatif",
+        "ivrogne",
+        "glouton"
+      ],
+      "nouveau_role": "Sentinelle de l'intimité : protège le cercle sûr sans disparaître",
+      "strategie_opposee": "Envahisseur social : se lie en une soirée, se confie vite, entre sans frapper",
+      "signes_distinctifs": "Distance, autosuffisance défensive",
+      "peur": "Si je suis vulnérable, je serai blessé",
+      "protege": [
+        "abandonne",
+        "invisible",
+        "terrifie"
+      ],
+      "micro_pas": [
+        "Annoncer sa distance avec une date de retour : « j'ai besoin de 24 h, je reviens »",
+        "Une présence courte et définie par semaine : « je viens 30 min, puis je pars »",
+        "Prendre sa place une fois par jour : dire son avis ou sa présence, même petit."
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Ermite",
+        "Ermite/Persona",
+        "Persona",
+        "Solitaire"
+      ]
+    },
+    "arrogant": {
+      "id": "arrogant",
+      "nom": "Arrogant",
+      "strategie": "Dominer avant d'être dominé",
+      "derive_pompier": [
+        "rageur",
+        "hypersexuel"
+      ],
+      "nouveau_role": "Porteur de dignité : se tient debout sans écraser",
+      "strategie_opposee": "Auto-dévalorisé : se rabaisse, refuse les compliments, se couche pour éviter le coup",
+      "peur": null,
+      "protege": [
+        "humilie"
+      ],
+      "micro_pas": [
+        "Une reconnaissance sincère de l'autre par jour, sans compétition",
+        "Demander une aide — même petite — et la recevoir sans la rendre"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Arrogant",
+        "Narcisse",
+        "Fier"
+      ]
+    },
+    "clown": {
+      "id": "clown",
+      "nom": "Clown",
+      "strategie": "Faire rire pour être gardé",
+      "derive_pompier": [
+        "auto_humiliation",
+        "glouton"
+      ],
+      "nouveau_role": "Animateur de joie : la légèreté au service du lien, sans masque",
+      "strategie_opposee": "Sérieux : grave, profond, ne rit pas de lui-même, prend tout au premier degré",
+      "peur": null,
+      "protege": [
+        "humilie",
+        "invisible"
+      ],
+      "micro_pas": [
+        "Une phrase vraie dite SANS la transformer en blague, une fois par jour",
+        "Être sérieux·se 5 min par jour, sans bouffonnerie"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Clown",
+        "Bouffon"
+      ]
+    },
+    "victime": {
+      "id": "victime",
+      "nom": "Victime",
+      "strategie": "Être plaint pour être vu",
+      "derive_pompier": [
+        "somatisation"
+      ],
+      "nouveau_role": "Porte-parole des besoins : demande directement",
+      "strategie_opposee": "Bourreau assumé ⚠️ (voir garde-fous — souvent LEURRE, pas miroir)",
+      "peur": null,
+      "protege": [
+        "invisible",
+        "coupable"
+      ],
+      "micro_pas": [
+        "Une demande directe par jour : « j'ai besoin de… » sans la transformer en plainte",
+        "Nommer UNE force personnelle chaque matin, sans la minimiser",
+        "Une plainte transformée en demande : nommer ce dont j'ai besoin au lieu de « pauvre moi »."
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Victime"
+      ]
+    },
+    "gardien_image": {
+      "id": "gardien_image",
+      "nom": "Gardien de l'image",
+      "strategie": "Tenir le masque parfait, embellir",
+      "derive_pompier": [
+        "scroll",
+        "shopaholique",
+        "fabulateur"
+      ],
+      "nouveau_role": "Passeur de présence : laisse voir l'humain derrière le masque",
+      "strategie_opposee": "Hyper-honnête : dit la vérité brute, y compris laide, sans filtre ni fard",
+      "peur": null,
+      "protege": [
+        "humilie",
+        "invisible"
+      ],
+      "micro_pas": [
+        "Une imperfection montrée volontairement par jour : « là, je n'y arrive pas »",
+        "Partager une émotion réelle avant de raconter une réussite",
+        "Une fois par jour : une vérité dite sans enjoliver — pour vérifier que je survis sans le masque parfait."
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Gardien de l'image",
+        "Narcisse de façade"
+      ]
+    },
+    "sauveur": {
+      "id": "sauveur",
+      "nom": "Sauveur",
+      "strategie": "Donner pour exister, ne jamais dire non",
+      "derive_pompier": [
+        "fuyard",
+        "declarateur",
+        "epuisement"
+      ],
+      "nouveau_role": "Contributeur conscient : donne depuis le Self, en secret s'il le faut",
+      "strategie_opposee": "Receveur assumé : demande, prend, ne rend pas systématiquement, vit sans s'excuser de ses besoins",
+      "signes_distinctifs": "« Oui » systématique, effacement de soi",
+      "peur": "Si je dis non, je serai rejeté",
+      "protege": [
+        "abandonne",
+        "invisible",
+        "coupable",
+        "parentifie"
+      ],
+      "micro_pas": [
+        "Dire NON à une demande, même petite, aujourd'hui",
+        "Recevoir une aide sans rendre : « merci » et rien d'autre",
+        "Avant de sauver : « est-ce qu'on me l'a demandé ? » — sinon, laisser l'autre gérer."
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Sauveur",
+        "Sauveur/People-Pleaser",
+        "People-Pleaser",
+        "Donneur",
+        "Donneur/Sauveur",
+        "Réparateur",
+        "Soignant"
+      ]
+    },
+    "comparateur": {
+      "id": "comparateur",
+      "nom": "Comparateur",
+      "strategie": "Se mesurer à tout le monde, souffrir des réussites d'autrui",
+      "nouveau_role": "Témoin de progression : compare à soi-hier",
+      "strategie_opposee": "L'Insouciant : ne se mesure à personne, se réjouit des réussites des autres",
+      "peur": "Être moins que les autres — l'humiliation d'être dépassé",
+      "protege": [
+        "humilie"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Une seule comparaison par jour, à soi-hier : « j'ai progressé sur… »",
+        "Féliciter sincèrement UNE réussite d'autrui, sans ajouter sa propre mesure"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Comparateur"
+      ]
+    },
+    "reveur": {
+      "id": "reveur",
+      "nom": "Rêveur",
+      "strategie": "Rêver au lieu d'agir, attendre le grand soir",
+      "nouveau_role": "Architecte de possibles : rêve ET planifie",
+      "strategie_opposee": "Le Pragmatique : vit dans le réel, actes avant rêves",
+      "peur": null,
+      "protege": [
+        "invisible"
+      ],
+      "derive_pompier": [
+        "joueur"
+      ],
+      "micro_pas": [
+        "Transformer UNE idée en action de 5 min aujourd'hui",
+        "Un « je commence » avant le « et si… » : noter la première étape concrète"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Rêveur"
+      ]
+    },
+    "procrastinateur": {
+      "id": "procrastinateur",
+      "nom": "Procrastinateur",
+      "strategie": "Reporter pour éviter le jugement",
+      "nouveau_role": "Élan vital : commence, même imparfait",
+      "strategie_opposee": "L'Initiateur : commence à 80 %, sans attendre le bon moment",
+      "peur": null,
+      "protege": [
+        "terrifie"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "La règle des 5 minutes : commencer la chose évitée, 5 min, puis s'arrêter si on veut",
+        "Une décision en moins de 5 min par jour, sans tout peser"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Procrastinateur"
+      ]
+    },
+    "seducteur": {
+      "id": "seducteur",
+      "nom": "Séducteur",
+      "strategie": "Séduire pour prouver sa valeur — le désir comme preuve d'existence",
+      "strategie_opposee": "Le Bloqué : désir confiné, peur de l'intimité",
+      "nouveau_role": "Passeur de présence : intime sans prouver",
+      "peur": "Si je ne plais pas, je n'existe pas",
+      "protege": [
+        "humilie",
+        "invisible"
+      ],
+      "derive_pompier": [
+        "hypersexuel"
+      ],
+      "micro_pas": [
+        "Une rencontre où l'on ne séduit PAS, où l'on est simplement soi",
+        "Avant chaque drague : « est-ce que je veux, ou est-ce que je prouve ? »"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Séducteur",
+        "Hypersexuel/Séducteur"
+      ]
+    },
+    "heros": {
+      "id": "heros",
+      "nom": "Héros",
+      "strategie": "Frôler le danger pour se sentir vivant",
+      "nouveau_role": "Garde du courage : ose la vulnérabilité",
+      "strategie_opposee": "Le Prudent : lent, sécuritaire, préfère le confort",
+      "peur": "Être vu comme faible ou lâche",
+      "protege": [
+        "humilie"
+      ],
+      "derive_pompier": [
+        "adrenaline"
+      ],
+      "micro_pas": [
+        "Dire sa peur à une personne sûre, une fois par semaine",
+        "Une action douce et sans risque, choisie pour le plaisir et non pour la preuve"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Héros"
+      ]
+    },
+    "thesauriseur": {
+      "id": "thesauriseur",
+      "nom": "Thésauriseur",
+      "strategie": "L'argent comme sécurité absolue, angoisse de dépenser",
+      "strategie_opposee": "Le Dépensier : l'argent s'évapore, plaisir immédiat, dettes assumées",
+      "nouveau_role": "Trésorier du lien : la sécurité par les liens, pas par l'argent",
+      "peur": "Le manque va revenir",
+      "protege": [
+        "terrifie"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Dépenser une petite somme pour un plaisir non utile, sans culpabilité",
+        "Nommer une ressource non matérielle : un lien, une compétence, un toit"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Thésauriseur"
+      ]
+    },
+    "provocateur": {
+      "id": "provocateur",
+      "nom": "Provocateur",
+      "strategie": "Provoquer, tester, pousser à bout pour voir si on reste",
+      "nouveau_role": "Questionneur de lien : demande au lieu de tester",
+      "strategie_opposee": "L'Accueillant : croit l'amour qui se donne",
+      "peur": null,
+      "protege": [
+        "abandonne"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Remplacer un test par une question directe : « j'ai peur que tu partes »",
+        "Une semaine sans aucun test, en accueillant l'amour tel qu'il vient"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Provocateur"
+      ]
+    },
+    "jaloux": {
+      "id": "jaloux",
+      "nom": "Jaloux",
+      "strategie": "Surveiller pour ne pas être quitté",
+      "nouveau_role": "Gardien du lien : la sécurité intérieure",
+      "strategie_opposee": "Le Libre : vit sa vie, ne surveille pas",
+      "peur": "L'autre va partir si je ne contrôle pas",
+      "protege": [
+        "abandonne"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Dire la peur au lieu de surveiller : « j'ai peur de te perdre »",
+        "10 min sans vérifier, puis une demande directe de réassurance"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Jaloux",
+        "Possessif"
+      ]
+    },
+    "hypervigilant": {
+      "id": "hypervigilant",
+      "nom": "Hypervigilant",
+      "strategie": "Scanner les signes de rejet, relire chaque interaction",
+      "nouveau_role": "Sentinelle apaisée : discerne sans scanner",
+      "strategie_opposee": "Le Confiant : présuppose la bonne foi",
+      "peur": "Le danger social est partout",
+      "protege": [
+        "terrifie"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Une interaction lue en lecture littérale : les faits, pas les intentions",
+        "5 min d'orienting par jour : regarder au loin, nommer 5 objets réels"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Hypervigilant"
+      ]
+    },
+    "evitant": {
+      "id": "evitant",
+      "nom": "Évitant",
+      "strategie": "Éviter le conflit, accumuler les non-dits",
+      "nouveau_role": "Témoin du conflit : reste présent 2 minutes",
+      "strategie_opposee": "Le Confrontant : va vers le conflit, le vide sur place",
+      "peur": "Le conflit est mortel",
+      "protege": [
+        "terrifie"
+      ],
+      "derive_pompier": [
+        "endormeur"
+      ],
+      "micro_pas": [
+        "Dire la contrariété le jour même, en 2 phrases, en « je »",
+        "Rester présent 2 min dans une tension sans fuir, en respirant ventral"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Évitant"
+      ]
+    },
+    "rancunier": {
+      "id": "rancunier",
+      "nom": "Rancunier",
+      "strategie": "Ne pas pardonner, garder la liste",
+      "strategie_opposee": "Le Pardonneur : lâche, oublie, repart à zéro",
+      "nouveau_role": "Gardien de la mémoire : justice sans haine",
+      "peur": "Pardonner = être blessé à nouveau",
+      "protege": [
+        "abandonne"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Écrire la rancune sur papier, puis la garder 24 h avant toute décision",
+        "Une grâce accordée par semaine : « là, je laisse tomber la facture »"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Rancunier"
+      ]
+    },
+    "accusateur": {
+      "id": "accusateur",
+      "nom": "Accusateur",
+      "strategie": "Tenir les comptes, prouver son innocence, déposer la faute ailleurs",
+      "strategie_opposee": "Le Coupable chronique : s'excuse de tout, porte toutes les fautes",
+      "nouveau_role": "Porte-parole de justice : responsabilité partagée",
+      "peur": "Si ce n'est pas sa faute, c'est la mienne",
+      "protege": [
+        "coupable"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Nommer SA part dans un conflit, une fois par jour : « j'ai aussi… »",
+        "Une phrase de responsabilité sans blâme : « je ressens…, j'ai besoin de… »"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Accusateur",
+        "Accusatrice",
+        "Justicière",
+        "Blâmeur",
+        "Accusateur/Justicière"
+      ]
+    },
+    "survivant": {
+      "id": "survivant",
+      "nom": "Survivante/Workaholique",
+      "strategie": "Tenir seule, produire pour exister",
+      "strategie_opposee": "L'Oisif : ne produit rien et va bien",
+      "nouveau_role": "Bâtisseur : produit ET se repose",
+      "peur": "Si je m'arrête, je m'effondre",
+      "protege": [
+        "invisible",
+        "parentifie"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "30 min de vraie pause par jour, sans écran ni tâche",
+        "Dire « j'ai fini pour aujourd'hui » à voix haute, à heure fixe"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Survivante/Workaholique",
+        "Survivant",
+        "Survivante"
+      ]
+    },
+    "planificateur": {
+      "id": "planificateur",
+      "nom": "Planificateur",
+      "strategie": "Tout prévoir, rituels, cadres",
+      "strategie_opposee": "Le Spontané : rien n'est prévu, tout est possible",
+      "nouveau_role": "Chorégraphe : cadre + liberté",
+      "peur": null,
+      "protege": [
+        "terrifie"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Un moment sans plan par jour : 10 min d'improvisation pure",
+        "Autoriser UN changement de programme sans le réparer"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Planificateur"
+      ]
+    },
+    "froid": {
+      "id": "froid",
+      "nom": "Froid",
+      "strategie": "Ne pas montrer, ne pas toucher",
+      "nouveau_role": "Contenant : distance saine qui ne gèle pas",
+      "strategie_opposee": "Le Tactile : câlins, mots doux, besoin de contact",
+      "peur": "Le contact va me dévorer",
+      "protege": [
+        "abandonne"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Un geste de tendresse SANS but par jour : un baiser, une main posée",
+        "Nommer une émotion à une personne sûre, une fois par semaine"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Froid",
+        "Distant",
+        "Froid / Distant"
+      ]
+    },
+    "ascete": {
+      "id": "ascete",
+      "nom": "Ascète",
+      "strategie": "Refuser le plaisir, contrôler les pulsions",
+      "nouveau_role": "Sobriété joyeuse : plaisir sans excès ni honte",
+      "strategie_opposee": "Le Débridé : vit le corps, le plaisir sans honte",
+      "peur": null,
+      "protege": [
+        "coupable"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Un petit plaisir choisi par jour, sans le gagner ni le payer après",
+        "Quand la privation se durcit : « qu'est-ce que je m'interdis, et pourquoi ? »"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Ascète",
+        "Pur"
+      ]
+    },
+    "muet": {
+      "id": "muet",
+      "nom": "Muet",
+      "strategie": "« Tout va bien », accumuler les non-dits",
+      "nouveau_role": "Diplomate du dire : dit à froid, à temps",
+      "strategie_opposee": "Le Crieur : dit tout, tout de suite, même ce qui fâche",
+      "peur": null,
+      "protege": [
+        "abandonne"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Dire UNE vérité qui fâche par semaine, à froid, sans la retirer",
+        "Remplacer « tout va bien » par une phrase vraie : « là, ça ne va pas fort »"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Muet",
+        "Non-dits"
+      ]
+    },
+    "auto_devalorise": {
+      "id": "auto_devalorise",
+      "nom": "Humble-écrasé",
+      "strategie": "Se rabaisser, refuser les compliments, se coucher pour éviter le coup",
+      "nouveau_role": "Humilité fière : se tient debout sans écraser",
+      "strategie_opposee": "La Dignité inattaquable : s'affirme sans s'excuser",
+      "peur": null,
+      "protege": [
+        "humilie"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Recevoir un compliment sans le refuser : « merci » et rien d'autre",
+        "Une phrase juste sur soi par jour, sans l'écraser : « j'ai fait de mon mieux »"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Humble-écrasé",
+        "Auto-dévalorisé"
+      ]
+    },
+    "dormeur": {
+      "id": "dormeur",
+      "nom": "Dormeur",
+      "strategie": "Dormir pour ne pas sentir le manque",
+      "nouveau_role": "Rythme vivant : structure douce et réveils réguliers",
+      "strategie_opposee": "L'Éveillé : micro-stimulations, présence, mouvement",
+      "peur": null,
+      "protege": [
+        "abandonne"
+      ],
+      "derive_pompier": [],
+      "micro_pas": [
+        "Un réveil à heure fixe, même les jours sans obligation",
+        "10 min de présence éveillée avant de se rendormir : nommer ce qui est là"
+      ],
+      "style_attachement": null,
+      "alias": [
+        "Dormeur",
+        "Endormeur"
+      ]
+    }
+  },
+  "pompiers": {
+    "fuyard": {
+      "id": "fuyard",
+      "nom": "Fuyard",
+      "comportement_crise": "Couper, ghosting, « c'est fini »",
+      "eteint": [
+        "abandonne",
+        "humilie",
+        "terrifie"
+      ],
+      "manager_contourne": [
+        "ermite",
+        "bon_eleve",
+        "sauveur"
+      ],
+      "alternative": "La limite temporaire : « j'ai besoin de 48 h »",
+      "contraire_miroir": "Rageur-Déclarateur : reste, crie, vide la charge SUR PLACE puis se réconcilie",
+      "comportement": "Couper les ponts, ghosting, partir avant d'être quitté",
+      "alias": [
+        "Fuyard"
+      ]
+    },
+    "rageur": {
+      "id": "rageur",
+      "nom": "Rageur",
+      "comportement_crise": "Explosion, violence verbale",
+      "eteint": [
+        "terrifie",
+        "humilie",
+        "coupable"
+      ],
+      "manager_contourne": [
+        "bon_eleve",
+        "controleur",
+        "arrogant"
+      ],
+      "alternative": "La colère exprimée à froid, au goutte-à-goutte",
+      "contraire_miroir": "Fuyard : se tait, s'exile, revient avec un don — l'accumulation silencieuse",
+      "comportement": "Explosion de colère",
+      "alias": [
+        "Rageur",
+        "Rageur (défense)"
+      ]
+    },
+    "ivrogne": {
+      "id": "ivrogne",
+      "nom": "Ivrogne",
+      "comportement_crise": "Consommation pour éteindre",
+      "eteint": [
+        "humilie",
+        "coupable"
+      ],
+      "manager_contourne": [
+        "critique",
+        "ermite",
+        "saboteur"
+      ],
+      "alternative": "Respiration, co-régulation, délai de 5 min",
+      "contraire_miroir": "Le Clair : traverse les émotions fortes sans s'anesthésier, reste présent même quand ça brûle",
+      "alias": [
+        "Ivrogne",
+        "Ivrogne/Toxico",
+        "Toxico",
+        "Courage liquide",
+        "Stimulant"
+      ]
+    },
+    "anesthesieur": {
+      "id": "anesthesieur",
+      "nom": "Anesthésieur",
+      "contraire_miroir": "L'Hypervigilant : aux aguets, ne dort pas, sent tout",
+      "comportement": "Alcool, substances, bouffe, sexe compulsif",
+      "eteint": [
+        "abandonne",
+        "terrifie"
+      ],
+      "comportement_crise": "Disparaître un peu : substances, sommeil excessif, anesthésie générale",
+      "alternative": "Protocole 4-7-8 + orienting 60 s + micro-stimulations + co-régulation (un appel)",
+      "manager_contourne": [
+        "controleur"
+      ],
+      "alias": [
+        "Anesthésieur",
+        "Anesthésie"
+      ]
+    },
+    "scroll": {
+      "id": "scroll",
+      "nom": "Scroll",
+      "comportement_crise": "Défilement, anesthésie numérique",
+      "eteint": [
+        "abandonne",
+        "invisible"
+      ],
+      "manager_contourne": [
+        "intellectualiseur",
+        "critique",
+        "gardien_image"
+      ],
+      "alternative": "La règle des 5 minutes, le contact réel",
+      "contraire_miroir": "Contact réel : appelle, vient, touche, exige la présence",
+      "comportement": "Heures de scroll, anesthésie numérique",
+      "alias": [
+        "Scroll",
+        "Scroll/Écran",
+        "Avatar",
+        "Écran"
+      ]
+    },
+    "glouton": {
+      "id": "glouton",
+      "nom": "Glouton",
+      "comportement_crise": "Remplissage (nourriture, achats)",
+      "eteint": [
+        "invisible",
+        "abandonne",
+        "coupable"
+      ],
+      "manager_contourne": [
+        "ermite",
+        "clown"
+      ],
+      "alternative": "Nommer le vide, nommer le besoin",
+      "contraire_miroir": "Ascète : jeûne, prive, contrôle — ou ne mange pas par oubli",
+      "alias": [
+        "Glouton",
+        "Consommation"
+      ]
+    },
+    "tca": {
+      "id": "tca",
+      "nom": "Anorexie/Boulimie",
+      "comportement_crise": "Restriction ou purge : contrôler le corps pour contrôler la vie",
+      "alternative": "Un repas sans calcul, accepter de perdre une bataille de contrôle",
+      "contraire_miroir": "L'Insouciant du corps : mange, jouit, existe",
+      "eteint": [
+        "terrifie"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Anorexie/Boulimie"
+      ]
+    },
+    "hypersexuel": {
+      "id": "hypersexuel",
+      "nom": "Hypersexuel",
+      "comportement_crise": "Sexe compulsif, porno, conquêtes",
+      "eteint": [
+        "humilie",
+        "invisible"
+      ],
+      "manager_contourne": [
+        "seducteur",
+        "arrogant"
+      ],
+      "alternative": "Intimité sans performance, présence au corps",
+      "contraire_miroir": "Inhibition : le désir éteint, l'évitement de l'intimité",
+      "alias": [
+        "Hypersexuel",
+        "Porno-substitut",
+        "Porno-punition",
+        "Porno-anesthésie",
+        "Sexe-anesthésie",
+        "Revanche sexuelle",
+        "Exhibition",
+        "Séduction-publique",
+        "Porno"
+      ]
+    },
+    "fantasme": {
+      "id": "fantasme",
+      "nom": "Fantasme",
+      "comportement_crise": "Vie mentale en boucle : fantasmes plus réels que la vie",
+      "alternative": "Un échange réel imparfait par semaine, sans scénario",
+      "contraire_miroir": "Le Réaliste incarné : le corps présent",
+      "eteint": [
+        "invisible"
+      ],
+      "manager_contourne": [
+        "intellectualiseur"
+      ],
+      "alias": [
+        "Fantasme",
+        "Fantasme-substitut"
+      ]
+    },
+    "adrenaline": {
+      "id": "adrenaline",
+      "nom": "Adrénaline",
+      "comportement_crise": "Sports extrêmes, vitesse, risque",
+      "eteint": [
+        "humilie",
+        "terrifie"
+      ],
+      "manager_contourne": [
+        "heros",
+        "controleur"
+      ],
+      "alternative": "Sensations saines, vulnérabilité courageuse",
+      "contraire_miroir": "Le Prudent : vit ses sensations dans la sécurité, trouve le frisson dans la relation, pas dans le danger",
+      "alias": [
+        "Adrénaline",
+        "Vitesse"
+      ]
+    },
+    "dissociatif": {
+      "id": "dissociatif",
+      "nom": "Dissociatif",
+      "comportement_crise": "Départ, engourdissement, absence",
+      "eteint": [
+        "terrifie"
+      ],
+      "manager_contourne": [
+        "intellectualiseur",
+        "ermite"
+      ],
+      "alternative": "Ancrage, orienting, micro-stimulations",
+      "comportement": "« Partir », ne plus être là, engourdissement",
+      "contraire_miroir": "Le Présent : reste dans son corps même quand c'est dur, sent la douleur au lieu de la quitter",
+      "alias": [
+        "Dissociatif",
+        "Dissociation"
+      ]
+    },
+    "declarateur": {
+      "id": "declarateur",
+      "nom": "Déclarateur",
+      "comportement_crise": "Message impulsif, acte définitif",
+      "eteint": [
+        "abandonne",
+        "parentifie"
+      ],
+      "manager_contourne": [
+        "controleur",
+        "sauveur"
+      ],
+      "alternative": "La règle des 24 h (écrire, ne pas envoyer)",
+      "comportement": "Envoyer UN message, agir impulsivement",
+      "contraire_miroir": "Le Patient : dit les choses avant que ça déborde, reste et répare au lieu d'envoyer le message définitif",
+      "alias": [
+        "Déclarateur"
+      ]
+    },
+    "drama": {
+      "id": "drama",
+      "nom": "Drama",
+      "comportement_crise": "Conflits, scènes, instabilité",
+      "eteint": [
+        "abandonne"
+      ],
+      "manager_contourne": [],
+      "alternative": "Le calme comme nouveauté, l'intensité dans la tendresse",
+      "contraire_miroir": "L'Apaisé : traverse les désaccords sans scène, dit les choses à froid, ne transforme pas la peur en spectacle",
+      "alias": [
+        "Drama",
+        "Conflit-adrénaline"
+      ]
+    },
+    "joueur": {
+      "id": "joueur",
+      "nom": "Joueur",
+      "comportement_crise": "Jeux d'argent, pertes",
+      "eteint": [
+        "coupable"
+      ],
+      "manager_contourne": [
+        "reveur",
+        "saboteur"
+      ],
+      "alternative": "Projets réels, sensations saines",
+      "contraire_miroir": "Le Mesuré : joue sans se perdre, accepte de gagner et de perdre sans que l'enjeu devienne la valeur de sa vie",
+      "alias": [
+        "Joueur"
+      ]
+    },
+    "endormeur": {
+      "id": "endormeur",
+      "nom": "Endormeur",
+      "comportement_crise": "Sommeil excessif",
+      "eteint": [
+        "abandonne"
+      ],
+      "manager_contourne": [
+        "evitant"
+      ],
+      "alternative": "Micro-stimulations, rythme, lumière",
+      "contraire_miroir": "L'Éveillé : affronte la journée éveillé, sent le vide sans s'y endormir, vit même quand c'est terne",
+      "alias": [
+        "Endormeur",
+        "Sommeil"
+      ]
+    },
+    "dorsal": {
+      "id": "dorsal",
+      "nom": "Dorsal",
+      "contraire_miroir": "Le Sympathique : s'agite, combat, ne s'arrête jamais",
+      "comportement_crise": "S'éteindre, se vider, disparaître",
+      "alternative": "Micro-stimulations : bouger un doigt, eau froide, changer d'espace",
+      "eteint": [
+        "terrifie",
+        "parentifie"
+      ],
+      "manager_contourne": [
+        "bon_eleve",
+        "ermite"
+      ],
+      "alias": [
+        "Dorsal",
+        "Dorsal (effondrement)",
+        "Effondrement",
+        "Découragement",
+        "Dorsal (épuisement du masque)"
+      ]
+    },
+    "epuisement": {
+      "id": "epuisement",
+      "nom": "Épuisement",
+      "comportement_crise": "S'effondrer après avoir tout donné",
+      "alternative": "Repos dorsal légitime : 30 min de vraie pause sans culpabilité",
+      "contraire_miroir": "L'Énergique : vitalité sans surmenage",
+      "eteint": [
+        "parentifie"
+      ],
+      "manager_contourne": [
+        "sauveur"
+      ],
+      "alias": [
+        "Épuisement"
+      ]
+    },
+    "shopaholique": {
+      "id": "shopaholique",
+      "nom": "Shopaholique",
+      "comportement_crise": "Acheter pour remplir le vide",
+      "alternative": "Règle des 48 h avant tout achat + 1 plaisir gratuit par jour",
+      "contraire_miroir": "L'Ascète joyeux : vit sans consommer",
+      "eteint": [
+        "invisible"
+      ],
+      "manager_contourne": [
+        "gardien_image"
+      ],
+      "alias": [
+        "Shopaholique",
+        "Shopping-consolation",
+        "Shopping-dopamine"
+      ]
+    },
+    "auto_humiliation": {
+      "id": "auto_humiliation",
+      "nom": "Auto-humiliation",
+      "comportement_crise": "Se rabaisser avant que les autres ne le fassent",
+      "alternative": "Recevoir un compliment : juste « merci »",
+      "contraire_miroir": "La Dignité qui se défend",
+      "eteint": [
+        "humilie"
+      ],
+      "manager_contourne": [
+        "critique",
+        "clown"
+      ],
+      "alias": [
+        "Auto-humiliation"
+      ]
+    },
+    "fabulateur": {
+      "id": "fabulateur",
+      "nom": "Fabulateur",
+      "comportement_crise": "Embellir sa vie pour être digne d'intérêt",
+      "alternative": "Une vérité simple dite par jour — et constater qu'on survit",
+      "contraire_miroir": "L'Hyper-honnête : vérité brute, sans fard",
+      "eteint": [
+        "invisible"
+      ],
+      "manager_contourne": [
+        "gardien_image"
+      ],
+      "alias": [
+        "Fabulateur"
+      ]
+    },
+    "bloqueur": {
+      "id": "bloqueur",
+      "nom": "Bloqueur",
+      "contraire_miroir": "Le Revenant : frappe à la porte, réessaie",
+      "comportement_crise": "Couper tout contact, claquer la porte",
+      "alternative": "La porte qui se ferme doucement : « j'ai besoin de 48 h » — et revenir",
+      "eteint": [
+        "abandonne"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Bloqueur"
+      ]
+    },
+    "somatisation": {
+      "id": "somatisation",
+      "nom": "Somatisation",
+      "comportement_crise": "Le corps parle pour les émotions interdites",
+      "alternative": "« Quelle émotion n'a pas pu sortir aujourd'hui ? » — et l'écrire",
+      "contraire_miroir": "L'Exprimé : dit ce qu'il sent",
+      "eteint": [
+        "invisible"
+      ],
+      "manager_contourne": [
+        "victime"
+      ],
+      "alias": [
+        "Somatisation"
+      ]
+    },
+    "mepris": {
+      "id": "mepris",
+      "nom": "Mépris",
+      "comportement_crise": "Mépriser avant d'être méprisé",
+      "alternative": "Une reconnaissance sincère de la valeur d'un autre, à voix haute",
+      "contraire_miroir": "L'Incliné : la force qui s'incline",
+      "eteint": [
+        "humilie"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Mépris",
+        "Tour de verre",
+        "Refus de s'excuser"
+      ]
+    },
+    "plainte": {
+      "id": "plainte",
+      "nom": "Plainte",
+      "comportement_crise": "Se plaindre pour être vu",
+      "alternative": "Formuler UN besoin directement, sans passer par la détresse",
+      "contraire_miroir": "Le Porte-parole : demande ce dont il a besoin",
+      "eteint": [
+        "invisible"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Plainte",
+        "Demande de contradiction"
+      ]
+    },
+    "gamer": {
+      "id": "gamer",
+      "nom": "Gamer",
+      "comportement_crise": "Réussir dans le jeu ce qu'on rate dans la vie",
+      "alternative": "Transférer UNE compétence du jeu vers le réel (20 min)",
+      "contraire_miroir": "Le Réel : compétences incarnées",
+      "eteint": [
+        "humilie"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Gamer"
+      ]
+    },
+    "gamer_clan": {
+      "id": "gamer_clan",
+      "nom": "Gamer-clan",
+      "comportement_crise": "Des amis virtuels qui ne partent pas",
+      "alternative": "Une activité réelle hebdomadaire avec un humain",
+      "contraire_miroir": "Le Lien réel : présent, stable",
+      "eteint": [
+        "abandonne"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Gamer-clan"
+      ]
+    },
+    "inhibition": {
+      "id": "inhibition",
+      "nom": "Inhibition",
+      "comportement_crise": "Éteindre le désir avant qu'il ne soit exposé",
+      "alternative": "Sentir la montée d'élan 30 s sans rien en faire, la nommer",
+      "contraire_miroir": "Le Désirant : élan légitime",
+      "eteint": [
+        "humilie"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Inhibition"
+      ]
+    },
+    "evitement_de_performance": {
+      "id": "evitement_de_performance",
+      "nom": "Évitement de performance",
+      "comportement_crise": "Éviter l'intimité par peur d'échouer",
+      "alternative": "Un moment d'intimité sans objectif : « on ne vise rien »",
+      "contraire_miroir": "Le Présent : là sans performer",
+      "eteint": [
+        "humilie"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Évitement de performance"
+      ]
+    },
+    "test": {
+      "id": "test",
+      "nom": "Test",
+      "comportement_crise": "Tester l'amour des autres pour le croire",
+      "alternative": "Une semaine sans aucun test, accueillir l'amour tel qu'il vient",
+      "contraire_miroir": "Le Croyant : accepte l'amour qui se donne",
+      "eteint": [
+        "abandonne"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Test"
+      ]
+    },
+    "auto_sabotage": {
+      "id": "auto_sabotage",
+      "nom": "Auto-sabotage",
+      "comportement_crise": "Gâcher quand ça devient sérieux",
+      "alternative": "Nommer la part qui craint le succès — et ne pas agir",
+      "contraire_miroir": "Le Méritant : accepte la réussite",
+      "eteint": [
+        "coupable"
+      ],
+      "manager_contourne": [
+        "saboteur"
+      ],
+      "alias": [
+        "Auto-sabotage"
+      ]
+    },
+    "envie": {
+      "id": "envie",
+      "nom": "Envie",
+      "comportement_crise": "Souffrir des réussites des autres",
+      "alternative": "Transformer UNE envie en objectif concret",
+      "contraire_miroir": "Le Réjoui : se réjouit pour l'autre",
+      "eteint": [
+        "humilie"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Envie"
+      ]
+    },
+    "accumulation": {
+      "id": "accumulation",
+      "nom": "Accumulation",
+      "comportement_crise": "Amasser pour ne jamais manquer",
+      "alternative": "Un partage par mois (temps, argent, repas)",
+      "contraire_miroir": "Le Généreux : donne sans peur",
+      "eteint": [
+        "terrifie"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Accumulation"
+      ]
+    },
+    "manque": {
+      "id": "manque",
+      "nom": "Manque",
+      "comportement_crise": "Paniquer à l'idée de manquer",
+      "alternative": "« Je ne manque plus de rien » + une dépense de confiance",
+      "contraire_miroir": "L'Abondant : le présent est sûr",
+      "eteint": [
+        "terrifie"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Manque"
+      ]
+    },
+    "rancune": {
+      "id": "rancune",
+      "nom": "Rancune",
+      "comportement_crise": "Garder la liste des griefs",
+      "alternative": "Écrire la lettre de colère, non envoyée, puis la brûler",
+      "contraire_miroir": "Le Pardonneur : mémoire sans poison",
+      "eteint": [
+        "abandonne"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Rancune"
+      ]
+    },
+    "haine": {
+      "id": "haine",
+      "nom": "Haine",
+      "comportement_crise": "Transformer la blessure en haine tenace",
+      "alternative": "La justice sans la haine : écrire, ne pas envoyer",
+      "contraire_miroir": "Le Réparateur : justice et lien",
+      "eteint": [
+        "abandonne"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Haine"
+      ]
+    },
+    "workaholie": {
+      "id": "workaholie",
+      "nom": "Travail",
+      "comportement_crise": "Le travail comme anesthésie et preuve de valeur",
+      "alternative": "30 min de vraie pause par jour, sans culpabilité",
+      "contraire_miroir": "L'Oisif : existe sans produire",
+      "eteint": [
+        "invisible",
+        "parentifie"
+      ],
+      "manager_contourne": [],
+      "alias": [
+        "Travail",
+        "(le travail EST le pompier)"
+      ]
+    }
+  },
+  "aliases": {
+    "managers": {
+      "Critique": "critique",
+      "Critique (moral)": "critique",
+      "Critique (retourné)": "critique",
+      "Juge": "critique",
+      "Critique/Juge": "critique",
+      "Dépendant affectif": "dependant_affectif",
+      "Intellectualiseur": "intellectualiseur",
+      "Contrôleur": "controleur",
+      "Bon Élève": "bon_eleve",
+      "Bon Garçon": "bon_eleve",
+      "Obéissant": "bon_eleve",
+      "Saboteur": "saboteur",
+      "Perfectionniste": "perfectionniste",
+      "Ermite": "ermite",
+      "Ermite/Persona": "ermite",
+      "Persona": "ermite",
+      "Solitaire": "ermite",
+      "Arrogant": "arrogant",
+      "Narcisse": "arrogant",
+      "Fier": "arrogant",
+      "Clown": "clown",
+      "Bouffon": "clown",
+      "Victime": "victime",
+      "Gardien de l'image": "gardien_image",
+      "Sauveur": "sauveur",
+      "Sauveur/People-Pleaser": "sauveur",
+      "People-Pleaser": "sauveur",
+      "Donneur": "sauveur",
+      "Donneur/Sauveur": "sauveur",
+      "Réparateur": "sauveur",
+      "Soignant": "sauveur",
+      "Comparateur": "comparateur",
+      "Rêveur": "reveur",
+      "Procrastinateur": "procrastinateur",
+      "Séducteur": "seducteur",
+      "Héros": "heros",
+      "Thésauriseur": "thesauriseur",
+      "Provocateur": "provocateur",
+      "Jaloux": "jaloux",
+      "Possessif": "jaloux",
+      "Hypervigilant": "hypervigilant",
+      "Évitant": "evitant",
+      "Rancunier": "rancunier",
+      "Endormeur": "dormeur",
+      "Accusateur": "accusateur",
+      "Accusatrice": "accusateur",
+      "Justicière": "accusateur",
+      "Blâmeur": "accusateur",
+      "Accusateur/Justicière": "accusateur",
+      "Survivante/Workaholique": "survivant",
+      "Hypersexuel/Séducteur": "seducteur",
+      "Survivant": "survivant",
+      "Survivante": "survivant",
+      "Planificateur": "planificateur",
+      "Froid": "froid",
+      "Distant": "froid",
+      "Froid / Distant": "froid",
+      "Ascète": "ascete",
+      "Pur": "ascete",
+      "Muet": "muet",
+      "Non-dits": "muet",
+      "Narcisse de façade": "gardien_image",
+      "Humble-écrasé": "auto_devalorise",
+      "Auto-dévalorisé": "auto_devalorise",
+      "Dormeur": "dormeur"
+    },
+    "pompiers": {
+      "Fuyard": "fuyard",
+      "Rageur": "rageur",
+      "Ivrogne": "ivrogne",
+      "Ivrogne/Toxico": "ivrogne",
+      "Toxico": "ivrogne",
+      "Courage liquide": "ivrogne",
+      "Stimulant": "ivrogne",
+      "Anesthésieur": "anesthesieur",
+      "Anesthésie": "anesthesieur",
+      "Scroll": "scroll",
+      "Scroll/Écran": "scroll",
+      "Avatar": "scroll",
+      "Écran": "scroll",
+      "Glouton": "glouton",
+      "Consommation": "glouton",
+      "Anorexie/Boulimie": "tca",
+      "Hypersexuel": "hypersexuel",
+      "Porno-substitut": "hypersexuel",
+      "Porno-punition": "hypersexuel",
+      "Porno-anesthésie": "hypersexuel",
+      "Sexe-anesthésie": "hypersexuel",
+      "Revanche sexuelle": "hypersexuel",
+      "Exhibition": "hypersexuel",
+      "Séduction-publique": "hypersexuel",
+      "Porno": "hypersexuel",
+      "Fantasme": "fantasme",
+      "Fantasme-substitut": "fantasme",
+      "Adrénaline": "adrenaline",
+      "Vitesse": "adrenaline",
+      "Dissociatif": "dissociatif",
+      "Dissociation": "dissociatif",
+      "Déclarateur": "declarateur",
+      "Drama": "drama",
+      "Conflit-adrénaline": "drama",
+      "Joueur": "joueur",
+      "Endormeur": "endormeur",
+      "Sommeil": "endormeur",
+      "Dorsal": "dorsal",
+      "Dorsal (effondrement)": "dorsal",
+      "Effondrement": "dorsal",
+      "Épuisement": "epuisement",
+      "Découragement": "dorsal",
+      "Dorsal (épuisement du masque)": "dorsal",
+      "Shopaholique": "shopaholique",
+      "Shopping-consolation": "shopaholique",
+      "Shopping-dopamine": "shopaholique",
+      "Auto-humiliation": "auto_humiliation",
+      "Fabulateur": "fabulateur",
+      "Bloqueur": "bloqueur",
+      "Somatisation": "somatisation",
+      "Mépris": "mepris",
+      "Tour de verre": "mepris",
+      "Refus de s'excuser": "mepris",
+      "Plainte": "plainte",
+      "Demande de contradiction": "plainte",
+      "Gamer": "gamer",
+      "Gamer-clan": "gamer_clan",
+      "Inhibition": "inhibition",
+      "Évitement de performance": "evitement_de_performance",
+      "Test": "test",
+      "Auto-sabotage": "auto_sabotage",
+      "Envie": "envie",
+      "Accumulation": "accumulation",
+      "Manque": "manque",
+      "Rancune": "rancune",
+      "Haine": "haine",
+      "Travail": "workaholie",
+      "(le travail EST le pompier)": "workaholie",
+      "Rageur (défense)": "rageur"
+    },
+    "exiles": {
+      "Enfant Humilié": "humilie",
+      "Enfant Invisible": "invisible",
+      "Enfant Abandonné": "abandonne",
+      "Enfant Terrifié": "terrifie",
+      "Enfant Coupable": "coupable",
+      "Enfant Parentifié": "parentifie"
+    }
+  }
+}

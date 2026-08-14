@@ -1,0 +1,1183 @@
+{
+  "paires": [
+    {
+      "id": 1,
+      "profil_a": "Conflict avoidant/hoarder (unsaid, “everything is fine,” delayed outburst)",
+      "miroir_b": "Conflict seeker/provocateur (direct, brash, daily argument)",
+      "blessure_commune": "Humiliated Child (“if I say what is wrong, I am rejected or destroyed”)",
+      "activations": "M: Hermit, Intellectualizer — P: Angry (single explosion), Runaway — E: Humiliated",
+      "reveil": "Drip-feeding anger: saying “you hurt me” the same day, cold",
+      "piege": "The final explosion that destroys everything — and the confirmation that “conflict is deadly”",
+      "managers_cles": [
+        "muet",
+        "bon_eleve"
+      ],
+      "micro_pas": [
+        "Name the wound the same day, cold: \"that hurt me when…\", without judging the other.",
+        "Before exploding, write 3 lines about what happened — then say them (or hand them over)."
+      ],
+      "boucles": [
+        {
+          "domaine": "Screen / messaging",
+          "cycle": "A hoards in silence for days → he sends a too-intense message, suddenly → B, in shame, rereads their whole past as lies and predation → A, scared by the shame, flees the conflict, justifies himself, blames her (Abandoned Child, then Guilty Child) → B closes up in turn → loop.",
+          "sortie": "A names his need coldly, in one sentence, before it escalates; B says hers without accusing."
+        },
+        {
+          "domaine": "Meal / alcohol",
+          "cycle": "B throws out a direct remark that A experiences as humiliation → A's Angry part explodes all at once, delayed → B, surprised, strikes back → A's Humiliated Child takes over, he collapses or goes quiet → B feels guilty → loop.",
+          "sortie": "A hears the remark as a piece of data, not a verdict; B phrases the criticism without targeting the person."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "A accumulates in silence (Victim) while B provokes (Persecutor) — then A explodes and becomes a Persecutor in turn, and B shuts down: the roles rotate."
+      }
+    },
+    {
+      "id": 2,
+      "profil_a": "Anxious-avoidant (flees intimacy, goes into exile to process, returns through gift)",
+      "miroir_b": "Anxious-concerned/protesting (chases, tests, threatens to leave, screams for reassurance)",
+      "blessure_commune": "Abandoned Child (“people always end up leaving me”)",
+      "activations": "M: Hermit, Controller — P: Runaway, Declarer — E: Abandoned",
+      "reveil": "Survive attachment: stay present for 48 hours instead of “it’s over”; tolerate the need",
+      "piege": "The infinite chase-flight dance, each break confirming the two prophecies",
+      "managers_cles": [
+        "ermite",
+        "controleur"
+      ],
+      "micro_pas": [
+        "Replace \"it's over\" with \"I need 24 hours\" — and come back.",
+        "Stay present for 48 hours after a conflict, without fleeing or threatening to leave."
+      ],
+      "boucles": [
+        {
+          "domaine": "Separation / conflict",
+          "cycle": "B feels ignored → he threatens to leave, tests (anxious-preoccupied) → A, panicked, goes into exile to process, \"I need 24 hours\" → B shouts that he's leaving → A's Abandoned Child takes the wheel, he returns with a gift instead of saying the need → B sees the gift as calculation → loop.",
+          "sortie": "A replaces \"it's over\" with \"I need 24 hours, I'll be back\"; B says \"I'm afraid of losing you\" instead of threatening to leave."
+        },
+        {
+          "domaine": "Evening / couple",
+          "cycle": "B clings, calls, demands proof → A feels invaded by the Critic (Controller), he freezes and goes blank → B reads the coldness as abandonment → B's anger rises, he shouts → A's Abandoned Child, he flees → B feels guilty and chases → loop.",
+          "sortie": "A says \"I'm not leaving, I need a pause\"; B supports one reassuring sentence instead of shouting it."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "B pursues and tests (Persecutor), A flees and freezes (Victim) — pursuit intensifies flight, flight intensifies pursuit."
+      }
+    },
+    {
+      "id": 3,
+      "profil_a": "Savior / People-pleaser (gives to exist, does not know how to receive)",
+      "miroir_b": "Chronic victim / in permanent distress (receives without ever fulfilling, “yes but”) — Woman",
+      "blessure_commune": "Invisible / Parentified Child (“I only exist because of what I bring”)",
+      "activations": "M: Savior (gives MORE) — P: Exhaustion, Dorsal — E: Invisible",
+      "reveil": "Exist without bringing; receive without calculating; save the inner child, not the adults",
+      "piege": "The endless gift that never fills — “I gave everything and I am still nothing”",
+      "managers_cles": [
+        "sauveur"
+      ],
+      "micro_pas": [
+        "Receive help without giving back right away: simply say \"thank you\".",
+        "Offer presence without fixing anything: \"I'm here, you don't have to do anything for me\"."
+      ],
+      "boucles": [
+        {
+          "domaine": "Care debt / health",
+          "cycle": "A gives, anticipates, rescues (Rescuer) → B receives without ever being filled, in permanent distress → A is drained, his Critic says \"not enough\" → A's Angry part explodes, then the shame → A gives again to atone → A's Invisible Child: he only exists by giving → loop.",
+          "sortie": "A practices saying \"no\" and receiving without giving back; B names a need without turning it into a demand."
+        },
+        {
+          "domaine": "Money / vacation",
+          "cycle": "A pays for everything to exist through giving → B enjoys it then reproaches him (\"you never take care of yourself\") → A's Rescuer feels useless, devalued → he gives even more → B is satiated and pulls away → A's Abandoned Child → loop.",
+          "sortie": "A sets a limit (\"I give up to here\"); B asks for what he needs instead of watching for generosity."
+        }
+      ],
+      "triangle": {
+        "a": "rescuer",
+        "b": "victime",
+        "danse": "A rescues unasked (Rescuer), B receives without growing (Victim) — the more A saves, the more powerless B becomes, the more exhausted A gets."
+      }
+    },
+    {
+      "id": 4,
+      "profil_a": "Grandiose narcissist (superiority, image, “I don’t need anyone,” never apologizes)",
+      "miroir_b": "Empath / care giver (forgets himself, absorbs, forgives, understands everything)",
+      "blessure_commune": "Invisible Child (both have not been seen — one decided to make himself unforgettable, the other to make himself indispensable)",
+      "activations": "M: Arrogant, Guardian of the image — P: Angry (when the image breaks), Devaluation of the other — E: Invisible, Humiliated",
+      "reveil": "For the narcissist: feel, ask, be vulnerable without breaking down. For the empath: love yourself, set limits, exist without serving",
+      "piege": "Mutual consumption: the empath feeds the narcissist, the narcissist confirms the empath in “I only count by what I give”. If the activation is unidirectional → trap, not mirror (see 4.3)",
+      "managers_cles": [
+        "arrogant",
+        "gardien_image"
+      ],
+      "micro_pas": [
+        "Ask the other for concrete help, without turning it into a performance.",
+        "Say a real emotion without decorating it: \"I was scared\", \"I need\"."
+      ],
+      "boucles": [
+        {
+          "domaine": "Public / recognition",
+          "cycle": "A needs to be admired (Arrogant, Image Guard) → B, empathetic, validates him without limits → A feels entitled, scorns, never apologizes → B fades, swallows the humiliation → one day B's Angry part explodes, she leaves → A's Humiliated Child, he is devastated by the gaze he wanted to control → loop.",
+          "sortie": "B says an early \"no\", without exploding; A hears a criticism without living it as a downfall."
+        },
+        {
+          "domaine": "Couple / intimacy",
+          "cycle": "A never apologizes, keeps the perfect mask → B absorbs, understands everything, forgives → A mistakes this letting go for his superiority → B blunts, goes dorsal → the lack of empathy strikes A's Invisible Child (no one really sees him) → A gets angry or shuts down → loop.",
+          "sortie": "A says a concrete \"sorry\" once; B doesn't forgive automatically, he names what wore him down."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "rescuer",
+        "danse": "A dominates and despises (Persecutor), B absorbs and forgives (Rescuer) — A's contempt needs B's absorption to hold, and the reverse."
+      }
+    },
+    {
+      "id": 5,
+      "profil_a": "Vulnerable narcissist (hidden fragility, victim of everyone, suppressed rage)",
+      "miroir_b": "Empath / emotional mirror (validates, reassures, cuts himself off from his own needs)",
+      "blessure_commune": "Humiliated + Abandoned Child (one protects himself by complaining, the other by giving)",
+      "activations": "M: Victim, Accuser — P: Anger, Blocker — E: Humiliated",
+      "reveil": "Dignity without complaint (A); the limit without the guilt (B)",
+      "piege": "The endless victim-savior-persecutor triangle",
+      "managers_cles": [
+        "victime",
+        "accusateur"
+      ],
+      "micro_pas": [
+        "Validate the other without forgetting yourself: \"I hear you, and I need…\".",
+        "Hold a simple boundary, without drowning it in excuses."
+      ],
+      "boucles": [
+        {
+          "domaine": "Conflict / reproach",
+          "cycle": "A sees himself as a victim, bottled rage (vulnerable narcissist) → B validates, reassures, cuts herself off from her needs → A reads one of B's silences as persecution → A's Accuser turns everything against B → B feels guilty and apologizes → A's Guilty Child: he relishes being right then self-destructs → loop.",
+          "sortie": "A names his own part in the conflict; B stops apologizing for what she didn't do."
+        },
+        {
+          "domaine": "Social media / comparison",
+          "cycle": "A watches others' recognition, feels scorned → B secures him, reflects a flattering image → A doubts it's genuine, he tests, accuses → B goes quiet, hurt → A screams internally, plays the victim → A's Humiliated Child wants to be seen without having to ask → loop.",
+          "sortie": "A stops measuring his worth by B's eyes; B says \"you matter to me\" without submitting."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "rescuer",
+        "danse": "A suffers the world and complains (Victim), B validates and reassures endlessly (Rescuer) — A's complaint is fed by B's care."
+      }
+    },
+    {
+      "id": 6,
+      "profil_a": "Controller / rigidity (plan everything, lock everything, anxiety of the unexpected)",
+      "miroir_b": "Chaotic/unpredictable (messy, spontaneous, forgets, changes your mind)",
+      "blessure_commune": "Terrified Child (“the world is not safe” – one masters it, the other gives in to it)",
+      "activations": "M: Controller (locks harder) — P: Angry, TCA, Anesthetist — E: Terrified",
+      "reveil": "Tolerate uncertainty (A); create container (B)",
+      "piege": "The war for control: one suffocates, the other flees — each confirming the dangerousness of the world",
+      "managers_cles": [
+        "controleur"
+      ],
+      "micro_pas": [
+        "Let something unexpected happen without locking it down: plan nothing for an outing.",
+        "Breathe 3 times before \"fixing\" the other's organization."
+      ],
+      "boucles": [
+        {
+          "domaine": "Planning / meals",
+          "cycle": "A plans everything (Controller), anxious at the unexpected → B forgets, improvises, changes his mind → A corrects, redoes, gets angry → his Angry/Critic part rises → B feels controlled, sows chaos deliberately → A's Terrified Child: without a frame, he panics → loop.",
+          "sortie": "A lets go one non-vital variable; B warns before changing his mind."
+        },
+        {
+          "domaine": "Departure / punctuality",
+          "cycle": "A locks the schedule, demands → B arrives late, forgets the key → A's Controller tenses, he watches → B feels judged and flees → A's Terrified Child: the unexpected = danger → he demands more, B deserts → loop.",
+          "sortie": "A announces a tolerable lateness limit; B commits to a single warning."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A locks everything down (Persecutor), B overflows and forgets (Victim) — B's chaos justifies A's control, A's control feeds B's chaos."
+      }
+    },
+    {
+      "id": 7,
+      "profil_a": "Perfectionist/fearful procrastinator (nothing is ever good enough, doesn't start or finish)",
+      "miroir_b": "Carefree / “that’s enough” (delivers at 80%, doesn’t care about the look, plays)",
+      "blessure_commune": "Humiliated Child (“one mistake = proof that I’m worthless”)",
+      "activations": "M: Perfectionist, Critical — P: Paralysis, Abandonment — E: Humiliated",
+      "reveil": "The imperfect as proof of courage (A); care and standard (B)",
+      "piege": "Mutual paralysis: one does not dare, the other does not succeed",
+      "managers_cles": [
+        "perfectionniste",
+        "procrastinateur"
+      ],
+      "micro_pas": [
+        "Deliberately deliver work at 80% — and watch what happens.",
+        "Say \"that's enough\" out loud, then really stop."
+      ],
+      "boucles": [
+        {
+          "domaine": "Work / project",
+          "cycle": "A doesn't start or doesn't finish (perfectionist procrastinator) → B delivers at 80%, fearless → A admires then rages, \"it's not done\" → his Critic crushes him, he blocks → B, carefree, doesn't understand, insists → A feels judged, ashamed, Humiliated Child → loop.",
+          "sortie": "A allows a \"good enough\" version by a fixed date; B delivers even imperfectly and says it."
+        },
+        {
+          "domaine": "Home / tidying",
+          "cycle": "A wants an impeccable home (Perfectionist) → B plays, leaves mess, doesn't see the disorder → A's Critic complains, he redoes everything → B feels infantilized, does it on purpose → A's Humiliated Child: order is his worth → loop.",
+          "sortie": "A accepts two imperfect zones; B tidies one thing in exchange for play space."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A judges what is not perfect (Persecutor), B takes it and drifts away (Victim) — the more A criticizes, the more B lets go."
+      }
+    },
+    {
+      "id": 8,
+      "profil_a": "Hermit/loner (few friends, “I prefer to be alone”, distrust)",
+      "miroir_b": "Social / open (makes friends in one evening, confides quickly, invades)",
+      "blessure_commune": "Humiliated or Terrified Child (“others end up judging / the world is dangerous”)",
+      "activations": "M: Hermit, Hypervigilant — P: Fugitive, Dorsal — E: Terrified",
+      "reveil": "Graduated confidence (A); discernment (B)",
+      "piege": "The social exhaustion of one, the feeling of abandonment of the other",
+      "managers_cles": [
+        "ermite"
+      ],
+      "micro_pas": [
+        "Say yes to ONE invitation, with an announced limit: \"I can come for 1 hour\".",
+        "Answer a message the same day, without rewriting it three times."
+      ],
+      "boucles": [
+        {
+          "domaine": "Evening / group",
+          "cycle": "A prefers to be alone (Hermit), distrust → B bonds in one evening, confides fast, invades → A feels sucked in, his Hermit raises a wall → B, frustrated, tells others → A reads it as betrayal → A's Terrified Child: crowds and trust = danger → loop.",
+          "sortie": "A warns of his need to leave; B limits confidences to deep subjects."
+        },
+        {
+          "domaine": "Family / holidays",
+          "cycle": "A flees gatherings, cancels at the last moment (Hermit) → B insists, calls, \"come, we're waiting\" → A feels trapped, his system rises → B feels rejected, hurt → B's Abandoned Child → he gets angry, A gives in out of guilt then resents it → loop.",
+          "sortie": "A offers a short defined presence; B accepts a partial formula without grudges."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "B invades and confides quickly (Persecutor), A endures and withdraws (Victim) — B's intrusion confirms to A that others are exhausting."
+      }
+    },
+    {
+      "id": 9,
+      "profil_a": "Intellectualizer / emotional cold (understands for not feeling, alexithymia)",
+      "miroir_b": "Volcanic / hyper-emotional (everything is felt, everything is said, everything overflows)",
+      "blessure_commune": "Invisible Child (“my emotions have no voice” – one exiles them, the other shouts them)",
+      "activations": "M: Intellectualizer (analysis instead of feeling) — P: Dissociative, Scroll — E: Invisible",
+      "reveil": "Feel without first understanding (A); think before you shout (B)",
+      "piege": "The “glacier × volcano” couple: one freezes, the other burns",
+      "managers_cles": [
+        "intellectualiseur"
+      ],
+      "micro_pas": [
+        "Feel before understanding: name the body's emotion (\"tight throat\") before analyzing.",
+        "Count to 10 before shouting — then say the need underneath."
+      ],
+      "boucles": [
+        {
+          "domaine": "Fight / rumination",
+          "cycle": "A analyzes not to feel (Intellectualizer), alexithymia → B is volcanic, says everything, overflows → A shuts down, rationalizes, dehumanizes B's pain → B shouts to be heard → A's Invisible Child: feeling = drowning → he flees into theory → B feels alone → loop.",
+          "sortie": "A names ONE emotion with his body; B says hers in one sentence, without piling on."
+        },
+        {
+          "domaine": "Meal / tension",
+          "cycle": "B spills his feelings at the table, cries or shouts → A, uneasy, cognitive, \"we need words\", relativizes → B feels invalidated, rises → A's Cold part freezes everything → A's Guilty Child: if I feel, I do harm → he apologizes mechanically without feeling → loop.",
+          "sortie": "A welcomes B's emotion without fixing it; B asks to be heard, not corrected."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A freezes emotion into analysis (Persecutor), B overflows and collapses (Victim) — A's coldness fuels B's volcano, which justifies A's coldness."
+      }
+    },
+    {
+      "id": 10,
+      "profil_a": "Blamer/accuser (project all faults, “question yourself”—on others)—Woman",
+      "miroir_b": "Chronic guilty (apologizes for everything, bears all the blame)",
+      "blessure_commune": "Guilty Child (“If it’s my fault, I’m definitely bad” — one leaves it somewhere else, the other picks it up)",
+      "activations": "M: Accuser, Victim — P: Anger — E: Guilty",
+      "reveil": "Responsibility as power (A); innocence as a right (B)",
+      "piege": "The gears: one accuses, the other crashes — the fault goes around in circles without ever being posed",
+      "managers_cles": [
+        "accusateur"
+      ],
+      "micro_pas": [
+        "Replace \"it's your fault\" with \"I felt… when…\".",
+        "Practice NOT apologizing for a whole day."
+      ],
+      "boucles": [
+        {
+          "domaine": "Mistake / responsibility",
+          "cycle": "A projects all faults (Accuser), \"question yourself\" → B, chronic guilty one, apologizes for everything and carries → A piles on, feels justified → B goes quiet, swallows, collapses internally → A's Guilty Child: if he doesn't denounce, he is the fault → he accuses more → loop.",
+          "sortie": "A states his own share of the mistake before speaking of B's; B stops apologizing for what isn't his."
+        },
+        {
+          "domaine": "Meal / incident",
+          "cycle": "a reservation fails → A explodes, it's B's fault → B profusely apologizes, belittles himself → A feels legitimately angry → B, after a while, turns the accusation in an eruption (Angry part) → A's Humiliated Child → he collapses in turn → loop.",
+          "sortie": "A names the setback without a culprit; B says \"I don't accept being the fault\"."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A accuses (Persecutor), B apologizes (Victim) — each accusation confirms to B that they are guilty, and to A that they are right."
+      }
+    },
+    {
+      "id": 11,
+      "profil_a": "Hypersexual / seducer (desire as proof of existence, conquests)",
+      "miroir_b": "Sexual blockage / confined desire (extinguished libido, fear of intimacy, non-sexual)",
+      "blessure_commune": "Humiliated + Invisible Child (same system: turning towards the other with your momentum = danger; one does it compulsively, the other no longer does it)",
+      "activations": "M: Seducer / Critic — P: Hypersexual / Fugitive — E: Invisible, Humiliated",
+      "reveil": "Intimacy without performance (A); the legitimate vital momentum (B) — cf. the principle “creative erection = sexual erection”",
+      "piege": "Consumption without encounter: one fills, the other empties",
+      "managers_cles": [
+        "seducteur"
+      ],
+      "micro_pas": [
+        "A gesture of intimacy without performance: a kiss, a resting hand, nothing more.",
+        "Say \"I want you\" — or \"I don't feel like it\" — without making it a proof."
+      ],
+      "boucles": [
+        {
+          "domaine": "Sexuality",
+          "cycle": "A lives desire as proof of existence (Hypersexual Seducer) → B has low libido, fear of intimacy → A approaches, is overflowing → B shuts down, freezes → A feels rejected, his worth collapses (Humiliated Child) → he runs after other conquests to exist → B feels used → loop.",
+          "sortie": "A separates desire from his worth; B names her fear of intimacy without rejecting A."
+        },
+        {
+          "domaine": "Distress / emotion",
+          "cycle": "A is in distress, seeks the embrace to feel alive → B, sexually blocked, comforts with words but avoids the body → A lives this emptiness as rejection → he provokes, seduces, performs → A's Invisible Child: without reflected desire, he doesn't exist → B feels used → loop.",
+          "sortie": "A asks explicitly \"do I matter to you?\"; B offers unambiguous contact."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A pushes toward desire (Persecutor), B freezes and withdraws (Victim) — A's pressure numbs B, B's numbness starves A."
+      }
+    },
+    {
+      "id": 12,
+      "profil_a": "Liar / fabricator / embellished image",
+      "miroir_b": "Hyper-honest / brutally frank",
+      "blessure_commune": "Humiliated + Invisible Child (“if they knew the truth about me, they would reject me” – one embellishes it, the other throws it in my face)",
+      "activations": "M: Guardian of the image, Fabulator — P: Declarator — E: Humiliated",
+      "reveil": "Simple truth as safe ground (A); diplomacy as respect (B)",
+      "piege": "The war of truth: one feels betrayed, the other feels lied to",
+      "managers_cles": [
+        "gardien_image"
+      ],
+      "micro_pas": [
+        "Say ONE uncomfortable truth, simply, without embellishing it.",
+        "Soften honesty without betraying it: \"I'd rather tell you…\"."
+      ],
+      "boucles": [
+        {
+          "domaine": "Meeting / lie",
+          "cycle": "A embellishes, arranges, lies for the image (Image Guard, Liar) → B, hyper-honest, says the raw truth → A is caught red-handed, feels humiliated → A's Cold/Accuser part rises, he counter-attacks → B insists, dismantles → A's Humiliated Child: being exposed = being destroyed → loop.",
+          "sortie": "A tells the truth even ugly on one minor point; B announces the truth with a word of empathy."
+        },
+        {
+          "domaine": "Couple / unsaid",
+          "cycle": "A promises the impossible to please, biases → B, brutally frank, reveals the gap → A feels cornered, doubles down or flees → B, disgusted, closes up → A's Guilty Child → he digs himself in → B leaves mentally → loop.",
+          "sortie": "A promises less but delivers; B tempers the frankness with \"I want this to last\"."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "A embellishes to exist (Victim), B delivers raw truth (Persecutor) — B's frankness exposes A, who protects themselves by embellishing more."
+      }
+    },
+    {
+      "id": 13,
+      "profil_a": "Ascetic / “pure” / impulse control",
+      "miroir_b": "Unbridled/transgressor (sex, excess, body without shame)",
+      "blessure_commune": "Guilty Child (“pleasure is a fault” – one refuses it, the other commits it for both of them)",
+      "activations": "M: Moral criticism — P: Porno-punishment, Drunk — E: Guilty",
+      "reveil": "Innocent pleasure (A); the limit that protects (B)",
+      "piege": "Fascination-repulsion: one judges, the other enjoys — and shame circulates",
+      "managers_cles": [
+        "ascete"
+      ],
+      "micro_pas": [
+        "Give yourself a small pleasure without having to earn it first.",
+        "Set a boundary coldly, without shame or provocation."
+      ],
+      "boucles": [
+        {
+          "domaine": "Sexuality / abstinence",
+          "cycle": "A lives his impulses as guilty, forbids himself (Ascetic) → B is uninhibited, lives the body without shame → A judges B, moralizes, withdraws → B feels abnormal, rebels even more → A closes up, his Guilty Child screams internally → B mocks or challenges → loop.",
+          "sortie": "A says \"I feel a judgment in me, not on you\"; B accepts A's pace without challenging him."
+        },
+        {
+          "domaine": "Meal / pleasure",
+          "cycle": "A controls his plate, pleasure is suspect (Controller Ascetic) → B savors, spends, overflows → A watches and criticizes → B feels watched, not free → he overdoes it to free himself → A's Terrified Child: losing control = danger → loop.",
+          "sortie": "A allows one delimited pleasure; B contains the excess within an agreed frame."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A deprives and judges (Persecutor), B overflows shamelessly (Victim) — B's drive is the temptation A fights, A's control is the prison B flees."
+      }
+    },
+    {
+      "id": 14,
+      "profil_a": "Workaholic/survivor (working to exist, unable to do nothing)",
+      "miroir_b": "Idle / loitering (“I live my life”, I produce nothing and I am fine)",
+      "blessure_commune": "Abandoned + Invisible Child (“I am only worth what I produce”)",
+      "activations": "M: Perfectionist, Good Student — P: Workaholie (work IS the firefighter) — E: Abandoned",
+      "reveil": "Value without production (A); meaning and contribution (B)",
+      "piege": "Mutual judgment: “lazy” × “slave”",
+      "managers_cles": [
+        "survivant",
+        "perfectionniste"
+      ],
+      "micro_pas": [
+        "10 minutes of voluntary emptiness a day, without screens or producing.",
+        "Offer someone a small concrete contribution, without expecting anything back."
+      ],
+      "boucles": [
+        {
+          "domaine": "Rest / weekend",
+          "cycle": "A works to exist (Workaholic), can't do nothing → B is idle, loafs without guilt → A admires then judges, \"you waste your time\" → B feels useless in his eyes, flakes → A takes back the load, exhausts himself → his Angry/Dorsal part activates, he cracks → A's Invisible Child: without producing, he is nothing → loop.",
+          "sortie": "A plans one real hour of rest and observes it; B values his rest out loud."
+        },
+        {
+          "domaine": "Budget / home",
+          "cycle": "A carries everything, fills everything, exhausts himself (Survivor) → B produces nothing, \"I live my life\" → A feeds a silent resentment → his Critic suddenly explodes, accuses B of freeloading → B feels attacked, escapes → A's Abandoned Child: if I stop, do they still want me? → loop.",
+          "sortie": "A asks for concrete help before the explosion; B offers a real task unasked."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A produces endlessly and judges the other (Persecutor), B idles and feels judged (Victim) — A's agitation is the shadow of rest, B's rest is the shadow of action."
+      }
+    },
+    {
+      "id": 15,
+      "profil_a": "Arrogant/superior (contempt, never apologizes)",
+      "miroir_b": "Self-deprecating/humble-crushed (belittles oneself, refuses compliments)",
+      "blessure_commune": "Humiliated Child (one rises so as not to be down, the other lies down so as not to be hit)",
+      "activations": "M: Arrogant, Critical — P: Contempt, Self-humiliation — E: Humiliated",
+      "reveil": "The force that inclines (A); dignity that defends itself (B)",
+      "piege": "Two solitudes: the glass tower and the cellar",
+      "managers_cles": [
+        "arrogant"
+      ],
+      "micro_pas": [
+        "Say \"I was wrong\" without adding an excuse or justification.",
+        "Receive a compliment with a simple \"thank you\"."
+      ],
+      "boucles": [
+        {
+          "domaine": "Debate / contradiction",
+          "cycle": "A believes himself superior, scorns (Arrogant) → B belittles himself, refuses compliments, lies down → A mistakes this submission for his worth → B, after a while, explodes or cries → A's Humiliated Child cracks (he can't be loved if he doesn't dominate) → A closes up harder → loop.",
+          "sortie": "B stands firm on a disagreement; A hears an inferiority without feeling annihilated."
+        },
+        {
+          "domaine": "Social media / image",
+          "cycle": "A flaunts his success, awaits admiration (Arrogant / Image Guard) → B compares, devalues himself in silence → A doesn't see the wound → B blunts, isolates → B's Invisible Child → A feels alone without a mirror → he lays it on thicker → loop.",
+          "sortie": "A asks \"what would do you good?\"; B dares to say he is hurt."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A rises above (Persecutor), B puts themselves down (Victim) — A's superiority needs B's self-crushing to hold."
+      }
+    },
+    {
+      "id": 16,
+      "profil_a": "Clown/jester (make people laugh to be kept, never be serious)",
+      "miroir_b": "Serious / rigid moral (never lightness, everything is serious)",
+      "blessure_commune": "Invisible Child (“I only exist through attention” – one through laughter, the other through virtue)",
+      "activations": "M: Clown, Good Student — P: Self-humiliation, Dorsal — E: Invisible",
+      "reveil": "Being seen serious (A); the lightness that liberates (B)",
+      "piege": "The “funny × killjoy” couple: one never takes themselves seriously, the other never laughs",
+      "managers_cles": [
+        "clown"
+      ],
+      "micro_pas": [
+        "Be serious once: say something true without making it a joke.",
+        "Allow yourself some lightness, without turning it into a lesson."
+      ],
+      "boucles": [
+        {
+          "domaine": "Family / meal",
+          "cycle": "A makes people laugh to be kept (Clown), never serious → B is grave, everything is serious → A feels B is bored of him → he forces, overdoes the clown → B closes up, moralizes → A's Abandoned Child: without laughter, no one keeps him → A collapses or flees → loop.",
+          "sortie": "A dares a serious moment without humor; B thanks A for his sensitivity, not for his act."
+        },
+        {
+          "domaine": "Crisis / grief",
+          "cycle": "a grave situation arises → A jokes to defuse his discomfort (Clown) → B takes it badly, \"that's not a joke topic\" → A feels rejected → his Angry or Runaway part rises → B closes up, sad → A's Invisible Child: he can't be taken seriously → loop.",
+          "sortie": "A says \"I joke because I'm overwhelmed, help me\"; B welcomes A's helplessness."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "A makes people laugh to be kept (Victim), B judges lightness (Persecutor) — B's seriousness confirms to A that they must entertain to exist."
+      }
+    },
+    {
+      "id": 17,
+      "profil_a": "Hoarder/miser (money as absolute security, anxiety about spending)",
+      "miroir_b": "Spendthrift/prodigal (money evaporates, immediate pleasure, debts)",
+      "blessure_commune": "Abandoned + Terrified Child (“money doesn’t leave; people do”)",
+      "activations": "M: Hoarder, Controller — P: Greed, Dorsal — E: Abandoned",
+      "reveil": "Security through links (A); foresight that protects (B)",
+      "piege": "The war of money which replaces the war of feelings",
+      "managers_cles": [
+        "thesauriseur"
+      ],
+      "micro_pas": [
+        "Spend a small amount on a pleasure, without feeling guilty.",
+        "Write down a purchase before making it — then wait an hour."
+      ],
+      "boucles": [
+        {
+          "domaine": "Money / restaurant",
+          "cycle": "A is anxious about spending (Hoarder), watches → B spends, savors, \"life is short\" → A tenses, reproaches → B feels bridled, spends even more → A's Controller panics (Terrified Child: lack = danger) → loop.",
+          "sortie": "A sets a non-negotiable pleasure budget; B keeps the agreed frame without exceeding it."
+        },
+        {
+          "domaine": "Joint project / purchase",
+          "cycle": "A postpones, hesitates, tightens savings → B wants, buys impulsively → A corrects, withdraws → B feels infantilized, rebels → A's Terrified Child → he retakes control over money → B lives money as joy, A as security → conflict → loop.",
+          "sortie": "A announces \"we have X for this\"; B waits for a joint decision on that amount."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A clenches and controls (Persecutor), B spends and disturbs (Victim) — B's spending threatens A's security, A's restriction suffocates B."
+      }
+    },
+    {
+      "id": 18,
+      "profil_a": "Jealous/possessive/monitoring",
+      "miroir_b": "Free/carefree (“I live my life, I owe nothing”)",
+      "blessure_commune": "Abandoned Child (“if I don’t watch over them, they leave me”)",
+      "activations": "M: Controller, Comparator — P: Angry — E: Abandoned",
+      "reveil": "Internal security (A); the commitment that reassures (B)",
+      "piege": "The prophecy fulfilled: one suffocates, the other leaves",
+      "managers_cles": [
+        "jaloux",
+        "controleur"
+      ],
+      "micro_pas": [
+        "Say the need instead of watching: \"when you're away, I'm afraid of losing you\".",
+        "Reassure once a day, spontaneously, without being asked."
+      ],
+      "boucles": [
+        {
+          "domaine": "Social media / outing",
+          "cycle": "A watches, jealous, possessive (Jealous Controller) → B lives his life, doesn't report → A interrogates, snoops, demands proof → B feels oppressed, drifts further away → A's Abandoned Child: the freer B is, the more A fears losing him → loop.",
+          "sortie": "A states the fear (\"I'm afraid of losing you\") instead of watching; B reassures spontaneously with a gesture."
+        },
+        {
+          "domaine": "Couple / friends",
+          "cycle": "B has friends without A, leaves without him (Free) → A suffers, sets rules → B feels imprisoned, hides outings → A discovers them, rages, accuser → A's Abandoned Child → B sees the projection and gets scared → loop.",
+          "sortie": "A asks for a shared moment to feel secure; B announces his outings without hiding them."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A watches and accuses (Persecutor), B feels caged and escapes (Victim) — B's freedom fuels A's jealousy, A's jealousy justifies B's flight."
+      }
+    },
+    {
+      "id": 19,
+      "profil_a": "Emotional/fusional dependent (lives only in the couple, separation anxiety)",
+      "miroir_b": "Hyper-independent (“I don’t need anyone”, distance)",
+      "blessure_commune": "Abandoned Child (one clings, the other does not cling — same fear, two responses)",
+      "activations": "M: Giver, Anxious — P: Declarer, Supplication — E: Abandoned",
+      "reveil": "Autonomy in the link (A); the avowed need (B)",
+      "piege": "The “clamp × fleeing” couple — each confirming the fear of the other",
+      "managers_cles": [
+        "sauveur"
+      ],
+      "micro_pas": [
+        "Spend an evening without the other, deliberately, without filling the void.",
+        "Say \"I need you\" about one specific thing."
+      ],
+      "boucles": [
+        {
+          "domaine": "Return / need",
+          "cycle": "A only lives in the couple (codependent), separation anxiety → B is hyper-independent, \"I need no one\" → A calls, checks, clings → B feels smothered, takes distance → A's Abandoned Child panics, he clings more → B flees more → loop.",
+          "sortie": "A cultivates an activity outside the couple; B initiates closeness before being asked."
+        },
+        {
+          "domaine": "Conflict / reconciliation",
+          "cycle": "After a fight, A fears it's the end, rushes to re-fuse → B needs solitude to repair → A lives this need as abandonment → he begs, demands closeness → B closes up → A's Humiliated Child: depending = being rejected → loop.",
+          "sortie": "A tolerates 24h of distance; B comes back and shows it explicitly."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "A clings and begs (Victim), B distances and freezes (Persecutor) — A's need drives B away, B's flight panics A."
+      }
+    },
+    {
+      "id": 20,
+      "profil_a": "Caregiver/therapist/distress savior",
+      "miroir_b": "Chronic illness / in permanent crisis",
+      "blessure_commune": "Parentified Child (“I must save, I have no right to be weak”)",
+      "activations": "M: Savior, Repairer — P: Exhaustion, Dorsal — E: Parentified",
+      "reveil": "Receive care (A); regain your power (B)",
+      "piege": "Caregiver exhaustion and chronic helplessness of the care recipient — one role for two",
+      "managers_cles": [
+        "sauveur"
+      ],
+      "micro_pas": [
+        "Receive care without giving back: let someone do something for me.",
+        "Take back ONE small concrete responsibility, today."
+      ],
+      "boucles": [
+        {
+          "domaine": "Health / exhaustion",
+          "cycle": "A heals, rescues, helps (Healing Rescuer) → B is in permanent crisis, lets himself be carried → A empties himself, stops listening to himself → his Dorsal/Glutton parts activate at night → B asks for more → A's Parentified Child: if he doesn't save, he has no right to be a child → loop.",
+          "sortie": "A ticks the hour when he stops saving; B learns to ask several sources, not only A."
+        },
+        {
+          "domaine": "Meal / complaint",
+          "cycle": "B repeats the same complaint (illness, fatigue) → A listens, offers solutions → B \"yes but\" → A exhausts himself, his Critic whispers \"always the same\" → A's Angry part explodes → B feels abandoned, lays it on → A's Guilty Child → loop.",
+          "sortie": "A says \"I can't save you, but I'm here\"; B names precisely what he expects (listen, not fix)."
+        }
+      ],
+      "triangle": {
+        "a": "rescuer",
+        "b": "victime",
+        "danse": "A saves and heals (Rescuer), B is in permanent crisis (Victim) — B's distress gives A a role, A's care maintains B's distress."
+      }
+    },
+    {
+      "id": 21,
+      "profil_a": "Planner/organized/ritual",
+      "miroir_b": "Improviser / spontaneous (nothing is planned, everything is possible)",
+      "blessure_commune": "Terrified Child (one secures by the predictable, the other by avoiding any commitment)",
+      "activations": "M: Controller, Planner — P: Anesthetist — E: Terrified",
+      "reveil": "The unexpected as adventure (A); the frame as freedom (B)",
+      "piege": "The agenda against chaos — no one agrees",
+      "managers_cles": [
+        "planificateur",
+        "controleur"
+      ],
+      "micro_pas": [
+        "Say \"we'll see\" and actually live it: an outing with no plan.",
+        "Give advance notice about one important thing."
+      ],
+      "boucles": [
+        {
+          "domaine": "Travel / improvisation",
+          "cycle": "A plans, ritualizes everything (Planner) → B improvises, anything is possible → A corrects the itinerary, gets angry → B changes again → A's Controller tenses (Terrified Child: without plan, danger) → loop.",
+          "sortie": "A keeps one free slot in the plan; B warns before undoing everything."
+        },
+        {
+          "domaine": "Meal / schedules",
+          "cycle": "A wants the meal at a fixed time, a ritual → B eats when he wants, snacks → A feels ignored, his frame wavers → he imposes, judgment rises → B lives it as control → A's Terrified Child → loop.",
+          "sortie": "A includes B in the schedules as a shared choice; B respects one fixed ritual chosen together."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A organizes everything (Persecutor), B improvises and disturbs (Victim) — B's unpredictability ruins A's plans, A's plans suffocate B."
+      }
+    },
+    {
+      "id": 22,
+      "profil_a": "Sedentary/bodily off (body ignored, low energy)",
+      "miroir_b": "Sensory / adrenaline / sporty (living body, strong sensations) — Woman",
+      "blessure_commune": "Invisible + Humiliated Child (“my body is not a safe place”)",
+      "activations": "M: Hermit, Intellectualizer — P: Dorsal — E: Invisible",
+      "reveil": "Reinhabit the body (A); anchoring and rest (B)",
+      "piege": "Apathy versus restlessness: two ways not to meet",
+      "managers_cles": [
+        "ermite",
+        "intellectualiseur"
+      ],
+      "micro_pas": [
+        "2 minutes of body awareness: feet on the ground, breath, shoulders.",
+        "A moment of rest without stimulation — just being."
+      ],
+      "boucles": [
+        {
+          "domaine": "Sport / ritual",
+          "cycle": "A is sedentary, body off, low energy (Dorsal) → B is sensory, adrenaline, athletic → B trains, presses → A feels useless, can't → A's Blocker/Hermit flees → B gets discouraged, lightly mocks → A's Humiliated Child → loop.",
+          "sortie": "A picks a light low-intensity activity; B celebrates consistency, not performance."
+        },
+        {
+          "domaine": "Body / love",
+          "cycle": "A ignores his body, low energy → B, tactile and sensory, wants intense activities → A feels at fault, lies down → B is frustrated, spends his energy alone → A's Invisible Child: his body doesn't count → B feels alone in his living body → loop.",
+          "sortie": "A wakes his body with a daily micro-gesture; B tames his intensity not to demand it."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "B lives through the body and adrenaline (Persecutor), A feels overwhelmed and switches off (Victim) — B's energy sends A back to their ignored body."
+      }
+    },
+    {
+      "id": 23,
+      "profil_a": "Resentful/tenacious (doesn't forgive, keeps list)",
+      "miroir_b": "Forgiving / “I’m moving on” (quickly let go, forget)",
+      "blessure_commune": "Abandoned + Humiliated Child (“forgive = be left/hurt again”)",
+      "activations": "M: Vigilante, Accuser — P: Angry — E: Abandoned",
+      "reveil": "Justice without hatred (A); memory without the poison (B)",
+      "piege": "The “prosecutor × amnesiac” couple: the list of grievances against the absence of accounts",
+      "managers_cles": [
+        "rancunier"
+      ],
+      "micro_pas": [
+        "Write the grudge on paper, then keep it for 24 hours before any decision.",
+        "Remember an old wound without replaying it."
+      ],
+      "boucles": [
+        {
+          "domaine": "Old conflict / forgiveness",
+          "cycle": "A keeps the list, doesn't forgive (Grudge-holder) → B lets go, forgets, \"moving on\" → A brings the matter back → B thinks everything is settled, is destabilized → A feels entitled, the Accuser rises → B thinks A wants conflict → A's Guilty (or Abandoned) Child → loop.",
+          "sortie": "A says what isn't settled when it starts; B commits to a precise repair, not an erasure."
+        },
+        {
+          "domaine": "Family / celebration",
+          "cycle": "At a celebration, an old wound resurfaces → A closes up, ruminates, punishes silently (Grudge-holder) → B sees nothing, enjoys → A lives it as indifference → he isolates, internal brooding → B, free, doesn't understand → A's Abandoned Child (no one repairs) → loop.",
+          "sortie": "A names his wound that same evening; B listens without denying A's history."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A keeps the list of wrongs (Persecutor), B lets go and endures the grudge (Victim) — B's forgiveness makes A's grudge unjustifiable, which strengthens it."
+      }
+    },
+    {
+      "id": 24,
+      "profil_a": "Cold / distant / “I don’t need affection”",
+      "miroir_b": "Tactile/demonstrative (hugs, sweet words, need for contact)",
+      "blessure_commune": "Invisible Child (\"I lacked affection - one exiled it, the other begged for it\")",
+      "activations": "M: Hermit, Intellectualizer — P: Dissociative — E: Invisible",
+      "reveil": "The contact that does not kill (A); the distance that doesn't give up (B)",
+      "piege": "One feels suffocated, the other feels frozen",
+      "managers_cles": [
+        "froid",
+        "ermite"
+      ],
+      "micro_pas": [
+        "A chosen, named touch: \"I need a hug\" or \"not now\".",
+        "Announced distance with a return date: \"I'll be back in 1 hour\"."
+      ],
+      "boucles": [
+        {
+          "domaine": "Affection / tenderness",
+          "cycle": "A is cold, distant, \"I don't need affection\" (Cold/Hermit) → B is tactile, cuddly, demonstrative → B cuddles, A tenses, withdraws → B feels rejected, does more → A flees more → A's Terrified Child: contact = exposure → loop.",
+          "sortie": "A defines a contact he tolerates and asks for it; B states the need for a hug instead of taking it."
+        },
+        {
+          "domaine": "Crisis / consolation",
+          "cycle": "B is upset, needs to be held → A freezes, offers solutions or silence → B feels alone in his pain → A, uneasy, busies himself elsewhere → B's Abandoned Child → B pushes A away coldly → A feels guilty → loop.",
+          "sortie": "A consents to an agreed contact during distress; B says \"I just want you to stay\"."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A withholds affection (Persecutor), B begs for signs of love (Victim) — B's demand tightens A, A's withdrawal panics B."
+      }
+    },
+    {
+      "id": 25,
+      "profil_a": "Reactive/impulsive (acts first, thinks later, regrets)",
+      "miroir_b": "Thoughtful/slow (think first, act later, miss the moment)",
+      "blessure_commune": "Terrified Child (one flees the void through action, the other flees action through thought)",
+      "activations": "M: Survivor, Accuser — P: Angry, Reporter — E: Terrified",
+      "reveil": "The pause that saves (A); the moose that lives (B)",
+      "piege": "The “fire × ice” couple: one burns the stage before the other arrives",
+      "managers_cles": [
+        "accusateur",
+        "survivant"
+      ],
+      "micro_pas": [
+        "Before acting: 3 breaths, then \"what do I really want?\".",
+        "Seize an opportunity within the minute, without weighing everything."
+      ],
+      "boucles": [
+        {
+          "domaine": "Decision / unexpected",
+          "cycle": "A acts first, thinks after, regrets (Reactive) → B thinks first, acts after, sometimes misses the moment → A rushes, B hesitates → A's Persecutor blames him for doing wrong, B for not living → A's Humiliated Child revolts or collapses → loop.",
+          "sortie": "A imposes a 5-minute pause before deciding; B gives himself a deadline to reply."
+        },
+        {
+          "domaine": "Fight / escalation",
+          "cycle": "tension rises → A shouts, throws, acts impulsively (Reactive) → B keeps quiet, steps back, analyzes → A reads the silence as contempt, lays it on → B \"misses the moment\" and lets it burn → A's Terrified Child → loop.",
+          "sortie": "A says \"I'm too hot, I'll be back in 10 minutes\"; B comes back to talk after the pause without blame."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "victime",
+        "danse": "A overflows and cuts others off (Persecutor), B stays silent and misses the moment (Victim) — A's impulsiveness prevents B's slowness, B's slowness irritates A."
+      }
+    },
+    {
+      "id": 26,
+      "profil_a": "Red (consciousness) — power, fight, immediacy — Woman",
+      "miroir_b": "Emerging Blue/Orange — order, analysis, project",
+      "blessure_commune": "The same level of survival (two systems that have never known security)",
+      "activations": "M: Accuser, Survivor — P: Angry — E: All",
+      "reveil": "Power at the service of the link (A); analysis in the service of action (B)",
+      "piege": "The dialogue of the deaf: “you shout” / “you say nothing”",
+      "managers_cles": [
+        "accusateur",
+        "survivant"
+      ],
+      "micro_pas": [
+        "Turn an emotion into a request: \"I feel…, I need…\".",
+        "Decide in 5 minutes instead of analyzing for 5 days."
+      ],
+      "boucles": [
+        {
+          "domaine": "Power conflict / work",
+          "cycle": "A is Red: strength, combat, immediacy (Accuser/Survivor, reactivity) → B is Blue/Orange: order, analysis, project → A wants direct power, B wants the frame → each sees the other as a threat → A's Terrified Child (losing the fight) and B's Humiliated Child (being outdone) → loop.",
+          "sortie": "A converts a craving for power into a clear request; B gives A a position of quick impact."
+        },
+        {
+          "domaine": "Team decision",
+          "cycle": "A decides fast, wants to win (Red) → B analyzes, plans long (Blue/Orange) → A sees B's slowness as weakness, B sees A's haste as danger → the conflict explodes → each projects their shadow on the other → loop.",
+          "sortie": "A proposes a quick winnable step; B shows that the frame protects A, not that it bridles him."
+        }
+      ],
+      "triangle": {
+        "a": "persecuteur",
+        "b": "persecuteur",
+        "danse": "Two forces colliding: A strikes hard and immediately, B structures and controls — each experiences the other as a threat, neither yields: two Persecutors."
+      }
+    },
+    {
+      "id": 27,
+      "profil_a": "Assumed victim (everything happens to me, “yes but”, refusal of solutions)",
+      "miroir_b": "Assumed executioner (dominates, humiliates, does not feel)",
+      "blessure_commune": "Humiliated + Terrified Child (the original scene of helplessness, replayed from both sides)",
+      "activations": "M: Victim — P: Complaint, Somatization — E: Humiliated",
+      "reveil": "Power over one's life (A); vulnerability (B)",
+      "piege": "⚠️ Maximum trap: if the activation is unidirectional and B never questions himself, it is NOT a mirror — it is a system of violence. Awakening is only possible with a third party and separation. Never read this line as justification to stay",
+      "managers_cles": [
+        "victime"
+      ],
+      "micro_pas": [
+        "Replace \"yes but\" with \"what can I do, right now?\".",
+        "Acknowledge the other without dominating: \"you were right on that point\"."
+      ],
+      "boucles": [
+        {
+          "domaine": "Accusation / domination",
+          "cycle": "A presents himself as a victim of everything, \"yes but\", refusing solutions → B takes an abuser role, dominates, humiliates → A plays the complaint to be seen, B the domination to feel powerful → each triggers the other's shadow → the Humiliated Child in both → escalation or dependence → loop.",
+          "sortie": "A steps out of the victim role by naming a power; B steps out of the abuser role by defusing domination."
+        },
+        {
+          "domaine": "Narrative / reality",
+          "cycle": "A repeats that he suffers, piles up proofs of injustice → B, exasperated, \"enough, own it\" → A feels misunderstood, hijacked, plays the victim more → B hardens, dominates → A's Guilty and Humiliated Children reinforce each other → loop.",
+          "sortie": "A owns a minimal share of responsibility; B replaces contempt with a firm and fair frame."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "A endures and claims powerlessness (Victim), B dominates and humiliates (Persecutor) — each humiliation confirms to A they are a victim, each complaint confirms to B they face a victim."
+      }
+    },
+    {
+      "id": 28,
+      "profil_a": "Wise / slow / meditative",
+      "miroir_b": "Restless / hyperactive / in a hurry",
+      "blessure_commune": "Terrified + Invisible Child (“if I stop, I collapse / if I don’t move, I don’t exist”)",
+      "activations": "M: Avoidant, Dorsal — P: Sleep, Dissociation — E: Terrified",
+      "reveil": "The action that anchors (A); the silence that nourishes (B)",
+      "piege": "The ivory tower against the whirlwind",
+      "managers_cles": [
+        "evitant"
+      ],
+      "micro_pas": [
+        "3 minutes of deliberate stillness, without purpose, without screens.",
+        "One quick, concrete action, without postponing it."
+      ],
+      "boucles": [
+        {
+          "domaine": "Pace / daily life",
+          "cycle": "A is slow, ascetic, statically meditative (Sage) → B is restless, rushed, hyperactive → B presses, A stops → B lives A's rhythm as loss, A lives B's as hysteria → A's Terrified Child (agitation = danger) and B's Anxious Child (stopping = death) → loop.",
+          "sortie": "A sets a shared pause time; B sees in A not slowness but depth."
+        },
+        {
+          "domaine": "Project / energy",
+          "cycle": "A savors the process, unhurried → B wants results right away, stirs → A finds him noisy, B finds A soft → B's Controller races, A withdraws → A's Invisible Child (his depth isn't seen) → loop.",
+          "sortie": "A shows what slowness produces; B allocates a calm time without filling it."
+        }
+      ],
+      "triangle": {
+        "a": "victime",
+        "b": "persecuteur",
+        "danse": "B rushes and bustles (Persecutor), A gets overwhelmed and withdraws (Victim) — B's agitation is unbearable to A's silence, A's silence feels empty to B."
+      }
+    }
+  ],
+  "styles_attachement": [
+    {
+      "style": "Avoidant (flees intimacy, goes into exile)",
+      "miroir": "Concerned/protesting (chases, tests, screams for reassurance)",
+      "dynamique": "The chase-flight dance: each withdrawal of one triggers the pursuit of the other, each chase triggers the withdrawal"
+    },
+    {
+      "style": "Preoccupied (clinging, anxiety)",
+      "miroir": "Avoidant (distance, exile, deferred giving)",
+      "dynamique": "Exact mirror of the line above (both lines are the same pair)"
+    },
+    {
+      "style": "Disorganized (run-flight, chaos)",
+      "miroir": "Secure (remains, contains, does not destabilize)",
+      "dynamique": "Healing mirror: one learns security through contact with a system that neither leaves nor invades — but be careful: the Secure exhausts if the Disorganized does not engage"
+    },
+    {
+      "style": "Secure (integrated)",
+      "miroir": "(no longer has a mirror of injury — attracts mirrors of growth: a person who carries a quality that he aspires to develop, without traumatic activation)",
+      "dynamique": "No awakening through crisis — awakening through expansion"
+    }
+  ],
+  "managers_cles": {
+    "1": [
+      "muet",
+      "bon_eleve"
+    ],
+    "2": [
+      "ermite",
+      "controleur"
+    ],
+    "3": [
+      "sauveur"
+    ],
+    "4": [
+      "arrogant",
+      "gardien_image"
+    ],
+    "5": [
+      "victime",
+      "accusateur"
+    ],
+    "6": [
+      "controleur"
+    ],
+    "7": [
+      "perfectionniste",
+      "procrastinateur"
+    ],
+    "8": [
+      "ermite"
+    ],
+    "9": [
+      "intellectualiseur"
+    ],
+    "10": [
+      "accusateur"
+    ],
+    "11": [
+      "seducteur"
+    ],
+    "12": [
+      "gardien_image"
+    ],
+    "13": [
+      "ascete"
+    ],
+    "14": [
+      "survivant",
+      "perfectionniste"
+    ],
+    "15": [
+      "arrogant"
+    ],
+    "16": [
+      "clown"
+    ],
+    "17": [
+      "thesauriseur"
+    ],
+    "18": [
+      "jaloux",
+      "controleur"
+    ],
+    "19": [
+      "sauveur"
+    ],
+    "20": [
+      "sauveur"
+    ],
+    "21": [
+      "planificateur",
+      "controleur"
+    ],
+    "22": [
+      "ermite",
+      "intellectualiseur"
+    ],
+    "23": [
+      "rancunier"
+    ],
+    "24": [
+      "froid",
+      "ermite"
+    ],
+    "25": [
+      "accusateur",
+      "survivant"
+    ],
+    "26": [
+      "accusateur",
+      "survivant"
+    ],
+    "27": [
+      "victime"
+    ],
+    "28": [
+      "evitant"
+    ]
+  },
+  "stades_eveil": [
+    {
+      "n": 1,
+      "nom": "Acknowledgement",
+      "description": "The shock of familiarity: “I’ve known you forever.” Neuroception recognizes the same frequency of injury.",
+      "piege": "Confusing recognition and destiny, and jumping into the merger."
+    },
+    {
+      "n": 2,
+      "nom": "Activation",
+      "description": "The entire system rises: Managers defending, Firefighters driving, Exiles screaming. Each behavior of the other is a key.",
+      "piege": "Fleeing (“we are incompatible”) or clinging (“I’m going to fix him/her”) — both are escapes: the mirror is to be read, not to be escaped or repaired."
+    },
+    {
+      "n": 3,
+      "nom": "Crisis / Dissonance",
+      "description": "The breaking point — AND something that doesn't fit with the story. This is the gap through which awakening can pass, provided that a third party (or an accessible Self) names the system.",
+      "piege": "Close the dissonance by locking the story (total idealization or total devaluation)."
+    },
+    {
+      "n": 4,
+      "nom": "Integration or Repetition",
+      "description": "Everyone reintegrates their disavowed part — or the same mirror returns under a new face. If the same pattern is repeated with different faces, the lesson is not learned.",
+      "piege": "Waiting for the other to change instead of reinstating your own part."
+    }
+  ],
+  "discrimination_miroir_leurre": [
+    {
+      "indice": "Direction of activation",
+      "vrai": "Bilateral: he triggers me AND I trigger him",
+      "leurre": "Unidirectional: only I am activated"
+    },
+    {
+      "indice": "Acknowledgement",
+      "vrai": "“I’ve known you forever” — reciprocal",
+      "leurre": "I am alone in feeling the intensity"
+    },
+    {
+      "indice": "Lesson",
+      "vrai": "Each conflict reveals ONE specific, nameable part",
+      "leurre": "Blurred conflicts, without teaching, always the same"
+    },
+    {
+      "indice": "Narrative",
+      "vrai": "Dissonance exists (“it’s not what I thought”)",
+      "leurre": "Locked story (idealization then total devaluation)"
+    },
+    {
+      "indice": "Vulnerability",
+      "vrai": "Both end up showing their hurt",
+      "leurre": "Only one is revealed; the other remains in a position of power"
+    },
+    {
+      "indice": "Issue",
+      "vrai": "Possible integration (with or without the relationship)",
+      "leurre": "Consumption, exploitation, dependence — without learning"
+    }
+  ],
+  "questions_miroir": [
+    {
+      "id": "q1",
+      "titre": "What irritates me the most in other people?",
+      "cible": "The disavowed part (negative projection) — “I can’t stand people who shout” = I had to swallow my voice.",
+      "reponse": ""
+    },
+    {
+      "id": "q2",
+      "titre": "What do I secretly admire/desire?",
+      "cible": "The exiled part (positive projection) — “I admire people who dare” = I have exiled my audacity.",
+      "reponse": ""
+    },
+    {
+      "id": "q3",
+      "titre": "What do I always repeat, with different faces?",
+      "cible": "The common wound (resonance) — “everyone leaves eventually” = I choose people who leave.",
+      "reponse": ""
+    },
+    {
+      "id": "q4",
+      "titre": "What am I running away from/fearing most in the world?",
+      "cible": "The central Exile — “being seen as a monster” = the shame of the Humiliated Child.",
+      "reponse": ""
+    },
+    {
+      "id": "q5",
+      "titre": "If this quality or flaw I see in the other person were a PART OF ME hidden in the Shadow... how old would it be, and what would it need from my Self?",
+      "cible": "Reintegration (the “magic question” of IFS) — the projection becomes a doorway: name the part, give it an age, entrust it to the Self (U-Turn then reparenting).",
+      "reponse": ""
+    }
+  ],
+  "decodage_projections": [
+    {
+      "reaction": "“I judge them, I despise them, they disgust me.”",
+      "type": "MANAGER",
+      "ombre": "The repressed Exile + permission to live the forbidden need (letting go, saying no, resting).",
+      "cle": "The intensity: a simple observation comes from the Self; a visceral, charged reaction is a projection."
+    },
+    {
+      "reaction": "“I hate them, they are dangerous, monstrous, I must flee or destroy.”",
+      "type": "FIREFIGHTER",
+      "ombre": "The terror of a past trauma + the system's own defensive rage, demonized.",
+      "cle": "The disproportion: the Firefighter fights outside the terror that lives inside, believing in an external evil."
+    },
+    {
+      "reaction": "“They are fascinating, perfect, they will save or complete me.”",
+      "type": "EXILE",
+      "ombre": "“The Golden Shadow”: their own worth, creative power and beauty delegated to the other.",
+      "cle": "Flawless idealization: the qualities seen in the other mirror what is locked away in oneself."
+    }
+  ],
+  "regle_miroir": "A mirror reflects in both directions. If the other never reflects anything, it is not a mirror: it is a wall.",
+  "loi_parentale": {
+    "texte": "\"As long as we keep resenting a parent — even unconsciously — our relationships with all other people of the same sex as that parent will be difficult.\" The mirror plays out first there: with the figures who resemble the parent.",
+    "cles": [
+      "People of the same sex as the parent trigger more strongly, for no apparent reason",
+      "The parent we got along with best as a teenager is often the one we have the most to resolve with",
+      "What wasn't resolved with a parent carries on with people of the same sex as them"
+    ]
+  },
+  "triangle_vie": {
+    "texte": "Every wound activates in three ways, to the same degree: I'm affected by another person's attitude; I feel guilty toward someone; I suffer from what I do to myself. If only one of the three is conscious, the other two still exist.",
+    "exemple": "Example: if being lied to bothers you a lot, you feel guilty about lying to the same degree — and you lie to yourself. The triangle becomes a detector: as soon as you become aware of one \"I am\", you know the other two faces exist."
+  }
+}

@@ -1,0 +1,1290 @@
+{
+  "exiles": {
+    "invisible": {
+      "dims": [
+        "social",
+        "travail",
+        "valeurs",
+        "besoins"
+      ],
+      "quotidien": {
+        "social": "you fade out of conversations; you wait to be noticed without daring to show yourself",
+        "travail": "you do the work, someone else takes the credit; you say nothing",
+        "valeurs": "“what's the point” is your motto: existing without producing feels impossible",
+        "besoins": "you need to be seen for who you are, not for what you bring",
+        "alimentation": "you eat little, fast, without taste — feeding the body is a chore; sometimes you forget to eat"
+      },
+      "crise": {
+        "social": "you become a ghost: absence, silence, body symptoms — “no one would notice”",
+        "besoins": "loneliness becomes proof: “I don't really exist”",
+        "alimentation": "when the emptiness rises, food holds no interest — or it becomes a silent punishment"
+      }
+    },
+    "humilie": {
+      "dims": [
+        "relations",
+        "sport",
+        "travail",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "you compare, you compare yourself, you blush; other people's eyes are a court",
+        "sport": "your body is judged before being lived: you watch it, punish it, hide it",
+        "travail": "a criticism devastates you, a compliment embarrasses you; you hear mainly what is wrong",
+        "valeurs": "you put yourself down or puff yourself up; rarely both feet on the ground",
+        "alimentation": "you eat fast, without pleasure, with guilt; the pleasure of the table is smothered by shame"
+      },
+      "crise": {
+        "relations": "shame makes you leave the room, or explode — then hate yourself for exploding",
+        "travail": "an offhand remark becomes proof that you are worthless; you want to quit everything",
+        "alimentation": "you swallow your emotions — shame gets eaten, then you blame yourself for what you ate"
+      }
+    },
+    "abandonne": {
+      "dims": [
+        "relations",
+        "famille",
+        "besoins",
+        "rythme"
+      ],
+      "quotidien": {
+        "relations": "you test the people who stay, you watch for signs of leaving, you notice the lateness",
+        "famille": "you cling or you leave first, depending on the day; ambivalence is your routine",
+        "besoins": "you need the other to prove they stay — constantly, at every silence",
+        "rythme": "one hour without a reply is already abandonment; your sleep watches the phone",
+        "alimentation": "you snack without being hungry; the mouth tries to fill the lack — sugar and alcohol are band-aids"
+      },
+      "crise": {
+        "relations": "panic, a flood of calls, or icy escape: the certainty of being left takes over",
+        "besoins": "you demand impossible proofs, then turn them against yourself",
+        "alimentation": "when you feel left behind, you eat without stopping: filling the emptiness in your heart with food"
+      }
+    },
+    "terrifie": {
+      "dims": [
+        "rythme",
+        "travail",
+        "sport",
+        "social"
+      ],
+      "quotidien": {
+        "rythme": "hypervigilance: you notice everything, you rest on nothing, body on alert",
+        "travail": "the world is dangerous: you check three times, you anticipate disasters",
+        "sport": "you train to be ready — to flee, to defend, to survive",
+        "social": "people are unpredictable; at parties you watch the exits, not the conversation",
+        "alimentation": "you eat by control: diets, quantities, schedules — food is a matter of mastery"
+      },
+      "crise": {
+        "rythme": "panic attack: the body believes in danger even when all is well",
+        "social": "you flee crowded places, you cancel, you stay home where it's “safe”",
+        "alimentation": "guilt makes you gain weight — your belly and hips take in what you haven't digested"
+      }
+    },
+    "coupable": {
+      "dims": [
+        "travail",
+        "famille",
+        "valeurs",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "everything is your fault: you apologize in advance, you carry other people's mistakes",
+        "famille": "you carry your family's problems like a personal debt",
+        "valeurs": "if things go wrong, it's because you didn't do enough; rest is a fault",
+        "besoins": "you deserve only effort; pleasure must be earned, fault must be paid",
+        "alimentation": "you follow diets out of duty, never pleasure — eating is a discipline"
+      },
+      "crise": {
+        "travail": "someone else's mistake becomes your inner trial; you stop sleeping, you punish yourself",
+        "famille": "a family argument leaves you in pieces: “I should have…”",
+        "alimentation": "you punish yourself by depriving yourself, or you crack and punish yourself for cracking"
+      }
+    },
+    "parentifie": {
+      "dims": [
+        "famille",
+        "travail",
+        "relations",
+        "besoins"
+      ],
+      "quotidien": {
+        "famille": "you are your parents' parent, the adult of the house, the on-call fixer",
+        "travail": "you anticipate everything, you rescue the projects, you carry the team",
+        "relations": "you fall in love with people to repair; stable people bore you",
+        "besoins": "receiving without giving back feels forbidden; your worth is measured by your usefulness",
+        "alimentation": "you eat standing up, fast, between two emergencies — feeding others comes before feeding yourself"
+      },
+      "crise": {
+        "famille": "when no one needs you, you collapse: your worth disappears with the problem",
+        "relations": "you rescue the other until you lose yourself, then resent them for letting you",
+        "alimentation": "when you're overwhelmed, you forget to eat or you swallow anything, without sitting down"
+      }
+    }
+  },
+  "managers": {
+    "critique": {
+      "dims": [
+        "travail",
+        "relations",
+        "sport",
+        "valeurs"
+      ],
+      "quotidien": {
+        "travail": "you reread yourself three times, you look for the mistake that isn't there, you always find one",
+        "relations": "you first notice what is wrong with others — often without saying it",
+        "sport": "you train even injured: the session is a debt, not a pleasure",
+        "valeurs": "“not good enough” is your measure of everything, yourself included"
+      },
+      "crise": {
+        "relations": "the reproaches come out in bursts, then silence; you blame yourself afterwards",
+        "travail": "you throw away almost-finished work and start over, for the umpteenth time"
+      }
+    },
+    "ermite": {
+      "dims": [
+        "social",
+        "famille",
+        "travail",
+        "relations",
+        "rythme"
+      ],
+      "quotidien": {
+        "social": "a tiny, ancient circle; zero new encounters, and that suits you",
+        "famille": "present at meals, absent from conversations; you slip away as soon as it gets intimate",
+        "travail": "remote work, off-peak hours, empty corridors: you arrange the world to flee it",
+        "relations": "it takes months to get close to you and one second to lose you",
+        "rythme": "regular, predictable, monotonous — routine is your shell"
+      },
+      "crise": {
+        "social": "you vanish without explanation, phone off, “just need to be alone”",
+        "relations": "icy, then one sentence that snaps after months of accumulated silence"
+      }
+    },
+    "sauveur": {
+      "dims": [
+        "famille",
+        "travail",
+        "social",
+        "relations",
+        "besoins"
+      ],
+      "quotidien": {
+        "famille": "everyone goes through you; no one asks how you are",
+        "travail": "you take the cases no one wants, without counting the hours",
+        "social": "you take care of everyone; you leave last, exhausted, proud",
+        "relations": "you guess needs before they are spoken; no one ever asks about yours",
+        "besoins": "saying no is dangerous; you apologize for existing, you help to deserve the air"
+      },
+      "crise": {
+        "famille": "exhaustion hits at once: you collapse in silence, no one saw it coming",
+        "relations": "a “no” held back for too long comes out too late, too hard — then the guilt"
+      }
+    },
+    "perfectionniste": {
+      "dims": [
+        "travail",
+        "rythme",
+        "sport",
+        "valeurs"
+      ],
+      "quotidien": {
+        "travail": "a deliverable is never finished, only abandoned at the deadline",
+        "rythme": "lists of lists; one “lost” hour is a fault to make up for",
+        "sport": "you follow the plan to the letter: not one meal off, not one session skipped",
+        "valeurs": "error is a stain, not data; you see it on everything you touch"
+      },
+      "crise": {
+        "travail": "you freeze: unable to deliver the “not perfect”, you prefer to deliver nothing",
+        "rythme": "the slightest imperfection makes you start over — and the night goes by"
+      }
+    },
+    "bon_eleve": {
+      "dims": [
+        "travail",
+        "famille",
+        "valeurs",
+        "rythme"
+      ],
+      "quotidien": {
+        "travail": "you do exactly what is expected, before it is asked, without drawing attention",
+        "famille": "you are the good child, the one who never causes trouble; being forgotten is the deal",
+        "valeurs": "doing well is your definition of being worth something",
+        "rythme": "your days are framed by others' expectations, never by your own"
+      },
+      "crise": {
+        "travail": "a vague instruction paralyzes you: you wait for someone to tell you what to do, panicking in silence",
+        "famille": "any reproach collapses the world: you were the good one, after all"
+      }
+    },
+    "victime": {
+      "dims": [
+        "relations",
+        "famille",
+        "social",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "your stories tell what was done to you; you collect the evidence",
+        "famille": "your family is always in the wrong; you are the one never listened to",
+        "social": "you attract rescuers, then resent them for not fixing everything",
+        "besoins": "being pitied is your only permission to receive attention"
+      },
+      "crise": {
+        "relations": "the help offered is never the right one; you feel misunderstood, you close up",
+        "social": "you complain in a loop until others tire — and blame them for it"
+      }
+    },
+    "controleur": {
+      "dims": [
+        "travail",
+        "famille",
+        "rythme",
+        "relations"
+      ],
+      "quotidien": {
+        "travail": "you check everything, delegate reluctantly, redo what others have done",
+        "famille": "you manage everyone's schedule; the unexpected is an offense",
+        "rythme": "planning is your oxygen; a day without a plan is a dangerous day",
+        "relations": "you set frames, rules, implicit contracts; the other must comply"
+      },
+      "crise": {
+        "famille": "when things slip away, you squeeze harder: watch, demand, control",
+        "relations": "you drop those who won't be managed, then regret it"
+      }
+    },
+    "intellectualiseur": {
+      "dims": [
+        "relations",
+        "travail",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "when an emotion rises, you give a lecture; the other leaves with a course",
+        "travail": "you understand everything, analyze everything, decide rarely",
+        "valeurs": "understanding is your way of not feeling; intellect is your armor"
+      },
+      "crise": {
+        "relations": "the emotion overwhelms you despite the analysis; you feel betrayed by your own brain",
+        "travail": "you turn the problem every way, unable to act"
+      }
+    },
+    "saboteur": {
+      "dims": [
+        "travail",
+        "valeurs",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "you start at full speed, then sabotage yourself: lateness, forgetfulness, quitting at three quarters",
+        "valeurs": "succeeding is dangerous: if you fail yourself, no one can make you fail",
+        "besoins": "you need safety, but you choose paths that make it impossible"
+      },
+      "crise": {
+        "travail": "on the eve of delivery, you “forget”, you fall ill, you disappear",
+        "valeurs": "success approaching? you trigger failure to get back to familiar ground"
+      }
+    },
+    "reveur": {
+      "dims": [
+        "travail",
+        "rythme",
+        "social"
+      ],
+      "quotidien": {
+        "travail": "you live in tomorrow's projects; today is only a draft",
+        "rythme": "your days pass in plans, ideas, beginnings",
+        "social": "you promise worlds, you forget appointments; enthusiasm is your currency"
+      },
+      "crise": {
+        "travail": "reality catches up: the task is there, huge, and the dream didn't do it",
+        "rythme": "you put off an entire life until tomorrow; guilt at night, a new dream in the morning"
+      }
+    },
+    "procrastinateur": {
+      "dims": [
+        "travail",
+        "rythme",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "you work better under pressure — that's what you tell yourself while putting it off",
+        "rythme": "your evenings are races against deadlines you created yourself",
+        "besoins": "starting is a mountain; you need momentum bigger than fear"
+      },
+      "crise": {
+        "travail": "the night before: panic, all-nighter, rushed delivery — then the promise to change",
+        "rythme": "you escape into small easy tasks to avoid the real one"
+      }
+    },
+    "evitant": {
+      "dims": [
+        "relations",
+        "famille",
+        "social",
+        "travail"
+      ],
+      "quotidien": {
+        "relations": "as soon as it gets serious, you find a flaw, a reason, an exit",
+        "famille": "you are there physically, elsewhere mentally; deep conversations escape you",
+        "social": "you dodge invitations that might last or commit",
+        "travail": "you avoid conflicts, decisions, conversations that could upset"
+      },
+      "crise": {
+        "relations": "the other gets too close? you cool down, you disappear, you start again elsewhere",
+        "famille": "a sensitive topic opens? you change the subject, you leave to smoke, you go silent"
+      }
+    },
+    "froid": {
+      "dims": [
+        "relations",
+        "travail",
+        "famille",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "you cut your emotions before they bother anyone; they call you “cold”, you take it",
+        "travail": "efficient, precise, no drama: you are the team's rock",
+        "famille": "you are there, but at a safe distance; hugs are contracts",
+        "besoins": "asking is weakness; you prefer to lack in silence"
+      },
+      "crise": {
+        "famille": "an emotion escapes you and you feel naked — you close up harder, faster",
+        "relations": "when reproached for your coldness, you confirm it: “see, that's me”"
+      }
+    },
+    "gardien_image": {
+      "dims": [
+        "social",
+        "sport",
+        "travail",
+        "valeurs"
+      ],
+      "quotidien": {
+        "social": "you polish what people see: the photo, the status, the reputation",
+        "sport": "your body is a showcase; you maintain it for the eyes of others",
+        "travail": "you prefer to appear competent than to be it; the facade first",
+        "valeurs": "what others think weighs more than what you feel"
+      },
+      "crise": {
+        "social": "a public humiliation destroys you: you can lose everything except face",
+        "travail": "you cover the mistake, you deflect attention, you play the last card"
+      }
+    },
+    "heros": {
+      "dims": [
+        "travail",
+        "famille",
+        "sport",
+        "valeurs"
+      ],
+      "quotidien": {
+        "travail": "you take the impossible missions; the ordinary bores you, the exploit feeds you",
+        "famille": "you save your family from crises; you don't know how to stay for calm days",
+        "sport": "you push yourself, you get hurt, you start again; the limit is an opponent",
+        "valeurs": "your worth is measured by what you overcome, never by what you are"
+      },
+      "crise": {
+        "travail": "without a mission to save, you feel empty: you look for a new fight",
+        "famille": "you exhaust yourself carrying everything, then collapse without ever learning to ask"
+      }
+    },
+    "survivant": {
+      "dims": [
+        "travail",
+        "sport",
+        "rythme",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "you run in permanent emergency mode; calm feels suspicious",
+        "sport": "you train as if your life depended on it — it once did",
+        "rythme": "you learned to go without sleep, food, rest; your body pays",
+        "besoins": "you need safety, but you only find it in effort"
+      },
+      "crise": {
+        "rythme": "your body says stop: exhaustion, illness, collapse — you missed the signals",
+        "besoins": "when all is well, you look for the threat: peace is unknown territory"
+      }
+    },
+    "planificateur": {
+      "dims": [
+        "travail",
+        "rythme",
+        "famille"
+      ],
+      "quotidien": {
+        "travail": "you have plan A, B and C; the unexpected insults your agenda",
+        "rythme": "every hour has its slot; leisure is planned like meetings",
+        "famille": "you organize everyone's holidays, birthdays, inheritances; you are the clan's notary"
+      },
+      "crise": {
+        "travail": "the plan fails: you panic in silence, you redraw six scenarios instead of acting",
+        "famille": "family surprises unbalance you: you answer grief with checklists"
+      }
+    },
+    "comparateur": {
+      "dims": [
+        "travail",
+        "sport",
+        "relations",
+        "valeurs"
+      ],
+      "quotidien": {
+        "travail": "you measure yourself against others: salary, title, speed, everything is a ranking",
+        "sport": "you train against someone, never for yourself; the gym mirror is a rival",
+        "relations": "you size people up: more successful, prettier, more loved — comparison is your lens",
+        "valeurs": "your worth is relative: you exist only in the gap with others"
+      },
+      "crise": {
+        "travail": "someone succeeds? you crumble, devalue yourself, or secretly disparage them",
+        "relations": "the friend who rises becomes a threat; you withdraw rather than rejoice"
+      }
+    },
+    "jaloux": {
+      "dims": [
+        "relations",
+        "famille",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "you watch the looks, the messages, the lateness; the other is territory",
+        "famille": "you need to be the favorite; shared attention is a wound",
+        "besoins": "you need proof of love, but no proof reassures you for long"
+      },
+      "crise": {
+        "relations": "you dig, you accuse, you provoke scenes — to check that they stay",
+        "famille": "a real or imagined preference triggers days of sulking"
+      }
+    },
+    "dependant_affectif": {
+      "dims": [
+        "relations",
+        "famille",
+        "besoins",
+        "rythme"
+      ],
+      "quotidien": {
+        "relations": "you mold your tastes, your projects, your mood to the other; disappearing is your way of loving",
+        "famille": "you need constant reassurance; the other's silence leaves you without ground",
+        "besoins": "your need: to be indispensable; your fear: to be replaceable",
+        "rythme": "your energy depends on the other's mood; you sleep at the hour of their messages"
+      },
+      "crise": {
+        "relations": "the other pulls away? you cling, you beg, you lose yourself a little more",
+        "besoins": "loneliness feels like proof of worthlessness; you fill the void with anyone"
+      }
+    },
+    "hypervigilant": {
+      "dims": [
+        "rythme",
+        "social",
+        "travail",
+        "besoins"
+      ],
+      "quotidien": {
+        "rythme": "you scan faces, tones, silences; your radar never switches off",
+        "social": "you spot dangers before anyone: who is angry, who is about to leave",
+        "travail": "you anticipate reproaches, prepare your defenses, reread your messages three times",
+        "besoins": "you need safety, but you never lower your guard enough to feel it"
+      },
+      "crise": {
+        "rythme": "the slightest shift in atmosphere triggers the alarm: palpitations, tension, exhaustion",
+        "social": "you read everything as a sign: a tone, a delay, and the world turns threatening"
+      }
+    },
+    "seducteur": {
+      "dims": [
+        "relations",
+        "social",
+        "sport",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "you capture attention, you make people shine, then wonder what you are fleeing",
+        "social": "the room turns to you; you leave alone, the performance over",
+        "sport": "your body is a showcase you maintain for the gaze",
+        "valeurs": "being desired beats being known; seduction is your proof of existence"
+      },
+      "crise": {
+        "relations": "you feel invisible? seduction surges: a proof is needed, right now",
+        "social": "when the other gets attached, you slip away: the game was the door, not the house"
+      }
+    },
+    "arrogant": {
+      "dims": [
+        "social",
+        "travail",
+        "relations",
+        "valeurs"
+      ],
+      "quotidien": {
+        "social": "you arrive from above, you size up, you disdain; vulnerability is for others",
+        "travail": "you never ask for help: asking would be confessing",
+        "relations": "you criticize to avoid being criticized; you attack before being attacked",
+        "valeurs": "pride is your armor; humility feels like surrender"
+      },
+      "crise": {
+        "social": "being challenged makes you stagger: you rear up, you scorn, you cut off",
+        "travail": "failure is unbearable: you withdraw rather than show your cracks"
+      }
+    },
+    "provocateur": {
+      "dims": [
+        "social",
+        "relations",
+        "famille"
+      ],
+      "quotidien": {
+        "social": "you push people to their limit to see if they stay; reaction is your fuel",
+        "relations": "you test boundaries: a jab, a challenge, a “you won't get away with that”",
+        "famille": "at the table you seek debate, friction; calm bores you"
+      },
+      "crise": {
+        "relations": "you make a scene, slam the door — then watch: will they come back?",
+        "social": "excluded, you become the group's worst enemy, the group you wanted to join"
+      }
+    },
+    "clown": {
+      "dims": [
+        "social",
+        "famille",
+        "relations"
+      ],
+      "quotidien": {
+        "social": "you make people laugh, you defuse, you deflect; serious emotion is a threat",
+        "famille": "you are the house's entertainment; no one sees what is wrong with you",
+        "relations": "you joke exactly when it's time to talk; silence scares you"
+      },
+      "crise": {
+        "social": "when no one laughs anymore, you don't know who you are: panic behind the mask",
+        "relations": "a deep conversation starts? you flee into absurdity or disappear"
+      }
+    },
+    "ascete": {
+      "dims": [
+        "alimentation",
+        "sport",
+        "rythme",
+        "besoins"
+      ],
+      "quotidien": {
+        "alimentation": "you eat little, plain, without pleasure; deprivation is discipline",
+        "sport": "you push your body to the limit; pain is proof of worth",
+        "rythme": "up at 5, zero surplus, zero comfort: you treat yourself like a soldier",
+        "besoins": "you need purity, mastery; desire is an enemy to tame"
+      },
+      "crise": {
+        "alimentation": "when you break, it is in excess: a night of bingeing after months of deprivation",
+        "besoins": "you punish yourself for pleasure: fasting, exercise, guilt"
+      }
+    },
+    "auto_devalorise": {
+      "dims": [
+        "travail",
+        "relations",
+        "valeurs",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "you put yourself down before others do; outside criticism feels redundant",
+        "relations": "you refuse compliments: “you're too kind”; you introduce yourself apologizing",
+        "valeurs": "you are first to say you are worthless; it's your way of controlling the pain",
+        "besoins": "you need to be contradicted, but you never believe the contradiction"
+      },
+      "crise": {
+        "travail": "a failure confirms everything: “I knew it” — you sink into self-accusation",
+        "relations": "you withdraw from people who value you: they must be wrong about you"
+      }
+    },
+    "rancunier": {
+      "dims": [
+        "relations",
+        "famille",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "you forget nothing: every wrong is filed, dated, ready to be reused",
+        "famille": "old family stories are your treasures; you bring them out at meals",
+        "valeurs": "forgiving is losing; memory is your justice"
+      },
+      "crise": {
+        "relations": "the wrong joins the list; you cool down without explaining, the other doesn't understand",
+        "famille": "you punish with silence for days, weeks, years"
+      }
+    },
+    "muet": {
+      "dims": [
+        "relations",
+        "famille",
+        "social"
+      ],
+      "quotidien": {
+        "relations": "you swallow everything: injustices, unspoken words, sentences that stay at the edge",
+        "famille": "you keep quiet about what hurts you; years later they discover it hit you",
+        "social": "in meetings you speak in your head; the sentence arrives too late, alone, at night"
+      },
+      "crise": {
+        "relations": "the accumulation bursts at once, or turns into silent escape",
+        "famille": "you break the silence with one huge sentence, then go quiet again for months"
+      }
+    },
+    "thesauriseur": {
+      "dims": [
+        "travail",
+        "alimentation",
+        "besoins",
+        "valeurs"
+      ],
+      "quotidien": {
+        "travail": "you accumulate: files, emails, projects, proofs — everything is kept “just in case”",
+        "alimentation": "you keep, stock, never throw away; lack is your underlying fear",
+        "besoins": "you need reserves: money, time, objects — safety lives in having",
+        "valeurs": "spending is loss; owning is victory over scarcity"
+      },
+      "crise": {
+        "travail": "the idea of lacking triggers accumulation: you buy, stock, don't share",
+        "besoins": "the fear of scarcity makes you grip tighter, even when all is well"
+      }
+    },
+    "accusateur": {
+      "dims": [
+        "relations",
+        "famille",
+        "travail",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "you point fingers to avoid looking inside; the guilty one is always elsewhere",
+        "famille": "you lecture, you give ultimatums; fault is familiar ground",
+        "travail": "when things go wrong, you look for who — rarely what",
+        "valeurs": "your justice is relentless; nuance feels like weakness"
+      },
+      "crise": {
+        "relations": "you accuse, condemn, punish — then guilt gnaws at you in silence",
+        "famille": "after the storm, you don't know how to apologize; you change the subject, case closed for you"
+      }
+    },
+    "dormeur": {
+      "dims": [
+        "rythme",
+        "travail",
+        "social"
+      ],
+      "quotidien": {
+        "rythme": "you sleep a lot, you fall asleep anywhere; sleep is your valve",
+        "travail": "hard tasks make you drowsy: the deadline approaches, you doze off",
+        "social": "you cancel to rest; outings tire you in advance"
+      },
+      "crise": {
+        "rythme": "anxiety rises? you collapse into sleep so you don't feel it",
+        "travail": "you sleep at delivery time: the body switches off what the mind cannot face"
+      }
+    }
+  },
+  "pompiers": {
+    "fuyard": {
+      "dims": [
+        "relations",
+        "famille",
+        "social"
+      ],
+      "quotidien": {
+        "relations": "you cut at the first friction: “I need some air”",
+        "famille": "you leave the table without goodbye, you switch rooms when it heats up",
+        "social": "you cancel at the last minute; leaving early is your reflex"
+      },
+      "crise": {
+        "relations": "you break up, ghost, move away — anything rather than being left",
+        "famille": "one argument and you slam the door for weeks, without a word"
+      }
+    },
+    "rageur": {
+      "dims": [
+        "relations",
+        "travail",
+        "famille"
+      ],
+      "quotidien": {
+        "relations": "you flare up fast, you throw jabs, you regret after; anger precedes you",
+        "travail": "you slam doors, real or virtual; the email goes out too fast",
+        "famille": "your outbursts fall on the closest, never on strangers"
+      },
+      "crise": {
+        "relations": "you explode over a trifle, you break something, then you collapse",
+        "travail": "anger rises in a ball in the chest and bursts out on the first comer"
+      }
+    },
+    "ivrogne": {
+      "dims": [
+        "alimentation",
+        "rythme",
+        "social",
+        "relations"
+      ],
+      "quotidien": {
+        "alimentation": "alcohol paces your evenings; without it, the evening doesn't exist",
+        "rythme": "you drink to switch off the mind that never stops",
+        "social": "you are funnier, more present, more alive — then gone",
+        "relations": "drinks replace the conversations that matter"
+      },
+      "crise": {
+        "relations": "you say everything you've held back for months, then shame at dawn",
+        "rythme": "you drink alone, in secret, “to cope”; the next day, the promise to stop"
+      }
+    },
+    "anesthesieur": {
+      "dims": [
+        "rythme",
+        "travail",
+        "relations"
+      ],
+      "quotidien": {
+        "rythme": "series, games, food, drowsiness: you numb feeling continuously",
+        "travail": "you fill your days with mechanical tasks to think of nothing",
+        "relations": "you choose distractions that avoid the topics that count"
+      },
+      "crise": {
+        "rythme": "emotion rises? you numb it: screen, food, fatigue, anything",
+        "relations": "a deep conversation starts? you switch, you flee into an activity"
+      }
+    },
+    "scroll": {
+      "dims": [
+        "rythme",
+        "travail",
+        "social",
+        "relations"
+      ],
+      "quotidien": {
+        "rythme": "hours of feed every night, “just 5 minutes” that become three",
+        "travail": "you scroll to delay the task that frightens you",
+        "social": "the phone is your refuge when the room is too full",
+        "relations": "you prefer the feed to the message you should write"
+      },
+      "crise": {
+        "rythme": "a whole night of scrolling without being able to stop, until disgust",
+        "relations": "social anxiety? you dive into the screen, eyes elsewhere, present-absent"
+      }
+    },
+    "glouton": {
+      "dims": [
+        "alimentation",
+        "rythme",
+        "besoins"
+      ],
+      "quotidien": {
+        "alimentation": "you snack without hunger, especially at night; food is a lullaby",
+        "rythme": "when things go wrong you eat; when they go well, you eat to celebrate",
+        "besoins": "the hollow in the stomach isn't hunger, but you fill it anyway"
+      },
+      "crise": {
+        "alimentation": "a binge: you devour in secret, fast, tasteless, until nausea",
+        "besoins": "emotion too strong? you bury it under food, then shame"
+      }
+    },
+    "tca": {
+      "dims": [
+        "alimentation",
+        "sport",
+        "besoins"
+      ],
+      "quotidien": {
+        "alimentation": "you count, regulate, control every bite; eating is a matter of state",
+        "sport": "you burn what you ate: exercise is punishment, not pleasure",
+        "besoins": "controlling your body is your way of controlling a life that escapes you"
+      },
+      "crise": {
+        "alimentation": "restriction, vomiting, or bingeing: the body becomes the battlefield",
+        "besoins": "powerlessness is treated by absolute control of food"
+      }
+    },
+    "hypersexuel": {
+      "dims": [
+        "relations",
+        "rythme",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "desire is your thermometer: when you feel bad, it surges",
+        "rythme": "porn, fantasies, conquests: the discharge replaces rest",
+        "besoins": "you seek in others' bodies the proof that you exist"
+      },
+      "crise": {
+        "relations": "anxiety rises? you seek an encounter, an image, a release — right now",
+        "besoins": "after the act, the void returns, bigger: you must start again"
+      }
+    },
+    "fantasme": {
+      "dims": [
+        "rythme",
+        "relations",
+        "travail"
+      ],
+      "quotidien": {
+        "rythme": "you live in your head: scenarios, rewritten memories, perfect futures",
+        "relations": "you are in love with an imagined version; the real person disappoints",
+        "travail": "you plan entire lives while the real one waits"
+      },
+      "crise": {
+        "rythme": "reality hurts? you dive into fantasy: safer, softer",
+        "relations": "you leave the real for the image; the other never understands what they lost"
+      }
+    },
+    "adrenaline": {
+      "dims": [
+        "sport",
+        "rythme",
+        "social"
+      ],
+      "quotidien": {
+        "sport": "you seek speed, risk, the edge; calm is an empty sensation",
+        "rythme": "you get bored as soon as it slows down; you recreate danger to feel alive",
+        "social": "you provoke adrenaline surges in relationships: dares, bets, scandals"
+      },
+      "crise": {
+        "rythme": "the void rises? you accelerate: driving, extreme sports, spending — a hit",
+        "social": "you turn a fear into a challenge: “watch what I can do”"
+      }
+    },
+    "dissociatif": {
+      "dims": [
+        "rythme",
+        "travail",
+        "social"
+      ],
+      "quotidien": {
+        "rythme": "you check out: the conversation goes on, you are elsewhere, body present",
+        "travail": "hours pass without knowing what you did; time has holes",
+        "social": "people talk, you nod, you hear nothing; you replay the scene at night"
+      },
+      "crise": {
+        "rythme": "emotion too strong? you leave your body: everything becomes distant, unreal",
+        "travail": "you “lose” whole hours; people say you were there — you weren't"
+      }
+    },
+    "dorsal": {
+      "dims": [
+        "rythme",
+        "travail",
+        "social"
+      ],
+      "quotidien": {
+        "rythme": "you run on low, like on autopilot; life is on mute",
+        "travail": "you do the minimum, without energy; everything is an effort",
+        "social": "you say yes without interest, attend without participating, are there without being there"
+      },
+      "crise": {
+        "rythme": "the collapse: you stay in bed, the world feels inaccessible and distant",
+        "travail": "you disconnect from everything: no emotions, no reactions, no you"
+      }
+    },
+    "drama": {
+      "dims": [
+        "relations",
+        "social",
+        "famille"
+      ],
+      "quotidien": {
+        "relations": "you choose complicated relationships; calm feels suspicious",
+        "social": "you interpret everything big: a look becomes betrayal",
+        "famille": "family stories are your favorite series, and you act in them"
+      },
+      "crise": {
+        "relations": "you provoke the scene to feel something — then regret the chaos",
+        "social": "boredom is unbearable: you create storms to fill the sky"
+      }
+    },
+    "endormeur": {
+      "dims": [
+        "rythme",
+        "travail"
+      ],
+      "quotidien": {
+        "rythme": "as soon as an emotion rises, your eyelids grow heavy; sleep is your reflex",
+        "travail": "important meetings make you drowsy; boring tasks put you to sleep"
+      },
+      "crise": {
+        "rythme": "anxiety? you sleep: 12 hours, 14 hours, the body switches off consciousness",
+        "travail": "you fall asleep at decision time; tomorrow you'll have forgotten, maybe"
+      }
+    },
+    "envie": {
+      "dims": [
+        "relations",
+        "valeurs",
+        "social"
+      ],
+      "quotidien": {
+        "relations": "you watch others' lives with a pang; their success mirrors your lack",
+        "valeurs": "“them yes, me no” is your refrain; others' success is defeat",
+        "social": "you compare paths on social media, and feel behind"
+      },
+      "crise": {
+        "relations": "a close one's success triggers physical pain; you withdraw, you disparage",
+        "valeurs": "envy gnaws in a loop: you want what they have, you hate wanting it"
+      }
+    },
+    "epuisement": {
+      "dims": [
+        "rythme",
+        "travail",
+        "besoins"
+      ],
+      "quotidien": {
+        "rythme": "you hold until breakdown: the body absorbs, the mind pushes, nothing stops",
+        "travail": "you work to exhaustion, then collapse and start again",
+        "besoins": "you don't know how to stop before breaking; rest is a luxury you forbid"
+      },
+      "crise": {
+        "rythme": "burnout: no energy, no restful sleep, no desire; the body said stop",
+        "travail": "you fall ill exactly when you were supposed to let go; illness is your only permission"
+      }
+    },
+    "evitement_de_performance": {
+      "dims": [
+        "travail",
+        "social",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "you dodge exams, presentations, interviews; “not ready”",
+        "social": "you avoid stages where people watch you: public speaking is a threat",
+        "besoins": "you need to succeed, but you flee situations where failure is possible"
+      },
+      "crise": {
+        "travail": "deadline near? you fall ill, forget, sabotage yourself to avoid judgment",
+        "social": "presentation tomorrow? you cancel, hide; shame devours you"
+      }
+    },
+    "fabulateur": {
+      "dims": [
+        "social",
+        "relations",
+        "valeurs"
+      ],
+      "quotidien": {
+        "social": "you embellish your stories: reality is never good enough to tell",
+        "relations": "you invent parallel lives to exist in conversations",
+        "valeurs": "bare truth feels insufficient; storytelling is your currency"
+      },
+      "crise": {
+        "social": "when you feel invisible, out come the big stories: look at me, I count",
+        "relations": "the lie deflates? you feel naked, ashamed, you flee the scene"
+      }
+    },
+    "bloqueur": {
+      "dims": [
+        "relations",
+        "famille",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "you block intimacy: when the other approaches, you close like an oyster",
+        "famille": "sensitive topics are locked: “we don't talk about that”",
+        "besoins": "you need closeness, but refuse it for safety"
+      },
+      "crise": {
+        "relations": "the other wants to talk? you go silent, stand up, leave; the lock snaps shut",
+        "besoins": "you want comfort, but push away the reaching hand"
+      }
+    },
+    "auto_humiliation": {
+      "dims": [
+        "relations",
+        "valeurs",
+        "travail"
+      ],
+      "quotidien": {
+        "relations": "you put yourself down in public before others do: “I'm useless, right?”",
+        "valeurs": "self-mockery is your shield: you can't hit someone who hits themselves",
+        "travail": "you minimize your work, you present yourself as the resident impostor"
+      },
+      "crise": {
+        "relations": "shame rises? you berate yourself, call yourself names, punish yourself",
+        "travail": "a failure? you flagellate yourself in a loop, you make yourself pay"
+      }
+    },
+    "auto_sabotage": {
+      "dims": [
+        "travail",
+        "relations",
+        "valeurs"
+      ],
+      "quotidien": {
+        "travail": "you forget important appointments, lose documents, arrive “coincidentally” late",
+        "relations": "you spoil what could work: a remark, an absence, a test",
+        "valeurs": "succeeding feels dangerous: better fail as master than fail as victim"
+      },
+      "crise": {
+        "travail": "success approaches? you trigger failure at the last second, then hate yourself",
+        "relations": "love is here? you break it: “not for me”"
+      }
+    },
+    "inhibition": {
+      "dims": [
+        "social",
+        "relations",
+        "besoins"
+      ],
+      "quotidien": {
+        "social": "you stay silent in groups; the words form too late, in your head, at night",
+        "relations": "you dare not ask, refuse, propose; you wait for others to guess",
+        "besoins": "you need to speak, but fear of judgment muzzles you"
+      },
+      "crise": {
+        "social": "words fail you at the crucial moment: interview, confession, defense — silence",
+        "relations": "you let the chance pass, then rumination devours you"
+      }
+    },
+    "plainte": {
+      "dims": [
+        "social",
+        "relations",
+        "famille"
+      ],
+      "quotidien": {
+        "social": "you share your misfortunes as conversation; attention comes through pain",
+        "relations": "you seek ears, not solutions; advice wounds you",
+        "famille": "at home you are the daily weather report: “it's not going well”"
+      },
+      "crise": {
+        "social": "complaint becomes a whirlwind: you rehash, tell everyone, nothing suffices",
+        "relations": "help offered? you refuse: no one really understands"
+      }
+    },
+    "mepris": {
+      "dims": [
+        "relations",
+        "social",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "you look down on others; distance is your dignity",
+        "social": "you feel above the rules, the people, the conventions",
+        "valeurs": "scorning is safer than desiring; admiration would put you at risk"
+      },
+      "crise": {
+        "relations": "you feel judged? you scorn in return: a pout, a silence, a cruelty",
+        "social": "humiliation suffered turns into contempt projected on everyone"
+      }
+    },
+    "manque": {
+      "dims": [
+        "relations",
+        "alimentation",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "you live in absence: the departed one occupies more space than those present",
+        "alimentation": "the lack hollows you: you eat less, sleep badly, wait",
+        "besoins": "you need the other like an organ; their absence is an amputation"
+      },
+      "crise": {
+        "relations": "separation? you stop eating, stop sleeping, wander: the other is a physical lack",
+        "besoins": "you write, call back, hope: the pain of lack is your only link"
+      }
+    },
+    "haine": {
+      "dims": [
+        "relations",
+        "famille",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "you keep a precise, living, detailed hatred; it is your inner warmth",
+        "famille": "some names are taboo: pronouncing them relights the fire",
+        "valeurs": "hating someone is still a way of belonging to them"
+      },
+      "crise": {
+        "relations": "the object of your hatred reappears? the whole system ignites: obsession, rage, plans",
+        "famille": "hatred keeps you from healing, but it keeps you warm: you choose it"
+      }
+    },
+    "rancune": {
+      "dims": [
+        "relations",
+        "famille",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "you replay the wrongs: the scene loops in your head",
+        "famille": "old family accounts stay open, the list always current",
+        "besoins": "you need recognition; forgiveness feels like unjust amnesty"
+      },
+      "crise": {
+        "relations": "a new wrong revives all the old ones: resentment bursts into accumulated reproaches",
+        "famille": "you punish with coldness for weeks, never explaining why"
+      }
+    },
+    "shopaholique": {
+      "dims": [
+        "alimentation",
+        "rythme",
+        "besoins",
+        "relations"
+      ],
+      "quotidien": {
+        "alimentation": "you buy food, objects, “little pleasures” that pile up",
+        "rythme": "the online cart is your evening drug; the delivery, your dose",
+        "besoins": "buying fills a hollow that isn't in the wallet",
+        "relations": "you give gifts to buy love, then count what you gave"
+      },
+      "crise": {
+        "besoins": "anxiety rises? you spend: the click, the wait, the parcel — then guilt",
+        "rythme": "you buy what you don't need, for the feeling of having, not being"
+      }
+    },
+    "somatisation": {
+      "dims": [
+        "rythme",
+        "travail",
+        "besoins"
+      ],
+      "quotidien": {
+        "rythme": "your body speaks for you: headaches, belly, back — every emotion has its organ",
+        "travail": "big deadlines coming? you fall ill, right on time",
+        "besoins": "you need to stop, but you only stop when sick"
+      },
+      "crise": {
+        "rythme": "emotion forbidden? the body says it: fever, pain, passing paralysis",
+        "travail": "stress becomes physical: you consult, they find nothing, it continues"
+      }
+    },
+    "test": {
+      "dims": [
+        "relations",
+        "social",
+        "famille"
+      ],
+      "quotidien": {
+        "relations": "you test people: lateness, provoked forgetfulness, broken promises “to see”",
+        "social": "you disappear for days to check you are missed",
+        "famille": "you push loved ones to the edge to measure their patience"
+      },
+      "crise": {
+        "relations": "abandonment anxiety rises? you provoke: “leave, go away” — to check they stay",
+        "famille": "the test becomes an ordeal: if they love you, you'll come back, and they'll have waited"
+      }
+    },
+    "gamer": {
+      "dims": [
+        "rythme",
+        "social",
+        "travail"
+      ],
+      "quotidien": {
+        "rythme": "your evenings go into the game; “one round” becomes the night",
+        "social": "real relationships wait; the guild is always there",
+        "travail": "you play to delay the task, then play to forget the delay"
+      },
+      "crise": {
+        "rythme": "anxiety rises? you log in: the game is your isolation chamber",
+        "social": "you prefer virtual victory to the real conversation waiting for you"
+      }
+    },
+    "gamer_clan": {
+      "dims": [
+        "social",
+        "relations",
+        "rythme"
+      ],
+      "quotidien": {
+        "social": "you live your bonds inside the game: the clan is your replacement family",
+        "relations": "you tell the mic what you never say face to face",
+        "rythme": "raid nights replace sleep; in the morning, you are elsewhere"
+      },
+      "crise": {
+        "social": "loneliness hits? you log in: at least there, someone waits for you",
+        "relations": "the clan becomes more real than your life; the game is your refuge, then your prison"
+      }
+    },
+    "joueur": {
+      "dims": [
+        "rythme",
+        "besoins",
+        "relations"
+      ],
+      "quotidien": {
+        "rythme": "you play, you bet, you try: hope of winning is your fuel",
+        "besoins": "you need the adrenaline rush of “maybe”",
+        "relations": "you hide your losses; money has become a family secret"
+      },
+      "crise": {
+        "rythme": "you play again to win it back: the debt grows, so does the lie",
+        "besoins": "the inner void fills with bets; after the loss, shame, then the next game"
+      }
+    },
+    "accumulation": {
+      "dims": [
+        "alimentation",
+        "rythme",
+        "besoins"
+      ],
+      "quotidien": {
+        "alimentation": "you keep everything: packaging, leftovers, objects “just in case”",
+        "rythme": "your spaces fill up; you tidy by moving the piles",
+        "besoins": "throwing away is loss; keeping is insurance against lack"
+      },
+      "crise": {
+        "besoins": "fear of lacking? you accumulate more: purchases, stocks, reserves",
+        "rythme": "the house closes in on you; order becomes impossible, and shame too"
+      }
+    },
+    "workaholie": {
+      "dims": [
+        "travail",
+        "rythme",
+        "famille",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "you answer emails at night, weekends, holidays; work is your safe place",
+        "rythme": "your worth is measured in hours; stopping feels like a fault",
+        "famille": "your loved ones have appointments in your agenda, not in your life",
+        "besoins": "you need to feel useful; Sunday's emptiness terrifies you"
+      },
+      "crise": {
+        "travail": "when private life overflows, you dive into work: it's your bunker",
+        "famille": "emotion rises? you open a file: working is your way of not feeling"
+      }
+    },
+    "declarateur": {
+      "dims": [
+        "relations",
+        "social",
+        "travail"
+      ],
+      "quotidien": {
+        "relations": "you say everything, too fast, unfiltered; raw truth is your survival mode",
+        "social": "you unpack your emotions in public; others step back, you keep going",
+        "travail": "you say in meetings what shouldn't be said; honesty is your weapon and your wound"
+      },
+      "crise": {
+        "relations": "the load is too heavy? you pour it out: everything comes out, all at once, unsorted",
+        "social": "you provoke confrontation to stop carrying the secret; then shame"
+      }
+    }
+  },
+  "karpman": {
+    "roles": {
+      "persecuteur": {
+        "nom": "Persecutor",
+        "vertueux": "Challenger",
+        "pivot": "How can I invite the other to grow without crushing them?",
+        "crise": "persecutes — attacks, judges, punishes"
+      },
+      "rescuer": {
+        "nom": "Rescuer",
+        "vertueux": "Coach",
+        "pivot": "How can I support without doing it in their place?",
+        "crise": "rescues — does it in their place, carries everything"
+      },
+      "victime": {
+        "nom": "Victim",
+        "vertueux": "Creator",
+        "pivot": "What do I want to create, even within this constraint?",
+        "crise": "endures — fades away, numbs, flees"
+      }
+    }
+  }
+}

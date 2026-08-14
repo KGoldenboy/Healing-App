@@ -1,0 +1,4010 @@
+{
+  "intro": "The theory behind this application: the Triaxial System (ACT ⊗ IFS ⊗ Polyvagal). Condensed and structured version of the founding text — for those who want to understand before feeling, or understand to feel better.",
+  "livres": [
+    {
+      "id": "livre-1",
+      "titre": "Foundations of integration",
+      "sous_titre": "Why three models together",
+      "chapitres": [
+        {
+          "id": "1-1",
+          "titre": "The problem of isolated models",
+          "mots_cles": [
+            "ACT",
+            "IFS",
+            "Polyvagal",
+            "integration"
+          ],
+          "blocs": [
+            {
+              "type": "table",
+              "titre": "Each model alone is powerful but incomplete",
+              "colonnes": [
+                "Model only",
+                "What he does beautifully",
+                "What he misses"
+              ],
+              "lignes": [
+                [
+                  "ACT alone",
+                  "Psychological flexibility, values, committed action",
+                  "No mapping of parts, ignores the nervous system → risk of intellectualization"
+                ],
+                [
+                  "IFS alone",
+                  "Exquisite mapping of the inner world, trauma healing protocol",
+                  "No theory of the nervous system → risk of dissociation between dialogue and body"
+                ],
+                [
+                  "Polyvagal alone",
+                  "Neurophysiological Foundation of Safety and Connection",
+                  "No language for psychic multiplicity nor framework for action → risk of biological reduction"
+                ]
+              ]
+            },
+            {
+              "type": "paragraphe",
+              "texte": "ACT provides the compass, IFS the map, Polyvagal the terrain. Without Polyvagal, ACT and IFS float in the mind. Without IFS, ACT and Polyvagal have no language for inner multiplicity. Without ACT, IFS and Polyvagal can become contemplations without taking action."
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "titre": "The fundamental triad: Being — Feeling — Acting",
+          "mots_cles": [
+            "Be",
+            "Feel",
+            "Act",
+            "sequence"
+          ],
+          "blocs": [
+            {
+              "type": "table",
+              "colonnes": [
+                "Fashion",
+                "Central question",
+                "Dominant model",
+                "Principle"
+              ],
+              "lignes": [
+                [
+                  "BE",
+                  "Am I safe here and now?",
+                  "Polyvagal (Ventral) + IFS (Self)",
+                  "Healing Begins with Installing Security"
+                ],
+                [
+                  "FEEL",
+                  "Who is there inside?",
+                  "IFS (Parts) + Polyvagal (states)",
+                  "Each emotion is a part. Each part lives in a vagal state"
+                ],
+                [
+                  "ACT",
+                  "What matters, and what's the next step?",
+                  "ACT (Values ​​+ Action)",
+                  "Action taken is proof that healing is real"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "The Healing Hierarchy",
+              "texte": "SAFETY (Polyvagal) → DIALOGUE (IFS) → ACTION (ACT). We do not dialogue with the parts if the nervous system is in Dorsal or in extreme Sympathetic. We do not propose committed action if the Self is not in control. You don't explore Exiled without the permission of the protectors."
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "titre": "The three guiding beliefs",
+          "mots_cles": [
+            "security",
+            "parts",
+            "action"
+          ],
+          "blocs": [
+            {
+              "type": "liste",
+              "titre": "The 3 beliefs of the Triaxial System",
+              "items": [
+                "Safety is treatment (Porges). Any intervention must be preceded and supported by a prone state. Without security, IFS becomes intellectualization and ACT becomes control.",
+                "No part is bad (Schwartz). The nervous system is not “broken”: it did exactly what it had to do to survive. The symptoms are costly but creative solutions.",
+                "Life is worth living — not just understanding (Hayes). Healing ends in taking action towards what matters, with all passengers on board."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "titre": "The founding analogy: travel",
+          "mots_cles": [
+            "terrain",
+            "habitants",
+            "boussole"
+          ],
+          "blocs": [
+            {
+              "type": "encadre",
+              "variante": "analogie",
+              "titre": "The Journey",
+              "texte": "The Nervous System is the terrain: some roads are safe (Ventral), others dangerous (Sympathetic), others impassable (Dorsal). The Parts are the inhabitants: armed guards (Managers), firefighters who drown everything in foam (Firefighters), injured children hidden in cellars (Exiles). The ACT is the compass and the backpack of skills. Healing means learning to read the terrain, meeting the locals, and using the compass to move forward — even in the fog."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livre-2",
+      "titre": "The Triaxial System: the three axes",
+      "sous_titre": "Body (Polyvagal) ⊗ Psyche (IFS) ⊗ Action (ACT)",
+      "chapitres": [
+        {
+          "id": "2-1",
+          "titre": "Polyvagal axis: the three states of the nervous system",
+          "mots_cles": [
+            "Ventral",
+            "Friendly",
+            "Dorsal",
+            "neuroception",
+            "co-regulation"
+          ],
+          "blocs": [
+            {
+              "type": "table",
+              "titre": "The 3 states and their signature",
+              "colonnes": [
+                "State",
+                "Signs in the body",
+                "Signs in speech",
+                "What it protects"
+              ],
+              "lignes": [
+                [
+                  "Ventral (safety)",
+                  "Belly breathing, expressive face, prosodic voice",
+                  "Present contact, curiosity, flexibility",
+                  "Nothing — state where healing is possible"
+                ],
+                [
+                  "Sympathetic (danger)",
+                  "Rapid heart, chest breathing, tension, hypervigilance",
+                  "Urgency, control, rumination, criticism, anger",
+                  "An Exile threatened with activation"
+                ],
+                [
+                  "Dorsal (collapse)",
+                  "Minimal energy, dissociation, emptiness, cold, heaviness",
+                  "Flat speech, “I don’t know”, absence, withdrawal",
+                  "The system collapses to no longer feel the Exile"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "The path to regulation",
+              "texte": "We NEVER go from Dorsal to Ventral directly. The path always goes through the Sympathetic (gentle mobilization), then the Ventral. Micro-stimulations to get out of the Dorsal: move a finger, cold water, change space, orienting."
+            },
+            {
+              "type": "paragraphe",
+              "texte": "Neuroception is the unconscious scanning of safety/danger/threat, which precedes all thoughts. Co-regulation is the fundamental healing mechanism: a regulated (Ventral) nervous system lends its state to a dysregulated system — through voice, rhythm, presence."
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "titre": "IFS axis: shares and Self",
+          "mots_cles": [
+            "Self",
+            "Managers",
+            "Firefighters",
+            "Exiles",
+            "protecteurs"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "The IFS distinguishes the Self — the central, stable, compassionate consciousness, which contains all the parts without being defined by any — and the parts: proactive protectors (Managers, in chronic Sympathetic), reactive protectors (Firefighters, in crisis), and Exiles (injured parts frozen in the past, in Dorsal + Sympathetic charge)."
+            },
+            {
+              "type": "table",
+              "titre": "Each part is a vagal state + an ACT pattern",
+              "colonnes": [
+                "Share",
+                "Vagal state",
+                "Pattern ACT",
+                "Function"
+              ],
+              "lignes": [
+                [
+                  "Manager",
+                  "Chronic sympathetic",
+                  "Organized avoidance (rules, beliefs, strategies)",
+                  "Act BEFORE: prevent the Exile from activating"
+                ],
+                [
+                  "Firefighter",
+                  "Extreme Sympathetic OR Massive Dorsal",
+                  "Reactive and intense avoidance",
+                  "Act AFTER: put out the fire at all costs"
+                ],
+                [
+                  "Exile",
+                  "Dorsal frozen + load Sympathetic",
+                  "The avoided experience itself",
+                  "Carrying the pain, the shame, the terror untreated"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "titre": "ACT axis: hexaflex",
+          "mots_cles": [
+            "acceptation",
+            "defusion",
+            "presence",
+            "valeurs",
+            "action"
+          ],
+          "blocs": [
+            {
+              "type": "table",
+              "titre": "The 6 Processes — Stuck and Fluid",
+              "colonnes": [
+                "Process",
+                "Stuck state (suffering)",
+                "Fluid state (flexibility)"
+              ],
+              "lignes": [
+                [
+                  "Acceptance",
+                  "Experiential avoidance (fight/flight/anesthetize)",
+                  "Make room for experience, even if difficult"
+                ],
+                [
+                  "Defusion",
+                  "Cognitive fusion (“this thought is reality”)",
+                  "Observe thoughts as mental events"
+                ],
+                [
+                  "Contact present",
+                  "Lost in the past or the future",
+                  "Presence in the present moment, in the body"
+                ],
+                [
+                  "Self-as-context",
+                  "Merged with the story of the self (“I am like that”)",
+                  "Witness consciousness which contains without being reduced"
+                ],
+                [
+                  "Values",
+                  "Confused, confused with expectations",
+                  "Clarity on what really matters"
+                ],
+                [
+                  "Action taken",
+                  "Inaction, procrastination, impulsive action",
+                  "Aligned action, even with discomfort"
+                ]
+              ]
+            },
+            {
+              "type": "paragraphe",
+              "texte": "The central equation: suffering = pain + resistance. The micro-step must be doable in less than 5 minutes, non-threatening to protectors, repeatable, observable, anchored in the body."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livre-3",
+      "titre": "The geography of healing: the Ventral territory",
+      "sous_titre": "The state of security, its doors, its protocols",
+      "chapitres": [
+        {
+          "id": "3-1",
+          "titre": "The five pillars of security",
+          "mots_cles": [
+            "security",
+            "Ventral"
+          ],
+          "blocs": [
+            {
+              "type": "liste",
+              "titre": "Five pillars to establish a security context",
+              "items": [
+                "The pace: slow, predictable, without surprises",
+                "The voice: prosodic, soft, without threat in tone",
+                "The body: open posture, expressive face, visibly calm breathing",
+                "The choice: the person remains in control (“you don’t do ANYTHING that you are not ready to do”)",
+                "Co-regulation: the therapist/companion maintains his own Ventral"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "titre": "Basic protocol: Ventral Reset in 5 minutes",
+          "mots_cles": [
+            "reset",
+            "respiration",
+            "ventral"
+          ],
+          "blocs": [
+            {
+              "type": "protocole",
+              "titre": "Ventral Reset — 5 min",
+              "etapes": [
+                "Installation: feet on the ground, back supported, hands on thighs (or stomach)",
+                "Ventral breathing: 1 min — the stomach expands when inhaling, empties when exhaling, exhalation longer than inspiration",
+                "Physiological sighs: 3 times — double inspiration through the nose, long sigh through the mouth",
+                "Orienting: 1 min — look slowly around you, name 5 visible objects, 3 audible sounds",
+                "Anchoring: 1 min — feeling the weight of the body, the temperature, the contact of the feet on the ground",
+                "Closing: “I am here. It's now. I'm safe. ”"
+              ],
+              "duree": "5 mins",
+              "quand": "When you wake up, before screens, before a difficult conversation"
+            },
+            {
+              "type": "protocole",
+              "titre": "Strong Sympathetic Activation (crisis, panic)",
+              "etapes": [
+                "Breathing 4-7-8: inhale for 4 seconds, hold for 7 seconds, exhale for 8 seconds — 4 to 8 cycles",
+                "Orienting: turning your head slowly, describing what is real around you",
+                "Cold water on the face or wrists (dive reflex)",
+                "Slow movement: walk, stretch — no struggle against activation"
+              ],
+              "duree": "3-5 mins"
+            },
+            {
+              "type": "protocole",
+              "titre": "Dorsal Dissociation (emptiness, absence, numbness)",
+              "etapes": [
+                "Do NOT judge—judgment strengthens the Dorsal",
+                "Micro-stimulations: move a finger, a toe, blink your eyes voluntarily",
+                "Drink a glass of water, change rooms, turn on a light",
+                "Sensory orientation: touching a texture, smelling an odor",
+                "“Your system did what it had to to survive. Let's come back slowly. ”"
+              ],
+              "duree": "a few minutes"
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "titre": "Self access protocol: U-Turn",
+          "mots_cles": [
+            "Self",
+            "U-Turn",
+            "defusion"
+          ],
+          "blocs": [
+            {
+              "type": "protocole",
+              "titre": "The U-Turn — first access to Self",
+              "etapes": [
+                "Install safety (breathing, anchoring, 2 min)",
+                "Noticing a present thought or emotion: “I notice that I am thinking/feeling…”",
+                "The turn: “Who notices this thought? ” — the observing consciousness is not thought",
+                "Settling into this look: “I am not this thought. I'm the one who notices it. ”",
+                "Test: “Can the part rest for 30 seconds while I watch?” ”"
+              ],
+              "duree": "5-10 mins"
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "The Self test: 8 questions",
+              "texte": "Once in the witness gaze, check the presence of the 8 Cs: Curiosity, Compassion, Calm, Clarity, Courage, Confidence, Creativity, Connection. If one is missing, one part is probably driving."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livre-4",
+      "titre": "Dynamic mapping: Managers, Firefighters, Exiles",
+      "sous_titre": "Triaxial reading protectors",
+      "chapitres": [
+        {
+          "id": "4-1",
+          "titre": "The 12 universal protectors",
+          "mots_cles": [
+            "protecteurs",
+            "critique",
+            "controller",
+            "fuyard"
+          ],
+          "blocs": [
+            {
+              "type": "table",
+              "titre": "Map of the 12 protectors",
+              "colonnes": [
+                "Protective",
+                "Kind",
+                "Vagal state",
+                "Protected Exile"
+              ],
+              "lignes": [
+                [
+                  "The Critic",
+                  "Manager",
+                  "Sympathetic (preemptive attack)",
+                  "Humiliated, Abandoned"
+                ],
+                [
+                  "The Intellectualizer",
+                  "Manager",
+                  "Cognitive sympathetic",
+                  "All the Exiles"
+                ],
+                [
+                  "The Controller",
+                  "Manager",
+                  "Sympathetic (hypervigilance)",
+                  "Abandoned (surprise = danger)"
+                ],
+                [
+                  "The People-Pleaser",
+                  "Manager",
+                  "Social friendly",
+                  "Abandoned, Invisible"
+                ],
+                [
+                  "The Perfectionist",
+                  "Manager",
+                  "Sympathetic + Dorsal (exhaustion)",
+                  "Humiliated, Abandoned"
+                ],
+                [
+                  "The Hermit/Persona",
+                  "Manager",
+                  "Friendly + Light back",
+                  "Abandoned, Invisible"
+                ],
+                [
+                  "The Scroll",
+                  "Firefighter",
+                  "Dorsal (anesthesia)",
+                  "Abandoned (the void), Invisible"
+                ],
+                [
+                  "The Declarer",
+                  "Firefighter",
+                  "Extremely friendly",
+                  "Abandoned (waiting = abandonment)"
+                ],
+                [
+                  "The Runaway",
+                  "Firefighter",
+                  "Sympathetic + Dorsal (cut)",
+                  "Abandoned"
+                ],
+                [
+                  "The Pornographer",
+                  "Firefighter",
+                  "Dorsal + Sympathetic",
+                  "Humiliated, Abandoned"
+                ],
+                [
+                  "The Rager",
+                  "Firefighter",
+                  "Sympathetic unregulated",
+                  "Terrified, Humiliated"
+                ],
+                [
+                  "The Anesthetist",
+                  "Firefighter",
+                  "Massive dorsal",
+                  "All the Exiles"
+                ]
+              ]
+            },
+            {
+              "type": "paragraphe",
+              "texte": "EVERY protector shares the same fear: “if I relax my defense, the Exile will overwhelm the system and it will collapse.” The healing response is the same in all three languages: “I am here. I can hold this with you. You no longer have to carry it alone. ”"
+            },
+            {
+              "type": "encadre",
+              "titre": "What about Firefighters? And Exiles?",
+              "texte": "Each Manager protects an Exile — and when the strategy cracks, a Firefighter takes over. Full theory on Firefighters (4-phase protocol) and Exiles (reparenting protocol) is in the two chapters right below."
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "titre": "Dialogue with a Manager: the protocol in 7 steps",
+          "mots_cles": [
+            "dialogue",
+            "manager",
+            "negotiation"
+          ],
+          "blocs": [
+            {
+              "type": "table",
+              "titre": "Map of the Managers",
+              "colonnes": [
+                "Manager",
+                "Strategy",
+                "Protected exiles",
+                "Firefighter drift"
+              ],
+              "lignes": [
+                [
+                  "Critical",
+                  "Attack (self or other) before being attacked",
+                  "Humiliated Child, Guilty Child",
+                  "Drunkard, Self-humiliation, Scroll"
+                ],
+                [
+                  "Emotional dependent",
+                  "Clinging, merging, separation anxiety",
+                  "",
+                  ""
+                ],
+                [
+                  "Intellectualizer",
+                  "Understand so as not to feel",
+                  "",
+                  "Scroll, Dissociative, Fantasy"
+                ],
+                [
+                  "Controller",
+                  "Plan everything, lock everything",
+                  "Abandoned Child, Terrified Child",
+                  "Angry, Anesthetist"
+                ],
+                [
+                  "Good Student",
+                  "Obey, do well, be silent",
+                  "Humiliated Child, Invisible Child, Guilty Child, Parentified Child",
+                  "Angry, Dorsal"
+                ],
+                [
+                  "Saboteur",
+                  "Destroy before being destroyed",
+                  "Guilty Child",
+                  "Player, Drunkard, Self-sabotage"
+                ],
+                [
+                  "Perfectionist",
+                  "Never fail, never deliver anything imperfect",
+                  "Humiliated Child",
+                  ""
+                ],
+                [
+                  "Hermit",
+                  "Withdraw to protect yourself",
+                  "Abandoned Child, Terrified Child",
+                  "Fugitive, Dorsal, Dissociative"
+                ],
+                [
+                  "Arrogant",
+                  "Dominate before being dominated",
+                  "Humiliated Child",
+                  "Angry, Hypersexual"
+                ],
+                [
+                  "Clown",
+                  "Make people laugh to be kept",
+                  "Humiliated Child, Invisible Child",
+                  "Self-humiliation, Glutton"
+                ],
+                [
+                  "Victim",
+                  "To be pitied to be seen",
+                  "Invisible Child, Guilty Child",
+                  "Somatization"
+                ],
+                [
+                  "Guardian of the image",
+                  "Hold the perfect mask, beautify",
+                  "Humiliated Child, Invisible Child",
+                  "Scroll, Shopaholic, Fabulator"
+                ],
+                [
+                  "Savior",
+                  "Give to exist, never say no",
+                  "Invisible Child, Abandoned Child, Guilty Child, Parentified Child",
+                  "Fugitive, Declarator, Exhaustion"
+                ],
+                [
+                  "Comparator",
+                  "Measuring yourself against everyone, suffering from the successes of others",
+                  "",
+                  ""
+                ],
+                [
+                  "Dreamer",
+                  "Dreaming instead of acting, waiting for the big night",
+                  "",
+                  ""
+                ],
+                [
+                  "Procrastinator",
+                  "Postpone to avoid judgment",
+                  "Terrified Child",
+                  ""
+                ],
+                [
+                  "Seducer",
+                  "Seduce to prove one's worth — desire as proof of existence",
+                  "",
+                  ""
+                ],
+                [
+                  "Hero",
+                  "Brushing up against danger to feel alive",
+                  "Humiliated Child",
+                  ""
+                ],
+                [
+                  "Hoarder",
+                  "Money as absolute security, anxiety about spending",
+                  "",
+                  ""
+                ],
+                [
+                  "Provocative",
+                  "Provoke, test, push to the limit to see if we stay",
+                  "Abandoned Child",
+                  ""
+                ],
+                [
+                  "Jealous",
+                  "Watch so as not to be left",
+                  "Abandoned Child",
+                  ""
+                ],
+                [
+                  "Hypervigilant",
+                  "Scan the signs of rejection, reread each interaction",
+                  "Terrified Child",
+                  ""
+                ],
+                [
+                  "Avoiding",
+                  "Avoid conflict, accumulate what remains unsaid",
+                  "Terrified Child",
+                  ""
+                ],
+                [
+                  "Resentful",
+                  "Don't forgive, keep the list",
+                  "",
+                  ""
+                ],
+                [
+                  "Sleeper",
+                  "Sleep so as not to feel the lack",
+                  "",
+                  ""
+                ],
+                [
+                  "Accuser",
+                  "Keep accounts, prove your innocence, lay the blame elsewhere",
+                  "",
+                  ""
+                ],
+                [
+                  "Survivor/Workaholic",
+                  "Stand alone, produce to exist",
+                  "",
+                  ""
+                ],
+                [
+                  "Planner",
+                  "Plan everything, rituals, frameworks",
+                  "Terrified Child",
+                  ""
+                ],
+                [
+                  "Cold",
+                  "Don't show, don't touch",
+                  "",
+                  ""
+                ],
+                [
+                  "Ascetic",
+                  "Refuse pleasure, control impulses",
+                  "",
+                  ""
+                ],
+                [
+                  "Mute",
+                  "“Everything is fine”, accumulate the unsaid",
+                  "",
+                  ""
+                ],
+                [
+                  "Humble-crushed",
+                  "Demeaning yourself, refusing compliments, lying down to avoid the blow",
+                  "",
+                  ""
+                ]
+              ]
+            },
+            {
+              "type": "protocole",
+              "titre": "Dialogue with a Manager — NEVER bypass",
+              "etapes": [
+                "RECOGNIZE: “I notice that a part of you is very active. She works hard to protect you. ”",
+                "VALIDATE: “Thank you. What is your role? How long have you been doing this work? ”",
+                "EXPLORE FEAR: “What do you think would happen if you stopped?” ”",
+                "DISTINGUISHING FEAR AND REALITY: “Is it a fact or a thought? What happened the last time you released? ”",
+                "TEST RELAXATION: “30 seconds where you let your guard down. I stay there. If something happens, I'll let you know. ”",
+                "NEGOTIATE A NEW ROLE: “Would you agree to become my advisor instead of my boss?” ”",
+                "ACTION TEST: “What micro-step could you let take today? Just one. To see if the world collapses. ”"
+              ],
+              "duree": "15-30 mins"
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "titre": "Approaching the Firefighters: the 4-phase protocol",
+          "mots_cles": [
+            "pompier",
+            "crise",
+            "extinction"
+          ],
+          "blocs": [
+            {
+              "type": "table",
+              "titre": "Map of the Firefighters",
+              "colonnes": [
+                "Firefighter",
+                "Crisis reaction",
+                "Extinguishes",
+                "Alternative"
+              ],
+              "lignes": [
+                [
+                  "Fugitive",
+                  "Cutting, ghosting, “it’s over”",
+                  "Abandoned Child",
+                  "The temporary limit: “I need 48 hours”"
+                ],
+                [
+                  "Angry",
+                  "Explosion, verbal violence",
+                  "Terrified Child, Humiliated Child",
+                  "Anger expressed coldly, drop by drop"
+                ],
+                [
+                  "Drunkard",
+                  "Consumption to turn off",
+                  "",
+                  "Breathing, co-regulation, 5 min delay"
+                ],
+                [
+                  "Anesthetist",
+                  "Disappear a little: substances, excessive sleep, general anesthesia",
+                  "",
+                  "4-7-8 protocol + orienting 60 s + micro-stimulations + co-regulation (one call)"
+                ],
+                [
+                  "Scroll",
+                  "Scrolling, digital anesthesia",
+                  "Abandoned Child, Invisible Child",
+                  "The 5 minute rule, real contact"
+                ],
+                [
+                  "Glutton",
+                  "Filling (food, shopping)",
+                  "",
+                  "Name the void, name the need"
+                ],
+                [
+                  "Anorexia/Bulimia",
+                  "Restriction or Purge: Controlling the Body to Control Life",
+                  "",
+                  "A meal without calculation, accepting to lose a battle for control"
+                ],
+                [
+                  "Hypersexual",
+                  "Compulsive sex, porn, conquests",
+                  "",
+                  "Intimacy without performance, presence in the body"
+                ],
+                [
+                  "Fantasy",
+                  "Mental life in loop: fantasies more real than life",
+                  "",
+                  "One imperfect real exchange per week, without scenario"
+                ],
+                [
+                  "Adrenaline",
+                  "Extreme sports, speed, risk",
+                  "",
+                  "Healthy feelings, courageous vulnerability"
+                ],
+                [
+                  "Dissociative",
+                  "Departure, numbness, absence",
+                  "",
+                  "Anchoring, orienting, micro-stimulations"
+                ],
+                [
+                  "Declarator",
+                  "Impulsive message, definitive act",
+                  "Abandoned Child",
+                  "The 24-hour rule (write, don't send)"
+                ],
+                [
+                  "Drama",
+                  "Conflicts, scenes, instability",
+                  "",
+                  "Calm as novelty, intensity in tenderness"
+                ],
+                [
+                  "Player",
+                  "Gambling, losses",
+                  "",
+                  "Real projects, healthy feelings"
+                ],
+                [
+                  "Sleeper",
+                  "Excessive sleep",
+                  "",
+                  "Micro-stimulations, rhythm, light"
+                ],
+                [
+                  "Dorsal",
+                  "To extinguish, to empty, to disappear",
+                  "",
+                  "Micro-stimulations: move a finger, cold water, change space"
+                ],
+                [
+                  "Exhaustion",
+                  "Collapsing after giving everything",
+                  "",
+                  "Legitimate back rest: 30 minutes of real guilt-free break"
+                ],
+                [
+                  "Shopaholic",
+                  "Buy to fill the void",
+                  "",
+                  "48 hour rule before any purchase + 1 free pleasure per day"
+                ],
+                [
+                  "Self-humiliation",
+                  "Put yourself down before others do",
+                  "",
+                  "Receiving a compliment: just “thank you”"
+                ],
+                [
+                  "Fabulator",
+                  "Beautify your life to be worthy of interest",
+                  "",
+                  "One simple truth told a day — and finding that you survive"
+                ],
+                [
+                  "Blocker",
+                  "Cut all contact, slam the door",
+                  "",
+                  "The door that closes gently: “I need 48 hours” — and come back"
+                ],
+                [
+                  "Somatization",
+                  "The body speaks for forbidden emotions",
+                  "",
+                  "“What emotion couldn’t come out today? ” — and write it down"
+                ],
+                [
+                  "Contempt",
+                  "Despise before being despised",
+                  "",
+                  "A sincere recognition of the worth of another, out loud"
+                ],
+                [
+                  "Complaint",
+                  "Complain to be seen",
+                  "",
+                  "Formulate ONE need directly, without going through distress"
+                ],
+                [
+                  "Gamer",
+                  "Succeed in the game what you fail in life",
+                  "",
+                  "Transfer ONE skill from play to reality (20 min)"
+                ],
+                [
+                  "Gamer-clan",
+                  "Virtual friends who don't leave",
+                  "",
+                  "A weekly real activity with a human"
+                ],
+                [
+                  "Inhibition",
+                  "Extinguish desire before it is exposed",
+                  "",
+                  "Feel the build-up of momentum for 30 seconds without doing anything about it, name it"
+                ],
+                [
+                  "Performance avoidance",
+                  "Avoiding intimacy for fear of failing",
+                  "",
+                  "A moment of intimacy without objective: “we aim for nothing”"
+                ],
+                [
+                  "Test",
+                  "Testing the love of others to believe it",
+                  "",
+                  "A week without any tests, welcoming love as it comes"
+                ],
+                [
+                  "Self-sabotage",
+                  "Mess up when it gets serious",
+                  "",
+                  "Name the part that fears success — and don't act"
+                ],
+                [
+                  "Envy",
+                  "Suffering from the successes of others",
+                  "",
+                  "Transform A desire into a concrete objective"
+                ],
+                [
+                  "Accumulation",
+                  "Collect to never miss",
+                  "",
+                  "One share per month (time, money, meals)"
+                ],
+                [
+                  "Lack",
+                  "Panic about missing out",
+                  "",
+                  "“I no longer lack anything” + an expense of confidence"
+                ],
+                [
+                  "Grudge",
+                  "Keep the list of grievances",
+                  "",
+                  "Write the angry, unsent letter, then burn it"
+                ],
+                [
+                  "Hate",
+                  "Transform hurt into stubborn hatred",
+                  "",
+                  "Justice without hatred: write, do not send"
+                ],
+                [
+                  "Work",
+                  "Work as anesthesia and proof of value",
+                  "",
+                  "30 minutes of real break per day, without guilt"
+                ]
+              ]
+            },
+            {
+              "type": "protocole",
+              "titre": "Firefighter approach protocol",
+              "etapes": [
+                "PHASE 1 — EXTINCTION: do NOT communicate with a Firefighter in the middle of a crisis. Stabilize first (breathing, orientation, micro-stimulations). Do not judge the content.",
+                "PHASE 2 — RETURN TO THE WINDOW: “The part that did this — it protected you from what? What emotion was too strong? ”",
+                "PHASE 3 — MEETING: “What is this part? How old? What does she fear would happen if she didn't act? ”",
+                "PHASE 4 — THANK YOU + NEW ROLE: “She did an extremely difficult job. She deserves some rest. What new role could she take? ”"
+              ],
+              "duree": "cold only"
+            },
+            {
+              "type": "table",
+              "titre": "Manager vs. Firefighter — the crucial difference",
+              "colonnes": [
+                "Criteria",
+                "Manager",
+                "Firefighter"
+              ],
+              "lignes": [
+                [
+                  "Temporality",
+                  "ACT BEFORE (prevention)",
+                  "ACT AFTER (reaction)"
+                ],
+                [
+                  "Vagal state",
+                  "Chronically friendly, organized",
+                  "Extreme Sympathetic OR Massive Dorsal"
+                ],
+                [
+                  "Quality",
+                  "Organized, coherent, sometimes reasonable",
+                  "Impulsive, destructive, addictive"
+                ],
+                [
+                  "Accessibility",
+                  "Accessible to dialogue (if we respect its function)",
+                  "Hard to reach — fire MUST be put out first"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "titre": "Accessing Exiles: the reparenting protocol",
+          "mots_cles": [
+            "exile",
+            "reparentage",
+            "testimony"
+          ],
+          "blocs": [
+            {
+              "type": "table",
+              "titre": "Map of the Exiles",
+              "colonnes": [
+                "Exile",
+                "Wound",
+                "Belief",
+                "Protectors",
+                "Firefighters"
+              ],
+              "lignes": [
+                [
+                  "Humiliated Child",
+                  "Mockery, criticism, comparison",
+                  "“I am ugly/worthless/unworthy”",
+                  "Critical, Perfectionist, Arrogant, Clown, Hero, Guardian of the image, Good Student",
+                  "Angry, Drunkard, Hypersexual, Adrenaline, Fugitive, Self-humiliation"
+                ],
+                [
+                  "Invisible Child",
+                  "Unrecognized emotions, lack of mirror",
+                  "“My emotions don’t matter. I don't exist. ”",
+                  "Savior, Guardian of the image, Good Student, Victim, Clown",
+                  "Scroll, Glutton, Shopaholic, Fabulator, Hypersexual, Somatization"
+                ],
+                [
+                  "Abandoned Child",
+                  "Loss, separation, rejection",
+                  "“I’m not enough for us to stay”",
+                  "Controller, Hermit, Savior, Jealous, Provocative",
+                  "Fugitive, Declarator, Anesthetist, Scroll, Drama, Glutton, Sleeper"
+                ],
+                [
+                  "Terrified Child",
+                  "Violence, symbolic death threat",
+                  "“The world is not safe. I'm going to die. ”",
+                  "Controller, Hypervigilant, Avoiding, Hermit, Procrastinator, Planner",
+                  "Dissociative, Fugitive, Anesthetist, Adrenaline, Dorsal"
+                ],
+                [
+                  "Guilty Child",
+                  "Responsibility imposed too early",
+                  "“It’s all my fault. I'm bad. ”",
+                  "Critical, Good Student, Saboteur, Victim, Savior",
+                  "Drunkard, Player, Glutton, Angry"
+                ],
+                [
+                  "Parentified Child",
+                  "Responsibility imposed too early, childhood stolen",
+                  "I have to save, I have no right to be a child",
+                  "Savior, Good Student",
+                  "Exhaustion, Dorsal, Declarator"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "Absolute prerequisites",
+              "texte": "Explicit permission from ALL protectors. Self accessible. Ventral stable. Otherwise: we're not going there. This is the most important rule in the entire system."
+            },
+            {
+              "type": "protocole",
+              "titre": "Exile Access and Healing Protocol",
+              "etapes": [
+                "A. PREPARATION: Security resources installed. “At any time, if it’s too much, you can open your eyes and come back here.” ”",
+                "B. INVOCATION: “Ask the Exile if he wants to show himself. Where do you feel it in your body? How old is he? ”",
+                "C. HOLDING PRESENCE: the Self remains present, does not approach too quickly. “I see you. I am here. I'm not leaving. ”",
+                "D. TESTIMONY: “It wasn’t your fault. You deserved better. It was unfair. ” — the story is told AND recognized as happening",
+                "E. DISCHARGE: shaking, crying, yawning — the body releases blocked energy. The Self continues to hold.",
+                "F. REPARENTING: “I see you. You exist. Your emotions matter. You are not alone. You are enough — you have ALWAYS been enough. ”",
+                "G. LIBERATION: “You have a place in my heart. You can play, you can be a child. I'm the adult now. I take care of us. ”"
+              ],
+              "duree": "30-60 min, micro-dose titration"
+            }
+          ]
+        },
+        {
+          "titre": "The 5 Wounds and the 5 Masks (Lise Bourbeau)",
+          "mots_cles": [
+            "wounds",
+            "masks",
+            "Bourbeau",
+            "rejection",
+            "abandonment",
+            "humiliation",
+            "betrayal",
+            "injustice",
+            "core fear"
+          ],
+          "blocs": [
+            {
+              "type": "encadre",
+              "variante": "formule",
+              "titre": "The formula",
+              "texte": "\"It's not what you experience that makes you suffer, but your reaction to what you experience, because of your unhealed wounds.\" — Lise Bourbeau, Healing the 5 Wounds That Prevent You from Being Yourself"
+            },
+            {
+              "type": "paragraphe",
+              "texte": "Lise Bourbeau condensed childhood suffering into five wounds: rejection, abandonment, humiliation, betrayal and injustice. Each one has an age of awakening, a parent involved, a protective mask and a core fear. It's a complementary lens to the IFS map: it looks at the wound through age, the body and the relationship with the parent, where IFS looks at inner roles. As everywhere in this app: a hypothesis to check with yourself, never a verdict."
+            },
+            {
+              "type": "table",
+              "titre": "The five wounds",
+              "colonnes": [
+                "Wound",
+                "Age of awakening",
+                "Parent involved",
+                "Protective mask",
+                "Core fear"
+              ],
+              "lignes": [
+                [
+                  "Rejection",
+                  "From conception to 1 year",
+                  "The parent of the same sex",
+                  "The Fleer — fade away, disappear, escape into the astral",
+                  "Panic (ceasing to exist)"
+                ],
+                [
+                  "Abandonment",
+                  "Between 1 and 3 years",
+                  "The parent of the opposite sex",
+                  "The Dependent — cling, play the victim, do pirouettes",
+                  "Loneliness"
+                ],
+                [
+                  "Humiliation",
+                  "Between 1 and 3 years",
+                  "The parent who controls the body and pleasure (often the mother)",
+                  "The Masochist — forget yourself for others, put yourself down",
+                  "Freedom"
+                ],
+                [
+                  "Betrayal",
+                  "Between 2 and 4 years",
+                  "The parent of the opposite sex",
+                  "The Controller — anticipate, charm, master, manipulate",
+                  "Dissociation (separation, denial)"
+                ],
+                [
+                  "Injustice",
+                  "Between 4 and 6 years",
+                  "The parent of the same sex",
+                  "The Rigid — be perfect and right so as not to feel anything",
+                  "Coldness"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "important",
+              "titre": "The mask is a heroic act",
+              "texte": "\"Being able to create a mask for yourself so as not to suffer was a heroic act, an act of love toward yourself.\" You don't take the mask apart by judging yourself: you thank it for helping you survive, then you decide you can now survive without it."
+            },
+            {
+              "type": "paragraphe",
+              "texte": "The wound forms in four stages: 1) the child is themselves; 2) the pain — being yourself bothers the adults; 3) the revolt, the outbursts; 4) the resignation — the child creates a mask to become what is expected of them. Healing reverses these stages: becoming aware of the mask, going through the revolt (it's normal), giving yourself the right to have suffered and to have resented it, then becoming yourself again — what Bourbeau calls self-love."
+            },
+            {
+              "type": "liste",
+              "titre": "Combinations are the rule",
+              "items": [
+                "It's rare to have only one wound: we often carry three to five, with overlaps.",
+                "Masks of strength hide older wounds: behind betrayal hides abandonment; behind injustice hides rejection.",
+                "The primary wound is rejection: it lies at the root of all major wounds, physical or psychological.",
+                "At work, rejection and injustice dominate; in personal life, abandonment and betrayal. Humiliation, for its part, is always experienced with yourself."
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "The relational key",
+              "texte": "\"As long as we keep resenting a parent — even unconsciously — our relationships with all other people of the same sex as that parent will be difficult.\" The parent we got along with best as a teenager is often the one we have the most to resolve with."
+            },
+            {
+              "type": "table",
+              "titre": "Correspondence with the app's exiles",
+              "colonnes": [
+                "Wound",
+                "Mask",
+                "Closest exile"
+              ],
+              "lignes": [
+                [
+                  "Rejection",
+                  "Fleer",
+                  "Invisible Child (fading away, feeling no right to exist)"
+                ],
+                [
+                  "Abandonment",
+                  "Dependent",
+                  "Abandoned Child (clinging, fear of loneliness)"
+                ],
+                [
+                  "Humiliation",
+                  "Masochist",
+                  "Humiliated Child (shame, unworthiness, forgetting yourself for others)"
+                ],
+                [
+                  "Betrayal",
+                  "Controller",
+                  "Terrified Child (partial mapping: the world becomes dangerous, distrust)"
+                ],
+                [
+                  "Injustice",
+                  "Rigid",
+                  "Guilty Child (partial mapping: blaming yourself, having to be perfect)"
+                ],
+                [
+                  "—",
+                  "—",
+                  "Parentified Child (no single equivalent: traits scattered across the Masochist and the Dependent)"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "A lens, not a diagnosis",
+              "texte": "The correspondences with the exiles are working hypotheses: the same exile can resonate with several wounds, and one wound can activate several exiles. Keep what resonates, let go of the rest."
+            }
+          ],
+          "id": "4-5"
+        },
+        {
+          "titre": "The body speaks: morphology, signs, ailments",
+          "mots_cles": [
+            "body",
+            "morphology",
+            "eyes",
+            "voice",
+            "eating",
+            "ailments",
+            "signal",
+            "annual photo"
+          ],
+          "blocs": [
+            {
+              "type": "encadre",
+              "variante": "formule",
+              "titre": "The formula",
+              "texte": "\"The physical body never lies.\" When the mind distorts, the body keeps the memory: it is \"the reflection of what is happening inside you\"."
+            },
+            {
+              "type": "paragraphe",
+              "texte": "The ego — the sum total of our beliefs — protects the wound and hides it even from ourselves. The body, for its part, records everything since conception and cannot lie. That's why Bourbeau reads wounds in morphology, the eyes, the voice, eating habits and recurring ailments. It's an additional channel for self-observation, to be read with the same ethical guardrails as the rest: a hypothesis to check, never a verdict, and never medical advice."
+            },
+            {
+              "type": "table",
+              "titre": "The morphology of the wounds",
+              "colonnes": [
+                "Wound",
+                "Body",
+                "Eyes and voice",
+                "Posture"
+              ],
+              "lignes": [
+                [
+                  "Rejection",
+                  "Narrow, contracted body, \"fragmented\", skin and bones",
+                  "Small tired eyes, evasive gaze; faint, weak voice",
+                  "Makes itself small, withdraws into a group"
+                ],
+                [
+                  "Abandonment",
+                  "Long, thin body, no muscle tone, slumping",
+                  "Big sad or drooping eyes; small, plaintive child's voice",
+                  "Weak legs, hunched back, drooping shoulders"
+                ],
+                [
+                  "Humiliation",
+                  "Rounded body, short stature, thick bulging neck",
+                  "Big round eyes, wide open, a child's innocence; honeyed voice",
+                  "Tension in the neck, throat and jaw; the body takes up a lot of space"
+                ],
+                [
+                  "Betrayal",
+                  "Upper body that shows off strength: shoulders wider than hips, puffed-out chest",
+                  "Intense, seductive gaze; strong voice that carries far",
+                  "Swollen belly — the strength of the hara"
+                ],
+                [
+                  "Injustice",
+                  "Straight, rigid body, \"as perfect as possible\", well proportioned",
+                  "Bright, lively gaze; dry, fast voice",
+                  "Clenched jaw, stiff neck, crossed arms so as not to feel"
+                ]
+              ]
+            },
+            {
+              "type": "liste",
+              "titre": "Food signatures",
+              "items": [
+                "The Fleer deprives itself, or throws up if it eats too much: feeding the body is secondary.",
+                "The Dependent eats without stopping, starved for love: sugar and alcohol fill the void.",
+                "The Masochist eats fast, without pleasure, with shame — then resents having eaten.",
+                "The Controller puts on weight out of guilt: the belly and hips take the hit.",
+                "The Rigid follows diets out of duty, never pleasure: food is a discipline."
+              ]
+            },
+            {
+              "type": "table",
+              "titre": "Recurring ailments (read as leads, never diagnoses)",
+              "colonnes": [
+                "Wound",
+                "Frequently associated ailments"
+              ],
+              "lignes": [
+                [
+                  "Rejection",
+                  "Skin problems, allergies, diarrhea, arrhythmia, anorexia, depression; cancer as \"buried grudge or hatred\""
+                ],
+                [
+                  "Abandonment",
+                  "Asthma, bronchitis, migraines, myopia, bulimia, agoraphobia, \"rare\" diseases, depression"
+                ],
+                [
+                  "Humiliation",
+                  "Back, shoulder and throat pain; tonsillitis, varicose veins, thyroid, heart problems — \"he doesn't love himself enough\""
+                ],
+                [
+                  "Betrayal",
+                  "Agoraphobia, spasmophilia, \"-itis\" diseases, herpes, hemorrhages, impotence, paralysis"
+                ],
+                [
+                  "Injustice",
+                  "Torticollis, constipation, hemorrhoids, cramps, psoriasis, insomnia, vision problems; burnout"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "averti",
+              "titre": "Ethical guardrails",
+              "texte": "None of these lists is a diagnosis. An illness is not proof of a wound, nor is a wound a single explanation. It's a lead for self-observation. If an ailment worries you, a healthcare professional remains the only qualified person."
+            },
+            {
+              "type": "protocole",
+              "titre": "Listen to the message of a recurring ailment",
+              "duree": "10 min",
+              "etapes": [
+                "Name the ailment without judging it: where is it, how long has it been coming back?",
+                "Ask yourself: \"what have I not accepted or not expressed around that time of my life?\"",
+                "Thank the body for the signal instead of fighting it",
+                "Allow yourself to be this way for now: \"I give myself the right\"",
+                "Give it kind attention: breathe, drink water, move gently"
+              ],
+              "quand": "Recurring ailment, fatigue with no clear cause, pain that returns in the same situations"
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "The annual photo",
+              "texte": "Bourbeau suggests photographing yourself every year in the same posture: the body transforms more slowly than the mind and the emotions — sometimes over several years. It's not a tool for aesthetic comparison: it's visual proof, just for you, that healing goes all the way down into the body."
+            }
+          ],
+          "id": "4-6"
+        }
+      ]
+    },
+    {
+      "id": "livre-5",
+      "titre": "The self-reinforcing cycle of suffering",
+      "sous_titre": "How everything gets locked in — and how to get out",
+      "chapitres": [
+        {
+          "id": "5-1",
+          "titre": "The 6-step cycle",
+          "mots_cles": [
+            "cycle",
+            "trigger",
+            "verrou"
+          ],
+          "blocs": [
+            {
+              "type": "liste",
+              "titre": "The toxic cycle",
+              "items": [
+                "1. TRIGGER (external or internal): silence, criticism, evening emptiness — detected in 0 to 3 seconds by neuroception",
+                "2. ACTIVATION OF THE EXILE: the original emotion rises (terror, shame, sadness). Body: tight throat, cold sternum, shortness of breath",
+                "3. ACTIVATION OF MANAGERS: Critic, Intellectualizer, Controller try to regulate… and fail (they are in the same deregulated system)",
+                "4. ACTIVATION OF THE FIREFIGHTERS: Scroll, Declarer, Fleeer… put out the fire — without healing anything",
+                "5. EXHAUSTION + REINFORCEMENT: shame (“you failed again”), reinforced protectors (“without me, you collapse”)",
+                "6. RETURN TO STEP 1 — the cycle repeats itself, each time a little more deeply engraved"
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "The 5 locks of the cycle",
+              "texte": "1. Dysregulated neuroception (danger detected where there is no longer any). 2. Absence of co-regulation (no secure base). 3. Secondary shame (the Critic attacks the Fireman → double punishment). 4. Survival/life confusion (the protectors do not know that the war is over). 5. Lack of stable Ventral (the Self is not strong enough)."
+            },
+            {
+              "type": "paragraphe",
+              "texte": "The equation: Chronic suffering = (frequency of the trigger × intensity of the Exile × strength of the protectors) ÷ (stability of the Ventral × presence of the Self × clarity of values ​​× co-regulatory support)."
+            }
+          ]
+        },
+        {
+          "id": "5-2",
+          "titre": "The 27 breaking points — and the exit protocol",
+          "mots_cles": [
+            "sortie",
+            "urgence",
+            "STOP"
+          ],
+          "blocs": [
+            {
+              "type": "liste",
+              "titre": "Where to cut the cycle (excerpts from the 27 points)",
+              "items": [
+                "Prevention: train vagal tone, map the parts, clarify values, strengthen co-regulatory links, daily light defusion",
+                "At the trigger: conscious FREEZE (put the phone down, hands on your stomach), “a part of me is activated”, “is this a fact or a story?” ”, 3 physiological sighs",
+                "During Managers: “Thank you for protecting me — what is your role? \", \"Is this rule REALLY true? ”, micro-break of 30 seconds agreed",
+                "During the Firefighters: STOP physical, “I am NOT judging this part”, “which emotion is TOO strong? ”, “I can make room WITHOUT acting”, co-regulation (call someone)",
+                "After the crisis: “you survived, the system did its job”, analysis without judgment, 1 mm micro-action towards what matters"
+              ]
+            },
+            {
+              "type": "protocole",
+              "titre": "Cycle exit protocol — 2 minute version (to be memorized)",
+              "etapes": [
+                "STOP — physical stop. Hands on the stomach.",
+                "SIGH — 3 physiological sighs (double inspiration + long sigh).",
+                "SELF — “I notice a part of me is activated. I am NOT that part. ”",
+                "PRESENT — Orienting: 5 visible things, 3 audible sounds.",
+                "FORGIVENESS — “It’s not a failure. It's my system trying to survive. ”",
+                "PAS — A micro-movement towards a value: drink water, walk, call."
+              ],
+              "duree": "2 mins"
+            },
+            {
+              "type": "protocole",
+              "titre": "Long version — 15 minutes",
+              "etapes": [
+                "REGULATION (5 min): 10 breaths 4-8, complete orientation, glass of water, walk slowly",
+                "DEFUSION (5 min): “I am not what is happening. ” Whose part was in control? Which Exile was she protecting? Is the story she tells a fact or a thought?",
+                "REPAIR MICRO-ACTION (5 min): what value was injured? What 1 mm move towards this value now? — and DO it."
+              ],
+              "duree": "15 mins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livre-6",
+      "titre": "The 7-phase healing process",
+      "sous_titre": "The complete journey, phase by phase",
+      "chapitres": [
+        {
+          "id": "6-1",
+          "titre": "The 7 phases (with the security contract)",
+          "mots_cles": [
+            "phases",
+            "cheminement"
+          ],
+          "blocs": [
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "The triaxial contract",
+              "texte": "“Our work will be done in three spaces: your body and your nervous system; your inner parts — all have a good reason to be there; your actions in the world. The golden rule: you don't do ANYTHING that you are not ready to do. We respect your system. If it's too much, we slow down. You are the leader of your healing. ”"
+            },
+            {
+              "type": "table",
+              "titre": "The 7 phases",
+              "colonnes": [
+                "Phase",
+                "Objective",
+                "Typical microstepping"
+              ],
+              "lignes": [
+                [
+                  "0. Stabilization",
+                  "Secure the nervous system, install regulatory routines",
+                  "3 minutes of ventral breathing in the morning before any screen; 5 minute rule before the compulsive act"
+                ],
+                [
+                  "1. Mapping",
+                  "Create the map: triggers, parts, cycle, injured values",
+                  "Behavior log over 10 days (time, context, emotion before, action, emotion after)"
+                ],
+                [
+                  "2. Meeting of Managers",
+                  "Establish trust, negotiate permission to access the Exiles",
+                  "30 seconds where the Manager agrees to do nothing"
+                ],
+                [
+                  "3. Working with the Fire Brigade",
+                  "Stabilize crises, install less expensive alternatives",
+                  "A concrete alternative by Firefighter (breathing before scrolling, 24 hours before the message)"
+                ],
+                [
+                  "4. Access to the Exile and reparenting",
+                  "Witness, respond to the need, release",
+                  "10 min per day of presence with the Child (letter, inner dialogue)"
+                ],
+                [
+                  "5. New roles",
+                  "Reorganize protectors around values",
+                  "Symbolic ritual (letter, object, place at the table)"
+                ],
+                [
+                  "6. Action taken",
+                  "Micro-steps towards values, from the secure body",
+                  "A micro-step < 5 min + return to Ventral: “I did it. I am here. It was enough. ”"
+                ],
+                [
+                  "7. Integration",
+                  "Maintain sustainably, transmit if the Self leads",
+                  "Daily routine + weekly check-in"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livre-7",
+      "titre": "The integrated toolbox",
+      "sous_titre": "Essential protocols to keep on hand",
+      "chapitres": [
+        {
+          "id": "7-1",
+          "titre": "Key protocols",
+          "mots_cles": [
+            "4-7-8",
+            "orienting",
+            "U-Turn",
+            "WAITING ROOM",
+            "action taken"
+          ],
+          "blocs": [
+            {
+              "type": "protocole",
+              "titre": "Breathing 4-7-8",
+              "etapes": [
+                "Inhale through your nose for 4 seconds",
+                "Hold 7 seconds",
+                "Exhale through your mouth for 8 seconds",
+                "Repeat 4 to 8 cycles"
+              ],
+              "duree": "3 mins",
+              "quand": "Sympathetic activation, anxiety, before responding to a difficult message"
+            },
+            {
+              "type": "protocole",
+              "titre": "Orientation",
+              "etapes": [
+                "Turn your head slowly, as if listening",
+                "Looking into the distance (panoramic vision = Ventral)",
+                "Name 5 visible objects, 3 sounds, 1 contact sensation",
+                "Return to breathing"
+              ],
+              "duree": "60-90 sec",
+              "quand": "Trigger, rumination, feeling of danger without real threat"
+            },
+            {
+              "type": "protocole",
+              "titre": "The share waiting room",
+              "etapes": [
+                "Installing in Self (U-Turn)",
+                "Imagine a safe and welcoming place",
+                "Invite activated shares to sit in the waiting room",
+                "Thank them for coming: “I see you, I will come back to you one by one”",
+                "Negotiate: “Can you wait here while I talk to X?” ”"
+              ],
+              "duree": "10 mins",
+              "quand": "When several parts scream at the same time"
+            },
+            {
+              "type": "protocole",
+              "titre": "The White Wall — somatic passage",
+              "etapes": [
+                "Recognition: “I am triggered, my limbic system has taken control”",
+                "Freeze: immediate interruption — hands leave the keyboard",
+                "Withdrawal: a neutral space, no screen or stimulation",
+                "Neutral exposure: seated, eyes open, on a neutral point — nothing else, 30-60 min",
+                "Somatic passage: let the sensations pass without fighting them",
+                "Dissolution: the intensity drops, the system unlearns danger",
+                "Integration: write down what came up in a notebook"
+              ],
+              "duree": "30-60 min",
+              "quand": "Cold trigger, rumination, residual activation — never in crisis"
+            },
+            {
+              "type": "protocole",
+              "titre": "The integrative committed action grid",
+              "etapes": [
+                "VALUE (ACT): what value guides this action?",
+                "SELF (IFS): who chooses — the Self or a protector?",
+                "BODY (Polyvagal): is my body safe? Can I stabilize it?",
+                "SIZE (ACT): what is the SMALLEST possible step?",
+                "CO-REGULATION (Polyvagal): do I need support for this step?",
+                "ANTICIPATION (IFS): which part could resist? How to welcome it?",
+                "RETURN (Polyvagal): how do I return to safety after the action?"
+              ],
+              "duree": "5 minutes before any important action"
+            },
+            {
+              "type": "protocole",
+              "titre": "The error protocol — the speed of the admission",
+              "etapes": [
+                "Stop the escalation of self-justification as soon as you become aware — do not blame the context, the rule or the other",
+                "Admit the fault explicitly, to yourself or to the other: « I was wrong » — without negotiating, without adding a « but »",
+                "Extract the question hidden in the failure: « what does this mistake teach me about my path? » — and adjust the next step"
+              ],
+              "duree": "5-10 min",
+              "quand": "As soon as a mistake is recognized, before pride rises. Never in the middle of a crisis: Ventral Reset first (3-2)"
+            },
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "The law of the admission",
+              "texte": "The mark of maturity is not infallibility — it is the speed at which you admit you were wrong. An error is not a fault: it is data. Each quick admission defuses the self-reinforcing cycle (5-1) before it starts."
+            }
+          ]
+        },
+        {
+          "titre": "Forgiveness in 7 steps",
+          "mots_cles": [
+            "forgiveness",
+            "responsibility",
+            "mirror",
+            "reconciliation",
+            "parents",
+            "acceptance",
+            "healing"
+          ],
+          "blocs": [
+            {
+              "type": "encadre",
+              "variante": "formule",
+              "titre": "The formula",
+              "texte": "\"Wounds can only be healed with genuine forgiveness toward yourself and toward our parents.\""
+            },
+            {
+              "type": "paragraphe",
+              "texte": "Foundational distinction: we reconcile with others when we no longer hold anything against them, but forgiveness can only happen with yourself. It's not an exercise to announce to the other person that you forgive them: it's inner work. It first requires recognizing your own responsibility — otherwise it remains a gesture of the ego, not a healing. This protocol is for situations that repeat and where the anger grows each time."
+            },
+            {
+              "type": "protocole",
+              "titre": "Forgiveness in 7 steps",
+              "duree": "At your own pace — one step can take weeks",
+              "etapes": [
+                "Become aware of the emotions and the accusations: what am I accusing this person of being? What emotion rises, where is it in my body?",
+                "Take responsibility: discover the fear for myself hiding behind the accusation. No one is in my life to meet my expectations — they come from my own lack of self-love.",
+                "Reconcile through the mirror: put myself in the other's shoes, feel that they live the same fears. Write: \"he/she accuses me of being X, feels Y, is afraid of Z\". Never turn this mirror back on the other.",
+                "Self-forgiveness — the most important step: give myself the right to have been what I judged the other for being. It's this step that guarantees I won't relive the same scene with the same person.",
+                "Make the connection with a parent: the person I'm living this difficulty with is the same sex as the parent at the origin of the wound. Feel the fear lived with that parent — suffering is passed down from generation to generation until true forgiveness has taken place.",
+                "Desire to express your discoveries: resistance to the idea of sharing signals forgiveness that is still partial.",
+                "Meet the person and speak without accusation — a sharing of feelings, for yourself only. If they are unreachable or deceased, visualize the meeting."
+              ],
+              "quand": "Situation that keeps repeating, anger that grows each time, grudge that lasts"
+            },
+            {
+              "type": "liste",
+              "titre": "The traps",
+              "items": [
+                "Turning the mirror back on the other (\"you should do the same\"): the exercise is for you only.",
+                "Apologizing endlessly: when you apologize, you accuse yourself.",
+                "Wanting to get rid of the wound: that's rejection, not acceptance. You don't remove your wounds, you illuminate them — healing takes away their domination, not their existence.",
+                "Forcing the recollection of early events: it's enough to admit the wound exists, no need to reconstruct the past.",
+                "Believing you've forgiven because you understand: forgiveness is verified in the body — when the scene no longer triggers."
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "important",
+              "titre": "The key",
+              "texte": "\"To forgive yourself means giving yourself the right to have been what we judged the other for being.\""
+            },
+            {
+              "type": "liste",
+              "titre": "Signs of healing",
+              "items": [
+                "You're aware that a wound is activated, and you observe the pain instead of reacting.",
+                "You allow yourself to be human: still having wounds to heal is no longer a fault.",
+                "You no longer feel the need to wear the associated mask — no more automatic reaction.",
+                "Acceptance brings a sigh of relief and brings you back to the present moment."
+              ]
+            }
+          ],
+          "id": "7-2"
+        }
+      ]
+    },
+    {
+      "id": "livre-8",
+      "titre": "Ten clinical archetypes",
+      "sous_titre": "Complete systems, read in three languages",
+      "chapitres": [
+        {
+          "id": "8-1",
+          "titre": "The ten cases",
+          "mots_cles": [
+            "Lisa",
+            "Man",
+            "Sophie",
+            "Mark",
+            "Julie",
+            "Thomas",
+            "Clear",
+            "Hugo",
+            "Elise",
+            "Paul"
+          ],
+          "blocs": [
+            {
+              "type": "table",
+              "titre": "Ten archetypes in triaxial reading",
+              "colonnes": [
+                "Case",
+                "Archetype",
+                "Polyvagal",
+                "IFS",
+                "Key intervention"
+              ],
+              "lignes": [
+                [
+                  "35. Lisa",
+                  "The tough woman who sacrificed her vulnerability",
+                  "Chronic Sympathetic + Dorsal Exhaustion",
+                  "Manager “Strong Woman” + Performer. Exiled: Little Lise",
+                  "Strength in the service of connection; reparenting the child; symbolic gestures (skirts, dance, tenderness)"
+                ],
+                [
+                  "36. Man",
+                  "The man who alternates hypervigilance and collapse",
+                  "Sympathetic (analysis, rumination) ↔ Dorsal (scroll, dissociation)",
+                  "Critic 9/10, Intellectualizer 9/10, Hermit 8/10; Scroll, Fleeer, Declarer; Exiles Abandoned (7 years), Humiliated (12 years), Invisible",
+                  "Polyvagal first, dialogue with the protectors before the Exiles, microscopic micro-actions, co-regulation as the missing link"
+                ],
+                [
+                  "37. Sophie",
+                  "Anxious merged with her fears of abandonment",
+                  "Friendly relational, Dorsal after breakup",
+                  "Manager “Anxious” + Firefighter “Protests”. Exiled: Abandoned Child",
+                  "Defusion of thoughts of abandonment + ventral breathing + self-self for the Abandoned Child"
+                ],
+                [
+                  "38. Mark",
+                  "Exhausted perfectionist manager",
+                  "Chronic Sympathetic + Burnout Dorsal",
+                  "Perfectionist + Critic. Exiled: the child who was never enough",
+                  "Permission for imperfection + legitimate back rest + dialogue with the exhausted Critic"
+                ],
+                [
+                  "39. Julie",
+                  "Firefighter who anesthetizes through addiction",
+                  "Massive back + sympathetic peaks of guilt",
+                  "Firefighter “Anesthetist”. Exiled: the unbearable emptiness",
+                  "Vagal stabilization first + meeting the Firefighter as protector + micro-steps of connection"
+                ],
+                [
+                  "40. Thomas",
+                  "Exiled frozen since childhood",
+                  "Chronic back pain",
+                  "The whole system is organized to NOT feel like the Exile",
+                  "Polyvagal first (micro-stimulations) + very slow meeting + reparenting"
+                ],
+                [
+                  "41. Claire",
+                  "Codependent who saves so as not to feel",
+                  "Sympathetic (vigilance to others) + Dorsal (exhaustion)",
+                  "Manager “Savior”. Exiled: Invisible Child",
+                  "Redirect care towards oneself + limits as committed action + Self which exists without saving"
+                ],
+                [
+                  "42. Hugo",
+                  "Dissociated who has left his body",
+                  "Massive back, numb body",
+                  "Firefighter “Dissociation” protects a traumatic Exile",
+                  "Very progressive sensory anchoring + non-judgment of dissociation + very small return to the body"
+                ],
+                [
+                  "43. Elise",
+                  "Chronic Dorsal Survivor",
+                  "Dorsal 90% of the time",
+                  "Overwhelmed exiles, exhausted protectors",
+                  "Reactivation through movement + intensive co-regulation + micro-doses of sense"
+                ],
+                [
+                  "44. Paul",
+                  "Spiritual sage who bypassed his wound",
+                  "Apparent ventral but underlying dorsal (spiritual dissociation)",
+                  "Manager “Sage” uses spirituality to avoid Exiles",
+                  "Distinguish authentic Ventral and spiritual Dorsal + meet the bypassed Exiles + embodied action"
+                ]
+              ]
+            },
+            {
+              "type": "paragraphe",
+              "texte": "Reading: each archetype shows the same principle — a complete system can be read in the three languages, and the intervention always follows the same hierarchy: secure, dialogue, act."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livre-9",
+      "titre": "Resources and bibliography",
+      "sous_titre": "To go further, with real books",
+      "chapitres": [
+        {
+          "id": "9-1",
+          "titre": "The 16 essential readings",
+          "mots_cles": [
+            "bibliography",
+            "Porges",
+            "Schwartz",
+            "Hayes",
+            "Jung"
+          ],
+          "blocs": [
+            {
+              "type": "table",
+              "titre": "The 14 reference works of the Triaxial System",
+              "colonnes": [
+                "Work",
+                "Author",
+                "Read for"
+              ],
+              "lignes": [
+                [
+                  "The Polyvagal Theory",
+                  "Stephen Porges",
+                  "The neurophysiology of safety"
+                ],
+                [
+                  "Anchored — Befriend Your Nervous System",
+                  "Deb Dana",
+                  "Regulate your nervous system on a daily basis"
+                ],
+                [
+                  "The Polyvagal Theory in Therapy",
+                  "Deb Dana",
+                  "The clinical application of TPV"
+                ],
+                [
+                  "No Bad Parts",
+                  "Richard Schwartz",
+                  "The share model (IFS)"
+                ],
+                [
+                  "Self Therapy",
+                  "Jay Earley",
+                  "Practice IFS independently"
+                ],
+                [
+                  "Transcending Trauma",
+                  "Frank Anderson",
+                  "IFS applied to complex trauma"
+                ],
+                [
+                  "The Happiness Trap",
+                  "Russ Harris",
+                  "Discover the ACT simply"
+                ],
+                [
+                  "ACT Made Simple",
+                  "Russ Harris",
+                  "Integrating the ACT into practice"
+                ],
+                [
+                  "Getting Unstuck in ACT",
+                  "Russ Harris",
+                  "When the ACT comes up against the protectors"
+                ],
+                [
+                  "The body doesn't forget anything (The Body Keeps the Score)",
+                  "Bessel van der Kolk",
+                  "Why body/psyche integration is necessary"
+                ],
+                [
+                  "Waking the Tiger",
+                  "Peter Levine",
+                  "The trauma ↔ nervous system link"
+                ],
+                [
+                  "When the Body Says No",
+                  "Gabor Mate",
+                  "The bodily cost of avoidance"
+                ],
+                [
+                  "Man and His Symbols",
+                  "Carl Gustav Jung",
+                  "The Shadow, the Persona and the Self — the direct lineage of the Mirror"
+                ],
+                [
+                  "Aion — Researches into the Phenomenology of the Self",
+                  "Carl Gustav Jung",
+                  "The Jungian Self and individuation — the ancestor of the IFS Self"
+                ],
+                [
+                  "Games People Play",
+                  "Eric Berne",
+                  "Psychological games: the loops played by two"
+                ],
+                [
+                  "What Do You Say After You Say Hello?",
+                  "Eric Berne",
+                  "The life script and parental injunctions"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9-2",
+          "titre": "Glossary",
+          "mots_cles": [
+            "glossary",
+            "lexicon",
+            "definition"
+          ],
+          "blocs": [
+            {
+              "type": "table",
+              "titre": "Glossary",
+              "colonnes": [
+                "Term",
+                "Definition"
+              ],
+              "lignes": [
+                [
+                  "Acceptation",
+                  "Making space for a difficult inner experience without fighting it, fleeing it, or merging with it. Physiologically: the vagal brake maintains the Ventral even in the presence of activation."
+                ],
+                [
+                  "Action engagée",
+                  "The concrete, observable act, which goes in the direction of values ​​- with all passengers on board, and the nervous system activated but regulated by the Ventral."
+                ],
+                [
+                  "Anesthésieur",
+                  "Firefighter who extinguishes ALL inner experience (alcohol, substances, food, sleep). Massive dorsal."
+                ],
+                [
+                  "Co-régulation",
+                  "A regulated nervous system (Ventral) lends its state to a dysregulated system. The fundamental mechanism of relational healing."
+                ],
+                [
+                  "Défusion cognitive",
+                  "Observing a thought as a mental event without adhering to it as a truth. “I notice that part of me thinks that…” instead of “I am…”."
+                ],
+                [
+                  "Dorsal vagal",
+                  "Oldest state of the ANS: freezing, collapse, dissociation. Place of Exiles and Anesthetic Firemen."
+                ],
+                [
+                  "Évitement expérientiel",
+                  "The attempt to escape, modify or anesthetize an unwanted inner experience. Every Firefighter was created for this."
+                ],
+                [
+                  "Exilé",
+                  "Wounded part, frozen in the past, which carries the pain that the system could not treat. Dorsal frozen + charge Sympathetic. This is the experience that the entire system avoids."
+                ],
+                [
+                  "Fenêtre de tolérance",
+                  "The activation zone in which we can think, feel and act without being overwhelmed. Healing expands it."
+                ],
+                [
+                  "Fusion cognitive",
+                  "The state where the person is stuck to their thoughts: the amygdala captures the prefrontal, the thought is experienced as reality."
+                ],
+                [
+                  "Frein vagal",
+                  "The ability of the ventral vagus nerve to modulate sympathetic activation—the physiological mechanism of acceptance."
+                ],
+                [
+                  "Hexaflex",
+                  "The 6 ACT processes: acceptance, defusion, present contact, self-as-context, values, committed action."
+                ],
+                [
+                  "Individuation",
+                  "The Jungian process where the Self harmonizes all parts and reintegrates the Shadow — the exact equivalent of the IFS healing process (the 7 phases, 6-1)."
+                ],
+                [
+                  "Manager",
+                  "Proactive protector, in chronic Sympathetic, who acts BEFORE to prevent the activation of the Exile. Accessible to dialogue."
+                ],
+                [
+                  "Neuroception",
+                  "The unconscious safety/danger/threat scan, which precedes all conscious thought. Disrupted in trauma."
+                ],
+                [
+                  "Ombre",
+                  "In Jung, everything the Ego has repressed, rejected or judged unacceptable — the dark (anger, shame) AND the gold (creativity, power, vulnerability). In IFS: the set of Exiles and their disowned parts."
+                ],
+                [
+                  "Orienting",
+                  "Turning your head and looking into the distance activates panoramic vision — a safety signal to the nervous system."
+                ],
+                [
+                  "Pompier",
+                  "Reactive protector that acts AFTER the Exile is activated to put out the fire at all costs. Extreme Sympathetic or Massive Dorsal. We don't talk to him in the middle of a crisis."
+                ],
+                [
+                  "Protecteur",
+                  "Part (Manager or Firefighter) who maintains an avoidance strategy to protect the system from an experience deemed unbearable."
+                ],
+                [
+                  "Projection",
+                  "Unconsciously attributing to someone else a part of our own Shadow that we refuse to see. In IFS: a protection strategy — the Manager's judgment, the Firefighter's threat, the Exile's idealization. “Projection is the autobiography of our Shadow.”"
+                ],
+                [
+                  "Self",
+                  "The central, stable, compassionate consciousness. Is NOT a part: it contains all the parts without being defined by any. Its 8 Cs: Curiosity, Compassion, Calm, Clarity, Courage, Confidence, Creativity, Connection."
+                ],
+                [
+                  "Système d'engagement social",
+                  "The ventral vagus circuit: voice, face, listen — the path to connection and safety."
+                ],
+                [
+                  "Ventral vagal",
+                  "Security and connection status. The ONLY state where complete healing is possible. This is the continent to live in, not the island to visit."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livre-10",
+      "titre": "The Theoretical Mirror",
+      "sous_titre": "Understanding who triggers us — and why",
+      "chapitres": [
+        {
+          "id": "10-1",
+          "titre": "The mirror law",
+          "mots_cles": [
+            "mirror",
+            "resonance",
+            "complementarity"
+          ],
+          "blocs": [
+            {
+              "type": "encadre",
+              "titre": "Two laws, one mechanism",
+              "texte": "“We attract what we are” = the law of resonance: two people carrying the same unhealed wound recognize each other instantly — the “I've known you forever” is neuroceptive, not mystical. “Opposites attract” = the law of shadow complementarity: every survival strategy requires exiling the opposite strategy, and the exile seeks a carrier — someone who lives, without filter, the quality we had to kill.",
+              "variante": "important"
+            },
+            {
+              "type": "paragraphe",
+              "texte": "The perfect mirror is therefore the person who carries (a) the same wound as us (the same Exile frequency), (b) the opposite strategy (the Manager or Firefighter we exiled), and (c) our disowned part, which they live without shame."
+            }
+          ]
+        },
+        {
+          "id": "10-2",
+          "titre": "The exact formula and the 3 checks",
+          "mots_cles": [
+            "formula",
+            "check",
+            "bilaterality"
+          ],
+          "blocs": [
+            {
+              "type": "encadre",
+              "titre": "MIRROR = same Exile + opposite strategy + carried disowned part",
+              "texte": "Every Manager of the profile must have its opposite embodied in the mirror, and every behavior of the mirror must be a key that opens a door in us — and vice versa.",
+              "variante": "formule"
+            },
+            {
+              "type": "liste",
+              "titre": "The 3 mandatory checks",
+              "items": [
+                "Resonance: the mirror touches our wound right in the heart — because it carries the same one.",
+                "Opposition: every Manager of the profile has its opposite embodied in the mirror.",
+                "Carrying: every behavior of the mirror is a key that opens a door in us — and vice versa (bilaterality)."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10-3",
+          "titre": "Grid of the 6 exiles",
+          "mots_cles": [
+            "exiles",
+            "grid",
+            "wound"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "The wound is the engine: it is what the mirror must touch. Here is the complete reference grid."
+            },
+            {
+              "type": "grille-parts",
+              "kind": "exiles",
+              "titre": "The 6 Exiles — belief, signatures, disowned part",
+              "colonnes": [
+                "Exile",
+                "Core belief",
+                "Signature behaviors",
+                "Disowned part"
+              ],
+              "champs": [
+                "nom",
+                "croyance",
+                "signatures",
+                "part_desavouee"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10-4",
+          "titre": "Grid of managers: opposite strategies",
+          "mots_cles": [
+            "managers",
+            "grid",
+            "opposite strategy"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "This is where the mirror is computed: the opposite strategy is what the mirror will embody."
+            },
+            {
+              "type": "grille-parts",
+              "kind": "managers",
+              "titre": "Managers and opposite strategies",
+              "colonnes": [
+                "Manager",
+                "Visible strategy",
+                "Fear",
+                "Opposite strategy — the mirror embodies it"
+              ],
+              "champs": [
+                "nom",
+                "strategie",
+                "peur",
+                "strategie_opposee"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10-5",
+          "titre": "Grid of firefighters: the opposites",
+          "mots_cles": [
+            "firefighters",
+            "grid",
+            "opposite"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "The opposites of firefighters predict the explosions: what the mirror does when we are in crisis."
+            },
+            {
+              "type": "grille-parts",
+              "kind": "pompiers",
+              "titre": "Firefighters and embodied opposites",
+              "colonnes": [
+                "Firefighter",
+                "Crisis behavior",
+                "Extinguishes",
+                "Embodied opposite"
+              ],
+              "champs": [
+                "nom",
+                "comportement_crise",
+                "eteint",
+                "contraire_miroir"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10-6",
+          "titre": "Attachment styles",
+          "mots_cles": [
+            "attachment",
+            "grid",
+            "dance"
+          ],
+          "blocs": [
+            {
+              "type": "grille-parts",
+              "kind": "attachement",
+              "titre": "Attachment styles and dances",
+              "colonnes": [
+                "Style",
+                "Mirror",
+                "Dynamic"
+              ],
+              "champs": [
+                "style",
+                "miroir",
+                "dynamique"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10-7",
+          "titre": "True mirror or lure?",
+          "mots_cles": [
+            "lure",
+            "discrimination",
+            "true mirror"
+          ],
+          "blocs": [
+            {
+              "type": "grille-parts",
+              "kind": "discrimination",
+              "titre": "Discriminating table",
+              "colonnes": [
+                "Clue",
+                "True mirror",
+                "Lure"
+              ],
+              "champs": [
+                "indice",
+                "vrai",
+                "leurre"
+              ]
+            },
+            {
+              "type": "paragraphe",
+              "texte": "A mirror reflects both ways. If the other never reflects anything, it is not a mirror: it is a wall."
+            }
+          ]
+        },
+        {
+          "id": "10-8",
+          "titre": "The 4 stages of awakening",
+          "mots_cles": [
+            "stages",
+            "awakening",
+            "integration"
+          ],
+          "blocs": [
+            {
+              "type": "grille-parts",
+              "kind": "stades",
+              "titre": "The 4 stages and their traps",
+              "colonnes": [
+                "Stage",
+                "Description",
+                "Trap"
+              ],
+              "champs": [
+                "nom",
+                "description",
+                "piege"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10-9",
+          "titre": "The Jungian heritage: Jung and Schwartz, the same map",
+          "mots_cles": [
+            "jung",
+            "lineage",
+            "archetypes",
+            "individuation",
+            "shadow"
+          ],
+          "blocs": [
+            {
+              "type": "table",
+              "titre": "Jung → IFS: the same map, two languages",
+              "colonnes": [
+                "C.G. Jung concept",
+                "R. Schwartz concept (IFS)",
+                "In this app"
+              ],
+              "lignes": [
+                [
+                  "The Self",
+                  "The Self — the 8 C's (Compassion, Clarity, Calm…)",
+                  "The U-Turn (3-3) and the 8 C's test"
+                ],
+                [
+                  "The Ego",
+                  "The set of dominant Managers",
+                  "The 12 protectors (4-1)"
+                ],
+                [
+                  "The Shadow",
+                  "The system of Exiles (and extreme Firefighters)",
+                  "The 6 Exiles and their disowned parts (10-3)"
+                ],
+                [
+                  "The Archetypes",
+                  "The universal roles of Parts",
+                  "The Manager / Firefighter / Exile grids (4-1 to 4-4)"
+                ],
+                [
+                  "Projection",
+                  "A Manager attacking in another person an Exile it refuses to own",
+                  "The whole Theoretical Mirror (10-1 to 10-11)"
+                ],
+                [
+                  "Individuation",
+                  "The process where the Self harmonizes all Parts and reintegrates the Shadow",
+                  "The 7 healing phases (6-1)"
+                ]
+              ]
+            },
+            {
+              "type": "paragraphe",
+              "texte": "Schwartz did not invent ex nihilo: he took Jung's theory of Archetypes, the Self and the Shadow, and turned it into a systemic, dynamic, very practical model. Jungian projection becomes a doorway: what irritates or fascinates me in another person is a part of myself I do not know yet — an Exile or a polarized Protector."
+            }
+          ]
+        },
+        {
+          "id": "10-10",
+          "titre": "Decoding projections: Manager, Firefighter, Exile",
+          "mots_cles": [
+            "projection",
+            "decoding",
+            "shadow",
+            "manager",
+            "firefighter",
+            "exile"
+          ],
+          "blocs": [
+            {
+              "type": "table",
+              "titre": "Three reactions, three doors into the Shadow",
+              "colonnes": [
+                "If the projection sounds like…",
+                "It is a projection of…",
+                "What is locked in the Shadow (to reintegrate)"
+              ],
+              "lignes": [
+                [
+                  "“I judge them, I despise them, they disgust me.”",
+                  "MANAGER",
+                  "The repressed Exile + permission to live the forbidden need (letting go, saying no, resting)"
+                ],
+                [
+                  "“I hate them, they are dangerous, monstrous, I must flee or destroy.”",
+                  "FIREFIGHTER",
+                  "The terror of a past trauma + the system's own defensive rage, demonized"
+                ],
+                [
+                  "“They are fascinating, perfect, they will save or complete me.”",
+                  "EXILE",
+                  "“The Golden Shadow”: one's own worth, creative power and beauty delegated to the other"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "The golden rule (Jung / IFS)",
+              "texte": "What deeply fascinates or irritates me in another person is a part of myself I do not know yet. Intensity is the clue: a simple observation comes from the Self, a visceral, charged reaction is a projection."
+            }
+          ]
+        },
+        {
+          "id": "10-11",
+          "titre": "Protocol: reintegrating the Shadow (the magic question)",
+          "mots_cles": [
+            "protocol",
+            "reintegration",
+            "shadow",
+            "projection",
+            "magic question"
+          ],
+          "blocs": [
+            {
+              "type": "protocole",
+              "titre": "From projection to reintegration",
+              "duree": "15-30 min, when calm",
+              "etapes": [
+                "Notice the person who irritates or fascinates you — and the part in you that reacts (judgment, panic or idealization).",
+                "Identify the protector: a Manager judges, a Firefighter attacks, an Exile idealizes. Thank it for protecting the system.",
+                "Ask it to step aside for a moment: “If you did not react this way, what would you fear for me?”",
+                "Let the Exile appear: “Is there a part of me, hidden in the shadow, that has felt this for a long time?” Give it an age.",
+                "Go through the Self (U-Turn, 3-3), then comfort this Exile with the reparenting protocol (4-4).",
+                "Check the disappearance: the projection on the other person goes out — the Shadow has been reintegrated."
+              ],
+              "quand": "When calm, never in crisis. Projection is the ideal doorway: instead of rejecting it, follow it like Ariadne's thread."
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "The typical example",
+              "texte": "“I can't stand my colleague, he is weak and whiny” = a Manager that hates weakness… for fear that the 8-year-old Exile — who would actually need help — gets trampled. The projection on the colleague is not a truth about him: it is the autobiography of our Shadow."
+            }
+          ]
+        },
+        {
+          "id": "10-12",
+          "titre": "The Drama Triangle: the roles our parts play",
+          "mots_cles": [
+            "Karpman",
+            "triangle",
+            "roles",
+            "persecutor",
+            "rescuer",
+            "victim"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "The Drama Triangle (Stephen Karpman, 1968) models unconscious psychological games: in every recurring conflict, each person plays a role — Persecutor, Rescuer or Victim — and assigns the complementary roles to others. Read through IFS: these three roles are not identities, they are protection strategies your parts know well. The Critic, the Controller and the Rager persecute; the Rescuer, the Good Student and the Hero save; the Victim, the Clown and the Hermit endure."
+            },
+            {
+              "type": "table",
+              "titre": "The 3 roles and their parts",
+              "colonnes": [
+                "Role",
+                "Belief",
+                "Typical language",
+                "Typical IFS parts",
+                "Secondary gain"
+              ],
+              "lignes": [
+                [
+                  "Persecutor",
+                  "« They must be controlled, punished, corrected »",
+                  "« You are useless / You must / It is your fault »",
+                  "Critic, Perfectionist, Controller, Accuser, Rager",
+                  "Feeling of power and control"
+                ],
+                [
+                  "Rescuer",
+                  "« Without me, others will not make it »",
+                  "« Let me do it / I will help you / You should… »",
+                  "Rescuer, Good Student, Hero, Survivor",
+                  "Feeling useful and indispensable"
+                ],
+                [
+                  "Victim",
+                  "« Life happens to me, I have no choice »",
+                  "« I cannot do it / It is too hard / Anyway… »",
+                  "Victim, Clown, Hermit, Dreamer, Fleer",
+                  "Exemption from responsibility, attention"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "The law of the triangle: roles rotate",
+              "texte": "Nobody « is » a role: you move from one to another in a second. The exhausted Rescuer becomes a Victim (« I have to handle everything ») then a Persecutor (« you cannot do anything »). The attacked Critic withdraws into Victim. The secondary gain is the key: each role « gives » something (power, usefulness, exemption) — as long as you do not name what the role brings you, you go back to it."
+            },
+            {
+              "type": "encadre",
+              "variante": "averti",
+              "titre": "The naive ways out",
+              "texte": "Rescuing a Victim confirms their powerlessness — you become a Rescuer. Attacking a Persecutor makes you a Persecutor in turn. Complaining about a Rescuer makes you a Victim. You do not leave the triangle through the triangle: the way out requires a change of question, not a change of adversary."
+            },
+            {
+              "type": "paragraphe",
+              "texte": "Karpman was born out of Transactional Analysis (11-7): the triangle is the relational version of the ego states. And like the mirror (10-10), it describes dynamics more than people — the same part can persecute at work and endure in a relationship."
+            }
+          ]
+        },
+        {
+          "id": "10-13",
+          "titre": "The Empowerment Triangle: Creator, Challenger, Coach",
+          "mots_cles": [
+            "TED",
+            "creator",
+            "challenger",
+            "coach",
+            "conversion",
+            "empowerment"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "David Emerald (The Power of TED) proposes the conversion: move from the question « Who is responsible? » (blame) to the question « What do I want to create? » (intention). The conversion does not remove the role — it turns it around: the Persecutor's strength becomes an expectation that elevates, the Rescuer's drive becomes a trust that empowers, the Victim's sensitivity becomes creative power."
+            },
+            {
+              "type": "table",
+              "titre": "Converting the roles",
+              "colonnes": [
+                "Karpman role → TED role",
+                "Transformed belief",
+                "Pivot question"
+              ],
+              "lignes": [
+                [
+                  "Victim → Creator",
+                  "« I choose my response, even within the constraint »",
+                  "« What do I really want to create, beyond the complaint? »"
+                ],
+                [
+                  "Persecutor → Challenger",
+                  "« I invite the other to grow without crushing them »",
+                  "« Which question will I ask instead of which accusation? »"
+                ],
+                [
+                  "Rescuer → Coach",
+                  "« I believe in the other's ability to find their own solutions »",
+                  "« How can I support without doing it in their place? »"
+                ]
+              ]
+            },
+            {
+              "type": "table",
+              "titre": "The proof in your own parts",
+              "colonnes": [
+                "Dominant part",
+                "Drama role played",
+                "Its new role (phase 5)"
+              ],
+              "lignes": [
+                [
+                  "Critic",
+                  "Persecutor",
+                  "Challenger — « Quality advisor: suggests after, never before the impulse »"
+                ],
+                [
+                  "Rescuer",
+                  "Rescuer",
+                  "Coach — « Conscious contributor: gives from the Self, in secret if needed »"
+                ],
+                [
+                  "Victim",
+                  "Victim",
+                  "Creator — « Spokesperson for needs: asks directly »"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "The new roles are already in your data",
+              "texte": "Phase 5 of the path (new roles) is a virtuous conversion: each protector receives a role aligned with values instead of a survival strategy. The Empowerment Triangle is the same conversion applied to relationship. Your report and your portrait show your inner conversions; this chapter gives you the language to live them with the other."
+            },
+            {
+              "type": "encadre",
+              "variante": "formule",
+              "titre": "The secure invitations",
+              "texte": "According to the other's attachment style (10-6): anxious → « I am here, I am not leaving. We can talk about it calmly. » ; avoidant → « I respect your need for space. We can talk again whenever you want. » ; disorganized → « I am stable in my bond with you, whatever happens. »"
+            },
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "The posture is felt, not spoken",
+              "texte": "A transformed version must sound alive, not technical. You do not say « from my Creator posture… » — the posture is felt, not spoken. The jargon (Karpman, TED, Challenger) is for understanding; the final sentence must simply be right."
+            }
+          ]
+        },
+        {
+          "id": "10-14",
+          "titre": "The balance of polarities (Yin-Yang)",
+          "mots_cles": [
+            "yin",
+            "yang",
+            "polarities",
+            "balance",
+            "taijitu"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "The Taijitu (太極圖) represents the interdependence of opposites — and each half contains a seed of the other (the dot). In relationships, any conflict can be read as an imbalance: too much Yang (control, action without listening, confrontation) or too much Yin (self-erasure, passivity, silence). Healing is not about removing a pole — it is about restoring the dance between the two."
+            },
+            {
+              "type": "table",
+              "titre": "Reading the imbalance and correcting it",
+              "colonnes": [
+                "Imbalance",
+                "Signs",
+                "Pole to add",
+                "Balancing sentence"
+              ],
+              "lignes": [
+                [
+                  "Too much Yang — control",
+                  "Words without listening, demands without welcome, rigidity",
+                  "Yin: listen, welcome, let go",
+                  "« Tell me how you experience things, from your side. »"
+                ],
+                [
+                  "Too much Yang — aggression",
+                  "Attacks, threats, escalation",
+                  "Yin: pause, feeling",
+                  "« I feel anger rising in me. I need a pause. »"
+                ],
+                [
+                  "Too much Yang — invasive action",
+                  "Doing things in their place, over-responsibility",
+                  "Yin: trust, delegation",
+                  "« What are your own resources for this situation? »"
+                ],
+                [
+                  "Too much Yin — passivity",
+                  "Complaint, waiting, silence",
+                  "Yang: express, act, ask",
+                  "« I need things to change. Here is what I propose. »"
+                ],
+                [
+                  "Too much Yin — self-erasure",
+                  "Never saying no, constant adapting",
+                  "Yang: boundary, request (13-4)",
+                  "« This matters to me. I would like you to hear me. »"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "analogie",
+              "titre": "The seed in the opposite",
+              "texte": "In the Persecutor's anger: a fear. In the Victim's silence: a withheld strength. In the Rescuer's help: a need to be loved. Looking for the grain of truth in the opposite position — the dot of the Taijitu — is recovering the missing seed instead of fighting the opposite pole."
+            },
+            {
+              "type": "liste",
+              "titre": "The 4 questions of balance",
+              "items": [
+                "« What am I doing too much of? » — the saturated pole",
+                "« What am I not doing enough of? » — the missing pole",
+                "« What part of the opposite position is true? » — the seed in the opposite",
+                "« What small gesture of the opposite pole can I make today? » — the dance is restored through micro-movements"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livre-11",
+      "titre": "Beyond the Triaxial — other paths",
+      "sous_titre": "Allowing, the Work, meaning, the White Wall: other doors to healing",
+      "chapitres": [
+        {
+          "id": "11-1",
+          "titre": "Allowing — the foundational practice (GP Walsh)",
+          "mots_cles": [
+            "allowing",
+            "GP Walsh",
+            "letting go",
+            "Just Allow It"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "Allowing is the method taught by GP Walsh (Just Allow It): letting the experience be there, without trying to get rid of it. It is the foundation of all inner work — what you fight gets stronger; what you let be can dissolve."
+            },
+            {
+              "type": "encadre",
+              "titre": "The instruction is its name",
+              "texte": "“Let it be.” No technique, no analysis: permission given to the sensation, the emotion, the fear — to stay, for as long as it takes. The system finally receives what it has been fleeing since childhood: the right to exist.",
+              "variante": "important"
+            },
+            {
+              "type": "paragraphe",
+              "texte": "Fear is an energy that moves through the body. If you flee it, it settles. If you welcome it, it passes — like a wave. It is the same logic as the Ventral Reset and the U-Turn of the Triaxial System: secure, then let the sensation speak."
+            }
+          ]
+        },
+        {
+          "id": "11-2",
+          "titre": "The middle way (Buddhism)",
+          "mots_cles": [
+            "buddhism",
+            "middle way",
+            "presence"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "Ancient teachings say the same thing: “be in the world, not of the world” (the middle way). The nervous system heals neither by fleeing life nor by drowning in it — but by staying present to what is, without identifying with it."
+            },
+            {
+              "type": "encadre",
+              "titre": "The middle way is not lukewarmness",
+              "texte": "It is the living balance between avoidance and fusion: being fully there, without letting the world decide your worth. Neither numbing nor absorption — presence.",
+              "variante": ""
+            }
+          ]
+        },
+        {
+          "id": "11-3",
+          "titre": "Meditation and absorption",
+          "mots_cles": [
+            "meditation",
+            "absorption",
+            "mind",
+            "thoughts"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "The appeal of meditation, sports or sex is the same: you are so absorbed in the moment that you are no longer absorbed in thought. The mind stops being the author — it becomes what arises, and you can watch it."
+            },
+            {
+              "type": "liste",
+              "titre": "What observing the mind reveals",
+              "items": [
+                "You have never chosen a thought: it arises. If you can observe it, it is not you.",
+                "Control of the mind is an illusion — presence is not.",
+                "5 minutes of breath presence beat an hour of fighting thoughts."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11-4",
+          "titre": "Awakening: Ramana Maharshi, Stephen Jourdain, Eckhart Tolle",
+          "mots_cles": [
+            "awakening",
+            "Ramana",
+            "Jourdain",
+            "Tolle",
+            "identity"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "Different paths, one direction: seeing that identity is a survival construct — not a truth. Awakening is not a pleasant state: it is a truth that frees."
+            },
+            {
+              "type": "liste",
+              "titre": "Three doors",
+              "items": [
+                "Ramana Maharshi: the question “Who am I?” — asked until the answer no longer comes from thought.",
+                "Stephen Jourdain: awakening can be non-blissful — it is not a comfortable state, it is a truth.",
+                "Eckhart Tolle: “die before you die” — let the constructed identity die so what remains can live."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11-5",
+          "titre": "A real healing journey",
+          "mots_cles": [
+            "journey",
+            "testimony",
+            "process"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "The real process is not linear: it alternates insights, resistances and relapses — and with each cycle, the load decreases. What heals is not understanding: it is the repeated experience of welcoming what was fled."
+            },
+            {
+              "type": "encadre",
+              "titre": "A reliable marker",
+              "texte": "What was unbearable becomes uncomfortable, then present, then simple. Fear does not disappear at once — it changes place.",
+              "variante": ""
+            }
+          ]
+        },
+        {
+          "id": "11-6",
+          "titre": "The Work: 4 questions and turnarounds (Byron Katie)",
+          "mots_cles": [
+            "Katie",
+            "Work",
+            "turnarounds",
+            "belief",
+            "inquiry"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "Byron Katie's Work is a 4-question inquiry into ONE belief that causes suffering. It requires no prior belief: only the willingness to check whether the thought is true — and what it costs. It is ACT's defusion turned into a protocol: the thought stops being a truth and becomes an object to question."
+            },
+            {
+              "type": "protocole",
+              "titre": "The 4 questions + the 3 turnarounds",
+              "duree": "15 min, when calm",
+              "quand": "One belief at a time — the most toxic first. When calm, never in crisis.",
+              "etapes": [
+                "Write the belief exactly as it is, in its own words: “people always end up leaving”, “I'm worthless”, “I'm not enough”.",
+                "Q1 — Is it true? (yes or no, no justification.)",
+                "Q2 — Can you absolutely know that it's true?",
+                "Q3 — How do you react, what happens in your body, your actions, your relationships WHEN you believe this thought?",
+                "Q4 — Who would you be WITHOUT this thought, facing the same situation?",
+                "Turn the sentence around: to yourself (“I leave before I get left”), to the other (“I leave them too”), to the opposite (“sometimes, people stay”). Find 3 genuine examples for each turnaround."
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "The link with the Mirror",
+              "texte": "Jung says: what irritates or fascinates me in the other is my disowned part. The Work gives the method to verify it: take the belief your mirror activates — “I'm not enough for anyone to stay” — and put it through the 4 questions. The projection is not a truth about the other: it is a belief to question. The turnarounds are the reintegration of the Shadow, step by step."
+            }
+          ]
+        },
+        {
+          "id": "11-7",
+          "titre": "The three ego states (Transactional Analysis)",
+          "mots_cles": [
+            "Berne",
+            "transactional",
+            "Parent",
+            "Adult",
+            "Child"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "Eric Berne's transactional analysis reads inner dialogues with three ego states: the Parent (what was copied from parental figures), the Adult (the response to the here and now), the Child (what was archived from childhood). It is a simple grid that complements IFS: the states are families of parts, not pieces of a personality."
+            },
+            {
+              "type": "table",
+              "titre": "The four states and their voice",
+              "colonnes": [
+                "State",
+                "Definition",
+                "Typical voice",
+                "In IFS"
+              ],
+              "lignes": [
+                [
+                  "Critical / Nurturing Parent",
+                  "Behaviors copied from parental figures",
+                  "“You must”, “You should”, “That's wrong”",
+                  "A Manager repeating inherited rules"
+                ],
+                [
+                  "Adult",
+                  "Response to the here and now, uncontaminated by the past",
+                  "“What does the real situation require?”",
+                  "The Self: clarity, calm, presence"
+                ],
+                [
+                  "Adapted Child (Compliant / Rebellious)",
+                  "Childhood survival strategies: obey or oppose",
+                  "“It's not fair”, “Nobody's going to force me”",
+                  "A Protector frozen in the childhood strategy"
+                ],
+                [
+                  "The Demon (the extreme Rebel Child)",
+                  "The sudden impulse to sabotage: the blow-up, the addiction switching on",
+                  "“I don’t care anymore”",
+                  "A Firefighter that numbs the exile’s pain with an impulsive act"
+                ],
+                [
+                  "Free Child",
+                  "Spontaneity, play, purposeless creativity",
+                  "Laughter, play, “I want”",
+                  "The liberated Exile — the 8 C's regained"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "The closed loop",
+              "texte": "Critical Parent → Adapted Child → shame → Critical Parent: the loop runs on its own, with no Adult. The way out: the Adult answers the Parent (“thank you, I heard you — what does the real situation require?”) and negotiates with the Rebellious Child (“5 minutes of what scares me, then 5 minutes of what I want”)."
+            },
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "Contamination (TA) = blending (IFS)",
+              "texte": "When the Parent (prejudices) or the Child (illusions) saturates the Adult, you lose the here-and-now: you reason with yesterday’s glasses. In IFS this is blending: the part and the Self become one. Decontamination (TA) is unblending (IFS): ask the part to take a step back, then look at reality."
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "Two postures of care",
+              "texte": "Berne lends his Adult to the patient (reparenting); IFS hands the wheel back to the Self. This app makes the second choice: no one reparents you — you relearn to drive."
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "A game is a mirror loop played by two",
+              "texte": "“Why don’t you… yes but” = Rescuer ↔ Victim (pair 3); “If it weren’t for you” = Persecutor ↔ Victim (pair 27); “Kick me” = the pursuit-flight dance (pair 2). When you recognize a game, you already hold the way out of the loop."
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "The Free Child appointment",
+              "texte": "One activity with NO productivity every week: a game, a hike without a watch, a solo karaoke. The Free Child is not a luxury: it is the creativity of the Self, the energy reserve that the survival system confiscated."
+            }
+          ]
+        },
+        {
+          "id": "11-8",
+          "titre": "The life script: the injunctions behind the childhood decision",
+          "mots_cles": [
+            "Berne",
+            "script",
+            "injunction",
+            "burden",
+            "decision",
+            "permission",
+            "spellbreaker"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "Berne calls life script the decision made in childhood to keep the parents’ love, under their injunctions (“Don’t live”, “Don’t be close”, “Don’t succeed”…). IFS calls these injunctions legacy burdens: instructions a child read in the parents’ eyes and that the exiles still carry. Each exile in this app matches a typical injunction — the childhood decision your report computes is the echo of that command."
+            },
+            {
+              "type": "table",
+              "titre": "Les injonctions et les six exilés",
+              "colonnes": [
+                "Berne’s injunction",
+                "The exile who carries it",
+                "Its belief",
+                "Typical childhood decision"
+              ],
+              "lignes": [
+                [
+                  "“Don’t live / Don’t be yourself”",
+                  "Invisible Child",
+                  "“My emotions don’t matter. I don't exist. ”",
+                  "“I disappear so as not to disturb”"
+                ],
+                [
+                  "“Don’t be close”",
+                  "Abandoned Child",
+                  "“I’m not enough for us to stay”",
+                  "“I leave before being left”"
+                ],
+                [
+                  "“Don’t succeed / Don’t draw attention”",
+                  "Humiliated Child",
+                  "“I am ugly/worthless/unworthy”",
+                  "“I hide so as not to be judged”"
+                ],
+                [
+                  "“Don’t feel”",
+                  "Terrified Child",
+                  "“The world is not safe. I'm going to die. ”",
+                  "“I numb myself to survive”"
+                ],
+                [
+                  "“Don’t make mistakes”",
+                  "Guilty Child",
+                  "“It’s all my fault. I'm bad. ”",
+                  "“I punish myself before others do”"
+                ],
+                [
+                  "“Don’t be a child”",
+                  "Parentified Child",
+                  "I have to save, I have no right to be a child",
+                  "“I take care of others in order to exist”"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "formule",
+              "titre": "Permission (Berne) = unburdening (IFS)",
+              "texte": "The injunction is said out loud, given back to the one who passed it on, and the exile’s belief can be laid down. The spellbreaker is not the therapist: it is the Self that grants permission."
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "Survival instructions, not verdicts",
+              "texte": "A child read these injunctions in the parents’ eyes so as not to lose their love. Reading them for what they are is already stepping out of the script."
+            }
+          ]
+        },
+        {
+          "id": "11-9",
+          "titre": "Meaning: Frankl and the question life asks",
+          "mots_cles": [
+            "Frankl",
+            "meaning",
+            "logotherapy",
+            "existential vacuum",
+            "80 years"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "Viktor Frankl observed in the camps who held on and who did not: those who had a “why”. “If a man has a why, he can bear almost any how.” The existential vacuum — living to manage discomfort instead of living for something — is often filled by distraction: scrolling, consuming, agitation."
+            },
+            {
+              "type": "table",
+              "titre": "The three ways to meaning",
+              "colonnes": [
+                "Way",
+                "Definition",
+                "Question to ask yourself"
+              ],
+              "lignes": [
+                [
+                  "Create / accomplish",
+                  "Produce a work, contribute",
+                  "What do I want to leave behind?"
+                ],
+                [
+                  "Live / love",
+                  "Being fully in relationship: beauty, love, nature",
+                  "When am I truly THERE?"
+                ],
+                [
+                  "Suffer / transcend",
+                  "Choosing one's attitude toward the inevitable — turning tragedy into inner triumph",
+                  "What question does life ask me through what I am going through?"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "The question, not the answer",
+              "texte": "Don't look for an abstract meaning: look for the CONCRETE question that life asks you NOW through your symptoms. Every situation is a question — your answer is your responsibility. The third way is the most accessible: no one has lived exactly what you have lived; your experience is a unique expertise."
+            },
+            {
+              "type": "liste",
+              "titre": "Two exercises",
+              "items": [
+                "The 80-years exercise: you are 80. What are you proud of? What do you regret? The two lists are your real values.",
+                "The eternal return (Nietzsche): every Sunday, reread your week. “If I had to relive it 10,000 times exactly the same, would I accept it?” Each “no” points to the smallest change that would transform the week."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11-10",
+          "titre": "The White Wall: the somatic passage",
+          "mots_cles": [
+            "White Wall",
+            "passage",
+            "somatic",
+            "freeze"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "The White Wall is the long somatic passage: 30 to 60 minutes of total non-stimulation, to let the nervous system unlearn danger. The prefrontal cortex needs 20 to 30 minutes without stimulation to take back control from the amygdala — the duration that “acceptable” distractions never give."
+            },
+            {
+              "type": "protocole",
+              "titre": "The White Wall — 7 steps",
+              "duree": "30-60 min, only when calm",
+              "quand": "After a trigger, rumination, residual activation. Never in crisis: in full activation, we analyze nothing, we put out the fire (Ventral Reset, 3-2).",
+              "etapes": [
+                "Recognition: “I am triggered. My limbic system has taken control.” (10 sec)",
+                "Freeze: immediate interruption of all action — hands leave the keyboard. (5 sec)",
+                "Withdrawal: a neutral space, no stimulation, no screen. (30 sec)",
+                "Neutral exposure: seated, eyes open, fixed on a neutral point. No music, no podcast, nothing. (30-60 min)",
+                "Somatic passage: observe the sensations without fighting or judging them — like leaves on a river.",
+                "Dissolution: the intensity drops; the nervous system unlearns danger.",
+                "Integration: write down in a notebook what came up, what was observed. (5 min)"
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "The traps",
+              "texte": "Thinking positive, retelling the trigger story, judging the emotion, seeking an “acceptable” distraction. The White Wall is not a guided meditation: it is an empty space where the body can finally move what it could not move — trembling, yawning, sighing (Levine's discharge)."
+            }
+          ]
+        },
+        {
+          "id": "11-11",
+          "titre": "Ikigai: what you get up for",
+          "mots_cles": [
+            "ikigai",
+            "meaning",
+            "offering",
+            "genius",
+            "inversion"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "Ikigai (生き甲斐) is the Japanese concept of « reason for being »: what you get up for in the morning. It is born at the crossroads of four circles: what you love, what you are good at, what the world needs, and what you can be paid for. But it is not found by mechanically filling four boxes: it is discovered by going down to the water table of needs (13-2) — and that is where the Triaxial changes everything."
+            },
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "When to look for it — and when not to",
+              "texte": "Ikigai is a fruit of phase 6 (Committed Action), not phase 0. Sought before meeting the Exile, it becomes one more strategy: a Manager finding a « mission » so as not to feel the wound. The right order: secure (phases 0-3), meet the Exile (phase 4), give the protectors new roles (phase 5), then look for what you get up for (phase 6)."
+            },
+            {
+              "type": "encadre",
+              "variante": "formule",
+              "titre": "The inversion principle",
+              "texte": "Your greatest hunger is your greatest potential offering. What you lacked most, you are best placed to offer: the one who was not seen develops a uniquely sharp gaze on others; the one who lacked safety becomes a creator of safe spaces. In IFS language: the Exile's disowned part — the one you could not live — is exactly what you are called to embody and offer. The met Exile stops being a lack and becomes an expertise."
+            },
+            {
+              "type": "table",
+              "titre": "The false ikigai — disguised strategies",
+              "colonnes": [
+                "False trail",
+                "What it really is (IFS)",
+                "The test"
+              ],
+              "lignes": [
+                [
+                  "The borrowed dream — the « dream job » of the parent, the partner, society",
+                  "Compliant Manager: it knows what to desire",
+                  "« If nobody were watching, would I still do it? »"
+                ],
+                [
+                  "The symptom-mission — choosing to fill the childhood need without knowing it",
+                  "The Exile's strategy: saving others to save oneself",
+                  "« Am I healing someone, or healing myself through them? » — conscious = gift, unconscious = trap"
+                ],
+                [
+                  "The quest for validation — proving something to others",
+                  "Unmet need for recognition (13-2)",
+                  "« Am I building to serve, or to be applauded? »"
+                ],
+                [
+                  "Defensive hyper-specialization — hiding in an ultra-technical niche",
+                  "Avoidance of meaning and relationship, protecting the Exile",
+                  "« Does this excellence bring me closer to others or protect me from them? »"
+                ],
+                [
+                  "Romantic idealization — the façade of the dreamed job",
+                  "Firefighter Fantasy: escaping through image",
+                  "« What do I really love doing, even in the thankless part? »"
+                ]
+              ]
+            },
+            {
+              "type": "liste",
+              "titre": "Maintenance rituals",
+              "items": [
+                "Daily (5 min): in the morning, before the world says what to be — one question: « What, today, would set me in motion effortlessly? »",
+                "Weekly (15 min): « What percentage of my time was aligned with my offering this week? » — no judgment, just the measure.",
+                "Monthly (30 min): listening to envy — « Who did I envy this month? » Envy is a detector of repressed desire, not a fault.",
+                "Seasonal (1-2 h): revisit the offering sentence, check that it still vibrates, adjust it — genius evolves with the person."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11-12",
+          "titre": "From protection to prison: the Codes",
+          "mots_cles": [
+            "codes",
+            "doctrine",
+            "belief",
+            "certainty",
+            "adaptability",
+            "protections"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "Wisdom can become doctrine — and doctrine, a prison. Every survival rule (« I must never trust again », « I must never show my anger », « I must control everything ») protected a child, one day, with real wisdom. Then the rule became more important than the life it was meant to protect. The childhood decisions in your report are Codes: check which ones still serve you, and which ones keep you in a cage."
+            },
+            {
+              "type": "table",
+              "titre": "The 3-step diagnosis",
+              "colonnes": [
+                "Step",
+                "Question",
+                "Clue"
+              ],
+              "lignes": [
+                [
+                  "Original function",
+                  "What was this Code protecting, back then?",
+                  "The rule avoided a real disaster: it was wisdom — to honour, not to demolish"
+                ],
+                [
+                  "The shift",
+                  "Since when does this rule cost me more than it protects me?",
+                  "The Code applies to situations that have nothing to do with its origin"
+                ],
+                [
+                  "The test",
+                  "If I followed this rule today, what would I lose?",
+                  "If the answer is « everything » or « my identity », the Code has become a prison"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "formule",
+              "titre": "The question of the moment",
+              "texte": "Replace « I know what is right » with « what does this situation require of me, here and now? ». Absolute certainty blinds you to your own blind spots; the question of the moment keeps contact with real life. It is ACT's psychological flexibility (2-3) applied to rules: the Code answers the past, the question answers the present."
+            },
+            {
+              "type": "encadre",
+              "variante": "averti",
+              "titre": "Neither bargain with the shadow, nor deny it",
+              "texte": "Two symmetrical errors. The error of rigidity: repressing fear and anger under a mask of serenity — they explode later, without control. The error of power: believing you can use hatred and control without paying the price. The integrated path: welcome fear and anger as alarms — signals of crossed boundaries or unmet needs (13-2) — without handing them the wheel (10-11)."
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "Solipsism: « only I can… »",
+              "texte": "The thought « I am the only one who sees the truth / can fix this » is the first step of the narcissistic slide and burnout. It is a Code too: it protects the Exile (being useful to exist) and imprisons life. If this sentence crosses your mind, translate it: « which part of me needs to be indispensable? » — and give it another role (11-10)."
+            },
+            {
+              "type": "table",
+              "titre": "The three paths",
+              "colonnes": [
+                "Domain",
+                "The error of rigidity (dogma)",
+                "The error of power (pride)",
+                "The integrated path"
+              ],
+              "lignes": [
+                [
+                  "Relational",
+                  "Refusing to commit for fear of being hurt",
+                  "Bending the other to your will « for their own good »",
+                  "Loving with vulnerability, accepting imperfection and risk"
+                ],
+                [
+                  "Emotional",
+                  "Repressing anger and sadness under a mask of serenity",
+                  "Letting toxic emotions drive everything in the name of freedom",
+                  "Listening to emotions as messengers — without dogma or repression"
+                ],
+                [
+                  "Spiritual",
+                  "Following precepts without understanding their deep meaning",
+                  "Declaring yourself the sole master of your truth, beyond all listening",
+                  "Treating teachings as a dialogue of questions, not certainties"
+                ],
+                [
+                  "Facing failure",
+                  "Looking for scapegoats or blaming the violation of the rules",
+                  "Justifying defeat by lack of power and persisting stubbornly",
+                  "Admitting the fault immediately, learning from experience, adjusting the path"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11-13",
+          "titre": "Resources",
+          "mots_cles": [
+            "resources",
+            "JAI",
+            "readings",
+            "GP Walsh",
+            "Katie",
+            "Frankl",
+            "Berne"
+          ],
+          "blocs": [
+            {
+              "type": "liste",
+              "titre": "To go further",
+              "items": [
+                "Just Allow It (JAI) — GP Walsh's course on allowing",
+                "Conversations with G — GP Walsh's free show (conversationswithg.com)",
+                "Dr Awesome — coach from the Flow83 / GP Walsh network (self-worth, compassion, self-love)",
+                "Ramana Maharshi, Stephen Jourdain, Eckhart Tolle — readings on awakening",
+                "Loving What Is — Byron Katie: the Work, 4 questions and turnarounds",
+                "Man's Search for Meaning — Viktor Frankl: logotherapy",
+                "Transactional Analysis in Psychotherapy — Eric Berne: the ego states"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livre-12",
+      "titre": "The love and apology languages",
+      "sous_titre": "Bridging Chapman (love & apology) and IFS: who is speaking, and who needs to receive.",
+      "chapitres": [
+        {
+          "id": "12-1",
+          "titre": "The apology languages according to IFS parts",
+          "mots_cles": [
+            "langages",
+            "excuse",
+            "parts"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "An apology works if it speaks the language of the wounded part in the other, while coming from the Self — not from a protective part. Intellectual apologies fail with a wounded Exile; a purely emotional apology fails with a Manager."
+            },
+            {
+              "type": "table",
+              "titre": "Which apology language soothes which part?",
+              "colonnes": [
+                "Apology language",
+                "Part to soothe"
+              ],
+              "lignes": [
+                [
+                  "Expressing regret (empathy)",
+                  "Exiles — makes the pain seen and felt."
+                ],
+                [
+                  "Requesting forgiveness (vulnerability)",
+                  "Exiles — power is returned to them."
+                ],
+                [
+                  "Accepting responsibility (logic)",
+                  "Managers — zero defensiveness, clear accountability."
+                ],
+                [
+                  "Genuine repentance (plan)",
+                  "Managers — the future is secured."
+                ],
+                [
+                  "Making amends (immediate action)",
+                  "Firefighters — lowers tension right away."
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "averti",
+              "titre": "The IFS trap",
+              "texte": "Expecting an activated Firefighter to forgive immediately is useless: it must first see the danger move away (repair) before yielding to the Self or the Exile. And an apology from a rigid Manager never reassures an Exile."
+            }
+          ]
+        },
+        {
+          "id": "12-2",
+          "titre": "The love languages as nourishment for the system",
+          "mots_cles": [
+            "amour",
+            "parts",
+            "soi"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "If the apology languages repair a rupture, the love languages feed the inner system and build a felt sense of safety. The \"wrong\" love language is perceived by the system as a threat or neglect."
+            },
+            {
+              "type": "table",
+              "titre": "Which love language nourishes which part?",
+              "colonnes": [
+                "Love language",
+                "Most receptive part"
+              ],
+              "lignes": [
+                [
+                  "Words of affirmation",
+                  "Exiles — repairs shame, grants a sense of existence."
+                ],
+                [
+                  "Acts of service",
+                  "Managers — relieves mental load, offers relief."
+                ],
+                [
+                  "Quality time",
+                  "Exiles & Self — presence and Being-to-Being connection."
+                ],
+                [
+                  "Gifts",
+                  "Managers / Exiles — \"they think of me\"."
+                ],
+                [
+                  "Physical touch",
+                  "Exiles / Firefighters — somatic nervous-system regulation."
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "",
+              "titre": "Self-therapy: the Self as inner parent",
+              "texte": "Ask each part: which language do you need from me today? Words → compassionate affirmations. Time → a walk or a screen-free activity. Service → tidy your space, go to bed early. Touch → hand on the heart, warm bath. Gifts → buy yourself a flower or a book. The Self becomes the inner parent of the Exiles, without expecting everything from the partner."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livre-13",
+      "titre": "The word that connects — needs, boundaries, NVC",
+      "sous_titre": "Expressing what is alive in us: Nonviolent Communication as the language of Ventral. Universal needs, negotiable requests, healthy boundaries.",
+      "chapitres": [
+        {
+          "id": "13-1",
+          "titre": "The OSBD process: Observation, Feeling, Need, Request",
+          "mots_cles": [
+            "OSBD",
+            "observation",
+            "feeling",
+            "need",
+            "request",
+            "NVC"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "NVC (Nonviolent Communication — Marshall Rosenberg, Thomas d'Ansembourg) is the language of the ventral nervous system: it starts from the idea that a feeling is a signal, not a weakness, and that a clear request beats a reproach. Golden rule: no OSBD from Dorsal or strong Sympathetic. Ventral Reset (3-2) first, words second — a request made mid-activation becomes a demand."
+            },
+            {
+              "type": "table",
+              "titre": "The 4 steps of the process",
+              "colonnes": [
+                "Step",
+                "Inner question",
+                "Form",
+                "Pitfall to avoid"
+              ],
+              "lignes": [
+                [
+                  "Observation",
+                  "What do I actually notice, factually?",
+                  "« When I see / hear… »",
+                  "Evaluating: « You are always late » instead of « The last 3 times, you arrived after 10 am »"
+                ],
+                [
+                  "Feeling",
+                  "What do I really feel?",
+                  "« I feel… »",
+                  "The pseudo-feeling: « I feel betrayed » hides an accusation; the real one is sad, disappointed, angry"
+                ],
+                [
+                  "Need",
+                  "Which universal need is unmet?",
+                  "« Because I need… »",
+                  "The strategy: « I need you to call me every night » is a disguised demand"
+                ],
+                [
+                  "Request",
+                  "What do I propose, right now?",
+                  "« Would you be willing to… ? »",
+                  "The demand: a request that cannot hear « no » is an ultimatum"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "formule",
+              "titre": "The complete sentence",
+              "texte": "« When I notice that [fact], I feel [authentic feeling], because I need [universal need]. Would you be willing to [concrete, positive, negotiable action]? » — The dashboard: the feeling is the warning light, the need is the gauge. A red light is not a problem to switch off: it is information about the gauge."
+            },
+            {
+              "type": "table",
+              "titre": "Authentic feeling or disguised judgment?",
+              "colonnes": [
+                "« I feel… » (pitfall)",
+                "The real feeling"
+              ],
+              "lignes": [
+                [
+                  "betrayed",
+                  "sad, disappointed, angry"
+                ],
+                [
+                  "manipulated",
+                  "frustrated, wary"
+                ],
+                [
+                  "abandoned",
+                  "lonely, anxious"
+                ],
+                [
+                  "misunderstood",
+                  "isolated, discouraged"
+                ],
+                [
+                  "attacked",
+                  "frightened, tense"
+                ]
+              ]
+            },
+            {
+              "type": "protocole",
+              "titre": "Micro-OSBD — the 30-second version",
+              "etapes": [
+                "Express Ventral reset: 3 physiological sighs, orienting (3-2)",
+                "One factual sentence: « When [fact]… » — no « always », no « never »",
+                "One real feeling: « I feel [emotion] »",
+                "One universal need: « because I need [need] »",
+                "One negotiable request: « would you be willing to [action]? » — and leave the door open to « no »"
+              ],
+              "duree": "30 s",
+              "quand": "Before a difficult conversation, when a reproach rises, before answering a loaded message"
+            }
+          ]
+        },
+        {
+          "id": "13-2",
+          "titre": "The map of needs",
+          "mots_cles": [
+            "needs",
+            "mapping",
+            "water-table",
+            "satisfaction"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "Universal needs are the same for everyone: safety, connection, recognition, autonomy, meaning, integrity, play, rest. What varies is the strategies used to meet them. A behavior — even a destructive one — is almost always an awkward strategy for feeding a legitimate need. It is the same lens as the Triaxial: no behavior is a fault, everything is a clue."
+            },
+            {
+              "type": "table",
+              "titre": "The 8 families of needs",
+              "colonnes": [
+                "Family",
+                "Needs",
+                "When it is missing"
+              ],
+              "lignes": [
+                [
+                  "Survival & rest",
+                  "air, water, food, sleep, movement, physical safety",
+                  "Chronic fatigue, body tension, illness"
+                ],
+                [
+                  "Protection & safety",
+                  "stability, predictability, trust, clarity",
+                  "Hypervigilance, anxiety, need for control"
+                ],
+                [
+                  "Belonging & love",
+                  "connection, intimacy, warmth, tenderness, community",
+                  "Loneliness, jealousy, emotional dependence"
+                ],
+                [
+                  "Recognition & respect",
+                  "being seen, heard, taken seriously, valued",
+                  "Bitterness, provocation, craving attention"
+                ],
+                [
+                  "Autonomy & freedom",
+                  "choice, space, self-determination",
+                  "Irritability, escape, passive rebellion"
+                ],
+                [
+                  "Meaning & contribution",
+                  "purpose, growth, creativity, challenge",
+                  "Boredom, cynicism, feeling of emptiness"
+                ],
+                [
+                  "Integrity & authenticity",
+                  "coherence, honesty, alignment",
+                  "Shame, lying, inner conflict"
+                ],
+                [
+                  "Play & fullness",
+                  "joy, humour, lightness, beauty, celebration",
+                  "Gloom, rigidity, saturation"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "analogie",
+              "titre": "The water table",
+              "texte": "Under the surface of behaviors, silences and explosions lies an underground water table: needs. When it is high, the person is stable, generous, resilient. When it drops, surface behaviors become erratic — accusations, withdrawals, pleas. A water table does not empty at once: it drops drop by drop, with every unexpressed need, every boundary not set. The final crisis is not the explosion — it is the last drop."
+            },
+            {
+              "type": "table",
+              "titre": "Reading through attachment",
+              "colonnes": [
+                "Style",
+                "Central need",
+                "Typical boundary",
+                "Pitfall"
+              ],
+              "lignes": [
+                [
+                  "Secure",
+                  "balance of autonomy and intimacy",
+                  "sets boundaries calmly, without fear",
+                  "can seem distant to anxious partners"
+                ],
+                [
+                  "Anxious",
+                  "reassurance, closeness, predictability",
+                  "does not set boundaries (fear of abandonment) or sets them as ultimatums",
+                  "the boundary becomes a love test"
+                ],
+                [
+                  "Avoidant",
+                  "space, autonomy, non-intrusion",
+                  "sets strong boundaries but too early",
+                  "the boundary becomes a wall"
+                ],
+                [
+                  "Disorganized",
+                  "safety + closeness + space (a paradox)",
+                  "chaotic boundaries, alternating fusion/withdrawal",
+                  "neither intimacy nor distance feels safe"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "note",
+              "titre": "One channel does not compensate for another",
+              "texte": "The same need can be fed through several channels — real presence, conversation, public recognition. But a saturated channel does not fill a dried one: intense social recognition does not replace authentic connection. Taking stock of your water table means checking each need, not the average."
+            }
+          ]
+        },
+        {
+          "id": "13-3",
+          "titre": "Need vs strategy, need vs request",
+          "mots_cles": [
+            "need",
+            "strategy",
+            "request",
+            "negotiation",
+            "demand"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "A need is universal, abstract, non-negotiable in its existence. A strategy is a specific way of meeting it — and it is negotiable. Confusing the two is the most toxic source of conflict: we fight for a strategy while believing we are defending a need. Going upstream from the request to find the need gives us back our freedom."
+            },
+            {
+              "type": "table",
+              "titre": "Untangling need from strategy",
+              "colonnes": [
+                "« I need… » (confusion)",
+                "Real need",
+                "Fixed strategy",
+                "Openings"
+              ],
+              "lignes": [
+                [
+                  "…you to call me every night",
+                  "connection, reassurance",
+                  "daily call",
+                  "message, real presence, shared ritual"
+                ],
+                [
+                  "…us to meet 3 times a week",
+                  "intimacy, closeness",
+                  "fixed frequency",
+                  "intensity of presence, quality time"
+                ],
+                [
+                  "…him/her to change",
+                  "harmony, respect, alignment",
+                  "changing the other",
+                  "mutual adjustment, choice to stay or leave"
+                ],
+                [
+                  "…her to stop going out without me",
+                  "safety, inclusion",
+                  "controlling outings",
+                  "trust, communicating about plans"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "formule",
+              "titre": "The law of strategy",
+              "texte": "The more attached you are to a specific strategy, the more fragile the relationship. The more connected you are to your deep need, the more flexible and creative you become. A boundary set on a strategy is a negotiation; a boundary set on a need is an existential non-negotiable."
+            },
+            {
+              "type": "table",
+              "titre": "Need or request? — the restaurant and the movie",
+              "colonnes": [
+                "Person",
+                "Need",
+                "Request (strategy)",
+                "What is at stake"
+              ],
+              "lignes": [
+                [
+                  "Him",
+                  "rest",
+                  "« What if we went to a restaurant? »",
+                  "tired, needs not to cook"
+                ],
+                [
+                  "Her",
+                  "intimacy, quiet",
+                  "« I have prepared dinner at home »",
+                  "afraid of being disturbed at the restaurant"
+                ],
+                [
+                  "Both",
+                  "rest + intimacy",
+                  "picnic by the lake",
+                  "the third solution honours both needs"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "averti",
+              "titre": "The insatiable need",
+              "texte": "A need never translated into a concrete request, identifiable in time and space, appears to the other as a threat — an endless demand (« be more present », « love me more »). The request is not the abandonment of the need: it is its living form. And if the request is refused, the question becomes: which need of the other prevents the « yes »? Can we co-create another strategy?"
+            }
+          ]
+        },
+        {
+          "id": "13-4",
+          "titre": "The boundary as an expression of a need",
+          "mots_cles": [
+            "boundary",
+            "assertiveness",
+            "barrier",
+            "no",
+            "rights"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "A boundary is the visible expression of an invisible need. Set from the need, it is an act of clarity and love — for oneself and for the other. Set from reactivity, when the water table is already low, it becomes a wall: it cuts, punishes, dries up. Source principle: every boundary not set is a need not honoured; every boundary set without awareness of the need is an empty act."
+            },
+            {
+              "type": "table",
+              "titre": "The 3 layers of a boundary",
+              "colonnes": [
+                "Layer",
+                "Definition",
+                "Example"
+              ],
+              "lignes": [
+                [
+                  "1 — Behavioural",
+                  "what I do or no longer do",
+                  "« I no longer babysit Touka. »"
+                ],
+                [
+                  "2 — Strategic",
+                  "what I protect by setting it",
+                  "« I protect my time, my energy, my dignity. »"
+                ],
+                [
+                  "3 — Need",
+                  "the need that feeds the boundary",
+                  "« I need reciprocity and respect. »"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "The law of layers",
+              "texte": "A purely behavioural boundary is experienced as rejection, punishment, a whim. A boundary that communicates its need is an invitation: the other can understand, adapt, co-create."
+            },
+            {
+              "type": "table",
+              "titre": "Healthy boundary or wall?",
+              "colonnes": [
+                "Healthy boundary",
+                "Emotional barrier"
+              ],
+              "lignes": [
+                [
+                  "protects a need",
+                  "protects an unhealed wound"
+                ],
+                [
+                  "flexible, adjustable",
+                  "rigid, absolute"
+                ],
+                [
+                  "communicated",
+                  "imposed in silence"
+                ],
+                [
+                  "keeps connection through difference",
+                  "cuts connection"
+                ],
+                [
+                  "spoken from calm",
+                  "spoken from fear or anger"
+                ],
+                [
+                  "« I make this choice for myself »",
+                  "« you are the cause of my decision »"
+                ],
+                [
+                  "quick test: it brings relief",
+                  "quick test: it leaves you cold or triumphant"
+                ]
+              ]
+            },
+            {
+              "type": "protocole",
+              "titre": "Setting a boundary in 5 steps",
+              "etapes": [
+                "Identify the need touched: « Which need am I protecting? » — vital, adaptive or preference?",
+                "Choose the boundary on YOURSELF: « What do I no longer do? » — never « what must you change? »",
+                "Formulate in OSBD: fact, feeling, need, then the decision about yourself",
+                "Deliver from calm: chosen moment, steady tone, no apology, no justification",
+                "Hold: every new violation, same response, without anger. If the boundary never holds, that is information about the relationship — not a failure of assertiveness"
+              ],
+              "duree": "5 steps",
+              "quand": "Before sending the message, before the conversation, before the « yes » you will regret"
+            },
+            {
+              "type": "encadre",
+              "variante": "regle",
+              "titre": "The 3 truth tests of a boundary",
+              "texte": "1) Anchoring: can I name the need behind my boundary? If not, it is reactive. 2) Sovereignty: does it concern my own behaviour, not the other's? If not, it is a disguised demand. 3) Consequence: am I ready to live with the consequence of my boundary? If not, it is a bluff or a dependence."
+            }
+          ]
+        },
+        {
+          "id": "13-5",
+          "titre": "The 3 exits and the 4 traps of the mind",
+          "mots_cles": [
+            "violence",
+            "traps",
+            "judgment",
+            "duality",
+            "responsibility"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "Violence is not a nature: it is a habit, an old reflex — often the only vocabulary available for a need that has not found its words. « Violence is the expression of a frustration that has not found the words to say itself. » When a need is neither identified nor expressed, three paths open — and they correspond to known protectors."
+            },
+            {
+              "type": "table",
+              "titre": "The 3 exits when needs go unmet",
+              "colonnes": [
+                "Exit",
+                "Form",
+                "In the system (IFS)",
+                "The NVC path"
+              ],
+              "lignes": [
+                [
+                  "Violence by aggression / projection",
+                  "« I am unhappy because of… » — the scapegoat",
+                  "Firefighter Rager / accuser",
+                  "name your own need behind the anger"
+                ],
+                [
+                  "Violence by authority",
+                  "« With me, that is how it is! » — imposing without listening",
+                  "authoritarian Manager",
+                  "negotiable request + listening to the other's need"
+                ],
+                [
+                  "Violence against the self",
+                  "« I crush myself, I resign from myself » — giving up on oneself",
+                  "Critic + Exile",
+                  "self-empathy, then gradual expression"
+                ]
+              ]
+            },
+            {
+              "type": "table",
+              "titre": "The 4 traps of the mind",
+              "colonnes": [
+                "Trap",
+                "Example",
+                "Defusion (ACT)"
+              ],
+              "lignes": [
+                [
+                  "Judgments and labels",
+                  "« Oh, a punk! Another misfit! »",
+                  "« I am having the thought that… » — a thought, not a fact"
+                ],
+                [
+                  "Prejudices and automatic beliefs",
+                  "« Men are all machos »",
+                  "name the belief to see it, not to believe it"
+                ],
+                [
+                  "Binary system",
+                  "« Either I take care of others, or of myself »",
+                  "look for the third way — both, in some order"
+                ],
+                [
+                  "De-responsibilizing language",
+                  "« I have no choice », « It is the rule »",
+                  "« I choose to… because… » — awareness of choice"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "analogie",
+              "titre": "The fork and the drawer",
+              "texte": "A fork is stuck in the drawer; you pull, it resists, you pull harder, it jams more. You get annoyed, you shake it, you curse — until you ask yourself « what is really happening? » and push gently. Violence is that repeated pulling: a reflex that seemed effective and actually makes things worse. Stopping is pushing instead of pulling."
+            },
+            {
+              "type": "encadre",
+              "variante": "averti",
+              "titre": "Violence in velvet gloves",
+              "texte": "Emotional violence is infinitely more widespread than physical violence — and more dangerous because it is unnamed: punitive silence, irony, « you are overreacting », comparison, emotional blackmail (« if you loved me, you would… »). It drains the other's water table without leaving visible traces. It translates like everything else: a need behind the word, a request behind the reproach."
+            }
+          ]
+        },
+        {
+          "id": "13-6",
+          "titre": "« Stop being nice, be real »",
+          "mots_cles": [
+            "authenticity",
+            "nice",
+            "real",
+            "cut-off",
+            "self-empathy"
+          ],
+          "blocs": [
+            {
+              "type": "paragraphe",
+              "texte": "Thomas d'Ansembourg's diagnosis: to survive and fit in, we cut ourselves off from our feelings and needs — first to be attuned to dad, mum, the teacher, then to everyone except ourselves. This cut-off, presented as niceness, is inner violence that eventually turns against others. In IFS language: it is the contract of the Good Student, the manager who learned that saying « no » makes you lose love."
+            },
+            {
+              "type": "table",
+              "titre": "The nice vs the real",
+              "colonnes": [
+                "The « nice » one",
+                "The « real » one"
+              ],
+              "lignes": [
+                [
+                  "adapts to others' supposed expectations",
+                  "expresses what he or she truly lives"
+                ],
+                [
+                  "pleases to avoid conflict",
+                  "takes the risk of conflict for an authentic relationship"
+                ],
+                [
+                  "says « yes » while thinking « no »",
+                  "says what he or she thinks, kindly"
+                ],
+                [
+                  "waits for the other to guess his or her needs",
+                  "clearly expresses his or her needs"
+                ],
+                [
+                  "accumulates frustration and resentment",
+                  "frees himself or herself through right expression"
+                ],
+                [
+                  "the « nice dead person »",
+                  "alive, vibrant, connected"
+                ]
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "important",
+              "titre": "The fundamental question",
+              "texte": "« How to be oneself without ceasing to be with the other, how to be with the other without ceasing to be oneself? » Authenticity is not one criterion among others: it is the very condition of any relationship. If I cannot say what I feel without fear of it being used against me, nothing else matters."
+            },
+            {
+              "type": "liste",
+              "titre": "Practising like a foreign language",
+              "items": [
+                "Self-empathy first: offer yourself the listening you expect from others. If anger is too strong, you cannot be in empathy — translate yourself first.",
+                "Name before asking: widen your emotional vocabulary. A precise feeling (« I feel discouraged ») opens; a catch-all word (« I'm fine ») closes.",
+                "Negotiable request: let the other say no without punishment. A request that cannot hear « no » is a demand.",
+                "Say no without punishing: set the boundary on the behaviour, never on the person. « I can't » is information, not an attack.",
+                "Practice as hygiene: NVC is not a crisis technique, it is a daily discipline — a state of awareness to practise like a foreign language."
+              ]
+            },
+            {
+              "type": "encadre",
+              "variante": "formule",
+              "titre": "The 3 C's of the word that connects",
+              "texte": "Clarity: say what is, without innuendo. Conciseness: go to the essential, do not drown the request in justifications. Connection: speak from the heart, not from strategy. If it sounds fake, it is not NVC — it is technique. Posture first, sentence second."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossaire": {
+    "Acceptation": "Making space for a difficult inner experience without fighting it, fleeing it, or merging with it. Physiologically: the vagal brake maintains the Ventral even in the presence of activation.",
+    "Action engagée": "The concrete, observable act, which goes in the direction of values ​​- with all passengers on board, and the nervous system activated but regulated by the Ventral.",
+    "Anesthésieur": "Firefighter who extinguishes ALL inner experience (alcohol, substances, food, sleep). Massive dorsal.",
+    "Co-régulation": "A regulated nervous system (Ventral) lends its state to a dysregulated system. The fundamental mechanism of relational healing.",
+    "Défusion cognitive": "Observing a thought as a mental event without adhering to it as a truth. “I notice that part of me thinks that…” instead of “I am…”.",
+    "Dorsal vagal": "Oldest state of the ANS: freezing, collapse, dissociation. Place of Exiles and Anesthetic Firemen.",
+    "Évitement expérientiel": "The attempt to escape, modify or anesthetize an unwanted inner experience. Every Firefighter was created for this.",
+    "Exilé": "Wounded part, frozen in the past, which carries the pain that the system could not treat. Dorsal frozen + charge Sympathetic. This is the experience that the entire system avoids.",
+    "Fenêtre de tolérance": "The activation zone in which we can think, feel and act without being overwhelmed. Healing expands it.",
+    "Fusion cognitive": "The state where the person is stuck to their thoughts: the amygdala captures the prefrontal, the thought is experienced as reality.",
+    "Frein vagal": "The ability of the ventral vagus nerve to modulate sympathetic activation—the physiological mechanism of acceptance.",
+    "Hexaflex": "The 6 ACT processes: acceptance, defusion, present contact, self-as-context, values, committed action.",
+    "Manager": "Proactive protector, in chronic Sympathetic, who acts BEFORE to prevent the activation of the Exile. Accessible to dialogue.",
+    "Neuroception": "The unconscious safety/danger/threat scan, which precedes all conscious thought. Disrupted in trauma.",
+    "Orienting": "Turning your head and looking into the distance activates panoramic vision — a safety signal to the nervous system.",
+    "Pompier": "Reactive protector that acts AFTER the Exile is activated to put out the fire at all costs. Extreme Sympathetic or Massive Dorsal. We don't talk to him in the middle of a crisis.",
+    "Protecteur": "Part (Manager or Firefighter) who maintains an avoidance strategy to protect the system from an experience deemed unbearable.",
+    "Self": "The central, stable, compassionate consciousness. Is NOT a part: it contains all the parts without being defined by any. Its 8 Cs: Curiosity, Compassion, Calm, Clarity, Courage, Confidence, Creativity, Connection.",
+    "Système d'engagement social": "The ventral vagus circuit: voice, face, listen — the path to connection and safety.",
+    "Ventral vagal": "Security and connection status. The ONLY state where complete healing is possible. This is the continent to live in, not the island to visit."
+  }
+}

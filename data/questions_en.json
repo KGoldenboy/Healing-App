@@ -1,0 +1,128 @@
+{
+  "onboarding": {
+    "champs": [
+      "nom",
+      "genre",
+      "age"
+    ],
+    "genres": [
+      {
+        "id": "femme",
+        "label": "A woman"
+      },
+      {
+        "id": "homme",
+        "label": "A man"
+      },
+      {
+        "id": "autre",
+        "label": "Other / I prefer not to say"
+      }
+    ],
+    "consentements": [
+      {
+        "id": "avertissement_lu",
+        "texte": "I understand this tool is not medical advice and does not replace human support."
+      },
+      {
+        "id": "confidentialite_comprise",
+        "texte": "I understand that everything stays on this device, and that nothing is sent over the network."
+      }
+    ]
+  },
+  "discrimination": [
+    {
+      "id": "d1",
+      "question": "Overall, the behaviors you checked are mostly…",
+      "indice": "Discrimination Step 3: organized = Manager leads; explosive = Firefighter leads; repetitive and endured = Exile in action.",
+      "options": [
+        {
+          "label": "Organized, regular, anticipated (a daily strategy)",
+          "effet": {
+            "managers_bonus": 1
+          }
+        },
+        {
+          "label": "Explosive, compulsive, followed by shame (a crisis)",
+          "effet": {
+            "pompiers_bonus": 1
+          }
+        },
+        {
+          "label": "Repetitive, endured, replayed with the same people",
+          "effet": {
+            "exiles_bonus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "d2",
+      "question": "They mostly appear…",
+      "indice": "Anticipation points to the Manager who prevents; a recent wound points to the Firefighter; emptiness points to the Dorsal.",
+      "options": [
+        {
+          "label": "Before the event, in anticipation",
+          "effet": {
+            "managers_bonus": 1
+          }
+        },
+        {
+          "label": "After a specific wound (criticism, rejection, humiliation)",
+          "effet": {
+            "pompiers_bonus": 1
+          }
+        },
+        {
+          "label": "With emptiness, fatigue, dissociation",
+          "effet": {
+            "exiles_bonus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "d3",
+      "question": "Just BEFORE the behavior, the emotion rising is mostly…",
+      "indice": "The emotion that precedes is the key to the Exile (the 3 decoding questions).",
+      "options": [
+        {
+          "label": "Shame — \"I am worthless, laughable\"",
+          "effet": {
+            "exile_bonus": "humilie"
+          }
+        },
+        {
+          "label": "Emptiness — \"I do not exist\"",
+          "effet": {
+            "exile_bonus": "invisible"
+          }
+        },
+        {
+          "label": "The fear of being left, the lack",
+          "effet": {
+            "exile_bonus": "abandonne"
+          }
+        },
+        {
+          "label": "Plain fear — the world is not safe",
+          "effet": {
+            "exile_bonus": "terrifie"
+          }
+        },
+        {
+          "label": "Guilt — \"everything is my fault\"",
+          "effet": {
+            "exile_bonus": "coupable"
+          }
+        },
+        {
+          "label": "From overload, from duty — \"I have to save, I don't have the right to be a child\"",
+          "effet": {
+            "exile_bonus": "parentifie"
+          }
+        }
+      ]
+    }
+  ]
+}

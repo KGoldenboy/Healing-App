@@ -1,0 +1,338 @@
+{
+ "1": [
+  {
+   "domaine": "Écran / messagerie",
+   "cycle": "A accumule en silence pendant des jours → il envoie un message trop intense, soudain → B, en gêne, relit tout leur passé comme mensonge et prédation → A, effrayé par la gêne, fuit le conflit, se justifie, rejette la faute (Enfant Abandonné, puis Coupable) → B se referme à son tour → retour.",
+   "sortie": "A nomme son besoin à froid, en une phrase, avant que ça monte ; B dirait le sien sans accuser."
+  },
+  {
+   "domaine": "Repas / alcool",
+   "cycle": "B lance une remarque directe que A vit comme une humiliation → le Rageur de A explose d'un coup, en différé → B, surpris, attaque en retour → l'Enfant Humilié de A prend le contrôle, il s'effondre ou se tait → B culpabilise → retour.",
+   "sortie": "A écoute la remarque comme une donnée, pas un verdict ; B formule la critique sans viser la personne."
+  }
+ ],
+ "2": [
+  {
+   "domaine": "Séparation / conflit",
+   "cycle": "B se sent ignoré → il menace de partir, teste (Anxieux-préoccupé) → A, paniqué, s'exile pour processer, « j'ai besoin de 24 h » → B crie qu'il part → l'Enfant Abandonné de A prend le volant, il revient par un don au lieu de dire le besoin → B voit le don comme un calcul → retour.",
+   "sortie": "A remplace « c'est fini » par « j'ai besoin de 24 h, je reviens » ; B dit « j'ai peur de te perdre » au lieu de menacer de partir."
+  },
+  {
+   "domaine": "Soirée / couple",
+   "cycle": "B s'accroche, appelle, réclame une preuve → A se sent envahi par le Critique (Contrôleur), il gèle et s'éteint → B interprète le froid comme un abandon → la colère de B monte, il crie → Enfant Abandonné de A, il fuit → B culpabilise et poursuit → retour.",
+   "sortie": "A dit « je ne pars pas, j'ai besoin d'une pause » ; B supporte une phrase de réassurance au lieu de la crier."
+  }
+ ],
+ "3": [
+  {
+   "domaine": "Dette de soin / santé",
+   "cycle": "A donne, anticipe, sauve (Sauveur) → B reçoit sans jamais combler, en détresse permanente → A est vidé, son Critique dit « pas assez » → le Rageur de A explose, puis la honte → A redonne pour se racheter → Enfant Invisible de A : il n'existe qu'en donnant → retour.",
+   "sortie": "A s'exerce à dire « non » et à recevoir sans rendre ; B nomme un besoin sans le transformer en exigence."
+  },
+  {
+   "domaine": "Argent / vacances",
+   "cycle": "A paie tout pour exister à travers le don → B en profite puis le reproche (« tu ne t'occupes jamais de toi ») → le Sauveur de A se sent inutile, dévalorisé → il donne encore plus → B se rassasie et s'éloigne → Enfant Abandonné de A → retour.",
+   "sortie": "A fixe une limite (« je donne jusqu'ici ») ; B demande ce dont il a besoin au lieu de guetter la générosité."
+  }
+ ],
+ "4": [
+  {
+   "domaine": "Public / reconnaissance",
+   "cycle": "A a besoin d'être admiré (Arrogant, Gardien de l'image) → B, empathique, le valide sans limite → A se sent en droit, méprise, ne s'excuse jamais → B s'efface, avale l'humiliation → un jour la Rageuse de B explose, elle quitte → Enfant Humilié de A, il est anéanti par le regard qu'il voulait contrôler → retour.",
+   "sortie": "B exprime un « non » tôt, sans exploser ; A entend une critique sans la vivre comme une déchéance."
+  },
+  {
+   "domaine": "Couple / intimité",
+   "cycle": "A ne s'excuse jamais, garde le masque parfait → B absorbe, comprend tout, pardonne → A confond ce lâcher-prise avec sa supériorité → B s'éteint, Dorsal → l'absence d'empathie frappe l'Enfant Invisible de A (personne ne le voit vraiment) → A se met en colère ou se renferme → retour.",
+   "sortie": "A dit « pardon » concrètement une fois ; B ne pardonne pas automatiquement, il nomme ce qui l'a usée."
+  }
+ ],
+ "5": [
+  {
+   "domaine": "Conflit / reproche",
+   "cycle": "A se perçoit comme victime, rage rentrée (Narcissique vulnérable) → B valide, rassure, se coupe de ses besoins → A interprète un silence de B comme une persécution → l'Accusateur de A retourne tout contre B → B culpabilise et s'excuse → Enfant Coupable de A : il savoure d'avoir raison puis se détruit → retour.",
+   "sortie": "A nomme sa propre part dans le conflit ; B arrête de s'excuser de ce qu'il n'a pas fait."
+  },
+  {
+   "domaine": "Réseaux / comparaison",
+   "cycle": "A guette la reconnaissance des autres, se sent méprisé → B le sécurise, lui renvoie une image flatteuse → A doute que ce soit sincère, il teste, accuse → B se tait, blessé → A hurle en interne, se victimise → l'Enfant Humilié de A veut être vu sans avoir à demander → retour.",
+   "sortie": "A arrête de mesurer sa valeur au regard de B ; B dit « tu comptes pour moi » sans se soumettre."
+  }
+ ],
+ "6": [
+  {
+   "domaine": "Planning / repas",
+   "cycle": "A prévoit tout (Contrôleur), angoisse de l'imprévu → B oublie, improvise, change d'avis → A corrige, refait, s'énerve → son Rageur / Critique monte → B se sent contrôlé, il sème le chaos délibérément → l'Enfant Terrifié de A : sans cadre, il panique → retour.",
+   "sortie": "A lâche une variable non vitale ; B prévient avant de changer d'avis."
+  },
+  {
+   "domaine": "Départ / ponctualité",
+   "cycle": "A verrouille l'horaire, exige → B arrive en retard, oublie la clé → le Contrôleur de A se crispe, il surveille → B se sent jugé et fuit → l'Enfant Terrifié de A : l'imprévu = danger → il exige plus, B déserte → retour.",
+   "sortie": "A annonce une limite tolérable de retard ; B s'engage sur un seul avertissement."
+  }
+ ],
+ "7": [
+  {
+   "domaine": "Travail / projet",
+   "cycle": "A ne commence pas ou ne finit pas (Perfectionniste procrastinateur) → B livre tout à 80 %, sans peur → A admire puis enrage, « c'est pas fini » → son Critique l'écrase, il se bloque → B, insouciant, n'y comprend rien, il insiste → A se sent jugé, honteux, Enfant Humilié → retour.",
+   "sortie": "A autorise une version « assez bien » à date fixe ; B livre même imparfait et le dit."
+  },
+  {
+   "domaine": "Maison / rangement",
+   "cycle": "A veut un chez-soi impeccable (Perfectionniste) → B joue, laisse traîner, ne voit pas le désordre → le Critique de A râle, il refait tout → B se sent infantilisé, il en fait exprès → l'Enfant Humilié de A : l'ordre est sa valeur d'existence → retour.",
+   "sortie": "A accepte deux zones imparfaites ; B range une chose en gagnant l'espace de jeu."
+  }
+ ],
+ "8": [
+  {
+   "domaine": "Soirée / groupe",
+   "cycle": "A préfère être seul (Ermite), méfiance → B se lie en une soirée, se confie vite, envahit → A se sent aspiré, son Ermite dresse un mur → B, frustré, en parle aux autres → A interprète ça comme une trahison → l'Enfant Terrifié de A : la foule et la confiance = danger → retour.",
+   "sortie": "A prévient de son besoin de sortie ; B limite ses confidences aux sujets profonds."
+  },
+  {
+   "domaine": "Famille / fêtes",
+   "cycle": "A fuit les réunions, annule au dernier moment (Ermite) → B insiste, appelle, « viens, on t'attend » → A se sent piégé, son système monte → B se sent rejeté, il est blessé → l'Enfant Abandonné de B → il se fâche, A cède de culpabilité puis le vit mal → retour.",
+   "sortie": "A propose une présence courte et définie ; B accepte une formule partielle sans rancune."
+  }
+ ],
+ "9": [
+  {
+   "domaine": "Dispute / rumination",
+   "cycle": "A analyse pour ne pas sentir (Intellectualiseur), alexithymie → B est volcanique, dit tout, déborde → A se ferme, raisonne, déshumanise la douleur de B → B crie pour être entendu → l'Enfant Invisible de A : sentir = se noyer → il fuit dans la théorie → B se sent seule → retour.",
+   "sortie": "A nomme UNE émotion avec son corps ; B dit la sienne en une phrase, sans enchaîner."
+  },
+  {
+   "domaine": "Repas / sous tension",
+   "cycle": "B vide son ressenti à table, pleure ou crie → A, mal à l'aise, cognitise, « il faut mettre des mots », relativise → B se sent invalidé, monte → le Froid de A gèle tout → l'Enfant Coupable de A : si je ressens, je fais du mal → il s'excuse mécaniquement sans sentir → retour.",
+   "sortie": "A accueille l'émotion de B sans la résoudre ; B demande à être entendu, pas corrigé."
+  }
+ ],
+ "10": [
+  {
+   "domaine": "Erreur / responsabilité",
+   "cycle": "A projette toutes les fautes (Accusateur), « remets-toi en question » → B, coupable chronique, s'excuse de tout et porte → A en rajoute, se sent justifié → B se tait, avale, s'effondre en interne → l'Enfant Coupable de A : s'il ne dénonce pas, il est la faute → il accuse davantage → retour.",
+   "sortie": "A pose SA part d'erreur avant de parler de celle de B ; B arrête de s'excuser de ce qui n'est pas à lui."
+  },
+  {
+   "domaine": "Repas / impondérable",
+   "cycle": "Une réservation rate → A explose, c'est la faute de B → B se confond en excuses, se rabaisse → A se sent en colère légitime → B, à force, retourne l'accusation dans une éruption (Rageuse) → l'Enfant Humilié de A → il s'effondre à son tour → retour.",
+   "sortie": "A nomme le contretemps sans coupable ; B dit « je n'accepte pas d'être la faute »."
+  }
+ ],
+ "11": [
+  {
+   "domaine": "Sexualité",
+   "cycle": "A vit le désir comme preuve d'existence (Hypersexuel Séducteur) → B a la libido éteinte, peur de l'intimité → A s'approche, est débordant → B se ferme, gèle → A se sent rejeté, sa valeur s'effondre (Enfant Humilié) → il court après d'autres conquêtes pour exister → B se sent instrumentalisée → retour.",
+   "sortie": "A sépare le désir de sa valeur ; B nomme sa peur de l'intimité sans rejeter A."
+  },
+  {
+   "domaine": "Précarité / émotion",
+   "cycle": "A est en détresse, cherche l'étreinte pour se sentir vivant → B, bloqué sexuel, réconforte avec des mots mais évite le corps → A vit ce vide comme un rejet → il provoque, séduit, se met en scène → l'Enfant Invisible de A : sans désir reflété, il n'existe pas → B se sent utilisée → retour.",
+   "sortie": "A demande explicitement « est-ce que je compte pour toi ? » ; B offre du contact non ambigu."
+  }
+ ],
+ "12": [
+  {
+   "domaine": "Réunion / mensonge",
+   "cycle": "A embellit, arrange, ment pour l'image (Gardien de l'image, Menteur) → B, hyper-honnête, dit la vérité brute → A est pris en flagrant délit, se sent humilié → le Froid / l'Accusateur de A monte, il contre-attaque → B insiste, démonte → l'Enfant Humilié de A : être démasqué = être détruit → retour.",
+   "sortie": "A dit la vérité même moche sur un point mineur ; B annonce la vérité avec un mot d'empathie."
+  },
+  {
+   "domaine": "Couple / non-dits",
+   "cycle": "A promet l'impossible pour plaire, biaise → B, brutal de franchise, révèle l'écart → A se sent acculé, il double la mise ou fuit → B, dégoûté, se ferme → l'Enfant Coupable de A → il s'enferre → B le quitte mentalement → retour.",
+   "sortie": "A promet moins mais tient ; B tempère la franchise d'un « je veux que ça tienne »."
+  }
+ ],
+ "13": [
+  {
+   "domaine": "Sexualité / abstinence",
+   "cycle": "A vit ses pulsions comme coupables, s'interdit (Ascète) → B est débridé, vit le corps sans honte → A juge B, moralise, se retire → B se sent anormal, se rebelle d'autant plus → A se referme, son Enfant Coupable crie intérieurement → B se moque ou le défie → retour.",
+   "sortie": "A dit « je sens un jugement en moi, pas sur toi » ; B accepte le rythme de A sans le défier."
+  },
+  {
+   "domaine": "Repas / plaisir",
+   "cycle": "A contrôle son assiette, le plaisir est suspect (Contrôleur Ascète) → B savoure, dépense, déborde → A surveille et critique → B se sent libre ? non, surveillé → il exagère pour se libérer → l'Enfant Terrifié de A : perdre le contrôle = danger → retour.",
+   "sortie": "A autorise un plaisir délimité ; B contient l'excès dans un cadre convenu."
+  }
+ ],
+ "14": [
+  {
+   "domaine": "Repos / week-end",
+   "cycle": "A travaille pour exister (Workaholique), ne sait pas ne rien faire → B est oisif, flâne sans culpabilité → A admire puis juge, « tu perds ton temps » → B se sent inutile à ses yeux, se couche → A reprend la charge, s'épuise → son Rageur / Dorsal s'active, il craque → Enfant Invisible de A : sans produire, il n'est rien → retour.",
+   "sortie": "A planifie un vrai repos d'une heure et l'observe ; B valorise son repos à voix haute."
+  },
+  {
+   "domaine": "Budget / maison",
+   "cycle": "A porte tout, remplit tout, s'épuise (Survivante) → B ne produit rien, « je vis ma vie » → A nourrit un ressentiment muet → son Critique explose soudain, accuse B de profiter → B se sent attaqué, s'évade → l'Enfant Abandonné de A : si je m'arrête, est-ce qu'on me veut encore ? → retour.",
+   "sortie": "A demande de l'aide concrète avant l'explosion ; B propose une tâche réelle non sollicitée."
+  }
+ ],
+ "15": [
+  {
+   "domaine": "Débat / contradiction",
+   "cycle": "A se croit supérieur, méprise (Arrogant) → B se rabaisse, refuse les compliments, se couche → A confond cette soumission avec sa valeur → B, à force, explose ou pleure → l'Enfant Humilié de A se fissure (il ne peut pas être aimé s'il ne domine pas) → A se referme plus fort → retour.",
+   "sortie": "B se tient debout sur un désaccord ; A entend une infériorité sans se croire anéanti."
+  },
+  {
+   "domaine": "Réseaux / image",
+   "cycle": "A étale sa réussite, attend l'admiration (Arrogant / Gardien de l'image) → B se compare, se dévalorise en silence → A ne voit pas la blessure → B s'éteint, s'isole → l'Enfant Invisible de B → A se sent seul sans miroir → il en remet une couche → retour.",
+   "sortie": "A demande « qu'est-ce qui te ferait du bien ? » ; B ose dire qu'il est blessé."
+  }
+ ],
+ "16": [
+  {
+   "domaine": "Famille / repas",
+   "cycle": "A fait rire pour être gardé (Clown), jamais sérieux → B est grave, tout est sérieux → A sent que B s'ennuie de lui → il force, exagère le clown → B se ferme, moralise → l'Enfant Abandonné de A : sans rire, on ne le garde pas → A s'effondre ou fuit → retour.",
+   "sortie": "A ose un moment sérieux sans humour ; B remercie A pour sa sensibilité, pas pour son numéro."
+  },
+  {
+   "domaine": "Crise / deuil",
+   "cycle": "une situation grave surgit → A blague pour désamorcer son malaise (Clown) → B la prend mal, « ce n'est pas un sujet de blague » → A se sent rejeté → son Rageur ou son Fuyard monte → B se ferme, triste → l'Enfant Invisible de A : il n'arrive pas à être pris au sérieux → retour.",
+   "sortie": "A dit « je blague parce que je suis dépassé, aide-moi » ; B accueille l'impuissance de A."
+  }
+ ],
+ "17": [
+  {
+   "domaine": "Argent / restaurant",
+   "cycle": "A angoisse de dépenser (Thésauriseur), surveille → B dépense, savoure, « la vie est courte » → A se crispe, reproche → B se sent bridé, dépense d'autant plus → le Contrôleur de A panique (Enfant Terrifié : manquer = danger) → retour.",
+   "sortie": "A fixe un budget plaisir non-négociable ; B tient le cadre convenu sans le déborder."
+  },
+  {
+   "domaine": "Projet commun / achat",
+   "cycle": "A reporte, hésite, resserre l'épargne → B veut, achète impulsivement → A corrige, retire → B se sent infantilisé, se rebelle → l'Enfant Terrifié de A → il reprend le contrôle sur l'argent → B vit l'argent comme joie, A comme sécurité → conflit → retour.",
+   "sortie": "A annonce « nous avons X pour ça » ; B attend une décision conjointe pour ce montant."
+  }
+ ],
+ "18": [
+  {
+   "domaine": "Réseaux / sortie",
+   "cycle": "A surveille, jaloux, possessif (Jaloux Contrôleur) → B vit sa vie, ne rend pas de comptes → A interroge, fouille, exige des preuves → B se sent oppressé, s'éloigne encore → l'Enfant Abandonné de A : plus B est libre, plus A craint de le perdre → retour.",
+   "sortie": "A exprime la peur (« j'ai peur de te perdre ») au lieu de surveiller ; B rassure spontanément par un geste."
+  },
+  {
+   "domaine": "Couple / amis",
+   "cycle": "B a des amis sans A, part sans lui (Libre) → A en souffre, pose des règles → B se sent en prison, cache des sorties → A les découvre, rage, accusateur → l'Enfant Abandonné de A → B voit la projection et a peur → retour.",
+   "sortie": "A demande un moment partagé pour se sentir sécurisé ; B annonce ses sorties sans les cacher."
+  }
+ ],
+ "19": [
+  {
+   "domaine": "Retour / besoin",
+   "cycle": "A ne vit que dans le couple (Dépendant affectif), angoisse de séparation → B est hyper-indépendant, « je n'ai besoin de personne » → A appelle, vérifie, s'accroche → B se sent étouffé, prend de la distance → l'Enfant Abandonné de A panique, il s'accroche plus → B fuit davantage → retour.",
+   "sortie": "A cultive une activité hors-couple ; B initie une proximité avant d'être demandé."
+  },
+  {
+   "domaine": "Conflit / réconciliation",
+   "cycle": "Après une dispute, A craint que ce soit la fin, il re-fusionne précipitamment → B a besoin de solitude pour se réparer → A vit ce besoin comme un abandon → il supplie, exige la proximité → B se referme → l'Enfant Humilié de A : dépendre = être rejeté → retour.",
+   "sortie": "A tolère 24 h de recul ; B revient et le manifeste explicitement."
+  }
+ ],
+ "20": [
+  {
+   "domaine": "Santé / épuisement",
+   "cycle": "A soigne, sauve, aide (Soignant Sauveur) → B est en crise permanente, mal aimé se laisse porter → A se vide, n'écoute plus lui → son pompe Dorsal / le Glouton s'activent le soir → B réclame encore → l'Enfant Parentifié de A : s'il ne sauve pas, il n'a pas le droit d'être enfant → retour.",
+   "sortie": "A co-che l'heure où il arrête de sauver ; B apprend à demander à plusieurs sources, pas qu'à A."
+  },
+  {
+   "domaine": "Repas / plainte",
+   "cycle": "B répète la même plainte (maladie, fatigue) → A écoute, propose des solutions → B « oui mais » → A s'épuise, son Critique murmure « toujours pareil » → le Rageur de A explose → B se sent abandonné, il en rajoute → l'Enfant Coupable de A → retour.",
+   "sortie": "A dit « je ne peux pas te sauver, mais je suis là » ; B nomme ce qu'il attend de précis (écouter, pas résoudre)."
+  }
+ ],
+ "21": [
+  {
+   "domaine": "Voyage / improvisation",
+   "cycle": "A planifie, ritualise tout (Planificateur) → B improvise, tout est possible → A corrige l'itinéraire, s'énerve → B change encore → le Contrôleur de A se crispe (Enfant Terrifié : sans plan, danger) → retour.",
+   "sortie": "A garde un créneau libre dans le plan ; B prévient avant de tout défaire."
+  },
+  {
+   "domaine": "Repas / horaires",
+   "cycle": "A veut le repas à heure fixe, un rituel → B mange quand il veut, grignote → A se sent ignoré, son cadrage vacille → il impose, le jugement monte → B vit ça comme un contrôle → l'Enfant Terrifié de A → retour.",
+   "sortie": "A associe B aux horaires comme à un choix commun ; B respecte un rituel fixe choisi par les deux."
+  }
+ ],
+ "22": [
+  {
+   "domaine": "Sport / rituel",
+   "cycle": "A est sédentaire, corps éteint, énergie basse (Dorsal) → B est sensoriel, adrénaline, sportif → B entraîne, presse → A se sent nul, n'arrive pas → le Bloqueur / l'Ermite de A fuit → B se décourage, se moque doucement → l'Enfant Humilié de A → retour.",
+   "sortie": "A choisit une activité légère et basse intensité ; B célèbre la constance, pas la performance."
+  },
+  {
+   "domaine": "Corps / amour",
+   "cycle": "A ignore son corps, énergie éteinte → B, tactile et sensoriel, veut des activités fortes → A se sent en faute, se couche → B est frustré, va dépenser son énergie seul → l'Enfant Invisible de A : son corps ne compte pas → B se sent seul dans son corps vivant → retour.",
+   "sortie": "A réveille son corps par un micro-geste quotidien ; B apprivoise son intensité pour ne pas en exiger."
+  }
+ ],
+ "23": [
+  {
+   "domaine": "Conflit ancien / pardon",
+   "cycle": "A garde la liste, ne pardonne pas (Rancunier) → B lâche, oublie, « je passe à autre chose » → A remet l'affaire sur la table → B croit que tout est réglé, il est déstabilisé → A se sent en droit, l'Accusateur monte → B pense que A veut le conflit → l'Enfant Coupable de A (ou Abandonné) → retour.",
+   "sortie": "A dit ce qui n'est pas réglé au moment où ça commence ; B s'engage sur une réparation précise, pas sur un oubli."
+  },
+  {
+   "domaine": "Famille / fête",
+   "cycle": "Lors d'une fête, une vieille blessure ressort → A se ferme, rumine, punit silencieusement (Rancunier) → B ne voit rien, profite → A le vit comme une indifférence → il s'isole, boude en interne → B, libre, ne comprend pas → l'Enfant Abandonné de A (personne ne répare) → retour.",
+   "sortie": "A nomme sa blessure le soir même ; B écoute sans nier l'histoire de A."
+  }
+ ],
+ "24": [
+  {
+   "domaine": "Affection / tendresse",
+   "cycle": "A est froid, distant, « je n'ai pas besoin d'affection » (Froid / Ermite) → B est tactile, câlin, démonstratif → B se blottit, A se crispe, se retire → B se sent rejeté, il en fait plus → A fuit davantage → l'Enfant Terrifié de A : le contact = l'exposition → retour.",
+   "sortie": "A définit un contact qu'il tolère et le demande ; B dit le besoin d'un câlin au lieu de le prendre de force."
+  },
+  {
+   "domaine": "Crise / consolation",
+   "cycle": "B est bouleversé, a besoin d'être serré → A se fige, offre des solutions ou du silence → B se sent seul dans sa douleur → A, mal à l'aise, s'occupe ailleurs → l'Enfant Abandonné de B → B le repousse froidement → A se sent coupable → retour.",
+   "sortie": "A consent à un contact convenu pendant la détresse ; B formule « je veux juste que tu restes »."
+  }
+ ],
+ "25": [
+  {
+   "domaine": "Décision / imprévu",
+   "cycle": "A agit d'abord, réfléchit après, regrette (Réactif) → B pense d'abord, agit après, rate parfois l'instant → A précipite, B hésite → le Persécuteur de A l'accuse de mal faire, B de ne pas vivre → l'Enfant Humilié de A se révolte ou s'effondre → retour.",
+   "sortie": "A impose une pause de 5 min avant de trancher ; B se donne un délai pour répondre."
+  },
+  {
+   "domaine": "Dispute / escalade",
+   "cycle": "la tension monte → A crie, jette, agit impulsivement (Réactif) → B se tait, recule, analyse → A interprète le silence comme un mépris, il en rajoute → B « rate l'instant » et laisse brûler → l'Enfant Terrifié de A → retour.",
+   "sortie": "A dit « je suis trop chaud, je reviens dans 10 min » ; B revient discuter après la pause sans reproche."
+  }
+ ],
+ "26": [
+  {
+   "domaine": "Conflit de pouvoir / travail",
+   "cycle": "A est Rouge : force, combat, immédiateté (Accusateur/Survivant, réactivité) → B est Bleu/Orange : ordre, analyse, projet → A veut la puissance directe, B veut le cadre → chacun voit l'autre comme une menace → l'Enfant Terrifié de A (perdre le combat) et l'Enfant Humilié de B (être dépassé) → retour.",
+   "sortie": "A convertit une envie de pouvoir en demande claire ; B donne à A une position d'impact rapide."
+  },
+  {
+   "domaine": "Décision d'équipe",
+   "cycle": "A tranche vite, veut gagner (Rouge) → B analyse, planifie long (Bleu/Orange) → A perçoit la lenteur de B comme faiblesse, B la hâte d'A comme danger → le Conflit explose → chacun projette son ombre sur l'autre → retour.",
+   "sortie": "A propose une étape rapide gagnable ; B montre que le cadre protège A, pas qu'il le bride."
+  }
+ ],
+ "27": [
+  {
+   "domaine": "Accusation / domination",
+   "cycle": "A se présente comme victime de tout, « oui mais », refus des solutions → B assume un rôle de bourreau, domine, humilie (dans la version la plus sombre) → A joue la plainte pour être vu, B la domination pour se sentir puissant → chacun déclenche l'ombre de l'autre → l'Enfant Humilié chez les deux → escalade ou dépendance → retour.",
+   "sortie": "A sort du rôle de victime en nommant un pouvoir ; B sort du rôle de bourreau en désamorçant la domination."
+  },
+  {
+   "domaine": "Récit / réalité",
+   "cycle": "A répète qu'il subit, accumule les preuves de l'injustice → B, exaspéré, « c'est assez, assume » → A se sent incompris, hijacké, se victimise plus → B durcit, domine → l'Enfant Coupable et l'Enfant Humilié de A se renforcent mutuellement → retour.",
+   "sortie": "A reconnaît une part de responsabilité minime ; B remplace le mépris par un cadre ferme et juste."
+  }
+ ],
+ "28": [
+  {
+   "domaine": "Rythme / quotidien",
+   "cycle": "A est lent, ascète, statiquement méditatif (Sage) → B est agité, pressé, hyperactif → B presse, A s'arrête → B vit le rythme de A comme une perte, A celui de B comme une hystérie → l'Enfant Terrifié de A (l'agitation = danger) et l'Enfant Inquiet de B (l'arrêt = la mort) → retour.",
+   "sortie": "A pose un temps commun de pause ; B voit en A non une lenteur mais une profondeur."
+  },
+  {
+   "domaine": "Projet / énergie",
+   "cycle": "A savoure le processus, sans hâte → B veut du résultat tout de suite, s'active → A le trouve bruyant, B le trouve mou → le Contrôleur de B s'emballe, A se replie → l'Enfant Invisible de A (sa profondeur n'est pas vue) → retour.",
+   "sortie": "A montre ce que la lenteur produit ; B alloue un temps de calme sans le remplir."
+  }
+ ]
+}

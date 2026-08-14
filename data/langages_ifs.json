@@ -1,0 +1,45 @@
+{
+  "intro": "Les langages de l'excuse (Chapman & Thomas) sont les outils de communication ; l'IFS est la carte de la psyché. En les conjuguant, on ne formule plus des excuses polies, mais des actes de guérison systémique ciblés sur la partie qui en a le plus besoin. De même, les langages de l'amour (Chapman) sont les formes que prend l'énergie du Self : en repérant la partie affamée d'amour, on sait quel langage injecter — par l'autre ou par son propre Soi.",
+  "roles": {
+    "exiles": {
+      "nom": "Exilés",
+      "besoin": "Le besoin de réparation émotionnelle profonde, d'être vu, aimé et rassuré.",
+      "excuses": [
+        { "langage": "Exprimer des regrets", "pourquoi": "L'exilé a besoin d'entendre que sa douleur est vue et ressentie. Cela valide son expérience." },
+        { "langage": "Demander pardon", "pourquoi": "En demandant pardon, l'émetteur se met en position de vulnérabilité : le pouvoir est rendu à l'exilé qui se sentait impuissant." }
+      ],
+      "amour": [
+        { "langage": "Paroles valorisantes", "pourquoi": "Le baume contre la honte : contredit directement la croyance d'indignité de l'exilé." },
+        { "langage": "Moments de qualité", "pourquoi": "Soigne la blessure d'abandon et d'invisibilité : l'autre pleinement présent, sans filtre mental." },
+        { "langage": "Toucher physique", "pourquoi": "Parle directement à l'enfant intérieur, calme l'angoisse de séparation sans passer par le mental." }
+      ],
+      "piege": "Des excuses intellectuelles ne marchent pas. Si l'excuse est émise par un Manager rigide, l'exilé de l'autre ne se sentira pas en sécurité et refusera l'excuse."
+    },
+    "managers": {
+      "nom": "Managers",
+      "besoin": "Le besoin de contrôle, d'ordre, de prévisibilité et de soutien.",
+      "excuses": [
+        { "langage": "Reconnaître sa responsabilité", "pourquoi": "Le manager déteste les rationalisations. Il a besoin d'une prise de responsabilité claire et sans défense." },
+        { "langage": "Exprimer un repentir sincère", "pourquoi": "Un plan concret sécurise l'avenir : le manager veut savoir comment la situation ne se reproduira plus." }
+      ],
+      "amour": [
+        { "langage": "Services rendus", "pourquoi": "LE langage clé du manager : « je peux baisser la garde, quelqu'un d'autre gère. » Il peut se détendre (soften)." },
+        { "langage": "Cadeaux", "pourquoi": "Moin la valeur financière que la preuve de fiabilité et de prévenance : « l'autre anticipe mes besoins, je suis en sécurité. »" }
+      ],
+      "piege": "Une excuse purement émotionnelle, sans plan de changement, sera vue par le manager comme de la manipulation ou de la faiblesse inefficace."
+    },
+    "pompiers": {
+      "nom": "Pompiers",
+      "besoin": "Le besoin d'apaisement immédiat de la crise et de décharge.",
+      "excuses": [
+        { "langage": "Réparer", "pourquoi": "Une action concrète et immédiate baisse la tension : le pompier réagit à l'injustice manifeste." },
+        { "langage": "Reconnaître sa responsabilité", "pourquoi": "Une reconnaissance cash et sans défensive coupe le carburant du pompier adverse et évite l'escalade." }
+      ],
+      "amour": [
+        { "langage": "Toucher physique", "pourquoi": "Un toucher ferme ou une étreinte désactive un pompier en crise en régulant le système nerveux : « la crise est finie »." },
+        { "langage": "Services rendus", "pourquoi": "Prendre le relais immédiatement face à une source de stress (verre d'eau, isoler du bruit) désamorce le pompier." }
+      ],
+      "piege": "Attendre qu'un pompier activé pardonne immédiatement est inutile. Il doit d'abord voir le danger s'éloigner (réparation) avant de laisser place au Self ou à l'exilé."
+    }
+  }
+}

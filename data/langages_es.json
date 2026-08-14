@@ -1,0 +1,45 @@
+{
+  "intro": "Los 5 lenguajes de la disculpa (Chapman y Thomas) son las herramientas de comunicación; el IFS es el mapa de la psique. Al conjugarlos, ya no damos disculpas corteses, sino actos de sanación sistémica dirigidos a la parte que más los necesita. Del mismo modo, los 5 lenguajes del amor (Chapman) son las formas que toma la energía del Self: al detectar la parte hambrienta de amor, sabemos qué lenguaje inyectar — desde la pareja o desde el propio Self.",
+  "roles": {
+    "exiles": {
+      "nom": "Exiliados",
+      "besoin": "La necesidad de reparación emocional profunda, de ser visto, amado y tranquilizado.",
+      "excuses": [
+        { "langage": "Expresar arrepentimiento", "pourquoi": "El exiliado necesita oír que su dolor es visto y sentido. Esto valida su experiencia." },
+        { "langage": "Pedir perdón", "pourquoi": "Al pedir perdón, el emisor se coloca en posición de vulnerabilidad: el poder regresa al exiliado que se sentía impotente." }
+      ],
+      "amour": [
+        { "langage": "Palabras de afirmación", "pourquoi": "El bálsamo contra la vergüenza: contradice directamente la creencia de indignidad del exiliado." },
+        { "langage": "Tiempo de calidad", "pourquoi": "Cura la herida de abandono e invisibilidad: el otro plenamente presente, sin filtro mental." },
+        { "langage": "Contacto físico", "pourquoi": "Habla directamente con el niño interior y calma la angustia de separación sin pasar por la mente." }
+      ],
+      "piege": "Las disculpas intelectuales no funcionan. Si la disculpa viene de un Manager rígido, el exiliado del otro no se sentirá seguro y la rechazará."
+    },
+    "managers": {
+      "nom": "Managers",
+      "besoin": "La necesidad de control, orden, previsibilidad y apoyo.",
+      "excuses": [
+        { "langage": "Aceptar la responsabilidad", "pourquoi": "El manager detesta las racionalizaciones. Necesita un reconocimiento claro de responsabilidad, sin defensas." },
+        { "langage": "Expresar arrepentimiento sincero", "pourquoi": "Un plan concreto asegura el futuro: el manager quiere saber cómo no se repetirá la situación." }
+      ],
+      "amour": [
+        { "langage": "Actos de servicio", "pourquoi": "EL lenguaje clave del manager: «puedo bajar la guardia, otro se encarga». Puede relajarse (soften)." },
+        { "langage": "Regalos", "pourquoi": "Menos el valor económico que la prueba de fiabilidad y previsión: «el otro anticipa mis necesidades, estoy seguro»." }
+      ],
+      "piege": "Una disculpa puramente emocional, sin plan de cambio, será vista por el manager como manipulación o debilidad ineficaz."
+    },
+    "pompiers": {
+      "nom": "Bomberos",
+      "besoin": "La necesidad de alivio inmediato de la crisis y de descarga.",
+      "excuses": [
+        { "langage": "Reparar", "pourquoi": "Una acción concreta e inmediata baja la tensión: el bombero reacciona ante la injusticia manifiesta." },
+        { "langage": "Aceptar la responsabilidad", "pourquoi": "Un reconocimiento rápido y sin defensas corta el combustible del bombero contrario y evita la escalada." }
+      ],
+      "amour": [
+        { "langage": "Contacto físico", "pourquoi": "Un contacto firme o un abrazo desactiva a un bombero en crisis regulando el sistema nervioso: «la crisis terminó»." },
+        { "langage": "Actos de servicio", "pourquoi": "Tomar el relevo de inmediato ante un factor de estrés (un vaso de agua, aislar del ruido) desactiva al bombero." }
+      ],
+      "piege": "Es inútil esperar que un bombero activado perdone de inmediato. Primero debe ver alejarse el peligro (la reparación) antes de dejar paso al Self o al exiliado."
+    }
+  }
+}

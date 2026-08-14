@@ -1,0 +1,34 @@
+{
+ "titre": "Ma pierre de touche",
+ "ouverture": "La voix qui m'a dit {voix} — je l'entends encore. Mais je sais d'où elle vient : elle a été prononcée un jour, sur un enfant, par quelqu'un qui avait tort.",
+ "voix": {
+  "humilie": "que j'étais {accord:nul:nulle}",
+  "invisible": "que je n'existais que par ce que j'apportais",
+  "abandonne": "qu'on finirait toujours par me quitter",
+  "terrifie": "que le monde n'était pas sûr",
+  "coupable": "que tout était ma faute",
+  "parentifie": "que je devais tout porter, tout réparer, tout sauver"
+ },
+ "verites": {
+  "humilie": "Je ne suis pas ce qu'on m'a dit que j'étais. La preuve que je vaux est déjà là : je suis encore debout.",
+  "invisible": "J'existais avant le premier don, avant le premier service — et j'existe encore quand je n'apporte rien.",
+  "abandonne": "J'ai survécu à chaque départ. Je peux être {accord:quitté:quittée} et rester {accord:entier:entière}.",
+  "terrifie": "Mon corps a fait exactement ce qu'il devait pour me garder en vie. La guerre est finie.",
+  "coupable": "Je n'étais pas la faute. J'étais l'enfant — et un enfant n'est jamais coupable des choses trop grandes pour lui.",
+  "parentifie": "Je n'ai jamais eu à sauver personne. Aujourd'hui, je rends le rôle : je n'ai plus à sauver, j'ai à recevoir."
+ },
+ "cloture": "Aujourd'hui, je reprends ces trois voix une à une — je les remercie d'avoir protégé l'enfant que j'étais, et je ne les laisse plus décider de ma vie. Je suis là. Je reste. Je vis.",
+ "pourquoi": [
+  "Ces voix ne sont pas des vérités : ce sont des paroles reçues un jour, et répétées depuis. Les nommer, c'est commencer à les déposer.",
+  "Chaque vérité répond à une voix précise — pas à une consolation générale. Le corps reconnaît, et se calme.",
+  "Une seule phrase à relire dans les moments de doute : « Je suis là. Je reste. Je vis. »"
+ ],
+ "declencheur": {
+  "invisible": "Tu ne vaux rien. Personne ne te voit, personne ne t'a jamais vraiment vu. Tu n'existes que par ce que tu apportes — et tu n'apportes rien. Tu finiras seul, et personne ne viendra. Même toi, tu ne t'aimes pas.",
+  "humilie": "Tu es {accord:nul:nulle}. Regarde-toi : {accord:laid:laide}, {accord:ridicule:ridicule}, une honte. Tout le monde le voit, tout le monde se moque dans ton dos. Tu n'as jamais rien réussi — tu ne réussiras jamais rien. Tu es indigne d'être {accord:aimé:aimée}.",
+  "abandonne": "Personne ne restera. Tout le monde finit par partir — et c'est de ta faute. Tu es trop {accord:lourd:lourde}, trop {accord:pénible:pénible}, trop {accord:exigeant:exigeante}. Regarde : ils sont déjà partis, et les prochains partiront aussi. Tu es {accord:fait:faite} pour être {accord:quitté:quittée}.",
+  "terrifie": "Tu n'es pas en sécurité. Tu ne l'as jamais été, tu ne le seras jamais. Le danger est partout, il te guette, il t'attend. Le jour où tu te relâcheras, ce sera la fin. Ton corps a raison de trembler.",
+  "coupable": "Tout est ta faute. Regarde ce que tu as cassé, ce que tu as fait subir, ce que tu n'as pas su empêcher. Les autres souffrent à cause de toi. Tu ne répareras jamais. Tu n'as pas droit au repos, pas droit au pardon.",
+  "parentifie": "Tu dois tout porter. Personne ne le fera à ta place — tu es {accord:seul:seule}, tu l'as toujours été. Si tu lâches, tout s'effondre, et ce sera ta faute. Tu n'as pas droit à l'enfance, pas droit à la faiblesse. Sauve-les, ou tout est perdu."
+ }
+}

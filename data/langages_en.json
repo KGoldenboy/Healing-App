@@ -1,0 +1,45 @@
+{
+  "intro": "The 5 apology languages (Chapman & Thomas) are the communication tools; IFS is the map of the psyche. Combining them means we no longer give polite apologies, but targeted acts of systemic healing aimed at the part that needs them most. Likewise, the 5 love languages (Chapman) are the forms the energy of the Self takes: once we spot the starved part, we know which language to inject — from the partner or from our own Self.",
+  "roles": {
+    "exiles": {
+      "nom": "Exiles",
+      "besoin": "The need for deep emotional repair, to be seen, loved and reassured.",
+      "excuses": [
+        { "langage": "Expressing regret", "pourquoi": "The exile needs to hear that its pain is seen and felt. This validates its experience." },
+        { "langage": "Requesting forgiveness", "pourquoi": "By asking for forgiveness, the speaker makes themselves vulnerable: power is returned to the exile who felt helpless." }
+      ],
+      "amour": [
+        { "langage": "Words of affirmation", "pourquoi": "The balm against shame: it directly contradicts the exile's core belief of worthlessness." },
+        { "langage": "Quality time", "pourquoi": "Heals the wound of abandonment and invisibility: the other fully present, with no mental filter." },
+        { "langage": "Physical touch", "pourquoi": "Speaks directly to the inner child and calms separation anxiety without going through the mind." }
+      ],
+      "piege": "Intellectual apologies do not work. If the apology comes from a rigid Manager, the other's exile will not feel safe and will reject it."
+    },
+    "managers": {
+      "nom": "Managers",
+      "besoin": "The need for control, order, predictability and support.",
+      "excuses": [
+        { "langage": "Accepting responsibility", "pourquoi": "The manager hates rationalizing. It needs a clear, defense-free acknowledgment of responsibility." },
+        { "langage": "Genuine repentance", "pourquoi": "A concrete plan secures the future: the manager wants to know how the situation will not repeat." }
+      ],
+      "amour": [
+        { "langage": "Acts of service", "pourquoi": "THE key language for managers: \"I can let my guard down, someone else is handling it.\" It can soften." },
+        { "langage": "Gifts", "pourquoi": "Less about financial value than proof of reliability and thoughtfulness: \"the other anticipates my needs, I am safe.\"" }
+      ],
+      "piege": "A purely emotional apology, with no plan for change, will look to the manager like manipulation or ineffective weakness."
+    },
+    "pompiers": {
+      "nom": "Firefighters",
+      "besoin": "The need for immediate relief from crisis and discharge.",
+      "excuses": [
+        { "langage": "Making amends / repairing", "pourquoi": "A concrete, immediate action lowers the tension: the firefighter responds to obvious injustice." },
+        { "langage": "Accepting responsibility", "pourquoi": "A quick, defense-free acknowledgment cuts the opponent firefighter's fuel and avoids escalation." }
+      ],
+      "amour": [
+        { "langage": "Physical touch", "pourquoi": "Firm touch or a strong embrace deactivates a firefighter in crisis by regulating the nervous system: \"the crisis is over.\"" },
+        { "langage": "Acts of service", "pourquoi": "Taking over immediately in the face of a stressor (a glass of water, quiet) defuses the firefighter." }
+      ],
+      "piege": "Expecting an activated firefighter to forgive immediately is useless. It must first see the danger move away (repair) before yielding to the Self or the exile."
+    }
+  }
+}

@@ -1,0 +1,1362 @@
+{
+  "exiles": {
+    "invisible": {
+      "dims": [
+        "social",
+        "travail",
+        "valeurs",
+        "besoins"
+      ],
+      "quotidien": {
+        "social": "tu t'effaces des conversations ; tu attends qu'on te voie sans oser te montrer",
+        "travail": "tu fais le travail, un autre prend la lumière ; tu ne dis rien",
+        "valeurs": "« à quoi bon » est ta phrase de chevet : exister sans produire te semble impossible",
+        "besoins": "tu as besoin d'être vu pour ce que tu es, pas pour ce que tu apportes",
+        "alimentation": "tu manges peu, vite, sans goût — nourrir le corps est une corvée ; parfois tu oublies de manger"
+      },
+      "crise": {
+        "social": "tu deviens fantôme : absence, silence, somatisations — « personne ne remarquerait »",
+        "besoins": "la solitude devient une preuve : « je n'existe pas vraiment »",
+        "alimentation": "quand le vide monte, la nourriture n'a aucun intérêt — ou elle devient une punition silencieuse"
+      }
+    },
+    "humilie": {
+      "dims": [
+        "relations",
+        "sport",
+        "travail",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "tu compares, tu te compares, tu rougis ; le regard des autres est un tribunal",
+        "sport": "ton corps est jugé avant d'être habité : tu le surveilles, tu le punis, tu le cache",
+        "travail": "une critique t'anéantit, un compliment te gêne ; tu entends surtout ce qui cloche",
+        "valeurs": "tu te rabaisses ou tu te surélèves ; rarement les deux pieds par terre",
+        "alimentation": "tu manges vite, sans plaisir, avec culpabilité ; le plaisir de la table est étouffé par la honte"
+      },
+      "crise": {
+        "relations": "la honte te fait quitter la pièce, ou exploser — puis te détester d'avoir explosé",
+        "travail": "une remarque anodine devient la preuve que tu es nul ; tu veux tout arrêter",
+        "alimentation": "tu avales tes émotions — la honte se mange, puis tu t'en veux de ce que tu as mangé"
+      }
+    },
+    "abandonne": {
+      "dims": [
+        "relations",
+        "famille",
+        "besoins",
+        "rythme"
+      ],
+      "quotidien": {
+        "relations": "tu testes ceux qui restent, tu guettes les signes de départ, tu notes les retards",
+        "famille": "tu t'accroches ou tu pars avant, selon le jour ; l'ambivalence est ta routine",
+        "besoins": "tu as besoin que l'autre prouve qu'il reste — sans cesse, à chaque silence",
+        "rythme": "une heure sans réponse est déjà un abandon ; ton sommeil guette le téléphone",
+        "alimentation": "tu grignotes sans faim ; la bouche cherche à combler le manque — le sucre et l'alcool sont des pansements"
+      },
+      "crise": {
+        "relations": "panique, appels en rafale, ou fuite glaciale : la certitude d'être quitté s'impose",
+        "besoins": "tu exiges des preuves impossibles, puis tu les retournes contre toi",
+        "alimentation": "quand tu te sens délaissé·e, tu manges sans t'arrêter : combler le vide du cœur par la nourriture"
+      }
+    },
+    "terrifie": {
+      "dims": [
+        "rythme",
+        "travail",
+        "sport",
+        "social"
+      ],
+      "quotidien": {
+        "rythme": "hypervigilance : tu remarques tout, tu ne te reposes sur rien, le corps en alerte",
+        "travail": "le monde est dangereux : tu vérifies trois fois, tu anticipes les catastrophes",
+        "sport": "tu t'entraînes pour être prêt — à fuir, à te défendre, à survivre",
+        "social": "les gens sont imprévisibles ; en soirée, tu surveilles les sorties, pas la conversation",
+        "alimentation": "tu manges par contrôle : régimes, quantités, horaires — la nourriture est une affaire de maîtrise"
+      },
+      "crise": {
+        "rythme": "attaque de panique : le corps croit au danger même quand tout va bien",
+        "social": "tu fuis les lieux pleins, tu annules, tu restes chez toi où c'est « sûr »",
+        "alimentation": "la culpabilité te fait grossir — le ventre et les hanches encaissent ce que tu n'as pas digéré"
+      }
+    },
+    "coupable": {
+      "dims": [
+        "travail",
+        "famille",
+        "valeurs",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "tout est ta faute : tu t'excuses d'avance, tu portes les erreurs des autres",
+        "famille": "tu portes les problèmes de ta famille comme une dette personnelle",
+        "valeurs": "si ça va mal, c'est que tu n'as pas fait assez ; le repos est une faute",
+        "besoins": "tu n'as droit qu'à l'effort ; le plaisir se mérite, la faute se paie",
+        "alimentation": "tu suis des régimes par devoir, jamais par plaisir — manger est une discipline"
+      },
+      "crise": {
+        "travail": "l'erreur d'un autre devient ton procès intérieur ; tu ne dors plus, tu te punis",
+        "famille": "une dispute familiale te laisse en miettes : « c'est moi qui aurais dû… »",
+        "alimentation": "tu te punis en te privant, ou tu craques et tu te punis d'avoir craqué"
+      }
+    },
+    "parentifie": {
+      "dims": [
+        "famille",
+        "travail",
+        "relations",
+        "besoins"
+      ],
+      "quotidien": {
+        "famille": "tu es le parent de tes parents, l'adulte de la maison, le réparateur de service",
+        "travail": "tu anticipes tout, tu sauves les dossiers, tu portes l'équipe sur ton dos",
+        "relations": "tu tombes amoureux des gens à réparer ; les gens stables te semblent ennuyeux",
+        "besoins": "recevoir sans rendre te semble interdit ; ta valeur se mesure à ton utilité",
+        "alimentation": "tu manges debout, vite, entre deux urgences — nourrir les autres passe avant te nourrir"
+      },
+      "crise": {
+        "famille": "quand personne n'a besoin de toi, tu t'effondres : ta valeur disparaît avec le problème",
+        "relations": "tu sauves l'autre jusqu'à t'y perdre, puis tu lui en veux de t'avoir laissé faire",
+        "alimentation": "quand tu es débordé·e, tu oublies de manger ou tu avales n'importe quoi, sans t'asseoir"
+      }
+    }
+  },
+  "managers": {
+    "critique": {
+      "dims": [
+        "travail",
+        "relations",
+        "sport",
+        "valeurs"
+      ],
+      "quotidien": {
+        "travail": "tu te relis trois fois, tu cherches la faute qui n'existe pas, tu trouves toujours",
+        "relations": "tu remarques d'abord ce qui cloche chez l'autre — souvent sans le dire",
+        "sport": "tu t'entraînes même blessé : la séance est une dette, pas un plaisir",
+        "valeurs": "« pas assez bien » est ta mesure de tout, toi compris"
+      },
+      "crise": {
+        "relations": "les reproches sortent en rafale, puis le silence ; tu t'en veux après",
+        "travail": "tu jettes un travail presque fini et tu recommences, pour la énième fois"
+      }
+    },
+    "ermite": {
+      "dims": [
+        "social",
+        "famille",
+        "travail",
+        "relations",
+        "rythme"
+      ],
+      "quotidien": {
+        "social": "un cercle minuscule et ancien ; zéro nouvelle rencontre, et ça te va",
+        "famille": "présent aux repas, absent aux conversations ; tu t'éclipses dès que ça devient intime",
+        "travail": "télétravail, horaires décalés, couloirs vides : tu aménages le monde pour le fuir",
+        "relations": "il faut des mois pour t'approcher et une seconde pour te perdre",
+        "rythme": "régulier, prévisible, monotone — la routine est ta carapace"
+      },
+      "crise": {
+        "social": "tu disparais sans explication, téléphone éteint, « juste besoin d'être seul »",
+        "relations": "glacial, puis une phrase qui claque après des mois de silence accumulé"
+      }
+    },
+    "sauveur": {
+      "dims": [
+        "famille",
+        "travail",
+        "social",
+        "relations",
+        "besoins"
+      ],
+      "quotidien": {
+        "famille": "tout le monde passe par toi ; personne ne te demande comment tu vas",
+        "travail": "tu prends les dossiers que personne ne veut, sans compter les heures",
+        "social": "tu t'occupes de tout le monde ; tu repars le dernier, épuisé, fier",
+        "relations": "tu devines les besoins avant qu'ils soient dits ; on ne te demande jamais les tiens",
+        "besoins": "dire non est dangereux ; tu t'excuses d'exister, tu rends service pour mériter l'air"
+      },
+      "crise": {
+        "famille": "l'épuisement tombe d'un coup : tu t'effondres en silence, personne ne l'a vu venir",
+        "relations": "un « non » longtemps retenu sort trop tard, trop dur — puis la culpabilité"
+      }
+    },
+    "perfectionniste": {
+      "dims": [
+        "travail",
+        "rythme",
+        "sport",
+        "valeurs"
+      ],
+      "quotidien": {
+        "travail": "un livrable n'est jamais fini, seulement abandonné à l'échéance",
+        "rythme": "des listes de listes ; une heure « perdue » est une faute à rattraper",
+        "sport": "tu suis le plan à la lettre : pas un repas d'écart, pas une séance sautée",
+        "valeurs": "l'erreur est une tache, pas une donnée ; tu la vois sur tout ce que tu touches"
+      },
+      "crise": {
+        "travail": "tu bloques : incapable de livrer le « pas parfait », tu préfères ne rien rendre",
+        "rythme": "la moindre imperfection te fait tout recommencer — et la nuit passe"
+      }
+    },
+    "bon_eleve": {
+      "dims": [
+        "travail",
+        "famille",
+        "valeurs",
+        "rythme"
+      ],
+      "quotidien": {
+        "travail": "tu fais exactement ce qu'on attend, avant qu'on le demande, sans le faire remarquer",
+        "famille": "tu es l'enfant sage, celui qui ne pose pas problème ; on t'oublie, c'est le contrat",
+        "valeurs": "bien faire est ta définition de valoir quelque chose",
+        "rythme": "tes journées sont cadrées par les attentes des autres, jamais par les tiennes"
+      },
+      "crise": {
+        "travail": "une consigne floue te paralyse : tu attends qu'on te dise quoi faire, tu paniques en silence",
+        "famille": "si on te reproche quoi que ce soit, le monde s'effondre : tu étais le gentil, justement"
+      }
+    },
+    "victime": {
+      "dims": [
+        "relations",
+        "famille",
+        "social",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "tes histoires racontent ce qu'on t'a fait ; tu en collectionnes les preuves",
+        "famille": "les siens sont toujours en tort ; tu es celui qu'on n'écoute jamais",
+        "social": "tu attires les sauveurs, puis tu leur en veux de ne pas tout réparer",
+        "besoins": "être plaint est ta seule permission de recevoir de l'attention"
+      },
+      "crise": {
+        "relations": "l'aide proposée n'est jamais la bonne ; tu te sens incompris, tu te refermes",
+        "social": "tu te plains en boucle jusqu'à ce que les autres s'épuisent — et le leur reproches"
+      }
+    },
+    "controleur": {
+      "dims": [
+        "travail",
+        "famille",
+        "rythme",
+        "relations"
+      ],
+      "quotidien": {
+        "travail": "tu vérifies tout, tu délégués à contrecœur, tu refais ce que les autres ont fait",
+        "famille": "tu gères l'emploi du temps de tout le monde ; l'imprévu est une offense",
+        "rythme": "planifier est ton oxygène ; une journée sans plan est une journée dangereuse",
+        "relations": "tu poses des cadres, des règles, des contrats implicites ; l'autre doit s'y tenir"
+      },
+      "crise": {
+        "famille": "quand les choses t'échappent, tu serres plus fort : surveiller, exiger, contrôler",
+        "relations": "tu laisses tomber ceux qui ne se laissent pas gérer, puis tu regrettes"
+      }
+    },
+    "intellectualiseur": {
+      "dims": [
+        "relations",
+        "travail",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "quand une émotion monte, tu fais une conférence ; l'autre repart avec un cours",
+        "travail": "tu comprends tout, tu analyses tout, tu décides rarement",
+        "valeurs": "comprendre est ta manière de ne pas sentir ; l'intellect est ton blindage"
+      },
+      "crise": {
+        "relations": "l'émotion te submerge malgré l'analyse ; tu te sens trahi par ton propre cerveau",
+        "travail": "tu tournes le problème dans tous les sens, incapable de passer à l'acte"
+      }
+    },
+    "saboteur": {
+      "dims": [
+        "travail",
+        "valeurs",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "tu commences en trombe, puis tu te sabotes : retard, oubli, abandon aux trois quarts",
+        "valeurs": "réussir est dangereux : si tu échoues toi-même, personne ne peut te faire échouer",
+        "besoins": "tu as besoin de sécurité, mais tu choisis des chemins qui la rendent impossible"
+      },
+      "crise": {
+        "travail": "à la veille de livrer, tu « oublies », tu tombes malade, tu disparais",
+        "valeurs": "le succès approche ? tu provoques l'échec pour retrouver un terrain connu"
+      }
+    },
+    "reveur": {
+      "dims": [
+        "travail",
+        "rythme",
+        "social"
+      ],
+      "quotidien": {
+        "travail": "tu vis dans les projets de demain ; aujourd'hui n'est qu'un brouillon",
+        "rythme": "tes journées passent dans les plans, les idées, les commencements",
+        "social": "tu promets des mondes, tu oublies les rendez-vous ; l'enthousiasme est ta monnaie"
+      },
+      "crise": {
+        "travail": "le réel te rattrape : la tâche est là, énorme, et le rêve ne l'a pas faite",
+        "rythme": "tu remets au lendemain une vie entière ; le soir, la culpabilité, le matin, un nouveau rêve"
+      }
+    },
+    "procrastinateur": {
+      "dims": [
+        "travail",
+        "rythme",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "tu travailles mieux sous pression — c'est ce que tu te dis en remettant à demain",
+        "rythme": "tes soirées sont des courses contre des échéances que tu as toi-même créées",
+        "besoins": "commencer est une montagne ; tu as besoin d'un élan plus grand que la peur"
+      },
+      "crise": {
+        "travail": "la veille, la panique, la nuit blanche, la livraison bâclée — puis la promesse de changer",
+        "rythme": "tu fuis dans les petites tâches faciles pour ne pas toucher à la vraie"
+      }
+    },
+    "evitant": {
+      "dims": [
+        "relations",
+        "famille",
+        "social",
+        "travail"
+      ],
+      "quotidien": {
+        "relations": "dès que ça devient sérieux, tu trouves un défaut, une raison, une sortie",
+        "famille": "tu es là physiquement, ailleurs mentalement ; les discussions profondes te fuient",
+        "social": "tu esquives les invitations qui pourraient durer ou engager",
+        "travail": "tu évites les conflits, les décisions, les conversations qui pourraient fâcher"
+      },
+      "crise": {
+        "relations": "l'autre s'approche trop ? tu te refroidis, tu disparais, tu recommences ailleurs",
+        "famille": "un sujet sensible s'ouvre ? tu changes de sujet, tu pars fumer, tu te tais"
+      }
+    },
+    "froid": {
+      "dims": [
+        "relations",
+        "travail",
+        "famille",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "tu coupes tes émotions avant qu'elles ne gênent ; on te dit « insensible », tu encaisses",
+        "travail": "efficace, précis, sans états d'âme : tu es le roc de l'équipe",
+        "famille": "tu es là, mais à distance de sécurité ; les câlins sont des contrats",
+        "besoins": "demander est une faiblesse ; tu préfères manquer en silence"
+      },
+      "crise": {
+        "famille": "une émotion t'échappe et tu te sens nu — tu te refermes plus fort, plus vite",
+        "relations": "quand on te reproche ta froideur, tu la confirmes : « voilà, c'est moi »"
+      }
+    },
+    "gardien_image": {
+      "dims": [
+        "social",
+        "sport",
+        "travail",
+        "valeurs"
+      ],
+      "quotidien": {
+        "social": "tu soignes ce qu'on voit de toi : la photo, le statut, la réputation",
+        "sport": "ton corps est une vitrine ; tu l'entretiens pour le regard des autres",
+        "travail": "tu préfères paraître compétent que l'être ; la façade d'abord",
+        "valeurs": "ce que les autres pensent pèse plus lourd que ce que tu ressens"
+      },
+      "crise": {
+        "social": "une humiliation publique te détruit : tu peux tout perdre sauf la face",
+        "travail": "tu maquilles l'erreur, tu détournes l'attention, tu joues la dernière carte"
+      }
+    },
+    "heros": {
+      "dims": [
+        "travail",
+        "famille",
+        "sport",
+        "valeurs"
+      ],
+      "quotidien": {
+        "travail": "tu prends les missions impossibles ; l'ordinaire t'ennuie, l'exploit te nourrit",
+        "famille": "tu sauves ta famille des crises ; tu ne sais pas rester pour les jours calmes",
+        "sport": "tu te dépasses, tu te blesses, tu recommences ; la limite est un adversaire",
+        "valeurs": "ta valeur se mesure à ce que tu surmontes, jamais à ce que tu es"
+      },
+      "crise": {
+        "travail": "sans mission à sauver, tu te sens vide : tu cherches un nouveau combat",
+        "famille": "tu t'épuises à tout porter, puis tu t'effondres sans avoir appris à demander"
+      }
+    },
+    "survivant": {
+      "dims": [
+        "travail",
+        "sport",
+        "rythme",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "tu fonctionnes en mode urgence permanent ; le calme te semble suspect",
+        "sport": "tu t'entraînes comme si ta vie en dépendait — elle en a dépendu",
+        "rythme": "tu as appris à tenir sans dormir, sans manger, sans ralentir ; ton corps paie",
+        "besoins": "tu as besoin de sécurité, mais tu ne sais la trouver que dans l'effort"
+      },
+      "crise": {
+        "rythme": "ton corps dit stop : épuisement, maladie, effondrement — tu n'as pas vu les signaux",
+        "besoins": "quand tout va bien, tu cherches la menace : la paix est un terrain inconnu"
+      }
+    },
+    "planificateur": {
+      "dims": [
+        "travail",
+        "rythme",
+        "famille"
+      ],
+      "quotidien": {
+        "travail": "tu as un plan A, B et C ; l'imprévu est une insulte à ton agenda",
+        "rythme": "chaque heure a sa case ; les loisirs sont planifiés comme des réunions",
+        "famille": "tu organises les vacances de tous, les anniversaires, les héritages ; tu es le notaire du clan"
+      },
+      "crise": {
+        "travail": "le plan échoue : tu paniques en silence, tu refais six scénarios au lieu d'agir",
+        "famille": "l'imprévu familial te désarçonne : tu réponds par des listes à un chagrin"
+      }
+    },
+    "comparateur": {
+      "dims": [
+        "travail",
+        "sport",
+        "relations",
+        "valeurs"
+      ],
+      "quotidien": {
+        "travail": "tu te mesures aux autres : salaire, titre, vitesse, tout est un classement",
+        "sport": "tu t'entraînes contre quelqu'un, jamais pour toi ; le miroir de la salle est un rival",
+        "relations": "tu jauges : plus réussi, plus beau, plus aimé — la comparaison est ton prisme",
+        "valeurs": "ta valeur est relative : tu n'existes que dans l'écart avec les autres"
+      },
+      "crise": {
+        "travail": "quelqu'un réussit ? tu dévisses, tu te dévalorises, ou tu dénigres en cachette",
+        "relations": "l'ami qui s'élève devient une menace ; tu te retires plutôt que de te réjouir"
+      }
+    },
+    "jaloux": {
+      "dims": [
+        "relations",
+        "famille",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "tu surveilles les regards, les messages, les retards ; l'autre est un territoire",
+        "famille": "tu as besoin d'être le préféré ; l'attention partagée est une blessure",
+        "besoins": "tu as besoin de preuves d'amour, mais aucune preuve ne te rassure longtemps"
+      },
+      "crise": {
+        "relations": "tu fouilles, tu accuses, tu provoques des scènes — pour vérifier qu'on reste",
+        "famille": "une préférence réelle ou imaginée déclenche des jours de bouderie"
+      }
+    },
+    "dependant_affectif": {
+      "dims": [
+        "relations",
+        "famille",
+        "besoins",
+        "rythme"
+      ],
+      "quotidien": {
+        "relations": "tu modeles tes goûts, tes projets, ton humeur sur l'autre ; disparaître est ta façon d'aimer",
+        "famille": "tu as besoin d'être rassuré en permanence ; le silence de l'autre te laisse sans sol",
+        "besoins": "ton besoin : être indispensable ; ta peur : être remplaçable",
+        "rythme": "ton énergie dépend de l'humeur de l'autre ; tu te couches à l'heure de ses messages"
+      },
+      "crise": {
+        "relations": "l'autre s'éloigne ? tu t'accroches, tu supplies, tu t'oublies un peu plus",
+        "besoins": "la solitude te semble une preuve de non-valeur ; tu remplis le vide avec n'importe qui"
+      }
+    },
+    "hypervigilant": {
+      "dims": [
+        "rythme",
+        "social",
+        "travail",
+        "besoins"
+      ],
+      "quotidien": {
+        "rythme": "tu scans les visages, les tons, les silences ; ton radar ne s'éteint jamais",
+        "social": "tu repères les dangers avant tout le monde : qui est en colère, qui va partir",
+        "travail": "tu anticipes les reproches, tu prépares tes défenses, tu relis tes messages trois fois",
+        "besoins": "tu as besoin de sécurité, mais tu ne baisses jamais la garde assez pour la sentir"
+      },
+      "crise": {
+        "rythme": "le moindre changement d'ambiance déclenche l'alarme : palpitations, tension, épuisement",
+        "social": "tu interprètes tout comme un signe : un ton, un délai, et le monde devient menaçant"
+      }
+    },
+    "seducteur": {
+      "dims": [
+        "relations",
+        "social",
+        "sport",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "tu captes l'attention, tu fais briller les gens, puis tu te demandes ce que tu fuis",
+        "social": "la pièce se tourne vers toi ; tu repars seul, la performance terminée",
+        "sport": "ton corps est une vitrine que tu entretiens pour le regard",
+        "valeurs": "être désiré vaut mieux qu'être connu ; la séduction est ta preuve d'existence"
+      },
+      "crise": {
+        "relations": "tu te sens invisible ? la séduction monte en urgence : il faut une preuve, tout de suite",
+        "social": "quand l'autre s'attache, tu te dérobes : le jeu était la porte, pas la maison"
+      }
+    },
+    "arrogant": {
+      "dims": [
+        "social",
+        "travail",
+        "relations",
+        "valeurs"
+      ],
+      "quotidien": {
+        "social": "tu arrives en surplomb, tu jauges, tu dédaignes ; la vulnérabilité est pour les autres",
+        "travail": "tu ne demandes jamais d'aide : demander serait avouer",
+        "relations": "tu critiques pour ne pas être critiqué ; tu attaques avant d'être attaqué",
+        "valeurs": "la fierté est ton armure ; l'humilité te semble une capitulation"
+      },
+      "crise": {
+        "social": "une remise en question te fait vaciller : tu te cabres, tu méprises, tu coupes",
+        "travail": "l'échec est insupportable : tu te retires plutôt que de montrer tes failles"
+      }
+    },
+    "provocateur": {
+      "dims": [
+        "social",
+        "relations",
+        "famille"
+      ],
+      "quotidien": {
+        "social": "tu pousses les gens à bout pour voir s'ils restent ; la réaction est ton carburant",
+        "relations": "tu testes les limites : une pique, un défi, un « tu ne vas pas t'en sortir comme ça »",
+        "famille": "à table, tu cherches le débat, la friction ; le calme t'ennuie"
+      },
+      "crise": {
+        "relations": "tu fais une scène, tu claques la porte — puis tu guettes : est-ce qu'ils reviennent ?",
+        "social": "exclu, tu deviens le pire ennemi du groupe que tu voulais intégrer"
+      }
+    },
+    "clown": {
+      "dims": [
+        "social",
+        "famille",
+        "relations"
+      ],
+      "quotidien": {
+        "social": "tu fais rire, tu désamorces, tu détournes ; l'émotion sérieuse est une menace",
+        "famille": "tu es la distraction de la maison : personne ne voit ce qui ne va pas chez toi",
+        "relations": "tu blagues au moment où il faudrait parler ; le silence te fait peur"
+      },
+      "crise": {
+        "social": "quand on ne rit plus, tu ne sais plus qui tu es : la panique derrière le masque",
+        "relations": "une conversation profonde s'installe ? tu fuis dans l'absurde ou tu disparais"
+      }
+    },
+    "ascete": {
+      "dims": [
+        "alimentation",
+        "sport",
+        "rythme",
+        "besoins"
+      ],
+      "quotidien": {
+        "alimentation": "tu manges peu, simple, sans plaisir ; la privation est une discipline",
+        "sport": "tu pousses ton corps à la limite, la douleur est une preuve de valeur",
+        "rythme": "lever 5 h, zéro superflu, zéro confort : tu te traites comme un soldat",
+        "besoins": "tu as besoin de pureté, de maîtrise ; le désir est un ennemi à dompter"
+      },
+      "crise": {
+        "alimentation": "quand tu craques, c'est en excès : une nuit de boulimie après des mois de privation",
+        "besoins": "tu te punis de t'être fait plaisir : jeûne, exercice, culpabilité"
+      }
+    },
+    "auto_devalorise": {
+      "dims": [
+        "travail",
+        "relations",
+        "valeurs",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "tu te dénigres avant que les autres ne le fassent ; la critique extérieure te paraît superflue",
+        "relations": "tu refuses les compliments : « tu es trop gentil » ; tu te présentes en t'excusant",
+        "valeurs": "tu es le premier à dire que tu ne vaux rien ; c'est ta façon de contrôler la douleur",
+        "besoins": "tu as besoin d'être contredit, mais tu ne crois jamais la contradiction"
+      },
+      "crise": {
+        "travail": "un échec confirme tout : « je le savais » — tu t'enfonces dans l'auto-accusation",
+        "relations": "tu te retires des gens qui te valorisent : ils doivent se tromper sur toi"
+      }
+    },
+    "rancunier": {
+      "dims": [
+        "relations",
+        "famille",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "tu n'oublies rien : chaque tort est archivé, daté, prêt à resservir",
+        "famille": "les vieilles histoires familiales sont tes trésors ; tu les ressors aux repas",
+        "valeurs": "pardonner, c'est perdre ; la mémoire est ta justice"
+      },
+      "crise": {
+        "relations": "le tort s'ajoute à la liste ; tu te refroidis sans expliquer, l'autre ne comprend pas",
+        "famille": "tu punis par le silence pendant des jours, des semaines, des années"
+      }
+    },
+    "muet": {
+      "dims": [
+        "relations",
+        "famille",
+        "social"
+      ],
+      "quotidien": {
+        "relations": "tu avales tout : les injustices, les non-dits, les phrases qui restent au bord",
+        "famille": "tu tais ce qui te blesse ; on découvre des années plus tard que ça t'avait atteint",
+        "social": "en réunion, tu parles dans ta tête ; la phrase arrive trop tard, seule, le soir"
+      },
+      "crise": {
+        "relations": "l'accumulation explose d'un coup, ou se transforme en fuite silencieuse",
+        "famille": "tu casses le silence par une phrase énorme, puis tu te tais à nouveau pour des mois"
+      }
+    },
+    "thesauriseur": {
+      "dims": [
+        "travail",
+        "alimentation",
+        "besoins",
+        "valeurs"
+      ],
+      "quotidien": {
+        "travail": "tu accumules : dossiers, mails, projets, preuves — tout est gardé « au cas où »",
+        "alimentation": "tu gardes, tu stockes, tu ne jettes pas ; le manque est ta peur de fond",
+        "besoins": "tu as besoin de réserves : argent, temps, objets — la sécurité est dans l'avoir",
+        "valeurs": "dépenser est une perte ; posséder est une victoire sur la pénurie"
+      },
+      "crise": {
+        "travail": "l'idée de manquer déclenche l'accumulation : tu achètes, tu stockes, tu ne partages pas",
+        "besoins": "l'angoisse de pénurie te fait serrer plus fort, même quand tout va bien"
+      }
+    },
+    "accusateur": {
+      "dims": [
+        "relations",
+        "famille",
+        "travail",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "tu montres du doigt pour ne pas regarder en toi ; le coupable est toujours ailleurs",
+        "famille": "tu fais la leçon, tu donnes des ultimatums ; la faute est un terrain connu",
+        "travail": "quand ça va mal, tu cherches qui — rarement quoi",
+        "valeurs": "ta justice est implacable ; la nuance te semble une faiblesse"
+      },
+      "crise": {
+        "relations": "tu accuses, tu condamnes, tu punis — puis la culpabilité te ronge en silence",
+        "famille": "l'orage passé, tu ne sais pas t'excuser ; tu changes de sujet, l'affaire est close pour toi"
+      }
+    },
+    "dormeur": {
+      "dims": [
+        "rythme",
+        "travail",
+        "social"
+      ],
+      "quotidien": {
+        "rythme": "tu dors beaucoup, tu t'endors partout ; le sommeil est ta soupape",
+        "travail": "les tâches difficiles te rendent somnolent : l'échéance approche, tu t'endors",
+        "social": "tu annules pour te reposer ; les sorties te fatiguent d'avance"
+      },
+      "crise": {
+        "rythme": "l'angoisse monte ? tu t'effondres dans le sommeil pour ne pas la sentir",
+        "travail": "tu dors au moment de livrer : le corps éteint ce que le mental ne peut pas affronter"
+      }
+    }
+  },
+  "pompiers": {
+    "fuyard": {
+      "dims": [
+        "relations",
+        "famille",
+        "social"
+      ],
+      "quotidien": {
+        "relations": "tu coupes au premier froissement : « j'ai besoin de prendre de l'air »",
+        "famille": "tu quittes la table sans dire au revoir, tu changes de pièce quand ça chauffe",
+        "social": "tu annules à la dernière minute ; partir avant la fin est ton réflexe"
+      },
+      "crise": {
+        "relations": "tu romps, tu ghostes, tu déménages — tout plutôt que d'être quitté",
+        "famille": "une dispute et tu claques la porte pour des semaines, sans un mot"
+      }
+    },
+    "rageur": {
+      "dims": [
+        "relations",
+        "travail",
+        "famille"
+      ],
+      "quotidien": {
+        "relations": "tu montes vite, tu lances des piques, tu regrettes après ; la colère te précède",
+        "travail": "tu claques des portes, réelles ou virtuelles ; le mail part trop vite",
+        "famille": "tes crises tombent sur les plus proches, jamais sur les étrangers"
+      },
+      "crise": {
+        "relations": "tu exploses pour une broutille, tu casses quelque chose, puis tu t'effondres",
+        "travail": "la colère monte en boule dans la poitrine et sort en rafale sur le premier venu"
+      }
+    },
+    "ivrogne": {
+      "dims": [
+        "alimentation",
+        "rythme",
+        "social",
+        "relations"
+      ],
+      "quotidien": {
+        "alimentation": "l'alcool rythme tes soirées ; sans lui, la soirée n'existe pas",
+        "rythme": "tu bois pour éteindre le mental qui ne s'arrête pas",
+        "social": "tu es plus drôle, plus présent, plus vivant — puis plus là",
+        "relations": "les verres remplacent les conversations qui comptent"
+      },
+      "crise": {
+        "relations": "tu dis tout ce que tu retiens depuis des mois, puis la honte au réveil",
+        "rythme": "tu bois seul, en cachette, « pour tenir » ; le lendemain, la promesse de ne plus recommencer"
+      }
+    },
+    "anesthesieur": {
+      "dims": [
+        "rythme",
+        "travail",
+        "relations"
+      ],
+      "quotidien": {
+        "rythme": "séries, jeux, bouffe, somnolence : tu éteins le ressenti en continu",
+        "travail": "tu remplis tes journées de tâches mécaniques pour ne penser à rien",
+        "relations": "tu choisis les divertissements qui évitent les sujets qui comptent"
+      },
+      "crise": {
+        "rythme": "l'émotion monte ? tu t'anesthésies : écran, nourriture, fatigue, n'importe quoi",
+        "relations": "une conversation profonde s'engage ? tu zappes, tu fuis dans une occupation"
+      }
+    },
+    "scroll": {
+      "dims": [
+        "rythme",
+        "travail",
+        "social",
+        "relations"
+      ],
+      "quotidien": {
+        "rythme": "des heures de fil chaque soir, « juste 5 minutes » qui deviennent trois",
+        "travail": "tu scrolles pour retarder la tâche qui angoisse",
+        "social": "le téléphone est ton refuge quand la pièce est trop pleine",
+        "relations": "tu préfères le fil d'actualité au message à écrire"
+      },
+      "crise": {
+        "rythme": "une nuit entière de défilement sans pouvoir t'arrêter, jusqu'à l'écœurement",
+        "relations": "l'angoisse sociale ? tu plonges dans l'écran, le regard ailleurs, présent absent"
+      }
+    },
+    "glouton": {
+      "dims": [
+        "alimentation",
+        "rythme",
+        "besoins"
+      ],
+      "quotidien": {
+        "alimentation": "tu grignotes sans faim, surtout le soir ; la nourriture est une berceuse",
+        "rythme": "quand ça ne va pas, tu manges ; quand ça va, tu manges pour fêter",
+        "besoins": "le creux dans le ventre n'est pas de la faim, mais tu le remplis pareil"
+      },
+      "crise": {
+        "alimentation": "crise de bouffe : tu dévores en cachette, vite, sans goût, jusqu'à la nausée",
+        "besoins": "l'émotion est trop forte ? tu l'enterres sous la nourriture, puis la honte"
+      }
+    },
+    "tca": {
+      "dims": [
+        "alimentation",
+        "sport",
+        "besoins"
+      ],
+      "quotidien": {
+        "alimentation": "tu comptes, tu règles, tu contrôles chaque bouchée ; manger est une affaire d'État",
+        "sport": "tu brûles ce que tu as mangé : l'exercice est une punition, pas un plaisir",
+        "besoins": "contrôler ton corps est ta façon de contrôler une vie qui t'échappe"
+      },
+      "crise": {
+        "alimentation": "restriction, vomissements, ou boulimie : le corps devient le champ de bataille",
+        "besoins": "l'impuissance se soigne par le contrôle absolu de la nourriture"
+      }
+    },
+    "hypersexuel": {
+      "dims": [
+        "relations",
+        "rythme",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "le désir est ton thermomètre : quand tu vas mal, il monte en urgence",
+        "rythme": "porno, fantasmes, conquêtes : la décharge remplace le repos",
+        "besoins": "tu cherches dans le corps des autres la preuve que tu existes"
+      },
+      "crise": {
+        "relations": "l'angoisse monte ? tu cherches une rencontre, une image, une décharge — tout de suite",
+        "besoins": "après l'acte, le vide revient, plus grand : il faut recommencer"
+      }
+    },
+    "fantasme": {
+      "dims": [
+        "rythme",
+        "relations",
+        "travail"
+      ],
+      "quotidien": {
+        "rythme": "tu vis dans ta tête : scénarios, souvenirs réécrits, futurs parfaits",
+        "relations": "tu es amoureux d'une version imaginée ; la personne réelle te déçoit",
+        "travail": "tu planifies des vies entières pendant que la vraie attend"
+      },
+      "crise": {
+        "rythme": "le réel fait mal ? tu plonges dans le fantasme : c'est plus sûr, plus doux",
+        "relations": "tu quittes le réel pour l'image ; l'autre ne comprend pas ce qu'il a perdu"
+      }
+    },
+    "adrenaline": {
+      "dims": [
+        "sport",
+        "rythme",
+        "social"
+      ],
+      "quotidien": {
+        "sport": "tu cherches la vitesse, le risque, la limite ; le calme est une sensation vide",
+        "rythme": "tu t'ennuies dès que ça ralentit ; tu recrées du danger pour te sentir vivant",
+        "social": "tu provoques des montées d'adrénaline relationnelles : défis, paris, scandales"
+      },
+      "crise": {
+        "rythme": "le vide monte ? tu accélères : conduite, sports extrêmes, dépenses — un shoot",
+        "social": "tu transformes une peur en défi : « regarde ce que je peux faire »"
+      }
+    },
+    "dissociatif": {
+      "dims": [
+        "rythme",
+        "travail",
+        "social"
+      ],
+      "quotidien": {
+        "rythme": "tu décroches : la conversation continue, toi tu es ailleurs, le corps présent",
+        "travail": "des heures passent sans que tu saches ce que tu as fait ; le temps se troue",
+        "social": "on te parle, tu hoche la tête, tu n'entends rien ; tu rejoues la scène le soir"
+      },
+      "crise": {
+        "rythme": "l'émotion est trop forte ? tu quittes ton corps : tout devient lointain, irréel",
+        "travail": "tu « perds » des heures entières ; les gens disent que tu étais là, tu n'y étais pas"
+      }
+    },
+    "dorsal": {
+      "dims": [
+        "rythme",
+        "travail",
+        "social"
+      ],
+      "quotidien": {
+        "rythme": "tu fonctionnes au ralenti, comme en pilote automatique ; la vie est en sourdine",
+        "travail": "tu fais le minimum, sans énergie ; tout est un effort",
+        "social": "tu dis oui sans intérêt, tu assistes sans participer, tu es là sans être là"
+      },
+      "crise": {
+        "rythme": "l'effondrement : tu restes au lit, le monde te semble inaccessible et lointain",
+        "travail": "tu décroches de tout : plus d'émotions, plus de réactions, plus de toi"
+      }
+    },
+    "drama": {
+      "dims": [
+        "relations",
+        "social",
+        "famille"
+      ],
+      "quotidien": {
+        "relations": "tu choisis les relations compliquées ; le calme te semble suspect",
+        "social": "tu interprètes tout en grand : un regard devient une trahison",
+        "famille": "les histoires de famille sont tes séries préférées, et tu y joues"
+      },
+      "crise": {
+        "relations": "tu provoques la scène pour sentir quelque chose — puis tu regrettes le chaos",
+        "social": "l'ennui est insupportable : tu crées de l'orage pour remplir le ciel"
+      }
+    },
+    "endormeur": {
+      "dims": [
+        "rythme",
+        "travail"
+      ],
+      "quotidien": {
+        "rythme": "dès qu'une émotion monte, tes paupières s'alourdissent ; le sommeil est ton réflexe",
+        "travail": "les réunions importantes te rendent somnolent ; les tâches ennuyeuses t'endorment"
+      },
+      "crise": {
+        "rythme": "l'angoisse ? tu dors : 12 heures, 14 heures, le corps éteint la conscience",
+        "travail": "tu t'endors au moment de décider ; demain, tu auras oublié, peut-être"
+      }
+    },
+    "envie": {
+      "dims": [
+        "relations",
+        "valeurs",
+        "social"
+      ],
+      "quotidien": {
+        "relations": "tu regardes la vie des autres avec un pincement ; leur réussite te renvoie à ton manque",
+        "valeurs": "« eux oui, moi non » est ta ritournelle ; le succès d'autrui est une défaite",
+        "social": "tu compares les parcours sur les réseaux, et tu te sens en retard"
+      },
+      "crise": {
+        "relations": "la réussite d'un proche déclenche une douleur physique ; tu te retires, tu dénigres",
+        "valeurs": "l'envie te ronge en boucle : tu veux ce qu'ils ont, tu détestes le vouloir"
+      }
+    },
+    "epuisement": {
+      "dims": [
+        "rythme",
+        "travail",
+        "besoins"
+      ],
+      "quotidien": {
+        "rythme": "tu tiens jusqu'à la panne : le corps encaisse, le mental pousse, rien ne s'arrête",
+        "travail": "tu travailles jusqu'à l'épuisement, puis tu t'effondres et tu recommences",
+        "besoins": "tu ne sais pas t'arrêter avant la casse ; le repos est un luxe que tu t'interdis"
+      },
+      "crise": {
+        "rythme": "burn-out : plus d'énergie, plus de sommeil réparateur, plus d'envie ; le corps a dit stop",
+        "travail": "tu tombes malade au moment où tu devais lâcher ; la maladie est ta seule permission"
+      }
+    },
+    "evitement_de_performance": {
+      "dims": [
+        "travail",
+        "social",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "tu te dérobes devant les examens, les présentations, les entretiens ; « pas prêt »",
+        "social": "tu évites les scènes où l'on te regarde : parler en public est une menace",
+        "besoins": "tu as besoin de réussir, mais tu fuis les situations où l'échec est possible"
+      },
+      "crise": {
+        "travail": "l'échéance approche ? tu tombes malade, tu oublies, tu te sabotes pour ne pas être jugé",
+        "social": "la présentation est demain ? tu annules, tu te caches, la honte te dévore"
+      }
+    },
+    "fabulateur": {
+      "dims": [
+        "social",
+        "relations",
+        "valeurs"
+      ],
+      "quotidien": {
+        "social": "tu embellis tes histoires : le réel n'est jamais assez bon pour être raconté",
+        "relations": "tu t'inventes des vies parallèles pour exister dans les conversations",
+        "valeurs": "la vérité nue te semble insuffisante ; le récit est ta monnaie d'échange"
+      },
+      "crise": {
+        "social": "quand tu te sens invisible, tu sors les grandes histoires : regarde-moi, je compte",
+        "relations": "le mensonge se dégonfle ? tu te sens nu, honteux, tu fuis la scène"
+      }
+    },
+    "bloqueur": {
+      "dims": [
+        "relations",
+        "famille",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "tu bloques l'intimité : quand l'autre s'approche, tu te refermes comme une huître",
+        "famille": "les sujets sensibles sont verrouillés : « on ne parle pas de ça »",
+        "besoins": "tu as besoin de proximité, mais tu la refuses par sécurité"
+      },
+      "crise": {
+        "relations": "l'autre veut parler ? tu te tais, tu te lèves, tu sors ; le verrou claque",
+        "besoins": "tu voudrais être consolé, mais tu repousses la main qui se tend"
+      }
+    },
+    "auto_humiliation": {
+      "dims": [
+        "relations",
+        "valeurs",
+        "travail"
+      ],
+      "quotidien": {
+        "relations": "tu te rabaisses en public avant qu'on ne le fasse : « je suis nul, hein ? »",
+        "valeurs": "l'auto-dérision est ton bouclier : on ne peut pas frapper quelqu'un qui se frappe",
+        "travail": "tu minimises ton travail, tu te présentes comme l'imposteur de service"
+      },
+      "crise": {
+        "relations": "la honte monte ? tu t'accables, tu te traites de tous les noms, tu te punis",
+        "travail": "un échec ? tu te flagelles en boucle, tu te fais payer la note"
+      }
+    },
+    "auto_sabotage": {
+      "dims": [
+        "travail",
+        "relations",
+        "valeurs"
+      ],
+      "quotidien": {
+        "travail": "tu oublies les rendez-vous importants, tu perds les documents, tu arrives « par hasard » en retard",
+        "relations": "tu gâches ce qui pourrait marcher : une remarque, une absence, un test",
+        "valeurs": "réussir te semble dangereux : tu préfères échouer en maître qu'échouer en victime"
+      },
+      "crise": {
+        "travail": "le succès approche ? tu provoques l'échec à la dernière seconde, puis tu t'en veux",
+        "relations": "l'amour est là ? tu le casses : « ce n'est pas pour moi »"
+      }
+    },
+    "inhibition": {
+      "dims": [
+        "social",
+        "relations",
+        "besoins"
+      ],
+      "quotidien": {
+        "social": "tu te tais dans les groupes ; les mots se forment trop tard, dans ta tête, le soir",
+        "relations": "tu n'oses pas demander, refuser, proposer ; tu attends qu'on devine",
+        "besoins": "tu as besoin de parler, mais la peur du jugement te muselle"
+      },
+      "crise": {
+        "social": "la parole te manque au moment crucial : entretien, aveu, défense — silence",
+        "relations": "tu laisses passer l'occasion, puis la rumination te dévore"
+      }
+    },
+    "plainte": {
+      "dims": [
+        "social",
+        "relations",
+        "famille"
+      ],
+      "quotidien": {
+        "social": "tu partages tes malheurs en guise de conversation ; l'attention passe par la douleur",
+        "relations": "tu cherches des oreilles, pas des solutions ; les conseils te blessent",
+        "famille": "à la maison, tu es la météo du jour : « ça ne va pas »"
+      },
+      "crise": {
+        "social": "la plainte devient un tourbillon : tu ressasses, tu en parles à tous, rien ne suffit",
+        "relations": "on te propose de l'aide ? tu la refuses : personne ne comprend vraiment"
+      }
+    },
+    "mepris": {
+      "dims": [
+        "relations",
+        "social",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "tu regardes les autres de haut ; la distance est ta dignité",
+        "social": "tu te sens au-dessus des règles, des gens, des conventions",
+        "valeurs": "mépriser est plus sûr que désirer ; l'admiration te mettrait en danger"
+      },
+      "crise": {
+        "relations": "tu te sens jugé ? tu méprises en retour : une moue, un silence, une cruauté",
+        "social": "l'humiliation subie se transforme en mépris projeté sur tout le monde"
+      }
+    },
+    "manque": {
+      "dims": [
+        "relations",
+        "alimentation",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "tu vis dans l'absence : la personne partie occupe plus de place que les présentes",
+        "alimentation": "le manque se creuse : tu manges moins, tu dors mal, tu attends",
+        "besoins": "tu as besoin de l'autre comme d'un organe ; son absence est une amputation"
+      },
+      "crise": {
+        "relations": "la séparation ? tu ne manges plus, tu ne dors plus, tu erres : l'autre est un manque physique",
+        "besoins": "tu écris, tu rappelles, tu espères : la douleur du manque est ton seul lien"
+      }
+    },
+    "haine": {
+      "dims": [
+        "relations",
+        "famille",
+        "valeurs"
+      ],
+      "quotidien": {
+        "relations": "tu gardes une haine précise, vivante, détaillée ; elle est ta chaleur interne",
+        "famille": "certains noms sont tabous : les prononcer rallume le feu",
+        "valeurs": "détester quelqu'un, c'est encore une façon de lui appartenir"
+      },
+      "crise": {
+        "relations": "l'objet de ta haine réapparaît ? tout le système s'embrase : obsession, rage, projets",
+        "famille": "la haine t'empêche de guérir, mais elle te tient chaud : tu la choisis"
+      }
+    },
+    "rancune": {
+      "dims": [
+        "relations",
+        "famille",
+        "besoins"
+      ],
+      "quotidien": {
+        "relations": "tu ressasses les torts : la scène se rejoue en boucle dans ta tête",
+        "famille": "les vieux comptes familiaux sont toujours ouverts, la liste toujours à jour",
+        "besoins": "tu as besoin de reconnaissance ; le pardon te semble une amnistie injuste"
+      },
+      "crise": {
+        "relations": "un nouveau tort ravive tous les anciens : la rancune explose en reproches accumulés",
+        "famille": "tu punis par la froideur pendant des semaines, sans jamais expliquer pourquoi"
+      }
+    },
+    "shopaholique": {
+      "dims": [
+        "alimentation",
+        "rythme",
+        "besoins",
+        "relations"
+      ],
+      "quotidien": {
+        "alimentation": "tu achètes de la nourriture, des objets, des « petits plaisirs » qui s'empilent",
+        "rythme": "le panier en ligne est ta drogue du soir ; la livraison, ta dose",
+        "besoins": "acheter remplit un creux qui n'est pas dans le porte-monnaie",
+        "relations": "tu offres pour acheter l'amour, puis tu comptes ce que tu as donné"
+      },
+      "crise": {
+        "besoins": "l'angoisse monte ? tu dépenses : le clic, l'attente, le colis — puis la culpabilité",
+        "rythme": "tu achètes ce dont tu n'as pas besoin, pour la sensation d'avoir, pas d'être"
+      }
+    },
+    "somatisation": {
+      "dims": [
+        "rythme",
+        "travail",
+        "besoins"
+      ],
+      "quotidien": {
+        "rythme": "ton corps parle à ta place : maux de tête, ventre, dos — chaque émotion a son organe",
+        "travail": "les grandes échéances arrivent ? tu tombes malade, pile à temps",
+        "besoins": "tu as besoin de t'arrêter, mais tu ne t'arrêtes que malade"
+      },
+      "crise": {
+        "rythme": "l'émotion est interdite ? le corps la dit : fièvre, douleur, paralysie passagère",
+        "travail": "le stress devient physique : tu consultes, on ne trouve rien, ça continue"
+      }
+    },
+    "test": {
+      "dims": [
+        "relations",
+        "social",
+        "famille"
+      ],
+      "quotidien": {
+        "relations": "tu testes les gens : retards, oublis provoqués, promesses non tenues « pour voir »",
+        "social": "tu disparais quelques jours pour vérifier qu'on te cherche",
+        "famille": "tu pousses les proches à bout pour mesurer leur patience"
+      },
+      "crise": {
+        "relations": "l'angoisse d'abandon monte ? tu provoques : « pars, va-t'en » — pour vérifier qu'il reste",
+        "famille": "le test devient une épreuve : si on t'aime, tu reviendras, et on t'aura attendu"
+      }
+    },
+    "gamer": {
+      "dims": [
+        "rythme",
+        "social",
+        "travail"
+      ],
+      "quotidien": {
+        "rythme": "tes soirées passent dans le jeu ; « une partie » devient la nuit",
+        "social": "les vraies relations attendent ; la guilde, elle, est toujours là",
+        "travail": "tu joues pour retarder la tâche, puis tu joues pour oublier le retard"
+      },
+      "crise": {
+        "rythme": "l'angoisse monte ? tu te connectes : le jeu est ta chambre d'isolement",
+        "social": "tu préfères la victoire virtuelle à la conversation réelle qui t'attend"
+      }
+    },
+    "gamer_clan": {
+      "dims": [
+        "social",
+        "relations",
+        "rythme"
+      ],
+      "quotidien": {
+        "social": "tu vis tes liens dans le jeu : le clan est ta famille de remplacement",
+        "relations": "tu confies au micro ce que tu ne dis jamais en face",
+        "rythme": "les nuits de raid remplacent le sommeil ; le matin, tu es ailleurs"
+      },
+      "crise": {
+        "social": "la solitude frappe ? tu te connectes : au moins là, quelqu'un t'attend",
+        "relations": "le clan devient plus réel que ta vie ; le jeu est ton refuge, puis ta prison"
+      }
+    },
+    "joueur": {
+      "dims": [
+        "rythme",
+        "besoins",
+        "relations"
+      ],
+      "quotidien": {
+        "rythme": "tu joues, tu paries, tu tentes : l'espoir du gain est ton carburant",
+        "besoins": "tu as besoin de la montée d'adrénaline du « peut-être »",
+        "relations": "tu caches tes pertes ; l'argent est devenu un secret de famille"
+      },
+      "crise": {
+        "rythme": "tu rejoues pour te refaire : la dette grossit, le mensonge aussi",
+        "besoins": "le vide intérieur se remplit de mises ; après la perte, la honte, puis la prochaine partie"
+      }
+    },
+    "accumulation": {
+      "dims": [
+        "alimentation",
+        "rythme",
+        "besoins"
+      ],
+      "quotidien": {
+        "alimentation": "tu gardes tout : emballages, restes, objets « au cas où »",
+        "rythme": "tes espaces se remplissent ; tu ranges en déplaçant les piles",
+        "besoins": "jeter est une perte ; garder est une assurance contre le manque"
+      },
+      "crise": {
+        "besoins": "l'angoisse de manquer ? tu accumules plus : achats, stocks, réserves",
+        "rythme": "la maison se referme sur toi ; l'ordre devient impossible, la honte aussi"
+      }
+    },
+    "workaholie": {
+      "dims": [
+        "travail",
+        "rythme",
+        "famille",
+        "besoins"
+      ],
+      "quotidien": {
+        "travail": "tu réponds aux mails le soir, le week-end, en vacances ; le travail est ton lieu sûr",
+        "rythme": "ta valeur se mesure en heures ; t'arrêter te semble une faute",
+        "famille": "les tiens ont rendez-vous dans ton agenda, pas dans ta vie",
+        "besoins": "tu as besoin de te sentir utile ; le vide du dimanche te terrifie"
+      },
+      "crise": {
+        "travail": "quand la vie privée déborde, tu plonges dans le travail : c'est ton bunker",
+        "famille": "l'émotion monte ? tu ouvres un dossier : travailler est ta façon de ne pas sentir"
+      }
+    },
+    "declarateur": {
+      "dims": [
+        "relations",
+        "social",
+        "travail"
+      ],
+      "quotidien": {
+        "relations": "tu dis tout, trop vite, sans filtre ; la vérité brute est ton mode de survie",
+        "social": "tu déballes tes émotions en public ; les autres reculent, toi tu continues",
+        "travail": "tu dis en réunion ce qu'il ne fallait pas dire ; l'honnêteté est ton arme et ta blessure"
+      },
+      "crise": {
+        "relations": "la charge est trop lourde ? tu la déverses : tout sort, tout d'un coup, sans tri",
+        "social": "tu provoques la confrontation pour ne plus porter le secret ; puis la honte"
+      }
+    }
+  },
+  "karpman": {
+    "managers": {
+      "critique": "persecuteur",
+      "perfectionniste": "persecuteur",
+      "controleur": "persecuteur",
+      "arrogant": "persecuteur",
+      "gardien_image": "persecuteur",
+      "provocateur": "persecuteur",
+      "jaloux": "persecuteur",
+      "rancunier": "persecuteur",
+      "accusateur": "persecuteur",
+      "froid": "persecuteur",
+      "comparateur": "persecuteur",
+      "saboteur": "persecuteur",
+      "ascete": "persecuteur",
+      "thesauriseur": "persecuteur",
+      "planificateur": "persecuteur",
+      "intellectualiseur": "persecuteur",
+      "sauveur": "rescuer",
+      "bon_eleve": "rescuer",
+      "heros": "rescuer",
+      "survivant": "rescuer",
+      "victime": "victime",
+      "clown": "victime",
+      "ermite": "victime",
+      "reveur": "victime",
+      "procrastinateur": "victime",
+      "seducteur": "victime",
+      "evitant": "victime",
+      "hypervigilant": "victime",
+      "muet": "victime",
+      "auto_devalorise": "victime",
+      "dormeur": "victime",
+      "dependant_affectif": "victime"
+    },
+    "pompiers": {
+      "rageur": "persecuteur",
+      "declarateur": "persecuteur",
+      "drama": "persecuteur",
+      "auto_humiliation": "persecuteur",
+      "mepris": "persecuteur",
+      "test": "persecuteur",
+      "auto_sabotage": "persecuteur",
+      "rancune": "persecuteur",
+      "haine": "persecuteur",
+      "workaholie": "rescuer",
+      "fuyard": "victime",
+      "ivrogne": "victime",
+      "anesthesieur": "victime",
+      "scroll": "victime",
+      "glouton": "victime",
+      "tca": "victime",
+      "hypersexuel": "victime",
+      "fantasme": "victime",
+      "adrenaline": "victime",
+      "dissociatif": "victime",
+      "joueur": "victime",
+      "endormeur": "victime",
+      "dorsal": "victime",
+      "epuisement": "victime",
+      "shopaholique": "victime",
+      "fabulateur": "victime",
+      "bloqueur": "victime",
+      "somatisation": "victime",
+      "plainte": "victime",
+      "gamer": "victime",
+      "gamer_clan": "victime",
+      "inhibition": "victime",
+      "evitement_de_performance": "victime",
+      "envie": "victime",
+      "accumulation": "victime",
+      "manque": "victime"
+    },
+    "roles": {
+      "persecuteur": {
+        "nom": "Persécuteur",
+        "vertueux": "Challenger",
+        "pivot": "Comment inviter l'autre à grandir sans l'écraser ?",
+        "crise": "persécute — attaque, juge, punit"
+      },
+      "rescuer": {
+        "nom": "Sauveteur",
+        "vertueux": "Coach",
+        "pivot": "Comment soutenir sans faire à la place ?",
+        "crise": "sauve — fait à la place, porte tout"
+      },
+      "victime": {
+        "nom": "Victime",
+        "vertueux": "Creator",
+        "pivot": "Qu'est-ce que je veux créer, même dans cette contrainte ?",
+        "crise": "subit — s'efface, s'anesthésie, fuit"
+      }
+    }
+  }
+}

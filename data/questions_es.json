@@ -1,0 +1,128 @@
+{
+  "onboarding": {
+    "champs": [
+      "nom",
+      "genre",
+      "age"
+    ],
+    "genres": [
+      {
+        "id": "femme",
+        "label": "Una mujer"
+      },
+      {
+        "id": "homme",
+        "label": "Un hombre"
+      },
+      {
+        "id": "autre",
+        "label": "Otro / prefiero no decirlo"
+      }
+    ],
+    "consentements": [
+      {
+        "id": "avertissement_lu",
+        "texte": "He entendido que esta herramienta no es un consejo médico y no sustituye un acompañamiento humano."
+      },
+      {
+        "id": "confidentialite_comprise",
+        "texte": "He entendido que todo permanece en este dispositivo y que nada se envía por la red."
+      }
+    ]
+  },
+  "discrimination": [
+    {
+      "id": "d1",
+      "question": "En general, las conductas que marcaste son más bien…",
+      "indice": "Discriminación Paso 3: organizado = lidera el Manager; explosivo = lidera el Bombero; repetitivo y sufrido = Exiliado en acto.",
+      "options": [
+        {
+          "label": "Organizadas, regulares, anticipadas (una estrategia diaria)",
+          "effet": {
+            "managers_bonus": 1
+          }
+        },
+        {
+          "label": "Explosivas, compulsivas, seguidas de vergüenza (una crisis)",
+          "effet": {
+            "pompiers_bonus": 1
+          }
+        },
+        {
+          "label": "Repetitivas, sufridas, rejugadas con las mismas personas",
+          "effet": {
+            "exiles_bonus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "d2",
+      "question": "Aparecen más bien…",
+      "indice": "La anticipación señala al Manager que previene; una herida reciente señala al Bombero; el vacío señala al Dorsal.",
+      "options": [
+        {
+          "label": "Antes del evento, en la anticipación",
+          "effet": {
+            "managers_bonus": 1
+          }
+        },
+        {
+          "label": "Después de una herida precisa (crítica, rechazo, humillación)",
+          "effet": {
+            "pompiers_bonus": 1
+          }
+        },
+        {
+          "label": "Con vacío, fatiga, disociación",
+          "effet": {
+            "exiles_bonus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "d3",
+      "question": "Justo ANTES de la conducta, la emoción que sube es más bien…",
+      "indice": "La emoción que precede es la clave del Exiliado (las 3 preguntas de descifrado).",
+      "options": [
+        {
+          "label": "Vergüenza — «no valgo, soy ridículo»",
+          "effet": {
+            "exile_bonus": "humilie"
+          }
+        },
+        {
+          "label": "Vacío — «no existo»",
+          "effet": {
+            "exile_bonus": "invisible"
+          }
+        },
+        {
+          "label": "El miedo a ser dejado, la carencia",
+          "effet": {
+            "exile_bonus": "abandonne"
+          }
+        },
+        {
+          "label": "Miedo a secas — el mundo no es seguro",
+          "effet": {
+            "exile_bonus": "terrifie"
+          }
+        },
+        {
+          "label": "Culpa — «todo es mi culpa»",
+          "effet": {
+            "exile_bonus": "coupable"
+          }
+        },
+        {
+          "label": "De la sobrecarga, del deber — «debo salvar, no tengo derecho a ser niño»",
+          "effet": {
+            "exile_bonus": "parentifie"
+          }
+        }
+      ]
+    }
+  ]
+}

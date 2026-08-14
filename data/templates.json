@@ -1,0 +1,393 @@
+{
+  "signature_narrative": {
+    "ouverture": [
+      "Ton système s'est organisé autour de la protection de {exile_1:nom} — « {exile_1:croyance} ».",
+      "Ce n'est pas une faiblesse : c'est la solution qu'un enfant a trouvée, un jour, pour survivre à une situation impossible. {accord:Il:Elle} ne savait pas que le monde changerait."
+    ],
+    "managers": [
+      "Au quotidien, c'est {manager_1:nom} qui mène : {manager_1:strategie}.",
+      "{manager_2:nom} {accord:le seconde:la seconde} : {manager_2:strategie}."
+    ],
+    "pompiers": "Quand la stratégie craque, {pompier_1:nom} prend le relais : {pompier_1:comportement_crise}.",
+    "cloture": "Puis la honte ou l'épuisement revient — et ravive {exile_1:nom}. Le cycle recommence, jusqu'à ce que quelqu'un le voie. Aujourd'hui, tu le vois.",
+    "exiles_tous": "Au centre de ton système : {exiles_tous}. Chaque blessure a trouvé ses défenses — et toutes se relaient pour te protéger."
+  },
+  "cycle_stations": [
+    {
+      "id": "declencheur",
+      "label": "Déclencheur",
+      "icone": "bolt",
+      "gabarit": "{declencheurs_top}",
+      "note": "Ce qui met le feu — le plus souvent le premier déclencheur : celui qui ravive la blessure."
+    },
+    {
+      "id": "exile",
+      "label": "Exilé touché",
+      "icone": "spark",
+      "gabarit": "{exile_1:nom} se réveille : « {exile_1:croyance} »",
+      "note": "La blessure qui pousse — le moteur de tout le système."
+    },
+    {
+      "id": "manager",
+      "label": "Le Manager mène",
+      "icone": "shield",
+      "gabarit": "{manager_1:nom} prend les commandes : {manager_1:strategie}",
+      "note": "La stratégie quotidienne pour que la blessure ne se voie pas."
+    },
+    {
+      "id": "echec",
+      "label": "La stratégie craque",
+      "icone": "crack",
+      "gabarit": "Le coût devient trop lourd : {couts_top}",
+      "note": "Toute stratégie de survie a un coût. C'est lui qui finit par tout faire basculer."
+    },
+    {
+      "id": "pompier",
+      "label": "Le Pompier éteint",
+      "icone": "flame",
+      "gabarit": "{pompier_1:nom} éteint le feu : {pompier_1:comportement_crise}",
+      "note": "La réaction de crise — coûteuse, mais elle sauve de l'intolérable."
+    },
+    {
+      "id": "honte",
+      "label": "Honte → retour",
+      "icone": "loop",
+      "gabarit": "Vient la honte (« encore »), qui ravive {exile_1:nom}. Le cycle repart.",
+      "note": "Le cycle se referme. Chaque station est un point de rupture possible."
+    }
+  ],
+  "pierres_de_touche": {
+    "invisible": {
+      "texte": "Tu n'as jamais eu à prouver que tu existes. Tu existais avant le premier don, avant le premier service, avant la première preuve — et tu existes encore quand tu n'apportes rien. Tout ce que tu donnes pour être vu·e n'a jamais été une façon de devenir quelqu'un : c'était la seule façon que tu connaissais de ne pas disparaître. Tu ne disparais pas. Tu n'as jamais disparu. Tu étais là, même quand personne ne regardait.",
+      "pourquoi": [
+        "Elle parle au besoin (être vu·e pour ce qu'on est) et jamais à la défense (le don, la performance)",
+        "Elle annule la condition apprise — « j'existe si j'apporte » — sans rien demander en échange",
+        "Elle honore le rythme : aucune action n'est exigée dans l'instant, juste une constatation"
+      ]
+    },
+    "humilie": {
+      "texte": "La voix qui te dit que tu es nul·le n'est pas ta voix. C'est celle d'un jour où quelqu'un a eu tort de te faire honte — et où tu as cru, parce que tu étais petit·e, que la honte était la vérité sur toi. Tu n'es pas ce qui t'a été dit. Tu es ce que tu as survécu. Et la preuve que tu vaux, elle est déjà là : tu es encore debout, à chercher comment aller mieux. Ça, personne ne peut te l'enlever.",
+      "pourquoi": [
+        "Elle distingue la honte reçue de l'identité réelle — la défusion sans jargon",
+        "Elle ne demande aucune performance : la valeur est déjà posée, constatée",
+        "Elle honore le rythme : pas d'injonction à « s'aimer », juste une vérité adressée à l'enfant"
+      ]
+    },
+    "abandonne": {
+      "texte": "Tu n'es pas parti·e avant d'être quitté·e par faiblesse : tu es parti·e parce qu'un jour, partir a été ta seule façon de tenir. Mais regarde : tu es toujours là. Tu as survécu à chaque départ, y compris ceux que tu as provoqués. La preuve que tu peux être quitté·e et rester entier·e, tu la donnes chaque jour — simplement en étant encore ici. Tu n'as pas besoin de fuir pour survivre. Tu es déjà du côté de ceux qui restent.",
+      "pourquoi": [
+        "Elle nomme la stratégie (fuir avant d'être quitté) sans la condamner — elle la date",
+        "Elle retourne la preuve : la survie aux départs prouve la capacité à rester",
+        "Elle parle à l'Enfant Abandonné directement, pas au Fuyard qui le protège"
+      ]
+    },
+    "terrifie": {
+      "texte": "Ton corps a appris, un jour, que le monde n'était pas sûr — et il n'a pas eu tort. Il a fait exactement ce qu'il devait pour te garder en vie. Mais la guerre est finie. Tu n'es plus l'enfant qui devait se cacher pour exister. Tu peux le dire à ton corps, doucement, sans le forcer : « nous ne sommes plus en danger de mort ». Il ne te croira pas du premier coup. Ce n'est pas grave. Il apprendra, pas à pas, à ta vitesse — pas à la vitesse du monde.",
+      "pourquoi": [
+        "Elle valide la neuroception (le corps n'a pas eu tort) — sans quoi rien ne se relâche",
+        "Elle ne force aucun « lâcher-prise » : la sécurité se négocie, à la vitesse du corps",
+        "Elle honore la hiérarchie Être → Sentir → Agir : la sécurité d'abord, rien d'autre"
+      ]
+    },
+    "coupable": {
+      "texte": "Tu n'étais pas la faute. Tu étais l'enfant — et un enfant n'est jamais coupable des choses trop grandes pour lui. Les poids qu'on t'a mis sur les épaules ne t'appartenaient pas. Tu peux les poser maintenant, un à un, sans juger la part qui les portait : elle a cru qu'en les portant, elle protégeait les autres. Elle a eu raison d'aimer. Elle a eu tort de se charger. Tu n'as pas à expier. Tu as à exister — et c'est déjà permis.",
+      "pourquoi": [
+        "Elle dissocie la charge (le fardeau) de l'identité (la faute) — sans nier la part qui porte",
+        "Elle réhabilite l'intention de l'Enfant Coupable (protéger) avant de déposer le poids",
+        "Elle ouvre la permission d'exister sans expier, en une phrase, sans rituel imposé"
+      ]
+    },
+    "parentifie": {
+      "texte": "Tu n'as jamais eu à sauver personne. Pas alors, pas maintenant. Le rôle qu'on t'a donné — tenir, réparer, porter — n'était pas ta taille. Tu étais un·e enfant à qui on a demandé d'être un adulte, et tu as fait de ton mieux, parce que tu aimais. Cet amour-là, il n'a jamais été une dette. Aujourd'hui, tu peux rendre le rôle : tu n'as plus à sauver — tu as à recevoir. C'est permis, et c'est peut-être la chose la plus difficile que tu feras.",
+      "pourquoi": [
+        "Elle dépose le rôle (« sauver ») sans dévaluer l'amour qui l'a fait tenir",
+        "Elle nomme le besoin manquant (recevoir) comme le vrai chemin — pas comme une faiblesse",
+        "Elle honore la difficulté réelle : recevoir est annoncé comme difficile, donc légitime de le trouver dur"
+      ]
+    },
+    "miroir": {
+      "texte": "Tu n'as pas rencontré un monstre. Tu n'as pas rencontré un ange. Tu as rencontré la partie de toi que tu avais enfermée — et elle est venue frapper à ta porte avec le visage de quelqu'un d'autre. Tout ce qui t'a mis en colère chez elle, c'est toi que tu n'as pas osé être. Tout ce qui t'a fasciné chez lui, c'est toi que tu n'as pas osé sentir. Tu peux la fuir encore — elle reviendra, avec un autre visage, jusqu'à ce que tu la reconnaisses. Ou tu peux la remercier : elle t'a montré qui tu es vraiment.",
+      "pourquoi": [
+        "Elle retire la question de la faute (le piège des systèmes Humilié/Coupable) et la remplace par la question du sens",
+        "Elle nomme l'intensité comme signal, jamais comme erreur — un système Rouge l'entend sans s'accuser",
+        "Elle laisse le libre arbitre entier : fuir (avec la prédiction honnête) ou reconnaître (avec la promesse)"
+      ]
+    }
+  },
+  "decisions_enfance": {
+    "invisible": [
+      "« J'ai décidé que je n'existais que si je servais à quelque chose. »",
+      "« J'ai décidé que mes émotions dérangeaient — donc que je devais disparaître. »",
+      "« J'ai décidé que je n'étais pas intéressant·e : il valait mieux parler des autres. »"
+    ],
+    "humilie": [
+      "« J'ai décidé que j'étais nul·le, et que la seule défense était d'attaquer (ou de disparaître) avant les autres. »",
+      "« J'ai décidé que si j'étais parfait·e, on ne pourrait plus me humilier. »",
+      "« J'ai décidé que la honte était la vérité sur moi. »"
+    ],
+    "abandonne": [
+      "« J'ai décidé que les gens finissent toujours par partir — donc je pars avant. »",
+      "« J'ai décidé que si je ne contrôle pas, on me quitte. »",
+      "« J'ai décidé que je n'étais pas assez pour qu'on reste. »"
+    ],
+    "terrifie": [
+      "« J'ai décidé que le monde n'était pas sûr, et que la vigilance était ma seule protection. »",
+      "« J'ai décidé que se faire remarquer était dangereux. »",
+      "« J'ai décidé que je devais tout prévoir pour survivre. »"
+    ],
+    "coupable": [
+      "« J'ai décidé que tout était ma faute — et que si je me punissais, j'étais peut-être pardonnable. »",
+      "« J'ai décidé que je n'avais pas le droit de réussir ni d'être heureux·se. »",
+      "« J'ai décidé que donner me purifiait de la faute d'exister. »"
+    ],
+    "parentifie": [
+      "« J'ai décidé que je devais sauver les autres pour mériter ma place. »",
+      "« J'ai décidé que je n'avais pas le droit d'être faible ni d'être un·e enfant. »",
+      "« J'ai décidé que l'amour se gagnait en réparant. »"
+    ]
+  },
+  "phases": [
+    {
+      "n": 0,
+      "nom": "Stabilisation",
+      "court": "Le corps d'abord",
+      "objectif": "Sécuriser le système nerveux avant toute exploration. Si un Pompier est en crise (cuite, explosion, crise de scroll), on n'analyse rien : on éteint.",
+      "micro_pas": "3 min de respiration ventrale le matin avant tout écran. Règle des 5 minutes avant tout passage à l'acte compulsif.",
+      "blocage": "Vouloir « comprendre » avant d'avoir sécurisé le corps."
+    },
+    {
+      "n": 1,
+      "nom": "Cartographie",
+      "court": "Nommer le système",
+      "objectif": "Nommer le comportement, son déclencheur, la part qui mène, l'Exilé protégé, le cycle.",
+      "micro_pas": "Journal des comportements sur 10 jours : heure, contexte, émotion avant, pensée exacte, action, émotion après.",
+      "blocage": "Passer à l'action avant d'avoir la carte."
+    },
+    {
+      "n": 2,
+      "nom": "Rencontre des Managers",
+      "court": "Dialoguer, ne jamais contourner",
+      "objectif": "Établir une relation avec les Managers : reconnaître, valider, explorer la peur, tester le relâchement, négocier un nouveau rôle.",
+      "micro_pas": "30 secondes par jour où le Manager accepte de ne rien faire : « merci de me protéger, je gère, tu peux te reposer ».",
+      "blocage": "Contourner le Manager — il se raidit et tout s'arrête."
+    },
+    {
+      "n": 3,
+      "nom": "Travail avec les Pompiers",
+      "court": "À froid uniquement",
+      "objectif": "Réduire la fréquence/intensité des crises, identifier l'Exilé sous le feu, installer une alternative moins coûteuse.",
+      "micro_pas": "Pour chaque Pompier, une alternative concrète : 5 min de respiration avant le scroll, 24 h avant le message de rupture, 2 min de présence au vide avant de remplir.",
+      "blocage": "Dialoguer avec un Pompier en pleine crise — on stabilise d'abord."
+    },
+    {
+      "n": 4,
+      "nom": "Accès à l'Exilé et reparentage",
+      "court": "Avec la permission des protecteurs",
+      "objectif": "Rencontrer la part blessée, témoigner (« ce n'était pas ta faute »), répondre à son besoin, la libérer.",
+      "micro_pas": "10 min par jour de présence à l'Enfant (lettre, dialogue intérieur, visualisation).",
+      "blocage": "Y aller sans permission des protecteurs ni Self accessible."
+    },
+    {
+      "n": 5,
+      "nom": "Nouveaux rôles",
+      "court": "Réorganiser l'équipe",
+      "objectif": "Chaque protecteur reçoit un nouveau rôle aligné sur les valeurs (le Critique devient conseiller, le Sauveur devient contributeur conscient…).",
+      "micro_pas": "Un rituel symbolique : lettre à l'enfant intérieur, objet, place à table.",
+      "blocage": "Attendre la perfection des nouvelles versions."
+    },
+    {
+      "n": 6,
+      "nom": "Action engagée",
+      "court": "Micro-pas vers les valeurs",
+      "objectif": "Traduire la guérison intérieure en actions concrètes, depuis le corps sécurisé, avec tous les passagers à bord.",
+      "micro_pas": "Un micro-pas faisable en moins de 5 min, répétable, observable — puis retour au Ventral : « Je l'ai fait. Je suis là. C'était assez. »",
+      "blocage": "Action sans corps sécurisé — retour du cycle."
+    },
+    {
+      "n": 7,
+      "nom": "Intégration",
+      "court": "Maintenir et transmettre",
+      "objectif": "Stabiliser durablement : routine quotidienne, check-in hebdomadaire, transmission possible si le Self mène.",
+      "micro_pas": "Respiration matin + check-in « qui est là ? » + scan corporel midi + retour Ventral soir. Check-in hebdo : état vagal, part dominante, micro-pas faits.",
+      "blocage": "S'arrêter au premier palier — la maintenance fait partie du chemin."
+    }
+  ],
+  "engagements": {
+    "ouverture": "Je m'appelle {profil:nom}. Aujourd'hui, je reconnais, sans me juger : {patterns_resume}. Ces comportements ne sont pas des fautes — ce sont les solutions qu'un enfant a trouvées pour survivre, et que des protecteurs continuent de rejouer parce que personne n'a dit à l'enfant que le monde a changé. Voici ce que je choisis maintenant, pas à pas, à ma vitesse.",
+    "echelles": [
+      {
+        "id": "corps",
+        "titre": "Échelle 1 — Rester (le corps)",
+        "principe": "Ne pas fuir, ne pas envoyer de message définitif sous le coup de l'émotion, repérer les signaux avant la bascule.",
+        "par_part": {
+          "fuyard": "Je m'engage à ne pas fuir même quand les émotions sont intenses : pas de message définitif sous le coup de l'émotion. Je peux demander une pause annoncée — « j'ai besoin de 48 h » — au lieu d'une disparition.",
+          "declarateur": "Je m'engage à la règle des 24 h : j'écris si je veux, je n'envoie pas avant demain.",
+          "rageur": "Je m'engage à repérer les signaux avant la bascule (chaleur, mâchoire, souffle court) et à sortir de la pièce 10 minutes plutôt que d'exploser.",
+          "ivrogne": "Je m'engage à remplacer un verre par une respiration de 5 minutes ou un appel à UNE personne sûre, deux soirs par semaine.",
+          "scroll": "Je m'engage à la règle des 5 minutes : quand ma main va vers l'écran, je respire d'abord 5 minutes.",
+          "glouton": "Je m'engage à me demander « j'ai faim de quoi ? » avant de remplir — et à nommer le besoin.",
+          "anesthesieur": "Je m'engage à un protocole court (respiration 4-7-8, orienting 60 secondes) à la place de la dose, au moins une fois.",
+          "dorsal": "Je m'engage à une micro-stimulation (bouger, eau froide, changer d'espace) quand je sens l'effondrement arriver.",
+          "hypersexuel": "Je m'engage à sentir la montée du désir 30 secondes sans passage à l'acte, juste la sentir et la nommer.",
+          "terrifie": "Je m'engage à vérifier, quand la peur monte : peur réelle ou peur irréelle ? À nommer la pire chose qui puisse arriver — je suis capable de la gérer."
+        }
+      },
+      {
+        "id": "mots",
+        "titre": "Échelle 2 — Dire (les mots)",
+        "principe": "Nommer l'émotion avant de l'analyser, dire « tu m'as blessé·e » au lieu de disparaître, poser ses limites avant l'épuisement.",
+        "par_part": {
+          "bon_eleve": "Je m'engage à dire UN mécontentement le jour même, à froid, en deux phrases — au lieu d'accumuler.",
+          "muet": "Je m'engage à remplacer un « tout va bien » par une vérité simple : « je suis fatigué·e », « tu m'as blessé·e ».",
+          "intellectualiseur": "Je m'engage à nommer l'émotion AVANT de l'analyser : « je sens de la colère » avant « je comprends pourquoi ».",
+          "critique": "Je m'engage à accueillir une critique intérieure par « merci de protéger » — puis à décider moi-même si elle est juste.",
+          "plainte": "Je m'engage à demander directement une fois par semaine ce dont j'ai besoin, sans passer par la détresse.",
+          "auto_humiliation": "Je m'engage à recevoir un compliment sans le réfuter — juste « merci ».",
+          "invisible": "Je m'engage à sentir au moins une fois par jour ce que je ressens — et à le nommer, même tout bas.",
+          "abandonne": "Je m'engage à nommer mes besoins avant qu'ils ne deviennent des attentes silencieuses, et à demander de l'aide sans me plaindre."
+        }
+      },
+      {
+        "id": "gestes",
+        "titre": "Échelle 3 — Donner/Recevoir (les gestes)",
+        "principe": "Donner depuis le Self (pas depuis le Sauveur), sans public ni preuve ; accepter de recevoir sans devoir rendre.",
+        "par_part": {
+          "sauveur": "Je m'engage à une rencontre où je n'apporte RIEN — ni service, ni argent, ni conseil — et où je reste présent.",
+          "gardien_image": "Je m'engage à laisser échapper une maladresse en société sans m'en excuser dix fois.",
+          "ermite": "Je m'engage à UNE activité réelle hebdomadaire avec un humain, même un café de vingt minutes.",
+          "perfectionniste": "Je m'engage à livrer UNE chose à 80 %, « c'est assez », et à ne pas la retoucher.",
+          "thesauriseur": "Je m'engage à UNE dépense relationnelle par mois (inviter, offrir) sans angoisse.",
+          "procrastinateur": "Je m'engage à commencer 5 minutes — « juste commencer » — sans viser la fin.",
+          "parentifie": "Je m'engage à recevoir sans calculer : laisser l'autre faire, donner moins, accepter l'aide — c'est permis.",
+          "humilie": "Je m'engage à une action de plaisir par jour, sans la justifier : « je me donne le droit de ne pas être capable de tout prendre »."
+        }
+      },
+      {
+        "id": "etre",
+        "titre": "Échelle 4 — Être (l'identité)",
+        "principe": "La valeur ne dépend plus de l'utilité ; reparentage de l'Exilé ; rester quand c'est moche, sans se justifier.",
+        "par_part": {
+          "sauveur": "Je m'engage à 10 minutes par jour de reparentage intérieur : « je suis là, tu n'as plus à sauver personne ».",
+          "victime": "Je m'engage à partager UNE bonne nouvelle ou une réussite sans la minimiser.",
+          "arrogant": "Je m'engage à UNE reconnaissance sincère de la valeur d'un autre, à voix haute.",
+          "saboteur": "Je m'engage à nommer la part qui craint le succès au moment où elle monte — et à ne pas agir.",
+          "clown": "Je m'engage à UNE conversation sérieuse par semaine, sans une seule blague, en disant une vraie émotion.",
+          "fuyard": "Je m'engage à rester présent 2 minutes dans une tension sans fuir, en respirant — et à constater que je survis.",
+          "coupable": "Je m'engage à cesser de m'accuser : je fais de mon mieux avec ce que je sais — je ne suis pas ma faute."
+        }
+      }
+    ],
+    "cloture": "Je me donne la permission de tomber. Et je m'engage à me relever sans disparaître. Quand je me trompe — et je me tromperai — je le reconnais vite : sans m'écraser, sans me justifier. La vitesse de l'aveu est ma boussole de sortie. Cette lettre vit : je la relis, je l'amende, elle n'est pas une ligne rouge — c'est une boussole. \n\nSigné : {profil:nom}, le {date}."
+  },
+  "rapport_sections": {
+    "intro_inventaire": "Ce que tu as coché n'est pas une liste de défauts. Chaque comportement est un indice — la trace visible d'une équipe intérieure qui a appris à survivre. Voici ta carte, pas ton verdict.",
+    "hypothese_enfance": "Hypothèse — à vérifier avec toi, jamais imposée : les systèmes organisés autour de {exile_1:nom} se construisent souvent sur une décision d'enfance du type :",
+    "hypothese_enfance_note": "Reconnais-tu une de ces phrases ? Si oui, note-la. Si aucune ne te touche, laisse tomber : la carte n'est pas la vérité.",
+    "regles_intro": "Les règles strictes des textes fondateurs encadrent tout ce que cette application te dit — et ce qu'elle ne doit jamais faire.",
+    "lecture_partielle": "Ton rapport est une lecture partielle (moins de 3 combinaisons cochées). Il vaut mieux une carte incomplète qu'une carte fausse — reviens la compléter quand tu veux.",
+    "guerir_plutot_changer": "Guérir plutôt que changer : on ne veut pas éliminer ses blessures, on veut les illuminer. La guérison n'enlève pas la blessure — elle enlève sa domination. Et elle ne se fait pas en un jour : le corps se transforme plus lentement que le mental.",
+    "accepter_sans_accord": "Accepter, ce n'est pas être d'accord : c'est constater, reconnaître, observer sans juger — « je me donne le droit d'être ainsi pour le moment »."
+  },
+  "cartes_symptomes": {
+    "invisible": "Un seul système, mille symptômes : le don pour exister, la quête de reconnaissance, l'isolement, le rabaissement, le « à quoi bon » — tout cela protège la même blessure : « je n'existe que par ce que j'apporte ».",
+    "humilie": "Un seul système, mille symptômes : se rabaisser OU se surélever, le perfectionnisme, les explosions, le mépris, la peur du regard, le blocage du désir — tout cela protège la même blessure : « je suis nul·le, risible, indigne ».",
+    "abandonne": "Un seul système, mille symptômes : fuir avant d'être quitté, les « c'est fini » définitifs, la jalousie, les tests, les relations instables, l'anesthésie — tout cela protège la même blessure : « si je m'attache, on me quitte ».",
+    "terrifie": "Un seul système, mille symptômes : l'évitement, l'hypervigilance, la procrastination, l'isolement, le contrôle, la dissociation — tout cela protège la même blessure : « le monde n'est pas sûr ».",
+    "coupable": "Un seul système, mille symptômes : l'auto-sabotage, les punitions, le don pour se purifier, les échecs programmés, le refus du bonheur — tout cela protège la même blessure : « tout est ma faute, je suis mauvais·e ».",
+    "parentifie": "Un seul système, mille symptômes : le sauvetage des autres, la sur-responsabilité, l'incapacité à recevoir, l'épuisement — tout cela protège la même blessure : « je dois sauver, je n'ai pas le droit d'être enfant »."
+  },
+  "ikigai": {
+    "archetypes": {
+      "visionnaire": "Le Visionnaire — voit ce qui n'existe pas encore",
+      "connector": "Le Connector — relie les personnes, les idées, les mondes",
+      "batisseur": "Le Bâtisseur — concrétise, structure, donne forme",
+      "guerisseur": "Le Guérisseur — restaure, apaise, répare la blessure",
+      "passeur": "Le Passeur — transmet, éclaire, rend accessible",
+      "explorateur": "L'Explorateur — défriche, ouvre des voies nouvelles",
+      "gardien": "Le Gardien — protège, préserve, transmet l'essentiel",
+      "alchimiste": "L'Alchimiste — transforme la boue en or, le trauma en sens",
+      "catalyste": "Le Catalyste — accélère, provoque le changement, débloque",
+      "artiste": "L'Artiste — crée de la beauté, du sens, des œuvres"
+    },
+    "exiles": {
+      "invisible": {
+        "archetypes": [
+          "passeur",
+          "guerisseur"
+        ],
+        "phrase": "Tu es la personne qui, forte de l'expérience de ne pas avoir été vue, voit vraiment les autres et leur rend leur existence. Là où beaucoup passent, tu t'arrêtes et tu nommes.",
+        "activites": [
+          "Noter chaque jour une personne que tu as vraiment vue — et le lui dire une fois par semaine",
+          "Écrire 10 minutes sur un sujet que personne ne regarde, et le publier quelque part, même anonyme",
+          "Offrir un compliment précis et non utilitaire à quelqu'un, sans rien attendre en retour"
+        ],
+        "piege": "Le faux ikigai : la quête de reconnaissance à tout prix (audience, likes, prouesses visibles). C'est la stratégie de l'exilé — on cherche à être vu au lieu d'offrir la vue."
+      },
+      "humilie": {
+        "archetypes": [
+          "gardien",
+          "guerisseur"
+        ],
+        "phrase": "Tu es la personne qui, forte d'avoir été rabaissée, redonne aux autres leur dignité inattaquable : tu vois la valeur là où la honte l'avait cachée, et tu l'affirmes sans t'excuser.",
+        "activites": [
+          "Défendre visiblement quelqu'un qui est rabaissé, une fois cette semaine",
+          "Tenir un journal de tes fiertés légitimes : 3 par jour, sans les minimiser",
+          "Dire un « non » clair sans t'excuser, une fois par jour"
+        ],
+        "piege": "Le faux ikigai : la compétition permanente, prouver sa valeur en rabaissant ou en écrasant. C'est la stratégie — la dignité ne se prouve pas, elle s'incarne."
+      },
+      "abandonne": {
+        "archetypes": [
+          "gardien",
+          "connector"
+        ],
+        "phrase": "Tu es la personne qui, forte d'avoir été quittée, reste. Tu crées les présences qui durent, les engagements déclarés, les portes qui ne claquent pas.",
+        "activites": [
+          "Tenir une promesse faite à toi-même pendant 7 jours — même minuscule",
+          "Envoyer un message à quelqu'un d'important : « je suis là », sans attendre de réponse",
+          "Fixer un rituel hebdomadaire avec une personne sûre, même 20 minutes"
+        ],
+        "piege": "Le faux ikigai : sauver des relations ou des personnes instables pour prouver qu'on reste. La présence s'offre, elle ne se mendie pas."
+      },
+      "terrifie": {
+        "archetypes": [
+          "guerisseur",
+          "explorateur"
+        ],
+        "phrase": "Tu es la personne qui, forte d'avoir eu peur, sait exactement ce qui rend un lieu sûr. Tu deviens le calme qui ne fuit pas, la sécurité incarnée pour ceux qui tremblent.",
+        "activites": [
+          "Créer un petit espace physique « sûr » (lumière, texture, odeur) et l'habiter 5 minutes par jour",
+          "Apprendre à quelqu'un une technique d'apaisement — la respiration 4-7-8",
+          "Faire une micro-exposition : 2 minutes d'une chose qui fait peur, sans plus"
+        ],
+        "piege": "Le faux ikigai : contrôler l'environnement pour se sentir en sécurité (routines rigides, évitement). La sécurité s'incarne, elle ne se verrouille pas."
+      },
+      "coupable": {
+        "archetypes": [
+          "alchimiste",
+          "passeur"
+        ],
+        "phrase": "Tu es la personne qui, forte d'avoir tout porté, nomme la faute sans condamner. Tu offres l'innocence accordée : la réparation sans la punition.",
+        "activites": [
+          "Nommer une faute réelle, la réparer concrètement, puis la déposer — en 3 étapes écrites",
+          "Dire « ce n'était pas ta faute » à quelqu'un qui se sent coupable",
+          "Prendre une heure « innocente » par semaine : jouer, sans produire, sans mériter"
+        ],
+        "piege": "Le faux ikigai : la rédemption par le sur-don, se racheter en se dévouant. L'innocence ne s'achète pas — elle s'accorde."
+      },
+      "parentifie": {
+        "archetypes": [
+          "guerisseur",
+          "batisseur"
+        ],
+        "phrase": "Tu es la personne qui, forte d'avoir dû sauver, apprend à recevoir et l'enseigne. Tu crées les espaces où l'on peut être faible sans danger, porté sans calcul.",
+        "activites": [
+          "Refuser une aide pendant 24 heures et laisser quelqu'un faire à ta place",
+          "Demander de l'aide pour quelque chose de petit, sans le maquiller en service rendu",
+          "Noter ce qui te fait plaisir, sans le transformer en tâche"
+        ],
+        "piege": "Le faux ikigai : le sauvetage permanent (toujours sauver, réparer, porter). C'est le rôle d'enfant qui continue — la mission vraie est d'enseigner à recevoir."
+      }
+    }
+  }
+}

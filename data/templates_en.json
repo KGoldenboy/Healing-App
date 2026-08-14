@@ -1,0 +1,393 @@
+{
+  "signature_narrative": {
+    "ouverture": [
+      "Your system is organized around the protection of {exile_1:nom} — “{exile_1:croyance}”.",
+      "It's not a weakness: it's the solution that a child found, one day, to survive an impossible situation. {accord:He:She} did not know that the world would change."
+    ],
+    "managers": [
+      "On a daily basis, it is {manager_1:nom} who leads: {manager_1:strategie}.",
+      "{manager_2:nom} {accord:seconds him:seconds her}: {manager_2:strategie}."
+    ],
+    "pompiers": "When the strategy fails, {pompier_1:nom} takes over: {pompier_1:comportement_crise}.",
+    "cloture": "Then shame or exhaustion returns — and revives {exile_1:nom}. The cycle starts again, until someone sees it. Today you see it.",
+    "exiles_tous": "At the center of your system: {exiles_tous}. Every wound has found its defenses — and they all take turns to protect you."
+  },
+  "cycle_stations": [
+    {
+      "id": "declencheur",
+      "label": "Trigger",
+      "icone": "bolt",
+      "gabarit": "{declencheurs_top}",
+      "note": "What sets the fire — most often the first trigger: the one that reopens the wound."
+    },
+    {
+      "id": "exile",
+      "label": "Exile affected",
+      "icone": "spark",
+      "gabarit": "{exile_1:nom} wakes up: “{exile_1:croyance}”",
+      "note": "The growing wound — the engine of the entire system."
+    },
+    {
+      "id": "manager",
+      "label": "The Manager leads",
+      "icone": "shield",
+      "gabarit": "{manager_1:nom} takes control: {manager_1:strategie}",
+      "note": "The daily strategy so that the injury is not visible."
+    },
+    {
+      "id": "echec",
+      "label": "The strategy is failing",
+      "icone": "crack",
+      "gabarit": "The cost becomes too heavy: {couts_top}",
+      "note": "Every survival strategy has a cost. He is the one who ends up changing everything."
+    },
+    {
+      "id": "pompier",
+      "label": "The Fireman extinguished",
+      "icone": "flame",
+      "gabarit": "{pompier_1:nom} puts out the fire: {pompier_1:comportement_crise}",
+      "note": "Crisis response — costly, but it saves from the intolerable."
+    },
+    {
+      "id": "honte",
+      "label": "Shame → return",
+      "icone": "loop",
+      "gabarit": "Comes shame (“again”), which revives {exile_1:nom}. The cycle starts again.",
+      "note": "The cycle closes. Each station is a possible breaking point."
+    }
+  ],
+  "pierres_de_touche": {
+    "invisible": {
+      "texte": "You never had to prove that you exist. You existed before the first gift, before the first favor, before the first proof — and you still exist when you bring nothing. Everything you gave to be seen was never a way to become someone: it was the only way you knew not to disappear. You are not disappearing. You never disappeared. You were there, even when no one was looking.",
+      "pourquoi": [
+        "She speaks when necessary (being seen for what we are) and never in defense (gift, performance)",
+        "It cancels the learned condition — “I exist if I contribute” — without asking for anything in exchange",
+        "It honors the rhythm: no action is required in the moment, just an observation"
+      ]
+    },
+    "humilie": {
+      "texte": "The voice that tells you that you are worthless is not your voice. It is the voice of a day when someone was wrong to shame you — and you believed, because you were small, that shame was the truth about you. You are not what you were told. You are what you survived. And the proof of your worth is already here: you are still standing, still looking for a way to feel better. No one can take that from you.",
+      "pourquoi": [
+        "She distinguishes received shame from real identity — defusion without jargon",
+        "It does not require any performance: the value is already established, observed",
+        "It honors the rhythm: no injunction to “love yourself”, just a truth addressed to the child"
+      ]
+    },
+    "abandonne": {
+      "texte": "You did not leave before being left out of weakness: you left because one day, leaving was your only way to hold on. But look: you are still here. You have survived every departure, including the ones you provoked. The proof that you can be left and remain whole, you give it every day — simply by still being here. You do not need to flee to survive. You are already on the side of those who stay.",
+      "pourquoi": [
+        "She names the strategy (flee before being left) without condemning it – she dates it",
+        "She turns the proof over: surviving departures proves the ability to stay",
+        "She speaks to the Abandoned Child directly, not to the Runaway who protects him"
+      ]
+    },
+    "terrifie": {
+      "texte": "Your body learned, one day, that the world was not safe — and it was not wrong. It did exactly what it had to do to keep you alive. But the war is over. You are no longer the child who had to hide in order to exist. You can tell your body, gently, without forcing: “we are no longer in mortal danger.” It will not believe you the first time. That is all right. It will learn, step by step, at your pace — not at the world's pace.",
+      "pourquoi": [
+        "It validates neuroception (the body was not wrong) — without which nothing relaxes",
+        "It does not force any “letting go”: security is negotiated, at the speed of the body",
+        "It honors the hierarchy of Being → Feeling → Acting: safety first, nothing else"
+      ]
+    },
+    "coupable": {
+      "texte": "You were not the fault. You were the child — and a child is never guilty of things too big for them. The weights placed on your shoulders were never yours. You can put them down now, one by one, without judging the part that carried them: it believed that by carrying them, it was protecting others. It was right to love. It was wrong to load itself. You do not have to atone. You have to exist — and that is already allowed.",
+      "pourquoi": [
+        "It dissociates the charge (the burden) from the identity (the fault) - without denying the part which bears",
+        "It rehabilitates the intention of the Guilty Child (to protect) before dropping the weight",
+        "It opens the permission to exist without expiating, in one sentence, without imposed ritual"
+      ]
+    },
+    "parentifie": {
+      "texte": "You never had to save anyone. Not then, not now. The role you were given — holding, repairing, carrying — was not your size. You were a child who was asked to be an adult, and you did your best, because you loved. That love was never a debt. Today, you can hand the role back: you no longer have to save — you have to receive. It is allowed, and it may be the hardest thing you will ever do.",
+      "pourquoi": [
+        "She puts down the role (“save”) without devaluing the love that kept her going",
+        "She names the missing need (receiving) as the true path — not a weakness",
+        "It honors the real difficulty: receiving is announced as difficult, therefore legitimate to find it hard"
+      ]
+    },
+    "miroir": {
+      "texte": "You did not meet a monster. You did not meet an angel. You met the part of yourself you had locked away — and it came knocking at your door wearing someone else's face. Everything that made you angry in her is you that you did not dare to be. Everything that fascinated you in him is you that you did not dare to feel. You can flee it again — it will come back, with another face, until you recognize it. Or you can thank it: it showed you who you really are.",
+      "pourquoi": [
+        "It removes the question of fault (the trap of Humiliated/Guilty systems) and replaces it with the question of meaning",
+        "It names intensity as a signal, never as an error — a Red system hears it without accusing itself",
+        "It leaves complete free will: to flee (with the honest prediction) or to recognize (with the promise)"
+      ]
+    }
+  },
+  "decisions_enfance": {
+    "invisible": [
+      "“I decided that I only existed if I served a purpose. ”",
+      "“I decided that my emotions were disturbing — so I had to disappear. ”",
+      "“I decided that I wasn't interesting: it was better to talk about others. ”"
+    ],
+    "humilie": [
+      "“I decided that I was worthless, and that the only defense was to attack (or disappear) before the others. ”",
+      "“I decided that if I was perfect, I could no longer be humiliated. ”",
+      "“I decided that shame was the truth about me. ”"
+    ],
+    "abandonne": [
+      "“I decided that people always leave eventually — so I leave first. ”",
+      "“I decided that if I'm not in control, I'll be left. ”",
+      "\"I decided I wasn't enough for us to stay.\" ”"
+    ],
+    "terrifie": [
+      "“I decided that the world was not safe, and that vigilance was my only protection. ”",
+      "“I decided that standing out was dangerous. ”",
+      "“I decided I had to plan everything to survive. ”"
+    ],
+    "coupable": [
+      "“I decided that it was all my fault — and that if I punished myself, maybe I was forgivable. ”",
+      "“I decided that I didn’t have the right to succeed or be happy. ”",
+      "“I decided that giving cleansed me of the sin of existing. ”"
+    ],
+    "parentifie": [
+      "“I decided I had to save others to earn my place. ”",
+      "“I decided that I had no right to be weak or to be a child. ”",
+      "“I decided that love is won by repairing. ”"
+    ]
+  },
+  "phases": [
+    {
+      "n": 0,
+      "nom": "Stabilization",
+      "court": "The body first",
+      "objectif": "Secure the nervous system before any exploration. If a Firefighter is in crisis (cooking, explosion, scroll crisis), we don't analyze anything: we extinguish it.",
+      "micro_pas": "3 minutes of ventral breathing in the morning before any screen. Rule of 5 minutes before any compulsive action.",
+      "blocage": "Wanting to “understand” before having secured the body."
+    },
+    {
+      "n": 1,
+      "nom": "Mapping",
+      "court": "Name the system",
+      "objectif": "Name the behavior, its trigger, the part that leads, the Protected Exile, the cycle.",
+      "micro_pas": "Behavior log over 10 days: time, context, emotion before, exact thought, action, emotion after.",
+      "blocage": "Take action before you have the card."
+    },
+    {
+      "n": 2,
+      "nom": "Meeting of Managers",
+      "court": "Dialogue, never bypass",
+      "objectif": "Establish a relationship with Managers: recognize, validate, explore fear, test relaxation, negotiate a new role.",
+      "micro_pas": "30 seconds per day where the Manager agrees to do nothing: “thank you for protecting me, I’ll manage, you can rest”.",
+      "blocage": "Bypass the Manager — he stiffens and everything stops."
+    },
+    {
+      "n": 3,
+      "nom": "Working with the Firefighters",
+      "court": "Cold only",
+      "objectif": "Reduce the frequency/intensity of crises, identify the Exile under fire, install a less costly alternative.",
+      "micro_pas": "For each Firefighter, a concrete alternative: 5 minutes of breathing before the scroll, 24 hours before the break message, 2 minutes of presence in the vacuum before filling.",
+      "blocage": "Dialogue with a Firefighter in the middle of a crisis - we stabilize first."
+    },
+    {
+      "n": 4,
+      "nom": "Access to the Exile and reparenting",
+      "court": "Courtesy of Protectors",
+      "objectif": "Meet the injured part, bear witness (“it wasn’t your fault”), respond to its needs, free it.",
+      "micro_pas": "10 minutes per day of presence with the Child (letter, inner dialogue, visualization).",
+      "blocage": "Go there without permission from protectors or accessible Self."
+    },
+    {
+      "n": 5,
+      "nom": "New roles",
+      "court": "Reorganize the team",
+      "objectif": "Each protector receives a new role aligned with the values ​​(the Critic becomes an advisor, the Savior becomes a conscious contributor, etc.).",
+      "micro_pas": "A symbolic ritual: letter to the inner child, object, place at the table.",
+      "blocage": "Expect perfection from new versions."
+    },
+    {
+      "n": 6,
+      "nom": "Action taken",
+      "court": "Micro-steps towards values",
+      "objectif": "Translating inner healing into concrete actions, from the secure body, with all passengers on board.",
+      "micro_pas": "A micro-step that can be done in less than 5 minutes, repeatable, observable — then return to the Ventral: “I did it. I am here. It was enough. ”",
+      "blocage": "Action without secure body — return of the cycle."
+    },
+    {
+      "n": 7,
+      "nom": "Integration",
+      "court": "Maintain and transmit",
+      "objectif": "Stabilize sustainably: daily routine, weekly check-in, transmission possible if the Self leads.",
+      "micro_pas": "Morning breathing + check-in “who’s there?” ” + midday body scan + evening ventral return. Weekly check-in: vagal state, dominant part, micro-steps taken.",
+      "blocage": "Stop at the first landing — maintenance is part of the journey."
+    }
+  ],
+  "engagements": {
+    "ouverture": "My name is {profil:nom}. Today, I recognize, without judging myself: {patterns_resume}. These behaviors are not mistakes — they are solutions that a child has found to survive, and that protectors continue to replay because no one told the child that the world has changed. Here is what I choose now, step by step, at my speed.",
+    "echelles": [
+      {
+        "id": "corps",
+        "titre": "Scale 1 — Stay (the body)",
+        "principe": "Do not run away, do not send a definitive message under the influence of emotion, spot the signals before the shift.",
+        "par_part": {
+          "fuyard": "I commit to not running away even when emotions are intense: there is no definitive message under the influence of emotion. I can request an announced break — “I need 48 hours” — instead of a disappearance.",
+          "declarateur": "I commit to the 24-hour rule: I write if I want, I don't send until tomorrow.",
+          "rageur": "I commit to spotting the signals before the switch (heat, jaw, shortness of breath) and to leave the room for 10 minutes rather than exploding.",
+          "ivrogne": "I commit to replacing a drink with 5 minutes of breathing or a call to ONE safe person, two evenings a week.",
+          "scroll": "I commit to the 5 minute rule: when my hand goes to the screen, I first breathe for 5 minutes.",
+          "glouton": "I commit to asking myself “what am I hungry for?” ” before filling out — and naming the need.",
+          "anesthesieur": "I commit to a short protocol (breathing 4-7-8, orienting 60 seconds) in place of the dose, at least once.",
+          "dorsal": "I engage in micro-stimulation (moving, cold water, changing space) when I feel the collapse coming on.",
+          "hypersexuel": "I commit to feeling the rise of desire for 30 seconds without taking action, just feeling it and naming it.",
+          "terrifie": "I commit to checking, when fear rises: real fear or unreal fear? To naming the worst thing that could happen — I'm capable of handling it."
+        }
+      },
+      {
+        "id": "mots",
+        "titre": "Scale 2 — Say (the words)",
+        "principe": "Name the emotion before analyzing it, say “you hurt me” instead of disappearing, set your limits before exhaustion.",
+        "par_part": {
+          "bon_eleve": "I commit to expressing ONE dissatisfaction the same day, cold, in two sentences — instead of accumulating.",
+          "muet": "I commit to replacing “everything is fine” with a simple truth: “I am tired”, “you hurt me”.",
+          "intellectualiseur": "I commit to naming the emotion BEFORE analyzing it: “I feel angry” before “I understand why”.",
+          "critique": "I commit to welcoming an inner critic with “please protect” — and then deciding for myself whether it is fair.",
+          "plainte": "I commit to asking directly once a week for what I need, without feeling distressed.",
+          "auto_humiliation": "I am committed to receiving a compliment without refuting it — just “thank you.”",
+          "invisible": "I commit to feeling, at least once a day, what I feel — and to naming it, even in a whisper.",
+          "abandonne": "I commit to naming my needs before they become silent expectations, and to asking for help without complaining."
+        }
+      },
+      {
+        "id": "gestes",
+        "titre": "Scale 3 — Giving/Receiving (gestures)",
+        "principe": "Giving from the Self (not from the Savior), without audience or proof; agree to receive without having to give back.",
+        "par_part": {
+          "sauveur": "I commit to a meeting where I bring NOTHING — neither service, nor money, nor advice — and where I remain present.",
+          "gardien_image": "I agree to let slip a social awkwardness without apologizing ten times.",
+          "ermite": "I commit to ONE weekly real activity with a human, even a twenty minute coffee.",
+          "perfectionniste": "I commit to delivering ONE thing at 80%, “that’s enough”, and not retouching it.",
+          "thesauriseur": "I commit to ONE relational expense per month (invite, offer) without anxiety.",
+          "procrastinateur": "I commit to starting 5 minutes — “just starting” — without aiming for the end.",
+          "humilie": "I commit to one pleasure action per day, without justifying it: \"I give myself the right not to be able to take everything on\".",
+          "parentifie": "I commit to receiving without keeping score: letting the other do, giving less, accepting help — it's allowed."
+        }
+      },
+      {
+        "id": "etre",
+        "titre": "Scale 4 — Being (identity)",
+        "principe": "Value no longer depends on utility; reparenting of the Exile; stay when it's ugly, without justifying yourself.",
+        "par_part": {
+          "sauveur": "I commit to 10 minutes a day of inner reparenting: “I’m here, you don’t have to save anyone anymore.”",
+          "victime": "I am committed to sharing ONE piece of good news or success without minimizing it.",
+          "arrogant": "I commit to ONE sincere recognition of another’s worth, out loud.",
+          "saboteur": "I commit to naming the part that fears success as it rises — and not taking action.",
+          "clown": "I commit to ONE serious conversation per week, without a single joke, expressing real emotion.",
+          "fuyard": "I commit to remaining present for 2 minutes in tension without fleeing, while breathing — and to notice that I survive.",
+          "coupable": "I commit to stopping blaming myself: I do my best with what I know — I am not my mistake."
+        }
+      }
+    ],
+    "cloture": "I give myself permission to fall. And I commit to getting up again without disappearing. When I make a mistake — and I will — I own it quickly: without crushing myself, without justifying. The speed of the admission is my way out. This letter lives: I reread it, I amend it, it is not a red line — it is a compass. \n\nSigned: {profil:nom}, {date}."
+  },
+  "rapport_sections": {
+    "intro_inventaire": "What you checked off is not a list of faults. Every behavior is a clue — the visible trace of an inner team that has learned to survive. This is your card, not your verdict.",
+    "hypothese_enfance": "Hypothesis — to check with you, never imposed: systems organized around {exile_1:nom} are often built on a childhood decision of the type:",
+    "hypothese_enfance_note": "Do you recognize any of these phrases? If so, write it down. If none resonate with you, let it go: the map is not the truth.",
+    "regles_intro": "The strict rules of the founding texts govern everything this app tells you — and what it should never do.",
+    "lecture_partielle": "Your report is a partial reading (less than 3 combinations checked). An incomplete map is better than a false one — come back and complete it whenever you want.",
+    "guerir_plutot_changer": "Heal rather than change: we don't want to eliminate our wounds, we want to illuminate them. Healing doesn't remove the wound — it removes its domination. And it doesn't happen in a day: the body transforms more slowly than the mind.",
+    "accepter_sans_accord": "Accepting isn't agreeing: it's noticing, recognizing, observing without judging — \"I give myself the right to be this way for now\"."
+  },
+  "cartes_symptomes": {
+    "invisible": "A single system, a thousand symptoms: the gift to exist, the quest for recognition, isolation, belittlement, the “what’s the point” – all this protects the same wound: “I only exist because of what I bring”.",
+    "humilie": "A single system, a thousand symptoms: putting yourself down OR raising yourself up, perfectionism, explosions, contempt, fear of being looked at, blocking of desire — all this protects the same injury: “I am worthless, laughable, unworthy”.",
+    "abandonne": "A single system, a thousand symptoms: running away before being left, the definitive \"it's over\", jealousy, tests, unstable relationships, anesthesia - all this protects the same wound: \"if I get attached, someone leaves me\".",
+    "terrifie": "One system, a thousand symptoms: avoidance, hypervigilance, procrastination, isolation, control, dissociation — all protect the same wound: “the world is not safe.”",
+    "coupable": "One system, a thousand symptoms: self-sabotage, punishments, self-purification, programmed failures, denial of happiness — all of this protects the same wound: “it’s all my fault, I’m bad.”",
+    "parentifie": "A single system, a thousand symptoms: saving others, over-responsibility, inability to receive, exhaustion — all this protects the same wound: “I must save, I have no right to be a child.”"
+  },
+  "ikigai": {
+    "archetypes": {
+      "visionnaire": "The Visionary — sees what does not exist yet",
+      "connector": "The Connector — links people, ideas, worlds",
+      "batisseur": "The Builder — makes things real, structures, gives form",
+      "guerisseur": "The Healer — restores, soothes, repairs the wound",
+      "passeur": "The Ferryman — transmits, illuminates, makes accessible",
+      "explorateur": "The Explorer — clears paths, opens new ways",
+      "gardien": "The Guardian — protects, preserves, passes on what matters",
+      "alchimiste": "The Alchemist — turns mud into gold, trauma into meaning",
+      "catalyste": "The Catalyst — accelerates, triggers change, unblocks",
+      "artiste": "The Artist — creates beauty, meaning, works"
+    },
+    "exiles": {
+      "invisible": {
+        "archetypes": [
+          "passeur",
+          "guerisseur"
+        ],
+        "phrase": "You are the person who, shaped by not having been seen, truly sees others and gives them back their existence. Where many pass by, you stop and you name.",
+        "activites": [
+          "Write down each day one person you truly saw — and tell them once a week",
+          "Write for 10 minutes about something nobody looks at, and publish it somewhere, even anonymously",
+          "Give someone a precise, non-utilitarian compliment, expecting nothing back"
+        ],
+        "piege": "The false ikigai: the quest for recognition at all costs (audience, likes, visible feats). It is the Exile's strategy — you seek to be seen instead of offering sight."
+      },
+      "humilie": {
+        "archetypes": [
+          "gardien",
+          "guerisseur"
+        ],
+        "phrase": "You are the person who, shaped by having been put down, gives others back their unassailable dignity: you see the worth where shame had hidden it, and you state it without apologizing.",
+        "activites": [
+          "Visibly defend someone who is being put down, once this week",
+          "Keep a journal of your legitimate prides: 3 per day, without minimizing them",
+          "Say a clear « no » without apologizing, once a day"
+        ],
+        "piege": "The false ikigai: permanent competition, proving your worth by putting others down or crushing them. It is the strategy — dignity is not proven, it is embodied."
+      },
+      "abandonne": {
+        "archetypes": [
+          "gardien",
+          "connector"
+        ],
+        "phrase": "You are the person who, shaped by having been left, stays. You create presences that last, declared commitments, doors that do not slam.",
+        "activites": [
+          "Keep a promise made to yourself for 7 days — even tiny",
+          "Send a message to someone important: « I am here », without expecting a reply",
+          "Set a weekly ritual with a safe person, even 20 minutes"
+        ],
+        "piege": "The false ikigai: rescuing unstable relationships or people to prove that you stay. Presence is offered, not begged."
+      },
+      "terrifie": {
+        "archetypes": [
+          "guerisseur",
+          "explorateur"
+        ],
+        "phrase": "You are the person who, shaped by fear, knows exactly what makes a place safe. You become the calm that does not flee, safety embodied for those who tremble.",
+        "activites": [
+          "Create a small physical « safe » space (light, texture, scent) and inhabit it 5 minutes a day",
+          "Teach someone a calming technique — 4-7-8 breathing",
+          "Do a micro-exposure: 2 minutes of something frightening, nothing more"
+        ],
+        "piege": "The false ikigai: controlling the environment to feel safe (rigid routines, avoidance). Safety is embodied, not locked down."
+      },
+      "coupable": {
+        "archetypes": [
+          "alchimiste",
+          "passeur"
+        ],
+        "phrase": "You are the person who, shaped by having carried everything, names the fault without condemning. You offer granted innocence: repair without punishment.",
+        "activites": [
+          "Name a real fault, repair it concretely, then set it down — in 3 written steps",
+          "Tell someone who feels guilty: « it was not your fault »",
+          "Take one « innocent » hour a week: play, without producing, without earning"
+        ],
+        "piege": "The false ikigai: redemption through over-giving, buying yourself back by devoting yourself. Innocence is not bought — it is granted."
+      },
+      "parentifie": {
+        "archetypes": [
+          "guerisseur",
+          "batisseur"
+        ],
+        "phrase": "You are the person who, shaped by having had to save, learns to receive and teaches it. You create the spaces where one can be weak without danger, carried without calculation.",
+        "activites": [
+          "Refuse a favour for 24 hours and let someone do it for you",
+          "Ask for help with something small, without disguising it as a service",
+          "Note what gives you pleasure, without turning it into a task"
+        ],
+        "piege": "The false ikigai: permanent rescue (always saving, repairing, carrying). It is the child's role continuing — the true mission is teaching how to receive."
+      }
+    }
+  }
+}

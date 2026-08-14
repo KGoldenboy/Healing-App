@@ -1,0 +1,40 @@
+{
+  "exiles": {
+    "humilie": [
+      "humilié", "honteux", "ridicule", "indigne", "sali", "dégoûté", "petit", "jugé",
+      "dévalorisé", "exposé", "souillé", "nul", "moins que rien", "en faute", "coupable d'exister",
+      "moqué", "rabaissé", "visible", "diminué", "sale", "cochon", "indésirable", "dérangeant", "laid"
+    ],
+    "invisible": [
+      "vide", "inexistant", "transparent", "déconnecté", "absent", "oublié", "invisible",
+      "sans valeur", "de trop", "étranger", "à côté", "fantôme", "dissocié", "engourdi",
+      "sans importance", "ignoré", "pas vu", "sourd", "muet", "éteint", "perdu", "flottant",
+      "irréel", "coupé du monde", "noyé"
+    ],
+    "abandonne": [
+      "abandonné", "quitté", "seul", "manqué", "délaissé", "laissé pour compte", "orphelin",
+      "insécurisé", "en manque", "sans soutien", "déçu", "triste", "nostalgique", "éperdu",
+      "sans ancre", "suspendu", "oublié par l'autre", "abandonné à moi-même", "vide de l'autre",
+      "en attente", "fragile", "sans repère", "perdu sans l'autre", "dépendant", "pantelant"
+    ],
+    "terrifie": [
+      "terrifié", "paniqué", "en danger", "mort de peur", "sur le qui-vive", "menacé", "piégé",
+      "sans issue", "anéanti", "hors de contrôle", "en alerte", "saisi", "paralysé", "angoissé",
+      "en apnée", "serré", "gelé", "en sursis", "traqué", "au bord du gouffre", "submergé",
+      "craintif", "insécurisé", "débordé par la peur", "en état d'urgence"
+    ],
+    "coupable": [
+      "coupable", "fautif", "mauvais", "défaillant", "négligent", "indigne", "en tort",
+      "raturé", "honteux de soi", "regrettant", "repentant", "chargé", "responsable de tout",
+      "impardonnable", "en dette", "redevable", "coupable d'avoir déçu", "en faute",
+      "coupable d'exister", "raté", "insuffisant", "fautif d'avoir failli", "condamné", "lourd", "souillé par la faute"
+    ],
+    "parentifie": [
+      "débordé", "responsable", "obligé", "sacrifié", "surchargé", "seul à bord", "indispensable",
+      "épuisé", "adultifié", "tendu", "sans droit à l'erreur", "forcé", "coupable de se reposer",
+      "en devoir", "porteur de tout", "trop tôt grand", "gardien", "devoir de sauver",
+      "sans enfance", "sur les épaules", "chargé des autres", "en première ligne", "seul responsable",
+      "coupable de lâcher", "debout malgré tout"
+    ]
+  }
+}
